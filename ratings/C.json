@@ -1,0 +1,701 @@
+{
+   "Cake": {
+      "Fashion Nugget": {
+         "Frank Sinatra": "good",
+         "The Distance": {},
+         "Friend Is a Four Letter Word": {},
+         "Open Book": {},
+         "Daria": {},
+         "Race Car Ya-Yas": "short",
+         "I Will Survive": {},
+         "Stickshifts and Safetybelts": "short",
+         "Perhaps, Perhaps, Perhaps": "short",
+         "It’s Coming Down": {},
+         "Nugget": {},
+         "She’ll Come Back to Me": "short",
+         "Italian Leather Sofa": {},
+         "Sad Songs and Waltzes": {},
+         "=": {
+            "$date": 1996,
+            "$list": "white"
+         }
+      }
+   },
+   "Can": {
+      "Ege Bamyasi": {
+         "Pinch": {},
+         "Sing Swan Song": {},
+         "One More Night": {},
+         "Vitamin C": {
+            "rate": "good",
+            "link": "https://youtu.be/9a1NhRbNJ_Y",
+            "trend": "183,424"
+         },
+         "Soup": {},
+         "I’m So Green": {},
+         "Spoon": {},
+         "=": {
+            "$date": 1972,
+            "$list": "white"
+         }
+      }
+   },
+   "Cassie": {
+      "Cassie": {
+         "Long Way 2 Go": {},
+         "Me & U": {},
+         "=": {
+            "$date": 2006,
+            "$list": "black"
+         }
+      },
+      "=": {
+         "Me & U": {
+            "trend": "13,636,105",
+            "link": "https://youtu.be/zVJ5gsLeCSM"
+         }
+      }
+   },
+   "Chet Faker": {
+      "Built on Glass": {
+         "1998": {},
+         "Gold": {},
+         "=": {
+            "$date": 2014
+         }
+      },
+      "=": {
+         "Gold": {
+            "trend": "40,403,436",
+            "link": "https://youtu.be/hi4pzKvuEQM"
+         }
+      }
+   },
+   "Chicago": {
+      "Chicago 17": {
+         "You’re The Inspiration": {},
+         "=": {
+            "$date": 1984,
+            "$list": "black"
+         }
+      },
+      "Chicago 16": {
+         "$date": 1982
+      },
+      "Chicago XIV": {
+         "$date": 1980
+      },
+      "Chicago 13": {
+         "$date": 1979
+      },
+      "Hot Streets": {
+         "$date": 1978
+      },
+      "Chicago XI": {
+         "$date": 1977
+      },
+      "Chicago X": {
+         "Once or Twice": {},
+         "You Are on My Mind": {},
+         "Skin Tight": {},
+         "If You Leave Me Now": "good",
+         "Together Again": {},
+         "Another Rainy Day in New York City": {},
+         "Mama Mama": {},
+         "Scrapbook": {},
+         "Gently I’ll Wake You": {},
+         "You Get It Up": {},
+         "Hope for Love": {},
+         "=": {
+            "$date": 1976,
+            "$list": "white"
+         }
+      },
+      "Chicago VIII": {
+         "$date": 1975
+      },
+      "Chicago VII": {
+         "$date": 1974
+      },
+      "Chicago VI": {
+         "$date": 1973
+      },
+      "Chicago V": {
+         "A Hit by Varèse": {},
+         "All Is Well": {},
+         "Now That You’ve Gone": {},
+         "Dialogue, Part I": "short",
+         "Dialogue, Part II": {},
+         "While the City Sleeps": {},
+         "Saturday in the Park": "good",
+         "State of the Union": {},
+         "Goodbye": {},
+         "Alma Mater": {},
+         "=": {
+            "$date": 1972,
+            "$list": "white"
+         }
+      },
+      "Chicago III": {
+         "$date": 1971
+      },
+      "Chicago II": {
+         "Movin’ In": {},
+         "The Road": {},
+         "Poem for the People": {},
+         "In the Country": {},
+         "Wake Up Sunshine": "short",
+         "Make Me Smile": {},
+         "So Much to Say, So Much to Give": "short",
+         "Anxiety’s Moment": "short",
+         "West Virginia Fantasies": "short",
+         "Colour My World": {},
+         "To Be Free": "short",
+         "Now More Than Ever": "short",
+         "Fancy Colours": {},
+         "25 or 6 to 4": "good",
+         "Prelude": "short",
+         "A.M. Mourning": "short",
+         "P.M. Mourning": "short",
+         "Memories of Love": {},
+         "It Better End Soon (1st Movement)": "short",
+         "It Better End Soon (2nd Movement)": {},
+         "It Better End Soon (3rd Movement)": {},
+         "It Better End Soon (4th Movement)": "short",
+         "Where Do We Go From Here": "short",
+         "=": {
+            "$date": 1969,
+            "$list": "white"
+         }
+      },
+      "=": {
+         "If You Leave Me Now": {
+            "trend": "1,030,105",
+            "link": "https://youtu.be/j1ykMNtzMT8"
+         },
+         "You’re The Inspiration": {
+            "trend": "7,406,342",
+            "link": "https://youtu.be/wM-XhQeFzW4"
+         }
+      }
+   },
+   "Chicane": {
+      "Behind the Sun": {
+         "Overture": "good",
+         "Low Sun": "good",
+         "No Ordinary Morning": false,
+         "Saltwater (original mix)": "good",
+         "Halcyon": false,
+         "Autumn Tactics": false,
+         "Overlap": false,
+         "Don’t Give Up": false,
+         "Saltwater (The Thrillseekers remix)": "good",
+         "Andromeda": false,
+         "=": {
+            "$date": 2000,
+            "$list": "white"
+         }
+      },
+      "Far From the Maddening Crowds": {
+         "Early": {},
+         "Already There": "short",
+         "Offshore (original mix)": {},
+         "Lost You Somewhere": {},
+         "From Blue to Green": {},
+         "Sunstroke (Disco Citizens remix)": {},
+         "Leaving Town": {},
+         "Red Skies": {},
+         "Sunstroke (original mix)": {},
+         "Offshore ’97": "good",
+         "The Drive Home": {},
+         "=": {
+            "$date": 1997,
+            "$list": "white"
+         }
+      },
+      "=": {
+         "Saltwater (original mix)": {
+            "trend": "2,624,489",
+            "link": "https://youtu.be/ET1-6Bef9xU"
+         }
+      }
+   },
+   "Childish Gambino": {
+      "Awaken, My Love!": {
+         "Me and Your Mama": {},
+         "Redbone": {},
+         "=": {
+            "$date": 2016,
+            "$list": "black"
+         }
+      },
+      "Because the Internet": {
+         "3005": {},
+         "Sweatpants": {},
+         "Telegraph Ave": {},
+         "=": {
+            "$date": 2013,
+            "$list": "black"
+         }
+      },
+      "Camp": {
+         "Outside": false,
+         "Fire Fly": false,
+         "Bonfire": false,
+         "All the Shine": {},
+         "Letter Home": "short",
+         "Heartbeat": {},
+         "Backpackers": {},
+         "L.E.S.": {},
+         "Hold You Down": {},
+         "Kids (Keep Up)": {},
+         "You See Me": {},
+         "Sunrise": {},
+         "That Power": {},
+         "=": {
+            "$date": 2011,
+            "$list": "white"
+         }
+      },
+      "=": {
+         "Redbone": {
+            "trend": "130,783,298",
+            "link": "https://youtu.be/Kp7eSUU9oy8"
+         },
+         "Sober": {
+            "trend": "2,720,472",
+            "link": "https://youtu.be/ayLiAVJ6vTM"
+         },
+         "Sweatpants": {
+            "trend": "25,128,289",
+            "link": "https://youtu.be/ExVtrghW5Y4"
+         }
+      }
+   },
+   "Chris Isaak": {
+      "Heart Shaped World": {
+         "Wicked Game": {},
+         "=": {
+            "$date": 1989,
+            "$list": "black"
+         }
+      },
+      "Chris Isaak": {
+         "You Owe Me Some Kind of Love": "good",
+         "Heart Full of Soul": {},
+         "Blue Hotel": {},
+         "Lie to Me": {},
+         "Fade Away": {},
+         "Wild Love": "short",
+         "This Love Will Last": "short",
+         "You Took My Heart": "short",
+         "Cryin’": "short",
+         "Lovers Game": "short",
+         "Waiting for the Rain to Fall": {},
+         "=": {
+            "$date": 1986,
+            "$list": "white"
+         }
+      },
+      "=": {
+         "Can’t Help Falling in Love": {
+            "trend": "5,134,048",
+            "link": "https://youtu.be/UJ8RBj_P0KQ"
+         },
+         "Wicked Game": {
+            "trend": "9,828,608",
+            "link": "https://youtu.be/ib6VAJbEBjg"
+         }
+      }
+   },
+   "Ciara": {
+      "Basic Instinct": {
+         "Ride": {},
+         "=": {
+            "$date": 2010,
+            "$list": "black"
+         }
+      },
+      "=": {
+         "Ride": {
+            "trend": "19,725,835",
+            "link": "https://youtu.be/wl2NCXzg1FQ"
+         }
+      }
+   },
+   "Cocteau Twins": {
+      "Milk & Kisses": {
+         "Violaine": false,
+         "Serpentskirt": "good",
+         "Tishbite": {},
+         "Half‐Gifts": {},
+         "Calfskin Smack": {},
+         "Rilkean Heart": {},
+         "Ups": {},
+         "Eperdu": {},
+         "Treasure Hiding": {},
+         "Seekers Who Are Lovers": {},
+         "=": {
+            "$date": 1996,
+            "$list": "white"
+         }
+      },
+      "Four-Calendar Café": {
+         "Know Who You Are at Every Age": {},
+         "Evangeline": {},
+         "Bluebeard": {},
+         "Theft, and Wandering Around Lost": {},
+         "Oil of Angels": {},
+         "Squeeze-Wax": {},
+         "My Truth": {},
+         "Essence": {},
+         "Summerhead": "good",
+         "Pur": {},
+         "=": {
+            "$date": 1993,
+            "$list": "white"
+         }
+      },
+      "Heaven or Las Vegas": {
+         "Cherry-Coloured Funk": false,
+         "Pitch the Baby": false,
+         "Iceblink Luck": false,
+         "Fifty-Fifty Clown": false,
+         "Heaven or Las Vegas": false,
+         "I Wear Your Ring": {},
+         "Fotzepolitic": {},
+         "Wolf in the Breast": {},
+         "Road, River and Rail": {},
+         "Frou-Frou Foxes in Midsummer Fires": {},
+         "=": {
+            "$date": 1990,
+            "$list": "white"
+         }
+      },
+      "Blue Bell Knoll": {
+         "Blue Bell Knoll": {},
+         "Athol-Brose": false,
+         "Carolyn’s Fingers": {},
+         "For Phoebe Still a Baby": false,
+         "The Itchy Glowbo Blow": "good",
+         "Cico Buff": {},
+         "Suckling the Mender": {},
+         "Spooning Good Singing Gum": {},
+         "A Kissed Out Red Floatboat": {},
+         "Ella Megalast Burls Forever": {},
+         "=": {
+            "$date": 1988,
+            "$list": "white"
+         }
+      },
+      "Victorialand": {
+         "Lazy Calm": "good",
+         "Fluffy Tufts": {},
+         "Throughout the Dark Months of April and May": "good",
+         "Whales Tails": "good",
+         "Oomingmak": "short",
+         "Little Spacey": {},
+         "Feet-Like Fins": {},
+         "How to Bring a Blush to the Snow": {},
+         "The Thinner the Air": {},
+         "=": {
+            "$date": 1986,
+            "$list": "white"
+         }
+      },
+      "Tiny Dynamine": {
+         "Pink Orange Red": "good",
+         "Ribbed and Veined": "good",
+         "Plain Tiger": {},
+         "Sultitan Itan": {},
+         "=": {
+            "$date": 1985,
+            "$list": "white"
+         }
+      },
+      "Treasure": {
+         "Ivo": "good",
+         "Lorelei": false,
+         "Beatrix": {},
+         "Persephone": "good",
+         "Pandora (For Cindy)": "good",
+         "Amelia": {},
+         "Aloysius": {},
+         "Cicely": {},
+         "Otterley": "good",
+         "Donimo": {},
+         "=": {
+            "$date": 1984,
+            "$list": "white"
+         }
+      },
+      "Sunburst and Snowblind": {
+         "Sugar Hiccup": "dup",
+         "From the Flagstones": {},
+         "Hitherto": "good",
+         "Because of Whirl-Jack": {},
+         "=": {
+            "$date": 1983,
+            "$list": "white"
+         }
+      },
+      "Head Over Heels": {
+         "When Mama Was Moth": {},
+         "Five Ten Fiftyfold": "good",
+         "Sugar Hiccup": false,
+         "In Our Angelhood": "good",
+         "Glass Candle Grenades": "short",
+         "In the Gold Dust Rush": {},
+         "The Tinderbox (of a Heart)": "good",
+         "Multifoiled": "short",
+         "My Love Paramour": {},
+         "Musette and Drums": {},
+         "=": {
+            "$date": 1983,
+            "$list": "white"
+         }
+      },
+      "Garlands": {
+         "Blood Bitch": false,
+         "Wax and Wane": false,
+         "But I’m Not": "short",
+         "Blind Dumb Deaf": false,
+         "Shallow Then Halo": false,
+         "The Hollow Men": false,
+         "Garlands": false,
+         "Grail Overfloweth": false,
+         "=": {
+            "$date": 1982,
+            "$list": "white"
+         }
+      },
+      "=": {
+         "Heaven or Las Vegas": {
+            "trend": "202,206",
+            "link": "https://youtu.be/6KnYw4EwYGc"
+         }
+      }
+   },
+   "Coldplay": {
+      "A Rush of Blood to the Head": {
+         "The Scientist": {},
+         "=": {
+            "$date": 2002,
+            "$list": "black"
+         }
+      },
+      "=": {
+         "The Scientist": {
+            "trend": "80,172,619",
+            "link": "https://youtu.be/RB-RcX5DS5A"
+         }
+      }
+   },
+   "Com Truise": {
+      "Iteration": {
+         "Of Your Fake Dimension": false,
+         "Ephemeron": false,
+         "Dryswch": {},
+         "Isostasy": {},
+         "Memory": {},
+         "Propagation": {},
+         "Vacuume": {},
+         "Ternary": {},
+         "Usurper": {},
+         "Syrthio": {},
+         "When Will You Find the Limit": {},
+         "Iteration": {},
+         "=": {
+            "$date": 2017,
+            "$list": "white"
+         }
+      },
+      "In Decay": {
+         "Open": {},
+         "84’ Dreamin": {},
+         "Dreambender": {},
+         "Controlpop": {},
+         "Colorvision": "good",
+         "Alfa Beach": "good",
+         "Stop": {},
+         "Klymaxx": {},
+         "Yxes": {},
+         "Smily Cyclops": {},
+         "Video Arkade": {},
+         "Data Kiss": {},
+         "Closed": {},
+         "=": {
+            "$date": 2012,
+            "$list": "white"
+         }
+      },
+      "Galactic Melt": {
+         "Terminal": "short",
+         "VHS Sex": false,
+         "Cathode Girls": false,
+         "Air Cal": false,
+         "Flightwave": false,
+         "Hyperlips": "good",
+         "Brokendate": {},
+         "Glawio": {},
+         "Ether Drift": {},
+         "Futureworld": {},
+         "Karova": {},
+         "=": {
+            "$date": 2011,
+            "$list": "white"
+         }
+      },
+      "=": {
+         "Propagation": {
+            "trend": "812,858",
+            "link": "https://youtu.be/3uI9Hh26OTs"
+         }
+      }
+   },
+   "Conjure One": {
+      "Extraordinary Ways": {
+         "Endless Dream": false,
+         "Face the Music": false,
+         "Pilgrimage": false,
+         "One Word": false,
+         "I Believe": false,
+         "Beyond Being": {},
+         "Extraordinary Way": {},
+         "Dying Light": {},
+         "Forever Lost": {},
+         "Into the Escape": {},
+         "=": {
+            "$date": 2005,
+            "$list": "white"
+         }
+      },
+      "Conjure One": {
+         "Damascus": "short",
+         "Center of the Sun": {},
+         "Tears From the Moon": {},
+         "Tidal Pool": "good",
+         "Manic Star": {},
+         "Redemption": {},
+         "Years": {},
+         "Make a Wish": {},
+         "Pandora": "good",
+         "Sleep": {},
+         "Premonition (reprise)": {},
+         "=": {
+            "$date": 2002,
+            "$list": "white"
+         }
+      },
+      "=": {
+         "Tears From the Moon": {
+            "trend": "163,821",
+            "link": "https://youtu.be/4w0hHxrj7do"
+         }
+      }
+   },
+   "Counting Crows": {
+      "This Desert Life": {
+         "Hanginaround": {},
+         "Mrs. Potter’s Lullaby": {},
+         "Amy Hit the Atmosphere": {},
+         "Four Days": {},
+         "All My Friends": {},
+         "High Life": {},
+         "Colorblind": "good",
+         "I Wish I Was a Girl": {},
+         "Speedway": {},
+         "St. Robinson in His Cadillac Dream / Kid Things": {},
+         "=": {
+            "$date": 1999,
+            "$list": "white"
+         }
+      },
+      "Recovering the Satellites": {
+         "$date": 1996
+      },
+      "August and Everything After": {
+         "Mr. Jones": {},
+         "=": {
+            "$date": 1993,
+            "$list": "black"
+         }
+      },
+      "=": {
+         "Accidentally in Love": {
+            "trend": "2,933,736",
+            "link": "https://youtu.be/22bK0C2obFc"
+         },
+         "Mr. Jones": {
+            "trend": "13,704,250",
+            "link": "https://youtu.be/-oqAU5VxFWs"
+         }
+      }
+   },
+   "Crazy P": {
+      "Walk Dance Talk Sing": {
+         "Like a Fool": "good",
+         "The Come On": {},
+         "Echo": {},
+         "Cruel Mistress": {},
+         "Magnetise": {},
+         "Something More": {},
+         "Walk Dance Talk Sing": {},
+         "Scrap the Book": {},
+         "The Way": {},
+         "Hear My Song": {},
+         "Witch Doctor": {},
+         "=": {
+            "$date": 2015,
+            "$list": "white"
+         }
+      },
+      "When We On": {
+         "Open for Service": {},
+         "Changes": {},
+         "Beatbox": {},
+         "The Unbearable Lightness of Being": {},
+         "Heartbreaker": "good",
+         "Twisted": {},
+         "Sonar": {},
+         "Your Dark Energy": {},
+         "Eruption": {},
+         "Wecanonlybewhoweare": {},
+         "Future Beat": {},
+         "=": {
+            "$date": 2011,
+            "$list": "white"
+         }
+      },
+      "=": {
+         "Heartbreaker": {
+            "trend": "162,899",
+            "link": "https://youtu.be/Ph5psMQoirU"
+         }
+      }
+   },
+   "Curve": {
+      "Cuckoo": {
+         "Missing Link": {},
+         "Crystal": {},
+         "Men Are From Mars, Women Are From Venus": "good",
+         "All of One": {},
+         "Unreadable Communication": {},
+         "Turkey Crossing": {},
+         "Superblaster": {},
+         "Left of Mother": {},
+         "Sweetest Pie": {},
+         "Cuckoo": {},
+         "=": {
+            "$date": 1993,
+            "$list": "white"
+         }
+      },
+      "=": {
+         "Clipped": {
+            "trend": "35,317",
+            "link": "https://youtu.be/moAIaLbcKb0"
+         }
+      }
+   }
+}

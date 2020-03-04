@@ -1,0 +1,61 @@
+@font-face {
+   font-family: "Miller Display Italic";
+   src: url("/umber/assets/miller-display-italic.woff2");
+}
+@font-face {
+   font-family: "Overpass";
+   src: url("/umber/assets/overpass.woff2");
+}
+#newer, #older, .repo {
+   color: #c82121;
+}
+#newer, #older, form {
+   margin-left: 25px;
+   margin-right: 25px;
+}
+.repo, footer, main {
+   font-family: Overpass;
+}
+.repo, h1 {
+   margin: 0 50px;
+}
+.repo, main {
+   font-size: large;
+}
+a {
+   text-decoration: none;
+}
+body {
+   background: radial-gradient(#dee1ec 80%, #becbff);
+}
+figure {
+   flex-basis: 426px;
+   margin: 12px 8px;
+}
+footer {
+   font-size: xx-large;
+   margin-bottom: 8px;
+}
+footer, header, main {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center; /* horizontal */
+}
+h1 {
+   color: #0d0cb5;
+   font-family: "Miller Display Italic";
+   font-size: 3em;
+}
+header {
+   align-items: center; /* vertical */
+   margin: 8px;
+}
+img {
+   height: 240px;
+   object-fit: cover;
+   width: 100%;
+}
+input {
+   text-align: center;
+   vertical-align: middle;
+}

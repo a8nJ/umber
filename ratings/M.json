@@ -1,0 +1,994 @@
+{
+   "M83": {
+      "Junk": {
+         "Do It, Try It": "bad",
+         "Go!": "bad",
+         "Walkway Blues": "bad",
+         "Bibi the Dog": "bad",
+         "Moon Crystal": "short",
+         "For the Kids": "bad",
+         "Solitude": {},
+         "The Wizard": "short",
+         "Laser Gun": {},
+         "Road Blaster": {},
+         "Tension": "short",
+         "Atlantique Sud": {},
+         "Time Wind": {},
+         "Ludivine": "short",
+         "Sunday Night 1987": {},
+         "$date": 2016
+      },
+      "Oblivion Soundtrack": {
+         "Jack’s Dream": "short",
+         "Waking Up": {},
+         "Tech 49": {},
+         "StarWaves": {},
+         "Odyssey Rescue": {},
+         "Earth 2077": "short",
+         "Losing Control": {},
+         "Canyon Battle": {},
+         "Radiation Zone": {},
+         "You Can’t Save Her": {},
+         "Raven Rock": {},
+         "I’m Sending You Away": "good",
+         "Ashes of Our Fathers": {},
+         "Temples of Our Gods": {},
+         "Fearful Odds": {},
+         "Undimmed by Time, Unbound by Death": "short",
+         "Oblivion": {
+            "rate": "good",
+            "trend": "2,746,085",
+            "link": "https://youtu.be/1mkUp1V3ys0"
+         },
+         "$date": 2013
+      },
+      "Hurry Up, We’re Dreaming": {
+         "$date": 2011,
+         "Midnight City": {
+            "trend": "33,682,222",
+            "link": "https://youtu.be/dX3k_QDnzHE"
+         },
+         "Wait": {
+            "trend": "11,009,599",
+            "link": "https://youtu.be/lAwYodrBr2Q"
+         }
+      },
+      "Saturdays = Youth": {
+         "You, Appearing": "good",
+         "Kim & Jessie": "good",
+         "Skin of the Night": "good",
+         "Graveyard Girl": "good",
+         "Couleurs": "good",
+         "Up!": {},
+         "We Own the Sky": {},
+         "Highway of Endless Dreams": {},
+         "Too Late": {},
+         "Dark Moves of Love": {},
+         "Midnight Souls Still Remain": {},
+         "$date": 2008
+      },
+      "Digital Shades, Volume 1": {
+         "Waves, Waves, Waves": "short",
+         "Coloring the Void": {},
+         "Sister, Part 1": "short",
+         "Strong and Wasted": "short",
+         "My Own Strange Path": {},
+         "Dancing Mountains": "good",
+         "Sister, Part 2": "short",
+         "By the Kiss": "good",
+         "Space Fertilizer": "short",
+         "The Highest Journey": "good",
+         "$date": 2007
+      },
+      "Before the Dawn Heals Us": {
+         "Moon Child": "good",
+         "Don’t Save Us From the Flames": "good",
+         "In the Cold I’m Standing": "good",
+         "Farewell / Goodbye": {},
+         "Fields, Shorelines and Hunters": "short",
+         "*": "short",
+         "I Guess I’m Floating": "good",
+         "Teen Angst": "good",
+         "Can’t Stop": "short",
+         "Safe": {},
+         "Let Men Burn Stars": "short",
+         "Car Chase Terror": {},
+         "Slight Night Shiver": "short",
+         "A Guitar and a Heart": {},
+         "Lower Your Eyelids to Die With the Sun": {},
+         "$date": 2005
+      },
+      "Dead Cities, Red Seas & Lost Ghosts": {
+         "Birds": "short",
+         "Unrecorded": "good",
+         "Run Into Flowers": "good",
+         "In Church": "good",
+         "America": "bad",
+         "On a White Lake, Near a Green Mountain": "good",
+         "Noise": "bad",
+         "Be Wild": "bad",
+         "Cyborg": "bad",
+         "0078h": "bad",
+         "Gone": {},
+         "Beauties Can Die": {},
+         "Tsubasa": {},
+         "God of Thunder": {},
+         "In Church (Cyann & Ben version)": "good",
+         "Gone (live)": "bad",
+         "Dead Cities, Red Seas & Lost Ghosts": {},
+         "$date": 2003
+      },
+      "M83": {
+         "Last Saturday": "short",
+         "Night": "bad",
+         "At the Party": "short",
+         "Kelly": "bad",
+         "Sitting": "bad",
+         "Facing That": "good",
+         "Violet Tree": "bad",
+         "Staring at Me": "short",
+         "I’m Getting Closer": "bad",
+         "She Stands Up": "bad",
+         "Carresses": "bad",
+         "My Face": "short",
+         "I’m Happy, She Said": "short",
+         "$date": 2001
+      }
+   },
+   "Madonna": {
+      "Rebel Heart": {
+         "$date": 2015,
+         "Bitch I’m Madonna": {
+            "trend": "76,830,661",
+            "link": "https://youtu.be/7hPMmzKs62w"
+         },
+         "Ghosttown": {}
+      },
+      "MDNA": {
+         "$date": 2012,
+         "Girl Gone Wild": {},
+         "Give Me All Your Luvin’": {
+            "trend": "10,108,542",
+            "link": "https://youtu.be/cItHOl5LRWg"
+         }
+      },
+      "Hard Candy": {
+         "$date": 2008,
+         "4 Minutes": {
+            "trend": "7,832,501",
+            "link": "https://youtu.be/aAQZPBwz2CI"
+         },
+         "Give It 2 Me": {}
+      },
+      "Confessions on a Dance Floor": {
+         "$date": 2005,
+         "Hung Up": {
+            "trend": "19,991,409",
+            "link": "https://youtu.be/EDwb9jOVRtU"
+         }
+      },
+      "Music": {
+         "$date": 2000,
+         "Music": "good",
+         "Impressive Instant": "bad",
+         "Runaway Lover": "bad",
+         "I Deserve It": "bad",
+         "Amazing": "bad",
+         "Nobody’s Perfect": "bad",
+         "Don’t Tell Me": "good",
+         "What It Feels Like for a Girl": {},
+         "Paradise (Not for Me)": {},
+         "Gone": {},
+         "American Pie": {},
+         "Cyber-Raga": {}
+      },
+      "Ray of Light": {
+         "$date": 1998,
+         "Frozen": {
+            "trend": "8,438,434",
+            "link": "https://youtu.be/SKEFN9XNlyY"
+         }
+      },
+      "Something to Remember": {
+         "$date": 1995,
+         "I Want You": "good",
+         "I’ll Remember": {},
+         "You’ll See": {},
+         "Crazy for You": {},
+         "This Used to Be My Playground": {},
+         "Love Don’t Live Here Anymore (remix)": {},
+         "Something to Remember": {},
+         "One More Chance": {},
+         "Rain": {},
+         "Oh Father": {},
+         "I Want You (orchestral)": "good",
+         "Verás": {}
+      },
+      "Bedtime Stories": {
+         "$date": 1994,
+         "Survival": {},
+         "Secret": {
+            "rate": "good",
+            "trend": "1,638,276",
+            "link": "https://youtu.be/EPHUZenprKc"
+         },
+         "I’d Rather Be Your Lover": {},
+         "Don’t Stop": {},
+         "Inside of Me": {},
+         "Human Nature": "good",
+         "Forbidden Love": "good",
+         "Love Tried to Welcome Me": "good",
+         "Sanctuary": {},
+         "Bedtime Story": "good",
+         "Take a Bow": "good"
+      },
+      "Justify My Love": {
+         "$date": "1990-10-30",
+         "Justify My Love (William Orbit remix)": {},
+         "Justify My Love": "good",
+         "Express Yourself (Shep’s ’Spressin’ Himself Re-remix)": {}
+      },
+      "I’m Breathless": {
+         "$date": "1990-05-21",
+         "Vogue": {
+            "trend": "9,981,092",
+            "link": "https://youtu.be/GuJQSAiODqI"
+         }
+      },
+      "Like a Prayer": {
+         "$date": 1989,
+         "Like a Prayer": {
+            "trend": "7,876,757",
+            "link": "https://youtu.be/79fzeNUqQbQ"
+         }
+      },
+      "True Blue": {
+         "$date": 1986,
+         "La Isla Bonita": {
+            "trend": "17,047,985",
+            "link": "https://youtu.be/zpzdgmqIHOQ"
+         },
+         "Live to Tell": {},
+         "Papa Don’t Preach": {}
+      },
+      "Like a Virgin": {
+         "$date": 1984,
+         "Dress You Up": {},
+         "Like a Virgin": {},
+         "Material Girl": {
+            "trend": "18,223,354",
+            "link": "https://youtu.be/6p-lDYPR2P8"
+         }
+      }
+   },
+   "Mandalay": {
+      "Empathy": {
+         "This Life": {},
+         "Flowers Bloom": "good",
+         "Insensible": "good",
+         "Another": {},
+         "Enough Love": {},
+         "All My Sins": {},
+         "Opposites": "bad",
+         "This Time Last Year": "bad",
+         "Kissing the Day": "bad",
+         "Beautiful": "bad",
+         "About You": "bad"
+      },
+      "=": {
+         "Beautiful": {
+            "trend": "55,963",
+            "link": "https://youtu.be/ie-0hEReVfU"
+         }
+      }
+   },
+   "Mariah Carey": {
+      "Memoirs of an Imperfect Angel": {
+         "I Want To Know What Love Is": {},
+         "Obsessed": {},
+         "$date": 2009
+      },
+      "E=MC²": {
+         "Bye Bye": {},
+         "Touch My Body": {},
+         "$date": 2008
+      },
+      "The Emancipation of Mimi": {
+         "Don’t Forget About Us": {},
+         "We Belong Together": {},
+         "$date": 2005
+      },
+      "Charmbracelet": {
+         "$date": 2002
+      },
+      "Rainbow": {
+         "$date": 1999
+      },
+      "Butterfly": {
+         "My All": {},
+         "$date": 1997
+      },
+      "Daydream": {
+         "Always Be My Baby": {},
+         "Fantasy": {},
+         "$date": 1995
+      },
+      "Merry Christmas": {
+         "All I Want for Christmas Is You": {},
+         "$date": 1994
+      },
+      "Music Box": {
+         "Hero": {},
+         "Without You": {},
+         "$date": 1993
+      },
+      "=": {
+         "All I Want For Christmas Is You": {
+            "trend": "57,340,677",
+            "link": "https://youtu.be/yXQViqx6GMY"
+         },
+         "Always Be My Baby": {
+            "trend": "15,209,697",
+            "link": "https://youtu.be/LfRNRymrv9k"
+         },
+         "Hero": {
+            "trend": "23,152,721",
+            "link": "https://youtu.be/0IA3ZvCkRkQ"
+         },
+         "I Want To Know What Love Is": {
+            "trend": "13,849,877",
+            "link": "https://youtu.be/gCadlN8fexk"
+         },
+         "My All": {
+            "trend": "13,670,261",
+            "link": "https://youtu.be/mIhI23gBBPQ"
+         },
+         "Touch My Body": {
+            "trend": "17,998,651",
+            "link": "https://youtu.be/9b8erWuBA44"
+         },
+         "We Belong Together": {
+            "trend": "37,118,971",
+            "link": "https://youtu.be/0habxsuXW4g"
+         }
+      }
+   },
+   "Mark Morrison": {
+      "Return of the Mack": {
+         "Return of the Mack": {}
+      },
+      "=": {
+         "Return Of The Mack": {
+            "trend": "6,664,680",
+            "link": "https://youtu.be/uB1D9wWxd2w"
+         }
+      }
+   },
+   "Massive Attack": {
+      "Heligoland": {
+         "Pray for Rain": "good",
+         "Babel": "bad",
+         "Splitting the Atom": "bad",
+         "Girl I Love You": "bad",
+         "Psyche": "bad",
+         "Flat of the Blade": "bad",
+         "Paradise Circus": "good",
+         "Rush Minute": "bad",
+         "Saturday Come Slow": "bad",
+         "Atlas Air": "bad",
+         "Fatalism (Ryuichi Sakamoto & Yukihiro Takahashi remix)": "bad",
+         "United Snakes": {},
+         "$date": 2010
+      },
+      "Collected": {
+         "Safe From Harm": "dup",
+         "Karmacoma": "dup",
+         "Angel": "dup",
+         "Teardrop": "dup",
+         "Inertia Creeps": "dup",
+         "Protection": "dup",
+         "Butterfly Caught": "dup",
+         "Unfinished Sympathy": "dup",
+         "Risingson": "dup",
+         "What Your Soul Sings": "dup",
+         "Future Proof": "dup",
+         "Five Man Army": "dup",
+         "Sly": "dup",
+         "Live With Me": "good",
+         "False Flags": "bad",
+         "Incantations": "good",
+         "Silent Spring": "good",
+         "Bullet Boy": "good",
+         "Black Melt": {},
+         "Joy Luck Club": {},
+         "Small Time Shoot ’em Up": {},
+         "I Against I": {},
+         "I Want You": "good",
+         "Danny the Dog": {},
+         "$date": 2006
+      },
+      "100th Window": {
+         "Future Proof": "good",
+         "What Your Soul Sings": "bad",
+         "Everywhen": "good",
+         "Special Cases": "bad",
+         "Butterfly Caught": "bad",
+         "A Prayer for England": "bad",
+         "Small Time Shot Away": "good",
+         "Name Taken": "good",
+         "Antistar": "short",
+         "$date": 2002
+      },
+      "Mezzanine": {
+         "Teardrop": {},
+         "$date": 1998
+      },
+      "Protection": {
+         "Protection": "good",
+         "Karmacoma": "good",
+         "Three": "good",
+         "Weather Storm": "good",
+         "Spying Glass": "bad",
+         "Better Things": "bad",
+         "Eurochild": "good",
+         "Sly": "good",
+         "Heat Miser": "bad",
+         "$date": 1994
+      },
+      "Blue Lines": {
+         "Safe From Harm": "good",
+         "One Love": "bad",
+         "Blue Lines": "bad",
+         "Be Thankful for What You’ve Got": "good",
+         "Five Man Army": "good",
+         "Unfinished Sympathy": "good",
+         "Daydreaming": "bad",
+         "Lately": "good",
+         "Hymn of the Big Wheel": "bad",
+         "$date": 1991
+      },
+      "=": {
+         "Teardrop": {
+            "trend": "6,311,699",
+            "link": "https://youtu.be/u7K72X4eo_s"
+         },
+         "Unfinished Sympathy": {
+            "trend": "4,638,845",
+            "link": "https://youtu.be/ZWmrfgj0MZI"
+         }
+      }
+   },
+   "Matchbox Twenty": {
+      "Yourself or Someone Like You": {
+         "3AM": {}
+      },
+      "=": {
+         "3AM": {
+            "trend": "7,795,321",
+            "link": "https://youtu.be/C-Naa1HXeDQ"
+         }
+      }
+   },
+   "Matt Lange": {
+      "Staccato": {
+         "Staccato (original mix)": {},
+         "Ether (original mix)": "good",
+         "Underscore (original mix)": "good",
+         "$date": "2014-07-14"
+      },
+      "I Can’t Forgive / Inverse / This Is How It Is": {
+         "I Can’t Forgive (original mix)": "good",
+         "Inverse (original mix)": "good",
+         "This Is How It Is (original mix)": "good",
+         "$date": "2014-03-24"
+      },
+      "Way You Know / Only You": {
+         "Way You Know": "good",
+         "Only You": {},
+         "$date": 2013
+      },
+      "Rift": {
+         "Rift (original mix)": "good",
+         "Rift (Andrew Bayer remix)": {},
+         "Rift (Kerry Leva undo)": {},
+         "$date": 2011
+      },
+      "=": {
+         "In Out Of Phase": {
+            "trend": "62,531",
+            "link": "https://youtu.be/7uIEtL8Ui9U"
+         }
+      }
+   },
+   "Mazzy Star": {
+      "Among My Swan": {
+         "Disappear": {},
+         "Flowers in December": {},
+         "Rhymes of an Hour": {},
+         "Cry, Cry": {},
+         "Take Everything": {},
+         "Still Cold": {},
+         "All Your Sisters": {},
+         "I’ve Been Let Down": {},
+         "Roseblood": {},
+         "Happy": {},
+         "Umbilical": {},
+         "Look on Down From the Bridge": "good"
+      },
+      "=": {
+         "Fade Into You": {
+            "trend": "1,817,801",
+            "link": "https://youtu.be/-uJ61jgFCMM"
+         }
+      }
+   },
+   "Meramek": {
+      "Know Me": {
+         "Know Me (original mix)": "good",
+         "$date": 2015
+      },
+      "Only You EP": {
+         "Only You (original mix)": "good",
+         "Bounce": {},
+         "Stepping Stones (original mix)": {},
+         "$date": 2014
+      },
+      "Feeling / Maybe / FWD": {
+         "Feeling": "good",
+         "Maybe": {},
+         "FWD": {},
+         "$date": 2013
+      },
+      "=": {
+         "Only You": {
+            "trend": "70,150",
+            "link": "https://youtu.be/E_2NenYDKf8"
+         }
+      }
+   },
+   "Metallica": {
+      "Hardwired… to Self‐Destruct": {
+         "Hardwired": {},
+         "$date": 2016
+      },
+      "Lulu": {
+         "$date": 2011
+      },
+      "Death Magnetic": {
+         "$date": 2008
+      },
+      "St. Anger": {
+         "$date": 2003
+      },
+      "Garage Inc.": {
+         "Whiskey in the Jar": {},
+         "$date": 1998
+      },
+      "Reload": {
+         "$date": 1997
+      },
+      "Load": {
+         "Ain’t My Bitch": {},
+         "2 X 4": {},
+         "The House Jack Built": {},
+         "Until It Sleeps": "good",
+         "King Nothing": "good",
+         "Hero of the Day": {},
+         "Bleeding Me": "good",
+         "Cure": {},
+         "Poor Twisted Me": {},
+         "Wasting My Hate": {},
+         "Mama Said": {},
+         "Thorn Within": {},
+         "Ronnie": {},
+         "The Outlaw Torn": {},
+         "$date": 1996
+      },
+      "Metallica (Black Album)": {
+         "Enter Sandman": {},
+         "Nothing Else Matters": {},
+         "The Unforgiven": {},
+         "Wherever I May Roam": {},
+         "$date": 1991
+      },
+      "and Justice for All": {
+         "One": {},
+         "$date": 1988
+      },
+      "Master of Puppets": {
+         "Master of Puppets": {},
+         "$date": 1986
+      },
+      "Ride the Lightning": {
+         "Fade to Black": {},
+         "For Whom the Bell Tolls": {},
+         "$date": 1984
+      },
+      "=": {
+         "Fade to Black": {
+            "trend": "9,485,401",
+            "link": "https://youtu.be/WEQnzs8wl6E"
+         },
+         "Hardwired": {
+            "trend": "16,477,818",
+            "link": "https://youtu.be/uhBHL3v4d3I"
+         },
+         "Mama Said": {
+            "trend": "4,496,692",
+            "link": "https://youtu.be/4FKYsUEuvIo"
+         },
+         "Master Of Puppets": {
+            "trend": "13,322,313",
+            "link": "https://youtu.be/xnKhsTXoKCI"
+         },
+         "Nothing Else Matters": {
+            "trend": "62,983,387",
+            "link": "https://youtu.be/tAGnKpE4NCI"
+         },
+         "One": {
+            "trend": "13,564,332",
+            "link": "https://youtu.be/EzgGTTtR0kc"
+         },
+         "Whiskey In The Jar": {
+            "trend": "8,977,938",
+            "link": "https://youtu.be/boanuwUMNNQ"
+         }
+      }
+   },
+   "MEUTE": {
+      "You & Me": {
+         "You & Me": {},
+         "$date": 2018
+      },
+      "Tumult": {
+         "The Man With the Red Face": "bad",
+         "Versatile": "bad",
+         "Think Twice": {},
+         "Cygnus": {},
+         "Miss You": {},
+         "Kerberos": {},
+         "Mental Help": {},
+         "Rej": {},
+         "Acamar": {},
+         "Every Wall Is a Door": {},
+         "$date": 2017
+      },
+      "=": {
+         "REJ": {
+            "trend": "814,388",
+            "link": "https://youtu.be/DtKdqwRC07A"
+         },
+         "You & Me": {
+            "trend": "21,209,713",
+            "link": "https://youtu.be/fKFbnhcNnjE"
+         }
+      }
+   },
+   "Michael Bublé": {
+      "It’s Time": {
+         "Feeling Good": {}
+      },
+      "=": {
+         "Feeling Good": {
+            "trend": "11,271,894",
+            "link": "https://youtu.be/Edwsf-8F3sI"
+         }
+      }
+   },
+   "Michael Jackson": {
+      "Xscape": {
+         "Slave to the Rhythm": {},
+         "$date": 2014
+      },
+      "Michael": {
+         "Hold My Hand": {},
+         "$date": 2010
+      },
+      "Invincible": {
+         "You Rock My World": {},
+         "$date": 2001
+      },
+      "HIStory Past, Present and Future, Book I": {
+         "Earth Song": {},
+         "$date": 1995
+      },
+      "Dangerous": {
+         "Black or White": {},
+         "$date": 1991
+      },
+      "Bad": {
+         "Bad": {},
+         "$date": 1987
+      },
+      "Thriller": {
+         "Beat It": {},
+         "Human Nature": {},
+         "$date": 1982
+      },
+      "Off the Wall": {
+         "Don’t Stop ’Til You Get Enough": {},
+         "$date": 1979
+      },
+      "=": {
+         "Don’t Stop ’Til You Get Enough": {
+            "trend": "21,897,798",
+            "link": "https://youtu.be/yURRmWtbTbo"
+         },
+         "Hold My Hand": {
+            "trend": "11,633,050",
+            "link": "https://youtu.be/-oCCnxBos10"
+         },
+         "Remember The Time": {
+            "trend": "31,637,525",
+            "link": "https://youtu.be/LeiFF0gvqcc"
+         },
+         "Slave To The Rhythm": {
+            "trend": "13,740,849",
+            "link": "https://youtu.be/jDRTghGZ7XU"
+         },
+         "The Way You Make Me Feel": {
+            "trend": "32,198,671",
+            "link": "https://youtu.be/HzZ_urpj4As"
+         },
+         "They Don’t Care About Us": {
+            "trend": "62,314,706",
+            "link": "https://youtu.be/QNJL6nfu__Q"
+         },
+         "Thriller": {
+            "trend": "61,383,546",
+            "link": "https://youtu.be/sOnqjkJTMaA"
+         },
+         "You Rock My World": {
+            "trend": "15,017,917",
+            "link": "https://youtu.be/1-7ABIM2qjU"
+         }
+      }
+   },
+   "Michael McDonald": {
+      "If That’s What It Takes": {
+         "Playin’ by the Rules": {},
+         "I Keep Forgettin’ (Every Time You’re Near)": "good",
+         "Love Lies": {},
+         "I Gotta Try": {},
+         "I Can Let Go Now": "short",
+         "That’s Why": {},
+         "If That’s What It Takes": {},
+         "No Such Luck": {},
+         "Losin’ End": {},
+         "Believe in It": {}
+      },
+      "=": {
+         "I Keep Forgettin’": {
+            "trend": "1,474,782",
+            "link": "https://youtu.be/cjqOsYRQI0o"
+         }
+      }
+   },
+   "Moby": {
+      "18": {
+         "We Are All Made of Stars": {},
+         "In This World": {},
+         "In My Heart": {},
+         "Great Escape": "short",
+         "Signs of Love": {},
+         "One of These Mornings": {},
+         "Another Woman": {},
+         "Fireworks": "short",
+         "Extreme Ways": "good",
+         "Jam for the Ladies": {},
+         "Sunday (The Day Before My Birthday)": {},
+         "18": {},
+         "Sleep Alone": {},
+         "At Least We Tried": {},
+         "Harbour": {},
+         "Look Back In": "short",
+         "The Rafters": {},
+         "I’m Not Worried at All": {},
+         "$date": 2002
+      },
+      "Play": {
+         "Honey": {},
+         "Find My Baby": {},
+         "Porcelain": "good",
+         "Why Does My Heart Feel So Bad?": {},
+         "South Side": {},
+         "Rushing": {},
+         "Bodyrock": {},
+         "Natural Blues": {},
+         "Machete": {},
+         "7": "short",
+         "Run On": {},
+         "Down Slow": "short",
+         "If Things Were Perfect": {},
+         "Everloving": {},
+         "Inside": {},
+         "Guitar Flute & String": "short",
+         "The Sky Is Broken": {},
+         "My Weakness": {},
+         "$date": 1999
+      },
+      "=": {
+         "porcelain": {
+            "trend": "2,541,264",
+            "link": "https://youtu.be/QhZnEagfjTQ"
+         }
+      }
+   },
+   "Modest Mouse": {
+      "We Were Dead Before the Ship Even Sank": {
+         "March Into the Sea": "bad",
+         "Dashboard": "bad",
+         "Fire It Up": "bad",
+         "Florida": "short",
+         "Parting of the Sensory": "bad",
+         "Missed the Boat": "bad",
+         "We’ve Got Everything": "bad",
+         "Fly Trapped in a Jar": "bad",
+         "Education": "bad",
+         "Little Motel": "bad",
+         "Steam Engenius": "bad",
+         "Spitting Venom": "bad",
+         "People as Places as People": "bad",
+         "Invisible": "bad",
+         "$date": 2007
+      },
+      "Good News for People Who Love Bad News": {
+         "Float On": {},
+         "Ocean Breathes Salty": {},
+         "$date": 2004
+      },
+      "=": {
+         "Dashboard": {
+            "trend": "1,579,646",
+            "link": "https://youtu.be/penvn9VL32Y"
+         },
+         "Float On": {
+            "trend": "7,530,975",
+            "link": "https://youtu.be/CTAud5O7Qqk"
+         }
+      }
+   },
+   "Moloko": {
+      "Statues": {
+         "Familiar Feeling": "good",
+         "Come On": {},
+         "Cannot Contain This": {},
+         "Statues": {},
+         "Forever More": {},
+         "Blow X Blow": {},
+         "100%": {},
+         "The Only Ones": {},
+         "I Want You": {},
+         "Over & Over": {},
+         "$date": 2003
+      },
+      "Things to Make and Do": {
+         "Radio Moscow": "short",
+         "Pure Pleasure Seeker": "bad",
+         "Absent Minded Friends": "bad",
+         "Indigo": "bad",
+         "Being Is Bewildering": "bad",
+         "Remain the Same": "bad",
+         "A Drop in the Ocean": "short",
+         "Dumb Inc.": {},
+         "The Time Is Now": {},
+         "Mother": {},
+         "It’s Your Problem": "short",
+         "It’s Nothing": {},
+         "Bingo Massacre": "short",
+         "Somebody Somewhere": {},
+         "Just You and Me Dancing": "short",
+         "If You Have a Cross to Bear You May as Well Use It as a Crutch": {},
+         "Keep Stepping": "short",
+         "Sing It Back (Boris Musical mix)": {},
+         "$date": 2000
+      },
+      "=": {
+         "The Time Is Now": {
+            "trend": "1,492,925",
+            "link": "https://youtu.be/kl8mpAvTm_Y"
+         }
+      }
+   },
+   "Montell Jordan": {
+      "This Is How We Do It": {
+         "This Is How We Do It": {}
+      },
+      "=": {
+         "This Is How We Do It": {
+            "trend": "10,267,590",
+            "link": "https://youtu.be/0hiUuL5uTKc"
+         }
+      }
+   },
+   "Mr Mister": {
+      "Welcome to the Real World": {
+         "Broken Wings": {}
+      },
+      "=": {
+         "Broken Wings": {
+            "trend": "14,062,770",
+            "link": "https://youtu.be/nKhN1t_7PEY"
+         }
+      }
+   },
+   "μ‐Ziq": {
+      "Lunatic Harness": {
+         "Brace Yourself Jason": {},
+         "Hasty Boom Alert": "good",
+         "Mushroom Compost": {},
+         "Blainville": {},
+         "Lunatic Harness": {},
+         "Approaching Menace": {},
+         "My Little Beautiful": {},
+         "Secret Stair, Part 1": {},
+         "Secret Stair, Part 2": {},
+         "Wannabe": {},
+         "Catkin and Teasel": {},
+         "London": {},
+         "Midwinter Log": {}
+      },
+      "=": {
+         "Brace Yourself Jason": {
+            "trend": "27,477",
+            "link": "https://youtu.be/UN_9nB37O_U"
+         }
+      }
+   },
+   "My Brightest Diamond": {
+      "A Thousand Shark’s Teeth": {
+         "Inside a Boy": {},
+         "Ice & The Storm": {},
+         "If I Were Queen": "short",
+         "Apples": "short",
+         "From the Top of the World": "good",
+         "Black & Costaud": "good",
+         "To Pluto’s Moon": {},
+         "Bass Player": {},
+         "Goodbye Forever": {},
+         "Like a Sieve": {},
+         "The Diamond": {},
+         "$date": 2008
+      },
+      "Bring Me the Workhorse": {
+         "Something of an End": {},
+         "Golden Star": "good",
+         "Gone Away": {},
+         "Dragonfly": {},
+         "Freak Out": {},
+         "We Were Sparkling": "short",
+         "Disappear": {},
+         "The Robin’s Jar": {},
+         "Magic Rabbit": {},
+         "The Good & The Bad Guy": {},
+         "Workhorse": {},
+         "$date": 2006
+      },
+      "=": {
+         "I Have Never Loved Someone": {
+            "trend": "88,860",
+            "link": "https://youtu.be/u1p9kj-odnU"
+         }
+      }
+   },
+   "My Morning Jacket": {
+      "Z": {
+         "Wordless Chorus": {},
+         "It Beats 4 U": "good",
+         "Gideon": {},
+         "What a Wonderful Man": "short",
+         "Off the Record": {},
+         "Into the Woods": {},
+         "Anytime": {},
+         "Lay Low": {},
+         "Knot Comes Loose": {},
+         "Dondante": {}
+      },
+      "=": {
+         "Touch Me I’m Going to Scream Part II": {
+            "trend": "593,561",
+            "link": "https://youtu.be/Bpdwwa7lsUI"
+         }
+      }
+   }
+}

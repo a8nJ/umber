@@ -1,0 +1,1283 @@
+{
+   "Fatboy Slim": {
+      "Halfway Between the Gutter and the Stars": {
+         "$date": 2000,
+         "$list": "white",
+         "Talking Bout My Baby": "good",
+         "Star 69": "bad",
+         "Sunset (Bird of Prey)": "good",
+         "Love Life": "bad",
+         "Ya Mama": "bad",
+         "Mad Flava": "bad",
+         "Retox": "bad",
+         "Weapon of Choice": "bad",
+         "Drop the Hate": "good",
+         "Demons": "bad",
+         "Song for Shelter": "good"
+      },
+      "You’ve Come a Long Way, Baby": {
+         "$date": 1998,
+         "$list": "white",
+         "Right Here, Right Now": {
+            "flow": "5,592,444",
+            "link": "https://youtu.be/l7ZlSHGFfdc",
+            "rate": "good"
+         },
+         "The Rockafeller Skank": "good",
+         "Fucking in Heaven": {},
+         "Gangster Tripping": {},
+         "Build It Up - Tear It Down": {},
+         "Kalifornia": {},
+         "Soul Surfing": {},
+         "You’re Not From Brighton": {},
+         "Praise You": "good",
+         "Love Island": "good",
+         "Acid 8000": {}
+      },
+      "Better Living Through Chemistry": {
+         "$date": 1996,
+         "$list": "white",
+         "Song for Lindy": "good",
+         "Santa Cruz": "good",
+         "Going Out of My Head": {},
+         "The Weekend Starts Here": {},
+         "Everybody Needs a 303": {},
+         "Give the Po’ Man a Break": {},
+         "10th and Crenshaw": {},
+         "First Down": {},
+         "Punk to Funk": {},
+         "The Sound of Milwaukee": {},
+         "Michael Jackson": {},
+         "Next to Nothing": "good"
+      }
+   },
+   "Filter": {
+      "Title of Record": {
+         "Sand": "short",
+         "Welcome to the Fold": {},
+         "Captain Bligh": "bad",
+         "It’s Gonna Kill Me": "bad",
+         "The Best Things": "good",
+         "Take a Picture": "good",
+         "Skinny": {},
+         "I Will Lead You": {},
+         "Cancer": {},
+         "I’m Not the Only One": {},
+         "Miss Blue": {},
+         "$date": 1999,
+         "$list": "white"
+      },
+      "=": {
+         "Take a Picture": {
+            "flow": "619,133",
+            "link": "https://youtu.be/Jhx0o3GifpI"
+         }
+      }
+   },
+   "Flamingosis": {
+      "Great Hair": {
+         "Hidden Attraction": "short",
+         "Frugal Livin’": "short",
+         "Riding the L": {},
+         "Getting Close to You": "good",
+         "I Met a Funky Lady": {},
+         "Saturday Night Fever": {},
+         "Momento": "short",
+         "I’ll Be There": {},
+         "Oakland": "short",
+         "Sun Whisperer": {},
+         "Breakfast Poutine": "short",
+         "Snacks on Snacks": {},
+         "Elevator Pass": "short",
+         "$date": 2016,
+         "$list": "white"
+      },
+      "Pleasure Palette": {
+         "Pleasure Palette": "short",
+         "Down For The Fifth Time": "good",
+         "Finesse (Hey Baby)": "short",
+         "A Beautiful Soul (Feat. BeRod)": {},
+         "On a Cloud (Feat. Beatmachinearon)": {},
+         "love me in the evening": "short",
+         "Now Or Never (Feat. Macross 82-99)": {},
+         "Transparency": {},
+         "I don’t really care": {},
+         "Wearing a Smile": "short",
+         "Little Fling": "short",
+         "Football Head": "good",
+         "$date": 2015,
+         "$list": "white"
+      },
+      "=": {
+         "Football Head": {
+            "flow": "2,286,983",
+            "link": "https://youtu.be/1hJKhiew2O0"
+         }
+      }
+   },
+   "Fleet Foxes": {
+      "Crack‐Up": {
+         "I Am All That I Need / Arroyo Seco / Thumbprint Scar": {},
+         "Cassius, -": {},
+         "- Naiads, Cassadies": {},
+         "Kept Woman": {},
+         "Third of May / Ōdaigahara": {},
+         "If You Need To, Keep Time on Me": "good",
+         "Mearcstapa": {},
+         "On Another Ocean (January / June)": {},
+         "Fool’s Errand": {},
+         "I Should See Memphis": {},
+         "Crack‐Up": {},
+         "$date": "2017-06-16",
+         "$list": "white"
+      },
+      "Helplessness Blues": {
+         "Montezuma": "good",
+         "Bedouin Dress": {},
+         "Sim Sala Bim": {},
+         "Battery Kinzie": "short",
+         "The Plains / Bitter Dancer": {},
+         "Helplessness Blues": {},
+         "The Cascades": "short",
+         "Lorelai": {},
+         "Someone You’d Admire": "short",
+         "The Shrine / An Argument": {},
+         "Blue Spotted Tail": {},
+         "Grown Ocean": {},
+         "$date": 2011,
+         "$list": "white"
+      },
+      "Fleet Foxes": {
+         "$date": "2008-06-03",
+         "$list": "white",
+         "Sun It Rises": {},
+         "White Winter Hymnal": "short",
+         "Ragged Wood": {},
+         "Tiger Mountain Peasant Song": {},
+         "Quiet Houses": {},
+         "He Doesn’t Know Why": {},
+         "Heard Them Stirring": {},
+         "Your Protector": "good",
+         "Meadowlarks": {},
+         "Blue Ridge Mountains": {},
+         "Oliver James": "good"
+      },
+      "Sun Giant": {
+         "Sun Giant": "short",
+         "Drops in the River": "good",
+         "English House": "good",
+         "Mykonos": "good",
+         "Innocent Son": "bad",
+         "$date": "2008-03-09",
+         "$list": "white"
+      },
+      "=": {
+         "Mykonos": {
+            "flow": "1,526,713",
+            "link": "https://youtu.be/DT-dxG4WWf4"
+         }
+      }
+   },
+   "Fleetwood Mac": {
+      "Tango in the Night": {
+         "$date": 1987,
+         "$list": "white",
+         "Big Love": {},
+         "Seven Wonders": {},
+         "Everywhere": "good",
+         "Caroline": {},
+         "Tango in the Night": {},
+         "Mystified": {},
+         "Little Lies": {
+            "rate": "good",
+            "flow": "2,190,958",
+            "link": "https://youtu.be/Xr9Oubxw1gA"
+         },
+         "Family Man": {},
+         "Welcome to the Room… Sara": {},
+         "Isn’t It Midnight": {},
+         "When I See You Again": {},
+         "You and I, Part II": "short"
+      },
+      "Mirage": {
+         "$date": 1982,
+         "$list": "white",
+         "Love in Store": {},
+         "Can’t Go Back": "short",
+         "That’s Alright": {},
+         "Book of Love": {},
+         "Gypsy": "good",
+         "Only Over You": {},
+         "Empire State": "short",
+         "Straight Back": {},
+         "Hold Me": {},
+         "Oh Diane": "short",
+         "Eyes of the World": {},
+         "Wish You Were Here": {}
+      },
+      "Rumours": {
+         "$date": 1977,
+         "$list": "black",
+         "Dreams": {},
+         "Go Your Own Way": {
+            "flow": "12,697,708",
+            "link": "https://youtu.be/6ul-cZyuYq4"
+         },
+         "The Chain": {}
+      },
+      "Fleetwood Mac": {
+         "$date": 1975,
+         "$list": "black",
+         "Landslide": {
+            "flow": "6,540,267",
+            "link": "https://youtu.be/x--yddOolRQ"
+         },
+         "Rhiannon": {}
+      }
+   },
+   "Floating Points": {
+      "Reflections - Mojave Desert": {
+         "$date": 2017,
+         "$list": "white",
+         "Mojave Desert": "short",
+         "Silurian Blue": "good",
+         "Kites": "bad",
+         "Kelso Dunes": "good",
+         "Lucerne Valley": "bad"
+      },
+      "Kuiper": {
+         "$date": 2016,
+         "$list": "white",
+         "Kuiper": "bad",
+         "For Marmish Part II": "good"
+      },
+      "Elaenia": {
+         "$date": 2015,
+         "$list": "white",
+         "Nespole": "good",
+         "Silhouettes (I, II & III)": {},
+         "Elaenia": {},
+         "Argenté": {},
+         "Thin Air": {},
+         "For Marmish": "good",
+         "Peroration Six": {},
+         "Precursor": {}
+      },
+      "Shadows EP": {
+         "$date": 2011,
+         "$list": "white",
+         "Myrtle Avenue": "good",
+         "Obfuse": "bad",
+         "Realise": "bad",
+         "ARP3": "good",
+         "Sais": "bad"
+      }
+   },
+   "Foghat": {
+      "Fool for the City": {
+         "Fool for the City": {},
+         "My Babe": {},
+         "Slow Ride": "good",
+         "Terraplane Blues": {},
+         "Save Your Loving (for Me)": {},
+         "Drive Me Home": {},
+         "Take It or Leave It": {},
+         "$date": 1974,
+         "$list": "white"
+      },
+      "=": {
+         "Slow Ride": {
+            "flow": "3,467,643",
+            "link": "https://youtu.be/GcCNcgoyG_0"
+         }
+      }
+   },
+   "Foo Fighters": {
+      "Concrete and Gold": {
+         "Run": {},
+         "The Sky Is a Neighborhood": {},
+         "$date": 2017,
+         "$list": "black"
+      },
+      "Sonic Highways": {
+         "Something From Nothing": {},
+         "$date": 2014,
+         "$list": "black"
+      },
+      "Wasting Light": {
+         "These Days": {},
+         "Walk": {},
+         "$date": 2011,
+         "$list": "black"
+      },
+      "Echoes, Silence, Patience & Grace": {
+         "The Pretender": {},
+         "$date": 2007,
+         "$list": "black"
+      },
+      "In Your Honor": {
+         "Best of You": {},
+         "$date": 2005,
+         "$list": "black"
+      },
+      "One by One": {
+         "All My Life": {},
+         "$date": 2002,
+         "$list": "black"
+      },
+      "There Is Nothing Left to Lose": {
+         "Learn to Fly": {},
+         "$date": 1999,
+         "$list": "black"
+      },
+      "The Colour and the Shape": {
+         "Everlong": {},
+         "$date": 1997,
+         "$list": "black"
+      },
+      "=": {
+         "All My Life": {
+            "flow": "7,246,410",
+            "link": "https://youtu.be/xQ04WbgI9rg"
+         },
+         "Best Of You": {
+            "flow": "16,432,068",
+            "link": "https://youtu.be/h_L4Rixya64"
+         },
+         "Everlong": {
+            "flow": "15,438,960",
+            "link": "https://youtu.be/eBG7P-K-r1Y"
+         },
+         "Learn To Fly": {
+            "flow": "11,766,693",
+            "link": "https://youtu.be/1VQ_3sBZEm0"
+         },
+         "Something From Nothing": {
+            "flow": "7,013,168",
+            "link": "https://youtu.be/V_YlZ1JdcVk"
+         },
+         "The Pretender": {
+            "flow": "38,899,344",
+            "link": "https://youtu.be/SBjQ9tuuTJQ"
+         },
+         "The Sky Is a Neighborhood": {
+            "flow": "28,652,318",
+            "link": "https://youtu.be/TRqiFPpw2fY"
+         },
+         "Walk": {
+            "flow": "11,562,945",
+            "link": "https://youtu.be/4PkcfQtibmU"
+         }
+      }
+   },
+   "Foreigner": {
+      "Agent Provocateur": {
+         "I Want To Know What Love Is": {},
+         "$date": 1984,
+         "$list": "black"
+      },
+      "4": {
+         "Night Life": {},
+         "Juke Box Hero": {},
+         "Break It Up": {},
+         "Waiting for a Girl Like You": "good",
+         "Luanne": {},
+         "Urgent": {},
+         "I’m Gonna Win": {},
+         "Woman in Black": {},
+         "Girl on the Moon": {},
+         "Don’t Let Go": {},
+         "$date": 1981,
+         "$list": "white"
+      },
+      "Head Games": {
+         "$date": 1979
+      },
+      "Double Vision": {
+         "$date": 1978
+      },
+      "Foreigner": {
+         "Feels Like the First Time": {},
+         "Cold as Ice": "good",
+         "Starrider": {},
+         "Headknocker": {},
+         "The Damage Is Done": {},
+         "Long, Long Way From Home": "short",
+         "Woman Oh Woman": {},
+         "At War With the World": {},
+         "Fool for You Anyway": {},
+         "I Need You": {},
+         "$date": 1977,
+         "$list": "white"
+      },
+      "=": {
+         "Feels Like The First Time": {
+            "flow": "282,733",
+            "link": "https://youtu.be/8Tl-kOcnn1U"
+         },
+         "I Want To Know What Love Is": {
+            "flow": "17,302,308",
+            "link": "https://youtu.be/raNGeq3_DtM"
+         }
+      }
+   },
+   "Four Tet": {
+      "Nova": {
+         "Nova": "good",
+         "$date": 2012,
+         "$list": "white"
+      },
+      "There Is Love in You": {
+         "Angel Echoes": {},
+         "Love Cry": {},
+         "Circling": {},
+         "Pablo’s Heart": "short",
+         "Sing": {},
+         "This Unfolds": {},
+         "Reversing": "short",
+         "Plastic People": {},
+         "She Just Likes to Fight": "good",
+         "$date": 2010,
+         "$list": "white"
+      },
+      "Moth / Wolf Cub": {
+         "Moth": "good",
+         "Wolf Cub": "good",
+         "$date": 2009,
+         "$list": "white"
+      },
+      "Ringer": {
+         "Ringer": "bad",
+         "Ribbons": "good",
+         "Swimmer": "good",
+         "Wing Body Wing": "bad",
+         "$date": 2008,
+         "$list": "white"
+      },
+      "Everything Ecstatic": {
+         "$date": 2005
+      },
+      "Rounds": {
+         "Hands": "good",
+         "She Moves She": "good",
+         "First Thing": "short",
+         "My Angel Rocks Back and Forth": "bad",
+         "Spirit Fingers": "bad",
+         "Unspoken": "good",
+         "Chia": "short",
+         "As Serious as Your Life": "bad",
+         "And They All Look Broken Hearted": "good",
+         "Slow Jam": "bad",
+         "$date": 2003,
+         "$list": "white"
+      },
+      "Pause": {
+         "Glue of the World": "good",
+         "Twenty Three": "bad",
+         "Harmony One": "short",
+         "Parks": "good",
+         "Leila Came Round and We Watched a Video": "short",
+         "Untangle": "bad",
+         "Everything Is Alright": "short",
+         "No More Mosquitoes": "bad",
+         "Tangle": "bad",
+         "You Could Ruin My Day": "good",
+         "Hilarious Movie of the 90’s": "bad",
+         "$date": 2001,
+         "$list": "white"
+      },
+      "Dialogue": {
+         "The Space of Two Weeks": "good",
+         "Chiron": "bad",
+         "Alambradas": "short",
+         "3.3 Degrees From the Pole": "bad",
+         "Misnomer": {},
+         "Liquefaction": "bad",
+         "She Scanned": {},
+         "Calamine": "good",
+         "The Butterfly Effect": {},
+         "$date": 1999,
+         "$list": "white"
+      },
+      "=": {
+         "Angel Echoes": {
+            "flow": "281,677",
+            "link": "https://youtu.be/Tpe4id7cLnU"
+         }
+      }
+   },
+   "Foy Vance": {
+      "Live at Bangor Abbey": {
+         "Be the Song": {},
+         "Make It Rain": {},
+         "$list": "black"
+      },
+      "=": {
+         "Make it rain": {
+            "flow": "8,003,040",
+            "link": "https://youtu.be/hD5hIqeKNVE"
+         }
+      }
+   },
+   "Frankie Rose": {
+      "Cage Tropical": {
+         "Love in Rockets": {},
+         "Dyson Sphere": {},
+         "Trouble": {},
+         "Art Bell": "short",
+         "Dancing Down the Hall": {},
+         "Cage Tropical": "good",
+         "Game to Play": {},
+         "Red Museum": {},
+         "Epic Slack": "short",
+         "Decontrol": {},
+         "$date": 2017,
+         "$list": "white"
+      },
+      "Herein Wild": {
+         "You for Me": "bad",
+         "Sorrow": "bad",
+         "Into Blue": "bad",
+         "The Depths": "bad",
+         "Cliffs as High": "bad",
+         "Minor Times": {},
+         "Heaven": {},
+         "Question/Reason": {},
+         "Street of Dreams": {},
+         "Requiem": "short",
+         "$date": 2013,
+         "$list": "white"
+      },
+      "Interstellar": {
+         "Interstellar": {},
+         "Know Me": "short",
+         "Gospel/Grace": {},
+         "Daylight Sky": "short",
+         "Pair of Wings": {},
+         "Had We Had It": {},
+         "Night Swim": "short",
+         "Apples for the Sun": {},
+         "Moon in My Mind": {},
+         "The Fall": "good",
+         "$date": 2012,
+         "$list": "white"
+      },
+      "=": {
+         "Night Swim": {
+            "flow": "31,597",
+            "link": "https://youtu.be/VE56wTNj7J0"
+         }
+      }
+   },
+   "Franz Ferdinand": {
+      "Franz Ferdinand": {
+         "Jacqueline": {},
+         "Tell Her Tonight": "short",
+         "Take Me Out": "good",
+         "The Dark of the Matinée": {},
+         "Auf Achse": {},
+         "Cheating on You": "short",
+         "This Fire": {},
+         "Darts of Pleasure": {},
+         "Michael": {},
+         "Come On Home": {},
+         "40′": {},
+         "$date": 2004,
+         "$list": "white"
+      },
+      "=": {
+         "Take Me Out": {
+            "flow": "5,885,949",
+            "link": "https://youtu.be/Ijk4j-r7qPA"
+         }
+      }
+   },
+   "Fugees": {
+      "The Score": {
+         "Fu-Gee-La": {},
+         "Killing Me Softly with His Song": {},
+         "Ready or Not": {},
+         "$list": "black"
+      },
+      "=": {
+         "Ready or Not": {
+            "flow": "14,642,911",
+            "link": "https://youtu.be/aIXyKmElvv8"
+         }
+      }
+   },
+   "Funkadelic": {
+      "Maggot Brain": {
+         "Maggot Brain": "good",
+         "Can You Get to That": "short",
+         "Hit It and Quit It": {},
+         "You and Your Folks, Me and My Folks": {},
+         "Super Stupid": {},
+         "Back in Our Minds": "short",
+         "Wars of Armageddon": {},
+         "$list": "white"
+      },
+      "=": {
+         "Maggot Brain": {
+            "flow": "683,197",
+            "link": "https://youtu.be/dh3bleXWaCk"
+         }
+      }
+   },
+   "Funki Porcini": {
+      "Fast Asleep": {
+         "What Are You Looking At?": {},
+         "The Big Sea": "good",
+         "We’re Out of Here": {},
+         "50,000 Ft Freefall": {},
+         "Sleepy": "short",
+         "The Great Drive By": "good",
+         "Last Night Over Norway": "short",
+         "New Dope": {},
+         "16 Megatons": {},
+         "Tokyosaka Train": {},
+         "Terminal C3 UK": "short",
+         "Weow": {},
+         "Offshore Birmingham": "short",
+         "Back Home": {},
+         "$list": "white"
+      },
+      "Love, Pussycats & Carwrecks": {
+         "Purrfect": "bad",
+         "Groover": "bad",
+         "The Last Song": "bad",
+         "Snip & Lick": "short",
+         "Carwreck": "bad",
+         "The Afterlife": "bad",
+         "12 Points Off Your Licence": "bad",
+         "Venus": "bad",
+         "Hyde Park": "bad",
+         "Theme Music for Nothing": "bad",
+         "I’m Such a Small Thing": "bad",
+         "Going Down": "good",
+         "$list": "white"
+      },
+      "=": {
+         "purrfect": {
+            "flow": "27,321",
+            "link": "https://youtu.be/-ebWfAw1eug"
+         }
+      }
+   },
+   "Genesis": {
+      "Invisible Touch": {
+         "Invisible Touch": {},
+         "Tonight, Tonight, Tonight": {},
+         "Land of Confusion": "good",
+         "In Too Deep": {},
+         "Anything She Does": {},
+         "Domino Part One In the Glow of the Night - Part Two The Last Domino": {},
+         "Throwing It All Away": {},
+         "The Brazilian": {},
+         "$list": "white"
+      },
+      "=": {
+         "Land of Confusion": {
+            "flow": "511,888",
+            "link": "https://youtu.be/QHmH1xQ2Pf4"
+         }
+      }
+   },
+   "Gnarls Barkley": {
+      "St. Elsewhere": {
+         "Go‐Go Gadget Gospel": "short",
+         "Crazy": "good",
+         "St. Elsewhere": "short",
+         "Gone Daddy Gone": "short",
+         "Smiley Faces": {},
+         "The Boogie Monster": "short",
+         "Feng Shui": "short",
+         "Just a Thought": {},
+         "Transformer": "short",
+         "Who Cares?": "short",
+         "On Line": "short",
+         "Necromancer": "short",
+         "Storm Coming": {},
+         "The Last Time": {},
+         "$list": "white"
+      },
+      "The Odd Couple": {
+         "Charity Case": {},
+         "Who’s Gonna Save My Soul": "good",
+         "Going On": "short",
+         "Run (I’m a Natural Disaster)": "short",
+         "Would Be Killer": "short",
+         "Open Book": {},
+         "Whatever": "short",
+         "Surprise": {},
+         "No Time Soon": "short",
+         "She Knows": "short",
+         "Blind Mary": {},
+         "Neighbors": {},
+         "A Little Better": {},
+         "$list": "white"
+      },
+      "=": {
+         "Crazy": {
+            "flow": "6,888,921",
+            "link": "https://youtu.be/Qe500eIK1oA"
+         }
+      }
+   },
+   "Goldfrapp": {
+      "Silver Eye": {
+         "Anymore": "bad",
+         "Systemagic": "bad",
+         "Tigerman": "good",
+         "Become the One": "bad",
+         "Faux Suede Drifter": "bad",
+         "Zodiac Black": "good",
+         "Beast That Never Was": "bad",
+         "Everything Is Never Enough": "bad",
+         "Moon in Your Mouth": "bad",
+         "Ocean": "good",
+         "$date": 2017,
+         "$list": "white"
+      },
+      "Tales of Us": {
+         "Jo": "good",
+         "Annabel": {},
+         "Drew": {},
+         "Ulla": {},
+         "Alvar": {},
+         "Thea": {},
+         "Simone": {},
+         "Stranger": {},
+         "Laurel": {},
+         "Clay": {},
+         "Lee": "good",
+         "$date": 2013,
+         "$list": "white"
+      },
+      "Head First": {
+         "$date": 2010
+      },
+      "Seventh Tree": {
+         "Clowns": "good",
+         "Little Bird": {},
+         "Happiness": {},
+         "Road to Somewhere": {},
+         "Eat Yourself": {},
+         "Some People": {},
+         "A&E": {},
+         "Cologne Cerrone Houdini": {},
+         "Caravan Girl": {},
+         "Monster Love": {},
+         "$date": 2008,
+         "$list": "white"
+      },
+      "Supernature": {
+         "Ooh La La": "good",
+         "Lovely 2 C U": "good",
+         "Ride a White Horse": "good",
+         "You Never Know": "bad",
+         "Let It Take You": "good",
+         "Fly Me Away": "bad",
+         "Slide In": "bad",
+         "Koko": "bad",
+         "Satin Chic": "bad",
+         "Time Out From the World": "good",
+         "Number 1": "bad",
+         "$date": 2005,
+         "$list": "white"
+      },
+      "Black Cherry": {
+         "Crystalline Green": "bad",
+         "Train": "bad",
+         "Black Cherry": "bad",
+         "Tiptoe": "bad",
+         "Deep Honey": "bad",
+         "Hairy Trees": "good",
+         "Twist": "bad",
+         "Strict Machine": "bad",
+         "Forever": "bad",
+         "Slippage": "bad",
+         "$date": 2003,
+         "$list": "white"
+      },
+      "Felt Mountain": {
+         "Lovely Head": "good",
+         "Paper Bag": "good",
+         "Human": "good",
+         "Pilots": "good",
+         "Deer Stop": "good",
+         "Felt Mountain": "good",
+         "Oompa Radar": "bad",
+         "Utopia": "good",
+         "Horse Tears": "good",
+         "Pilots (on a Star)": {},
+         "U.K. Girls (Physical)": "good",
+         "Lovely Head (Miss World mix)": {},
+         "Utopia (New Ears mix)": {},
+         "Human (Calexico vocal)": {},
+         "Human (Massey’s Cro-Magnon mix)": {},
+         "Utopia (Tom Middleton’s Cosmos vocal mix)": "good",
+         "$date": 2000,
+         "$list": "white"
+      },
+      "=": {
+         "Ooh La La": {
+            "flow": "1,063,979",
+            "link": "https://youtu.be/uco-2V4ytYQ"
+         }
+      }
+   },
+   "Goo Goo Dolls": {
+      "Dizzy Up the Girl": {
+         "Iris": {},
+         "Slide": {},
+         "$date": 1998,
+         "$list": "black"
+      },
+      "A Boy Named Goo": {
+         "Long Way Down": "good",
+         "Burnin’ Up": "short",
+         "Naked": {},
+         "Flat Top": {},
+         "Impersonality": "short",
+         "Name": "good",
+         "Only One": {},
+         "Somethin’ Bad": "short",
+         "Ain’t That Unusual": {},
+         "So Long": "short",
+         "Eyes Wide Open": {},
+         "Disconnected": {},
+         "Slave Girl": "short",
+         "$date": 1995,
+         "$list": "white"
+      },
+      "=": {
+         "Iris": {
+            "flow": "19,820,856",
+            "link": "https://youtu.be/NdYWuo9OFAw"
+         },
+         "Name": {
+            "flow": "1,047,005",
+            "link": "https://youtu.be/LyG3wkwKXro"
+         }
+      }
+   },
+   "Gorillaz": {
+      "The Now Now": {
+         "Humility": {},
+         "Tranz": {},
+         "$date": 2018,
+         "$list": "black"
+      },
+      "Humanz": {
+         "Andromeda": {},
+         "Saturnz Barz": {},
+         "$date": 2017,
+         "$list": "black"
+      },
+      "The Fall": {
+         "$date": 2010
+      },
+      "Plastic Beach": {
+         "On Melancholy Hill": {},
+         "Stylo": {},
+         "$date": 2010,
+         "$list": "black"
+      },
+      "Demon Days": {
+         "DARE": {},
+         "Dirty Harry": {},
+         "Feel Good Inc": {},
+         "$date": 2005,
+         "$list": "black"
+      },
+      "Gorillaz": {
+         "19-2000": {},
+         "Clint Eastwood": {},
+         "Tomorrow Comes Today": {},
+         "$date": 2001,
+         "$list": "black"
+      },
+      "=": {
+         "19-2000": {
+            "flow": "21,040,483",
+            "link": "https://youtu.be/WXR-bCF5dbM"
+         },
+         "Andromeda": {
+            "flow": "24,213,804",
+            "link": "https://youtu.be/9W44NWYwa1g"
+         },
+         "Clint Eastwood": {
+            "flow": "73,751,523",
+            "link": "https://youtu.be/1V_xRb0x9aw"
+         },
+         "DARE": {
+            "flow": "15,207,223",
+            "link": "https://youtu.be/uAOR6ib95kQ"
+         },
+         "Dirty Harry": {
+            "flow": "9,680,827",
+            "link": "https://youtu.be/cLnkQAeMbIM"
+         },
+         "Feel Good Inc": {
+            "flow": "98,994,981",
+            "link": "https://youtu.be/HyHNuVaZJ-k"
+         },
+         "Humility": {
+            "flow": "69,322,117",
+            "link": "https://youtu.be/E5yFcdPAGv0"
+         },
+         "On Melancholy Hill": {
+            "flow": "14,525,087",
+            "link": "https://youtu.be/04mfKJWDSzI"
+         },
+         "Saturnz Barz": {
+            "flow": "39,375,302",
+            "link": "https://youtu.be/5qJp6xlKEug"
+         },
+         "Stylo": {
+            "flow": "10,408,741",
+            "link": "https://youtu.be/nhPaWIeULKk"
+         },
+         "Tomorrow Comes Today": {
+            "flow": "6,597,139",
+            "link": "https://youtu.be/PiNdcBg3xC8"
+         },
+         "Tranz": {
+            "flow": "49,788,375",
+            "link": "https://youtu.be/E2Q52cVx7Bo"
+         }
+      }
+   },
+   "Gotan Project": {
+      "Tango 3.0": {
+         "Tango Square": "good",
+         "Rayuela": "bad",
+         "Desilusión": "bad",
+         "Peligro": "bad",
+         "La gloria": "bad",
+         "Mil millones": "good",
+         "Tu misterio": {},
+         "De hombre a hombre": {},
+         "El mensajero": "short",
+         "Panamericana": {},
+         "Érase una vez": {},
+         "$date": 2010,
+         "$list": "white"
+      },
+      "Lunático": {
+         "Amor Porteño": {},
+         "Notas": {},
+         "Diferente": {},
+         "Celos": {},
+         "Lunático": {},
+         "Mi Confesión": {},
+         "Tango Canción": {},
+         "La Vigüela": {},
+         "Criminal": {},
+         "Arrabal": {},
+         "Domingo": {},
+         "Paris, Texas": "good",
+         "$date": 2006,
+         "$list": "white"
+      },
+      "La revancha del tango": {
+         "Queremos paz": "good",
+         "Época": "bad",
+         "Chunga’s Revenge": "bad",
+         "Tríptico": "bad",
+         "Santa María (del Buen Ayre)": {},
+         "Una música brutal": {},
+         "El capitalismo foráneo": "good",
+         "Last Tango in Paris": {},
+         "La del ruso": {},
+         "Vuelvo al sur": {},
+         "$date": 2001,
+         "$list": "white"
+      },
+      "=": {
+         "Santa Maria": {
+            "flow": "1,886,601",
+            "link": "https://youtu.be/tqLh6rQqkoA"
+         }
+      }
+   },
+   "Green Day": {
+      "21st Century Breakdown": {
+         "21 Guns": {},
+         "$date": 2009,
+         "$list": "black"
+      },
+      "American Idiot": {
+         "Boulevard Of Broken Dreams": {},
+         "$date": 2004,
+         "$list": "black"
+      },
+      "Warning": {
+         "$date": 2000
+      },
+      "Nimrod": {
+         "Good Riddance (Time Of Your Life)": {},
+         "$date": 1997,
+         "$list": "black"
+      },
+      "Insomniac": {
+         "$date": 1995
+      },
+      "Dookie": {
+         "Basket Case": {},
+         "When I Come Around": {},
+         "$date": 1994,
+         "$list": "black"
+      },
+      "=": {
+         "21 Guns": {
+            "flow": "24,850,357",
+            "link": "https://youtu.be/r00ikilDxW4"
+         },
+         "Basket Case": {
+            "flow": "19,510,691",
+            "link": "https://youtu.be/NUTGr5t3MoY"
+         },
+         "Boulevard of Broken Dreams": {
+            "flow": "50,307,178",
+            "link": "https://youtu.be/Soa3gO7tL-c"
+         },
+         "Good Riddance": {
+            "flow": "6,048,169",
+            "link": "https://youtu.be/CnQ8N1KacJc"
+         }
+      }
+   },
+   "Grizzly Bear": {
+      "Painted Ruins": {
+         "$date": 2017,
+         "$list": "white",
+         "Wasted Acres": "short",
+         "Mourning Sound": {},
+         "Four Cypresses": {},
+         "Three Rings": "good",
+         "Losing All Sense": {},
+         "Aquarian": {},
+         "Cut-Out": {},
+         "Glass Hillside": {},
+         "Neighbors": {},
+         "Systole": {},
+         "Sky Took Hold": {}
+      },
+      "Shields": {
+         "$date": 2012,
+         "$list": "white",
+         "Sleeping Ute": "good",
+         "Speak in Rounds": "bad",
+         "Adelma": "short",
+         "Yet Again": "bad",
+         "The Hunt": "bad",
+         "A Simple Answer": "bad",
+         "What’s Wrong?": "bad",
+         "Gun-Shy": {},
+         "Half Gate": {},
+         "Sun in Your Eyes": {},
+         "Smothering Green": {},
+         "Taken Down (Marfa demo)": {},
+         "Listen and Wait": {},
+         "Everyone I Know (Marfa demo)": "short",
+         "Will Calls (Marfa demo)": "good"
+      },
+      "Veckatimest": {
+         "$date": 2009,
+         "$list": "white",
+         "Southern Point": "good",
+         "Two Weeks": {
+            "rate": "good",
+            "flow": "1,349,230",
+            "link": "https://youtu.be/tjecYugTbIQ"
+         },
+         "All We Ask": "bad",
+         "Fine for Now": "good",
+         "Cheerleader": "bad",
+         "Dory": "bad",
+         "Ready, Able": "good",
+         "About Face": "bad",
+         "Hold Still": "short",
+         "While You Wait for the Others": "good",
+         "I Live With You": "good",
+         "Foreground": "good"
+      },
+      "Yellow House": {
+         "$date": 2006,
+         "$list": "white",
+         "Easier": "good",
+         "Lullabye": "bad",
+         "Knife": "bad",
+         "Central and Remote": "good",
+         "Little Brother": "good",
+         "Plans": "good",
+         "Marla": "good",
+         "On a Neck, on a Spit": "good",
+         "Reprise": "good",
+         "Colorado": "good"
+      },
+      "Horn of Plenty": {
+         "$date": 2004,
+         "$list": "white",
+         "Deep Sea Diver": "bad",
+         "Don’t Ask": "bad",
+         "Alligator": "short",
+         "Campfire": "bad",
+         "Shift": "short",
+         "Disappearing Act": "bad",
+         "Fix It": "bad",
+         "Merge": "short",
+         "A Good Place": "bad",
+         "Showcase": "bad",
+         "La Duchess Anne": "bad",
+         "Eavesdropping": "bad",
+         "Service Bell": "short",
+         "This Song": "bad"
+      }
+   },
+   "Groove Armada": {
+      "Black Light": {
+         "Look Me in the Eye Sister": {},
+         "Fall Silent": {},
+         "Just for Tonight": {},
+         "Not Forgotten": {},
+         "I Won’t Kneel": {},
+         "Cards to Your Heart": {},
+         "Paper Romance": {},
+         "Warsaw": "bad",
+         "Shameless": {},
+         "Time & Space": {},
+         "History": "bad",
+         "$date": 2010,
+         "$list": "white"
+      },
+      "Soundboy Rock": {
+         "Hasta Luego Mr. Fab (interlude)": "good",
+         "Get Down": {},
+         "The Things That We Could Share": {},
+         "Save My Soul": {},
+         "What’s Your Version?": {},
+         "Paris": "good",
+         "Love Sweet Sound": {},
+         "The Girls Say": {},
+         "Lightsonic": {},
+         "Soundboy Rock": "good",
+         "Drop That Thing": {},
+         "Song 4 Mutya (Out of Control)": {},
+         "From the Rooftops": "good",
+         "See What You Get": {},
+         "What’s Your Version? (reprise)": "short",
+         "$date": 2007,
+         "$list": "white"
+      },
+      "Lovebox": {
+         "Purple Haze": {},
+         "Groove Is On": {},
+         "Remember": {},
+         "Madder": {},
+         "Think Twice": {},
+         "Final Shakedown": {},
+         "Be Careful What You Say": {},
+         "Hands of Time": "good",
+         "Tuning In (rewritten)": {},
+         "Easy": {},
+         "Lovebox": "good",
+         "But I Feel Good": {},
+         "$date": 2002,
+         "$list": "white"
+      },
+      "Goodbye Country (Hello Nightclub)": {
+         "Suntoucher": "bad",
+         "Superstylin’": "bad",
+         "Drifted": "bad",
+         "Little by Little": "bad",
+         "Fogma": "bad",
+         "My Friend": {},
+         "Lazy Moon": {},
+         "Raisin’ the Stakes": {},
+         "Healing": {},
+         "Edge Hill": {},
+         "Tuning In (dub mix)": {},
+         "Join Hands": {},
+         "Likwid": {},
+         "$date": 2001,
+         "$list": "white"
+      },
+      "Vertigo": {
+         "Chicago": {},
+         "Whatever, Whenever": {},
+         "Dusk You & Me": {},
+         "Pre 63": {},
+         "If Everybody Looked the Same": {},
+         "Serve Chilled": {},
+         "I See You Baby": {},
+         "A Private Interlude": {},
+         "At the River": "good",
+         "In My Bones": {},
+         "Your Song": {},
+         "Inside My Mind (Blue Skies)": {},
+         "$date": "1999-05-24",
+         "$list": "white"
+      },
+      "=": {
+         "Superstylin’": {
+            "flow": "2,594,261",
+            "link": "https://youtu.be/_kE0pxRkMtQ"
+         }
+      }
+   },
+   "Guns N’ Roses": {
+      "Use Your Illusion II": {
+         "Yesterdays": {},
+         "$date": "1991-09-17",
+         "$list": "black"
+      },
+      "Use Your Illusion I": {
+         "November Rain": {},
+         "$date": "1991-09-16",
+         "$list": "black"
+      },
+      "G N’ R Lies": {
+         "Patience": {},
+         "$date": 1988,
+         "$list": "black"
+      },
+      "Appetite for Destruction": {
+         "Sweet Child O’ Mine": {},
+         "$date": 1987,
+         "$list": "black"
+      },
+      "=": {
+         "November Rain": {
+            "flow": "123,851,131",
+            "link": "https://youtu.be/8SbUC-UaAxE"
+         },
+         "Patience": {
+            "flow": "43,348,720",
+            "link": "https://youtu.be/ErvgV4P6Fzc"
+         },
+         "Sweet Child O’ Mine": {
+            "flow": "98,551,986",
+            "link": "https://youtu.be/1w7OgIMMRc4"
+         },
+         "Yesterdays": {
+            "flow": "6,521,419",
+            "link": "https://youtu.be/NDOPlpH6NZM"
+         }
+      }
+   },
+   "Gwen Stefani": {
+      "Love. Angel. Music. Baby.": {
+         "Hollaback Girl": {},
+         "$list": "black"
+      },
+      "=": {
+         "Hollaback Girl": {
+            "flow": "19,292,734",
+            "link": "https://youtu.be/Kgjkth6BRRY"
+         }
+      }
+   }
+}

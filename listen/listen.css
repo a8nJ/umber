@@ -1,0 +1,8 @@
+body {
+   background: radial-gradient(#dee1ec 80%, #becbff);
+   font-family: sans-serif;
+}
+video {
+   max-height: 360px;
+   max-width: 100%;
+}

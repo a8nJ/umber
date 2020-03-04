@@ -1,0 +1,783 @@
+{
+  "U2": {
+    "Songs of Experience": {
+      "Ordinary Love": {},
+      "You’re the Best Thing About Me": {},
+      "$date": 2017,
+      "$list": "black"
+    },
+    "All That You Can’t Leave Behind": {
+      "Beautiful Day": {},
+      "Stuck in a Moment You Can’t Get Out Of": {},
+      "$date": 2000,
+      "$list": "black"
+    },
+    "Achtung Baby": {
+      "One": {},
+      "$date": 1991,
+      "$list": "black"
+    },
+    "Rattle and Hum": {
+      "$date": 1988
+    },
+    "The Joshua Tree": {
+      "I Still Haven’t Found What I’m Looking For": {},
+      "In God’s Country": {},
+      "Sweetest Thing": {},
+      "Where the Streets Have No Name": {},
+      "With Or Without You": {},
+      "$date": 1987,
+      "$list": "black"
+    },
+    "The Unforgettable Fire": {
+      "Bad": {},
+      "Pride": {},
+      "$date": 1984,
+      "$list": "black"
+    },
+    "War": {
+      "Sunday Bloody Sunday": {},
+      "Seconds": {},
+      "New Year’s Day": true,
+      "Like a Song": {},
+      "Drowning Man": {},
+      "The Refugee": {},
+      "Two Hearts Beat as One": {},
+      "Red Light": {},
+      "Surrender": {},
+      "40": "len",
+      "$date": 1983,
+      "$list": "white"
+    },
+    "October": {
+      "Gloria": {},
+      "I Fall Down": {},
+      "I Threw a Brick Through a Window": {},
+      "Rejoice": true,
+      "Fire": {},
+      "Tomorrow": {},
+      "October": "len",
+      "With a Shout (Jerusalem)": {},
+      "Stranger in a Strange Land": {},
+      "Scarlet": "len",
+      "Is That All?": "len",
+      "$date": 1981,
+      "$list": "white"
+    },
+    "Boy": {
+      "I Will Follow": true,
+      "Twilight": {},
+      "An Cat Dubh": {},
+      "Into the Heart": {},
+      "Out of Control": {},
+      "Stories for Boys": {},
+      "The Ocean": "len",
+      "A Day Without Me": {},
+      "Another Time, Another Place": {},
+      "The Electric Co.": {},
+      "Shadows and Tall Trees": {},
+      "$date": 1980,
+      "$list": "white"
+    },
+    "=": {
+      "Beautiful Day": {
+        "flow": "13,389,398",
+        "link": "https://youtu.be/co6WMzDOh1o"
+      },
+      "I Still Haven’t Found What I’m Looking For": {
+        "flow": "14,605,782",
+        "link": "https://youtu.be/e3-5YC_oHjE"
+      },
+      "New Year’s Day": {
+        "flow": "1,904,620",
+        "link": "https://youtu.be/vdLuk2Agamk"
+      },
+      "One": {
+        "flow": "11,486,273",
+        "link": "https://youtu.be/ZpDQJnI4OhU"
+      },
+      "Ordinary Love": {
+        "flow": "8,936,989",
+        "link": "https://youtu.be/XC3ahd6Di3M"
+      },
+      "Pride": {
+        "flow": "7,268,862",
+        "link": "https://youtu.be/LHcP4MWABGY"
+      }
+    }
+  },
+  "Ulrich Schnauss": {
+    "Synthwaves": {
+      "Main Theme": {},
+      "Rain on Dry Concrete": {},
+      "Slow Life": true,
+      "Cats and Dogs": {},
+      "A Calm but Steady Flow": {},
+      "Thirst": true,
+      "Flare": {},
+      "Prism": {},
+      "$date": 2017,
+      "$list": "white"
+    },
+    "Passage": {
+      "Amaris": false,
+      "Genau Wie Damals": false,
+      "Anywhere but Here": true,
+      "Intervention Sol": "len",
+      "Mst": false,
+      "Ao Hinode": true,
+      "Spellbreaker": false,
+      "Intervention Stjerner": "len",
+      "Caffeine Blues": false,
+      "Intervention Måne": "len",
+      "Coastal Path": true,
+      "$date": 2017,
+      "$list": "white"
+    },
+    "No Further Ahead Than Today": {
+      "$date": 2016
+    },
+    "Tomorrow Is Another Day": {
+      "$date": 2013
+    },
+    "A Long Way to Fall": {
+      "$date": 2013
+    },
+    "Underrated Silence": {
+      "$date": 2012
+    },
+    "Ulrich Schnauss & Jonas Munk": {
+      "$date": 2011
+    },
+    "Frozen in Time": {
+      "$date": 2011
+    },
+    "Epic": {
+      "$date": 2010
+    },
+    "Goodbye": {
+      "Never Be the Same": false,
+      "Shine": false,
+      "Stars": false,
+      "Einfeld": false,
+      "In Between the Years": false,
+      "Here Today, Gone Tomorrow": false,
+      "A Song About Hope": false,
+      "Medusa": false,
+      "Goodbye": {
+        "rate": "good",
+        "flow": "60,659",
+        "link": "https://youtu.be/yLNM-rJi1mM"
+      },
+      "For Good": false,
+      "$date": 2007,
+      "$list": "white"
+    },
+    "Far Away Trains Passing By": {
+      "Knuddelmaus": false,
+      "Between Us and Them": false,
+      "Passing By": false,
+      "Blumenwiese neben Autobahn": {},
+      "Nobody’s Home": {},
+      "Molfsee": {},
+      "Sunday Evening in Your Street": {},
+      "Suddenly the Trees Are Giving Way": {},
+      "Nothing Happens in June": {},
+      "As If You’ve Never Been Away": {},
+      "Crazy for You": {},
+      "Wherever You Are": {},
+      "$date": 2005,
+      "$list": "white"
+    },
+    "A Strangely Isolated Place": {
+      "Gone Forever": false,
+      "On My Own": false,
+      "A Letter From Home": false,
+      "Monday - Paracetamol": true,
+      "Clear Day": {},
+      "Blumenthal": {},
+      "In All the Wrong Places": {},
+      "A Strangely Isolated Place": {},
+      "$date": 2003,
+      "$list": "white"
+    }
+  },
+  "Underworld": {
+    "A Hundred Days Off": {
+      "$date": 2002,
+      "$list": "white",
+      "Mo Move": false,
+      "Two Months Off": true,
+      "Twist": {},
+      "Sola Sistim": {},
+      "Little Speaker": {},
+      "Trim": {},
+      "Ess Gee": "len",
+      "Dinosaur Adventure 3D": {},
+      "Ballet Lane": {},
+      "Luetin": {}
+    },
+    "Beaucoup Fish": {
+      "$date": 1999,
+      "$list": "white",
+      "Cups": false,
+      "Push Upstairs": false,
+      "Jumbo": false,
+      "Shudder / King of Snake": {},
+      "Winjer": {},
+      "Skym": {},
+      "Bruce Lee": {},
+      "Kittens": {},
+      "Push Downstairs": {},
+      "Something Like a Mama": {},
+      "Moaner": {}
+    },
+    "Second Toughest in the Infants": {
+      "$date": 1996,
+      "$list": "white",
+      "Juanita / Kiteless / To Dream of Love": false,
+      "Banstyle / Sappys Curry": false,
+      "Confusion the Waitress": false,
+      "Rowla": false,
+      "Pearls Girl": false,
+      "Air Towel": false,
+      "Blueski": "len",
+      "Stagger": true
+    },
+    "Dubnobasswithmyheadman": {
+      "$date": 1993,
+      "$list": "white",
+      "Dark & Long": true,
+      "Mmm Skyscraper I Love You": {},
+      "Surfboy": false,
+      "Spoonman": false,
+      "Tongue": true,
+      "Dirty Epic": {},
+      "Cowgirl": true,
+      "River of Bass": {},
+      "M.E.": {}
+    },
+    "Change the Weather": {
+      "Change the Weather": false,
+      "Stand Up": false,
+      "Fever": false,
+      "Original Song": false,
+      "Mercy": false,
+      "Mr. Universe": {},
+      "Texas": {},
+      "Thrash": {},
+      "Sole Survivor": {},
+      "Beach": "len",
+      "$date": 1988,
+      "$list": "white"
+    }
+  },
+  "Us3": {
+    "Hand on the Torch": {
+      "Cantaloop (Flip Fantasia)": true,
+      "I Got It Goin’ On": {},
+      "Different Rhythms Different People": "len",
+      "It’s Like That": {},
+      "Just Another Brother": {},
+      "Cruisin’": {},
+      "I Go to Work": {},
+      "Tukka Yoot’s Riddim": {},
+      "Knowledge of Self": {},
+      "Lazy Day": {},
+      "Eleven Long Years": {},
+      "Make Tracks": {},
+      "The Darkside": {},
+      "$list": "white"
+    },
+    "=": {
+      "Cantaloop": {
+        "flow": "822,480",
+        "link": "https://youtu.be/JwBjhBL9G6U"
+      }
+    }
+  },
+  "Usher": {
+    "Looking 4 Myself": {
+      "Climax": {},
+      "$date": 2012,
+      "$list": "black"
+    },
+    "Versus": {
+      "$date": 2010
+    },
+    "Raymond v. Raymond": {
+      "$date": 2010
+    },
+    "Here I Stand": {
+      "$date": 2008
+    },
+    "You Make Me Wanna": {
+      "$date": 2004
+    },
+    "Sex Appeal": {
+      "$date": 2004
+    },
+    "Confessions": {
+      "Burn": {},
+      "Confessions, Pt. II": {},
+      "Yeah!": {},
+      "$date": 2004,
+      "$list": "black"
+    },
+    "8701": {
+      "U Got It Bad": {},
+      "$date": 2001,
+      "$list": "black"
+    },
+    "=": {
+      "Climax": {
+        "flow": "11,119,074",
+        "link": "https://youtu.be/nNTyfVh3nmU"
+      },
+      "U Got It Bad": {
+        "flow": "20,097,223",
+        "link": "https://youtu.be/o3IWTfcks4k"
+      },
+      "Yeah!": {
+        "flow": "73,694,050",
+        "link": "https://youtu.be/GxBSyx85Kp8"
+      }
+    }
+  },
+  "Van Halen": {
+    "Van Halen": {
+      "Runnin’ With the Devil": true,
+      "Eruption": "len",
+      "You Really Got Me": "len",
+      "Ain’t Talkin’ ’Bout Love": true,
+      "I’m the One": {},
+      "Jamie’s Cryin’": {},
+      "Atomic Punk": {},
+      "Feel Your Love Tonight": {},
+      "Little Dreamer": {},
+      "Ice Cream Man": {},
+      "On Fire": {},
+      "$list": "white"
+    },
+    "=": {
+      "Jump": {
+        "flow": "5,659,609",
+        "link": "https://youtu.be/SwYN7mTi6HM"
+      }
+    }
+  },
+  "Van Morrison": {
+    "Poetic Champions Compose": {
+      "Someone Like You": {},
+      "$date": 1987,
+      "$list": "white"
+    },
+    "No Guru, No Method, No Teacher": {
+      "$date": 1986
+    },
+    "A Sense of Wonder": {
+      "$date": 1984
+    },
+    "Inarticulate Speech of the Heart": {
+      "$date": 1983
+    },
+    "Beautiful Vision": {
+      "$date": 1982
+    },
+    "Common One": {
+      "$date": 1980
+    },
+    "Into the Music": {
+      "$date": 1979
+    },
+    "Wavelength": {
+      "$date": 1978
+    },
+    "A Period of Transition": {
+      "$date": 1977
+    },
+    "Veedon Fleece": {
+      "$date": 1974
+    },
+    "Hard Nose the Highway": {
+      "$date": 1973
+    },
+    "Saint Dominic’s Preview": {
+      "$date": 1972
+    },
+    "Tupelo Honey": {
+      "$date": 1971
+    },
+    "His Band and the Street Choir": {
+      "$date": 1970
+    },
+    "Moondance": {
+      "And It Stoned Me": {},
+      "Moondance": true,
+      "Crazy Love": "len",
+      "Caravan": {},
+      "Into the Mystic": {},
+      "Come Running": "len",
+      "These Dreams of You": {},
+      "Brand New Day": {},
+      "Everyone": {},
+      "Glad Tidings": true,
+      "$date": 1970,
+      "$list": "white"
+    },
+    "Astral Weeks:": {
+      "Astral Weeks": {},
+      "Beside You": {},
+      "Sweet Thing": {},
+      "Cyprus Avenue": {},
+      "The Way Young Lovers Do": {},
+      "Madame George": {},
+      "Ballerina": {},
+      "Slim Slow Slider": true,
+      "$date": 1968,
+      "$list": "white"
+    },
+    "Blowin’ Your Mind!": {
+      "Brown Eyed Girl": {},
+      "$date": 1967,
+      "$list": "black"
+    },
+    "=": {
+      "Brown Eyed Girl": {
+        "flow": "6,776,288",
+        "link": "https://youtu.be/UfmkgQRmmeE"
+      },
+      "Someone Like You": {
+        "flow": "1,793,331",
+        "link": "https://youtu.be/UfmkgQRmmeE"
+      }
+    }
+  },
+  "Warren G": {
+    "Regulate... G Funk Era": {
+      "Regulate": {},
+      "$list": "black"
+    },
+    "=": {
+      "Regulate": {
+        "flow": "19,524,457",
+        "link": "https://youtu.be/1plPyJdXKIY"
+      }
+    }
+  },
+  "Weezer": {
+    "Weezer (blue album)": {
+      "Say It Ain’t So": {},
+      "$list": "black"
+    },
+    "=": {
+      "Say It Ain’t So": {
+        "flow": "8,507,855",
+        "link": "https://youtu.be/ENXvZ9YRjbo"
+      }
+    }
+  },
+  "Wilco": {
+    "The Whole Love": {
+      "Art of Almost": {},
+      "I Might": {},
+      "Sunloathe": {},
+      "Dawned on Me": {},
+      "Black Moon": true,
+      "Born Alone": {},
+      "Open Mind": {},
+      "Capitol City": {},
+      "Standing O": {},
+      "Rising Red Lung": {},
+      "Whole Love": {},
+      "One Sunday Morning": {},
+      "$list": "white"
+    },
+    "=": {
+      "you and i": {
+        "flow": "254,287",
+        "link": "https://youtu.be/USjuOWLyWIQ"
+      }
+    }
+  },
+  "Will Smith": {
+    "Big Willie Style": {
+      "Gettin’ Jiggy Wit It": {},
+      "$date": 1997,
+      "$list": "black"
+    },
+    "=": {
+      "Gettin’ Jiggy Wit It": {
+        "flow": "6,326,024",
+        "link": "https://youtu.be/3JcmQONgXJM"
+      }
+    }
+  },
+  "Wye Oak": {
+    "Civilian": {
+      "Two Small Deaths": {},
+      "The Alter": {},
+      "Holy Holy": {},
+      "Dogs Eyes": {},
+      "Civilian": true,
+      "Fish": {},
+      "Plains": {},
+      "Hot as Day": {},
+      "We Were Wealth": {},
+      "Doubt": "len",
+      "$date": 2011,
+      "$list": "white"
+    },
+    "The Knot": {
+      "Milk and Honey": "len",
+      "For Prayer": {},
+      "Take It In": {},
+      "Siamese": {},
+      "Talking About Money": {},
+      "Mary Is Mary": true,
+      "Tattoo": {},
+      "I Want for Nothing": {},
+      "That I Do": {},
+      "Sight, Flight": {},
+      "$date": 2009,
+      "$list": "white"
+    },
+    "=": {
+      "Civilian": {
+        "flow": "1,076,903",
+        "link": "https://youtu.be/Mssm8Ml5sOo"
+      }
+    }
+  },
+  "Yeah Yeah Yeahs": {
+    "It’s Blitz!": {
+      "Heads Will Roll": {},
+      "$date": 2009,
+      "$list": "black"
+    },
+    "Show Your Bones": {
+      "Gold Lion": {},
+      "Way Out": "len",
+      "Fancy": {},
+      "Phenomena": true,
+      "Honeybear": "len",
+      "Cheated Hearts": {},
+      "Dudley": {},
+      "Mysteries": "len",
+      "The Sweets": {},
+      "Warrior": {},
+      "Turn Into": {},
+      "$date": 2006,
+      "$list": "white"
+    },
+    "Fever to Tell": {
+      "Rich": true,
+      "Date With the Night": "len",
+      "Man": "len",
+      "Tick": "len",
+      "Black Tongue": {},
+      "Pin": "len",
+      "Cold Light": "len",
+      "No No No": {},
+      "Maps": true,
+      "Y Control": {},
+      "Modern Romance / Poor Song": {},
+      "$date": 2003,
+      "$list": "white"
+    },
+    "=": {
+      "Heads Will Roll": {
+        "flow": "16,143,630",
+        "link": "https://youtu.be/or3U2rXxvQw"
+      },
+      "Maps": {
+        "flow": "5,403,883",
+        "link": "https://youtu.be/oIIxlgcuQRU"
+      }
+    }
+  },
+  "true": {
+    "90125": {
+      "Owner of a Lonely Heart": {},
+      "$date": 1983,
+      "$list": "white"
+    },
+    "Drama": {
+      "$date": 1980
+    },
+    "Tormato": {
+      "$date": 1978
+    },
+    "Going for the One": {
+      "$date": 1977
+    },
+    "Relayer": {
+      "$date": 1974
+    },
+    "Tales From Topographic Oceans": {
+      "$date": 1973
+    },
+    "Close to the Edge": {
+      "$date": 1972
+    },
+    "Fragile": {
+      "Roundabout": true,
+      "Cans and Brahms": "len",
+      "We Have Heaven": "len",
+      "South Side of the Sky": {},
+      "Five Per Cent for Nothing": "len",
+      "Long Distance Runaround": {},
+      "The Fish (Schindleria Praematurus)": "len",
+      "Mood for a Day": {},
+      "Heart of the Sunrise / We Have Heaven (reprise)": {},
+      "$date": 1971,
+      "$list": "white"
+    },
+    "=": {
+      "Owner of a Lonely Heart": {
+        "flow": "2,105,831",
+        "link": "https://youtu.be/SVOuYquXuuc"
+      }
+    }
+  },
+  "You Say Party": {
+    "XXXX": {
+      "There Is XXXX (Within My Heart)": {},
+      "Glory": "len",
+      "Dark Days": true,
+      "Cosmic Wanship Avengers": {},
+      "Lonely’s Lunch": {},
+      "Make XXXX": {},
+      "Laura Palmer’s Prom": {},
+      "She’s Spoken For": {},
+      "XXXX/Loyalty": {},
+      "Heart of Gold": {},
+      "$date": 2010,
+      "$list": "white"
+    },
+    "Lose All Time": {
+      "Monster": {},
+      "$date": 2007,
+      "$list": "white"
+    },
+    "=": {
+      "Monster": {
+        "flow": "49,486",
+        "link": "https://youtu.be/-IQKsrXDHrg"
+      }
+    }
+  },
+  "Yppah": {
+    "Eighty One": {
+      "Never Mess With Sunday": {},
+      "$date": 2012,
+      "$list": "white"
+    },
+    "They Know What Ghost Know": {
+      "$date": 2009
+    },
+    "Gumball Machine Weekend": {
+      "Gumball Machine Weekend": {},
+      "Shutter Speed": true,
+      "They Know What Ghost Know": {},
+      "Gumball Machine Weekend (Pollination Remix)": {},
+      "The Drag": {},
+      "$date": 2009,
+      "$list": "white"
+    },
+    "You Are Beautiful at All Times": {
+      "Ending With You": false,
+      "I’ll Hit the Breaks": false,
+      "Again With the Subtitles": "len",
+      "The Subtleties That Count": "len",
+      "We Aim": false,
+      "What’s the Matter?": "len",
+      "In Two, the Weakly": false,
+      "Almost in That Category": false,
+      "Good Like That": "len",
+      "Cannot See Straight": true,
+      "It’s Not the Same": "len",
+      "Longtime": false,
+      "$date": 2006,
+      "$list": "white"
+    },
+    "=": {
+      "Never Mess With Sunday": {
+        "flow": "93,586",
+        "link": "https://youtu.be/NqfAj1C7rPc"
+      }
+    }
+  },
+  "Zero 7": {
+    "Yeah Ghost": {
+      "Count Me Out": "len",
+      "Mr McGee": false,
+      "Swing": false,
+      "Everything Up (Zizou)": false,
+      "Pop Art Blue": false,
+      "Medicine Man": false,
+      "Ghost sYMbOL": {},
+      "Sleeper": {},
+      "Solastalgia": "len",
+      "The Road": {},
+      "All of Us": {},
+      "$date": 2009,
+      "$list": "white"
+    },
+    "The Garden": {
+      "Futures": {},
+      "Throw It All Away": true,
+      "Seeing Things": {},
+      "The Pageant of the Bizarre": {},
+      "You’re My Flame": {},
+      "Left Behind": "len",
+      "Today": {},
+      "This Fine Social Scene": {},
+      "Your Place": {},
+      "If I Can’t Have You": {},
+      "Crosses": true,
+      "Waiting to Die": {},
+      "$date": 2006,
+      "$list": "white"
+    },
+    "When It Falls": {
+      "Warm Sound": {},
+      "Home": {},
+      "Somersault": {},
+      "Passing By": {},
+      "Over Our Heads": {},
+      "When It Falls": {},
+      "The Space Between": {},
+      "Speed Dial No. 2": {},
+      "Look Up": true,
+      "In Time": {},
+      "Morning Song": {},
+      "$date": 2004,
+      "$list": "white"
+    },
+    "Simple Things": {
+      "I Have Seen": false,
+      "Polaris": true,
+      "Destiny": true,
+      "Give It Away": true,
+      "Simple Things": false,
+      "Red Dust": false,
+      "Distractions": false,
+      "In the Waiting Line": true,
+      "Out of Town": true,
+      "This World": false,
+      "Likufanele": false,
+      "End Theme": false,
+      "Spinning Dub": false,
+      "Salt Water Sound": true,
+      "$date": 2001,
+      "$list": "white"
+    },
+    "=": {
+      "Destiny": {
+        "flow": "527,084",
+        "link": "https://youtu.be/INn1C6ImJKg"
+      }
+    }
+  }
+}

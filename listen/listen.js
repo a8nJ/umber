@@ -1,0 +1,18 @@
+'use strict';
+const gei = s1 => document.getElementById(s1);
+const path = 'https://github.com/cup/umber/releases/download';
+const s_json = '/umber/assets/umber.json';
+
+fetch(s_json).
+then(resp => resp.json()).
+then(a1 => {
+   const vpar = new URLSearchParams(location.search).get('v');
+   const vdeo = a1.find(trck => trck[0] == vpar);
+   const dstr = new Date(vdeo[0] * 1000).toDateString();
+
+   gei('listen').src = path + '/' + vdeo[2].slice(2) + '/' + vdeo[0];
+   gei('listen').poster = path + '/' + vdeo[2].slice(2) + '/image.jpg';
+   gei('artist').textContent = vdeo[3];
+   gei('date').textContent = 'released ' + vdeo[1] + ' - posted ' + dstr;
+   document.title = vdeo[3] + ' - Umber Listen';
+});

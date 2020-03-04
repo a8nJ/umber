@@ -1,0 +1,1018 @@
+{
+   "Daft Punk": {
+      "Random Access Memories": {
+         "Get Lucky": {},
+         "Instant Crush": {},
+         "Lose Yourself to Dance": {},
+         "=": {
+            "rel": 2013,
+            "white": false
+         }
+      },
+      "TRON Legacy": {
+         "Overture": "len",
+         "The Grid": "len",
+         "The Son of Flynn": "len",
+         "Recognizer": "len",
+         "Armory": "len",
+         "Arena": "len",
+         "Rinzler": "len",
+         "The Game Has Changed": true,
+         "Outlands": "len",
+         "Adagio for TRON": {},
+         "Nocturne": "len",
+         "End of Line": "len",
+         "Derezzed": "len",
+         "Fall": "len",
+         "Solar Sailer": "len",
+         "Rectifier": "len",
+         "Disc Wars": {},
+         "C.L.U.": {},
+         "Arrival": "len",
+         "Flynn Lives": {},
+         "TRON Legacy (End Titles)": {},
+         "Finale": {},
+         "=": {
+            "rel": 2010,
+            "white": true
+         }
+      },
+      "Alive 2007": {
+         "Robot Rock / Oh Yeah": {},
+         "Touch It / Technologic": {},
+         "Television Rules the Nation / Crescendolls": {},
+         "Too Long / Steam Machine": true,
+         "Around the World / Harder Better Faster Stronger": true,
+         "Burnin’ / Too Long": {},
+         "Face to Face / Short Circuit": {},
+         "One More Time / Aerodynamic": true,
+         "Aerodynamic Beats / Forget About the World": true,
+         "Prime Time of Your Life / Brainwasher / Rollin’ and Scratchin’ / Alive": {},
+         "Da Funk / Daftendirekt": true,
+         "Superheroes / Human After All / Rock’n Roll": {},
+         "Human After All/Together/One More Time/Music Sounds Better With You": true,
+         "=": {
+            "rel": 2007,
+            "white": true
+         }
+      },
+      "Human After All": {
+         "Human After All": false,
+         "The Prime Time of Your Life": false,
+         "Robot Rock": false,
+         "Steam Machine": false,
+         "Make Love": true,
+         "The Brainwasher": false,
+         "On/Off": "len",
+         "Television Rules the Nation": {},
+         "Technologic": {},
+         "Emotion": {},
+         "=": {
+            "rel": 2005,
+            "white": true
+         }
+      },
+      "Discovery": {
+         "Digital Love": {},
+         "Harder Better Faster Stronger": {},
+         "One More Time": {},
+         "Something About Us": {},
+         "=": {
+            "rel": 2001,
+            "white": false
+         }
+      },
+      "Homework": {
+         "Around the World": {},
+         "=": {
+            "rel": 1997,
+            "white": false
+         }
+      },
+      "=": {
+         "Around the World": {
+            "flow": "12,883,797",
+            "link": "https://youtu.be/yca6UsllwYs"
+         },
+         "Get Lucky": {
+            "flow": "74,543,389",
+            "link": "https://youtu.be/5NV6Rdv1a3I"
+         },
+         "Stronger": {
+            "flow": "32,146,607",
+            "link": "https://youtu.be/PsO6ZnUZI0g"
+         },
+         "Technologic": {
+            "flow": "4,433,751",
+            "link": "https://youtu.be/D8K90hX4PrE"
+         }
+      }
+   },
+   "Dan Hess": {
+      "Pilotwings 64": {
+         "Hang Glider": true,
+         "Rocket Belt": true,
+         "Gyrocopter": {},
+         "Jumble Hopper": {},
+         "Birdman": {},
+         "Bravissimo!": {},
+         "=": {
+            "rel": 1996,
+            "white": true
+         }
+      },
+      "=": {
+         "Birdman": {
+            "flow": 78,
+            "link": "https://youtu.be/GJWY-mWoiM0"
+         }
+      }
+   },
+   "Daniel Lanois": {
+      "Acadie": {
+         "Still Water": {},
+         "The Maker": {},
+         "O Marie": {},
+         "Jolie Louise": "len",
+         "Fisherman’s Daughter": "len",
+         "White Mustang II": true,
+         "Under a Stormy Sky": "len",
+         "Where the Hawkwind Kills": {},
+         "Silium’s Hill": {},
+         "Ice": {},
+         "St. Ann’s Gold": {},
+         "Amazing Grace": {},
+         "=": {
+            "rel": 1989,
+            "white": true
+         }
+      },
+      "=": {
+         "Jolie Louise": {
+            "flow": "99,561",
+            "link": "https://youtu.be/mt0LDopjNbg"
+         }
+      }
+   },
+   "Dave Matthews Band": {
+      "Stand Up": {
+         "Dreamgirl": {},
+         "Old Dirt Hill (Bring That Beat Back)": {},
+         "Stand Up (for It)": {},
+         "American Baby Intro": "len",
+         "American Baby": {},
+         "Smooth Rider": "len",
+         "Everybody Wake Up (Our Finest Hour Arrives)": {},
+         "Out of My Hands": {},
+         "Hello Again": {},
+         "Louisiana Bayou": {},
+         "Stolen Away on 55th & 3rd": {},
+         "You Might Die Trying": true,
+         "Steady as We Go": {},
+         "Hunger for the Great Light": {},
+         "=": {
+            "rel": 2005,
+            "white": true
+         }
+      },
+      "Busted Stuff": {
+         "Busted Stuff": false,
+         "Grey Street": true,
+         "Where Are You Going?": {},
+         "You Never Know": {},
+         "Captain": {},
+         "Raven": {},
+         "Grace Is Gone": {},
+         "Kit Kat Jam": {},
+         "Digging a Ditch": {},
+         "Big Eyed Fish": {},
+         "Bartender": {},
+         "=": {
+            "rel": 2002,
+            "white": true
+         }
+      },
+      "Everyday": {
+         "I Did It": false,
+         "When the World Ends": false,
+         "The Space Between": false,
+         "Dreams of Our Fathers": false,
+         "So Right": false,
+         "If I Had It All": {},
+         "What You Are": {},
+         "Angel": {},
+         "Fool to Think": {},
+         "Sleep to Dream Her": {},
+         "Mother Father": {},
+         "Everyday": {},
+         "=": {
+            "rel": 2001,
+            "white": true
+         }
+      },
+      "Before These Crowded Streets": {
+         "Pantala Naga Pampa": "len",
+         "Rapunzel": false,
+         "The Last Stop": false,
+         "Don’t Drink the Water": false,
+         "Stay (Wasting Time)": false,
+         "Halloween": false,
+         "The Stone": {},
+         "Crush": {},
+         "The Dreaming Tree": {},
+         "Pig": {},
+         "Spoon": {},
+         "=": {
+            "rel": 1998,
+            "white": true
+         }
+      },
+      "Crash": {
+         "So Much to Say": true,
+         "Two Step": {},
+         "Crash Into Me": true,
+         "Too Much": {},
+         "41": {},
+         "Say Goodbye": {},
+         "Drive In Drive Out": {},
+         "Let You Down": {},
+         "Lie in Our Graves": {},
+         "Cry Freedom": {},
+         "Tripping Billies": {},
+         "Proudest Monkey": {},
+         "=": {
+            "rel": 1996,
+            "white": true
+         }
+      },
+      "Under the Table and Dreaming": {
+         "The Best of What’s Around": {},
+         "What Would You Say": {},
+         "Satellite": {},
+         "Rhyme & Reason": {},
+         "Typical Situation": {},
+         "Dancing Nancies": {},
+         "Ants Marching": true,
+         "Lover Lay Down": {},
+         "Jimi Thing": {},
+         "Warehouse": {},
+         "Pay for What You Get": {},
+         "34": {},
+         "=": {
+            "rel": 1994,
+            "white": true
+         }
+      },
+      "=": {
+         "Crash Into Me": {
+            "flow": "1,747,085",
+            "link": "https://youtu.be/k7in-9E3ImQ"
+         }
+      }
+   },
+   "Depeche Mode": {
+      "Spirit": {
+         "Where’s the Revolution": {},
+         "=": {
+            "rel": 2017,
+            "white": false
+         }
+      },
+      "Delta Machine": {
+         "rel": 2013
+      },
+      "Sounds of the Universe": {
+         "rel": 2009
+      },
+      "Playing the Angel": {
+         "rel": 2005
+      },
+      "Exciter": {
+         "rel": 2001
+      },
+      "Ultra": {
+         "Barrel of a Gun": false,
+         "The Love Thieves": false,
+         "Home": false,
+         "It’s No Good": false,
+         "Uselink": "len",
+         "Useless": false,
+         "Sister of Night": false,
+         "Jazz Thieves": "len",
+         "Freestate": false,
+         "The Bottom Line": false,
+         "Insight": false,
+         "Junior Painkiller": "len",
+         "=": {
+            "rel": 1997,
+            "white": true
+         }
+      },
+      "Songs of Faith and Devotion": {
+         "rel": 1993
+      },
+      "Violator": {
+         "Enjoy The Silence": {},
+         "Personal Jesus": {},
+         "=": {
+            "rel": 1990,
+            "white": false
+         }
+      },
+      "Music for the Masses": {
+         "Strangelove": {},
+         "=": {
+            "rel": 1987,
+            "white": false
+         }
+      },
+      "Black Celebration": {
+         "rel": 1986
+      },
+      "Some Great Reward": {
+         "rel": 1984
+      },
+      "Construction Time Again": {
+         "rel": 1983
+      },
+      "A Broken Frame": {
+         "rel": 1982
+      },
+      "Speak & Spell": {
+         "New Life": false,
+         "Puppets": false,
+         "Dreaming of Me": false,
+         "Boys Say Go!": false,
+         "Nodisco": false,
+         "What’s Your Name?": "len",
+         "Photographic": {},
+         "Tora! Tora! Tora!": {},
+         "Big Muff": {},
+         "Any Second Now (Voices)": "len",
+         "Just Can’t Get Enough": {},
+         "=": {
+            "rel": 1981,
+            "white": true
+         }
+      },
+      "=": {
+         "It’s No Good": {
+            "flow": "5,866,027",
+            "link": "https://youtu.be/stpaq27-V70"
+         },
+         "Personal Jesus": {
+            "flow": "9,479,143",
+            "link": "https://youtu.be/u1xrNaTO1bI"
+         },
+         "Strangelove": {
+            "flow": "6,532,962",
+            "link": "https://youtu.be/JIrm0dHbCDU"
+         },
+         "Where’s the Revolution": {
+            "flow": "8,644,886",
+            "link": "https://youtu.be/jsCR05oKROA"
+         }
+      }
+   },
+   "Dirty Projectors": {
+      "Bitte Orca": {
+         "Cannibal Resource": true,
+         "Temecula Sunrise": true,
+         "The Bride": "len",
+         "Stillness Is the Move": true,
+         "Two Doves": true,
+         "Useful Chamber": {},
+         "No Intention": true,
+         "Remade Horizon": {},
+         "Fluorescent Half Dome": {},
+         "=": {
+            "rel": 2009,
+            "white": true
+         }
+      },
+      "=": {
+         "Stillness Is The Move": {
+            "flow": "323,658",
+            "link": "https://youtu.be/YMPF6lpM0XM"
+         }
+      }
+   },
+   "Dirty Vegas": {
+      "=": {
+         "Days Go By": {
+            "flow": "1,152,039",
+            "link": "https://youtu.be/M51rijkxa_4"
+         }
+      },
+      "Dirty Vegas": {
+         "I Should Know": {},
+         "Ghosts": {},
+         "Lost Not Found": {},
+         "Days Go By": true,
+         "Throwing Shapes": {},
+         "Candles": {},
+         "All or Nothing": {},
+         "Alive": {},
+         "7AM": {},
+         "The Brazilian": {},
+         "Simple Things, Part 2": {},
+         "Days Go By (acoustic)": "len",
+         "=": {
+            "rel": 2002,
+            "white": true
+         }
+      }
+   },
+   "Disturbed": {
+      "Evolution": {
+         "A Reason to Fight": {},
+         "Are You Ready": {},
+         "Hold on to Memories": {},
+         "Immortalized": {},
+         "No More": {},
+         "Stronger on Your Own": {},
+         "The Best Ones Lie": {},
+         "The Light": {},
+         "The Vengeful One": {},
+         "=": {
+            "rel": 2018,
+            "white": false
+         }
+      },
+      "Immortalized": {
+         "The Sound of Silence": {},
+         "=": {
+            "rel": 2015,
+            "white": false
+         }
+      },
+      "Asylum": {
+         "rel": 2010
+      },
+      "Indestructible": {
+         "rel": 2008
+      },
+      "Ten Thousand Fists": {
+         "Stricken": {},
+         "=": {
+            "rel": 2005,
+            "white": false
+         }
+      },
+      "Believe": {
+         "rel": 2002
+      },
+      "The Sickness": {
+         "Down With the Sickness": {},
+         "Stupify": {},
+         "The Game": {},
+         "Voices": {},
+         "=": {
+            "rel": 2000,
+            "white": false
+         }
+      },
+      "=": {
+         "A Reason To Fight": {
+            "flow": "16,779,619",
+            "link": "https://youtu.be/t4382UVl0oc"
+         },
+         "Down With the Sickness": {
+            "flow": "9,703,017",
+            "link": "https://youtu.be/09LTT0xwdfw"
+         },
+         "Stricken": {
+            "flow": "6,488,391",
+            "link": "https://youtu.be/3moLkjvhEu0"
+         },
+         "The Sound of Silence": {
+            "flow": "153,992,522",
+            "link": "https://youtu.be/u9Dg-g7t2l4"
+         }
+      }
+   },
+   "Doe Paoro": {
+      "After": {
+         "Traveling": true,
+         "Nostalgia": false,
+         "Growth/Decay": true,
+         "Hypotheticals": {},
+         "Outlines": {},
+         "Walking Backwards": {},
+         "Untethered": {},
+         "Nobody": {},
+         "Regret": {},
+         "Wake Up in Nowhere": {},
+         "=": {
+            "rel": 2015,
+            "white": true
+         }
+      },
+      "Slow to Love": {
+         "Intro": "len",
+         "Born Whole": false,
+         "I’ll Go Blind": false,
+         "Can’t Leave You": false,
+         "Trying to Impress": false,
+         "Body Games": "len",
+         "Slow to Love": "len",
+         "Follow You Til": "len",
+         "Soft but Strong": "len",
+         "=": {
+            "rel": 2012,
+            "white": true
+         }
+      },
+      "=": {
+         "The Wind": {
+            "flow": "40,570",
+            "link": "https://youtu.be/HuRU2v6Moak"
+         }
+      }
+   },
+   "Dr. Dre": {
+      "2001": {
+         "Forgot About Dre": {},
+         "Still D.R.E": {},
+         "The Next Episode": {},
+         "=": {
+            "rel": 1999,
+            "white": false
+         }
+      },
+      "The Chronic": {
+         "The Chronic (intro)": "len",
+         "Fuck Wit Dre Day (And Everybody’s Celebratin’)": {},
+         "Let Me Ride": {},
+         "The Day the Niggaz Took Over": {},
+         "Nuthin’ but a “G” Thang": true,
+         "Deeez Nuuuts": {},
+         "Lil’ Ghetto Boy": {},
+         "A Nigga Witta Gun": {},
+         "Rat-Tat-Tat-Tat": {},
+         "The $20 Sack Pyramid": "len",
+         "Lyrical Gangbang": {},
+         "High Powered": "len",
+         "The Doctor’s Office": "len",
+         "Stranded on Death Row": {},
+         "The Roach (The Chronic Outro)": {},
+         "Bitches Ain’t Shit": {},
+         "=": {
+            "rel": 1992,
+            "white": true
+         }
+      },
+      "=": {
+         "Nuthin’ but a G Thang": {
+            "flow": "4,584,395",
+            "link": "https://youtu.be/0F0CAEoF4XM"
+         },
+         "Still D.R.E.": {
+            "flow": "82,605,839",
+            "link": "https://youtu.be/_CL6n0FJZpk"
+         }
+      }
+   },
+   "Duke Ellington": {
+      "Money Jungle": {
+         "Money Jungle": {},
+         "Fleurette Africaine": true,
+         "Very Special": {},
+         "Warm Valley": true,
+         "Wig Wise": {},
+         "Caravan": {},
+         "Solitude": true,
+         "=": {
+            "rel": 1962,
+            "white": "yet"
+         }
+      },
+      "Duke Ellington Meets Coleman Hawkins": {
+         "rel": 1962
+      },
+      "Recording Together for the First Time": {
+         "rel": 1961
+      },
+      "Piano in the Foreground": {
+         "rel": 1961
+      },
+      "First Time! The Count Meets the Duke": {
+         "Battle Royal": {},
+         "To You": true,
+         "Take the “A” Train": {},
+         "Until I Met You": {},
+         "Wild Man": {},
+         "Segue in C": {},
+         "B D B": {},
+         "Jumpin’ at the Woodside": {},
+         "=": {
+            "rel": 1961,
+            "white": true
+         }
+      },
+      "=": {
+         "It don’t mean a thing": {
+            "flow": "911,897",
+            "link": "https://youtu.be/qDQpZT3GhDg"
+         }
+      }
+   },
+   "Duran Duran": {
+      "Duran Duran (The Wedding Album)": {
+         "Come Undone": {},
+         "=": {
+            "rel": 1993,
+            "white": false
+         }
+      },
+      "Liberty": {
+         "rel": 1990
+      },
+      "Big Thing": {
+         "rel": 1988
+      },
+      "Notorious": {
+         "Notorious": false,
+         "American Science": false,
+         "Skin Trade": false,
+         "A Matter of Feeling": false,
+         "Hold Me": false,
+         "Vertigo (Do the Demolition)": false,
+         "So Misled": false,
+         "“Meet el Presidente”": false,
+         "Winter Marches On": false,
+         "Proposition": false,
+         "=": {
+            "rel": 1986,
+            "white": true
+         }
+      },
+      "=": {
+         "Come Undone": {
+            "flow": "18,836,105",
+            "link": "https://youtu.be/Epj84QVw2rc"
+         },
+         "Save a Prayer": {
+            "flow": "4,584,790",
+            "link": "https://youtu.be/6Uxc9eFcZyM"
+         }
+      }
+   },
+   "Eddie Money": {
+      "Can’t Hold Back": {
+         "Take Me Home Tonight": true,
+         "One Love": {},
+         "I Wanna Go Back": {},
+         "Endless Nights": {},
+         "One Chance": {},
+         "We Should Be Sleeping": {},
+         "Bring on the Rain": {},
+         "I Can’t Hold Back": {},
+         "Stranger in a Strange Land": {},
+         "Calm Before the Storm": {},
+         "=": {
+            "rel": 1985,
+            "white": true
+         }
+      },
+      "=": {
+         "Shakin’": {
+            "flow": "1,841,303",
+            "link": "https://youtu.be/2tcD_dVcXE4"
+         }
+      }
+   },
+   "Ekkah": {
+      "Can’t Give It Up / Figure It Out (Night Edit)": {
+         "Can’t Give It Up": "len",
+         "Figure It Out (Night Edit)": true,
+         "=": {
+            "rel": 2016,
+            "white": true
+         }
+      },
+      "Last Chance to Dance": {
+         "Last Chance to Dance": true,
+         "Holiday Blues (demo)": {},
+         "Ex-Change (demo)": "len",
+         "Only U 4 Me (demo)": "len",
+         "=": {
+            "rel": 2014,
+            "white": true
+         }
+      },
+      "=": {
+         "LAST CHANCE TO DANCE": {
+            "flow": "50,372",
+            "link": "https://youtu.be/gvM1a72Dcqw"
+         }
+      }
+   },
+   "Eli & Fur": {
+      "Illusions": {
+         "You’re So High": {},
+         "=": {
+            "rel": 2013,
+            "white": false
+         }
+      },
+      "Night Blooming Jasmine": {
+         "Night Blooming Jasmine": true,
+         "Something Was Real": {},
+         "Parfume": {},
+         "Honest": {},
+         "Parfume (extended mix)": {},
+         "=": {
+            "rel": 2018,
+            "white": true
+         }
+      },
+      "=": {
+         "Seeing Is Believing": {
+            "flow": "339,935",
+            "link": "https://youtu.be/13_3zV3_DJ0"
+         },
+         "You’re So High": {
+            "flow": "21,490,696",
+            "link": "https://youtu.be/3GEqdbh8sFI"
+         }
+      }
+   },
+   "Elton John": {
+      "Madman Across the Water": {
+         "Tiny Dancer": {},
+         "=": {
+            "rel": 1971,
+            "white": false
+         }
+      },
+      "=": {
+         "Tiny Dancer": {
+            "flow": "978,086,517",
+            "link": "https://youtu.be/S3vO8E2e6G0"
+         }
+      }
+   },
+   "Emilíana Torrini": {
+      "Tookah": {
+         "Tookah": false,
+         "Caterpillar": false,
+         "Autumn Sun": false,
+         "Home": false,
+         "Elísabet": false,
+         "Animal Games": "len",
+         "Speed of Dark": {},
+         "Blood Red": {},
+         "When Fever Breaks": {},
+         "=": {
+            "rel": 2013,
+            "white": true
+         }
+      },
+      "Me and Armini": {
+         "Fireheads": {},
+         "Me and Armini": true,
+         "Birds": {},
+         "Heard It All Before": {},
+         "Ha Ha": {},
+         "Big Jumps": {},
+         "Jungle Drum": "len",
+         "Hold Heart": "len",
+         "Gun": {},
+         "Beggar’s Prayer": "len",
+         "Dead Duck": {},
+         "Bleeder": {},
+         "=": {
+            "rel": 2008,
+            "white": true
+         }
+      },
+      "Fisherman’s Woman": {
+         "Nothing Brings Me Down": false,
+         "Sunny Road": true,
+         "Snow": "len",
+         "Lifesaver": true,
+         "Honeymoon Child": false,
+         "Today Has Been OK": false,
+         "Next Time Around": false,
+         "Heartstopper": false,
+         "At Least It Was": true,
+         "Fisherman’s Woman": "len",
+         "Thinking Out Loud": {},
+         "Serenade": {},
+         "=": {
+            "rel": 2005,
+            "white": true
+         }
+      },
+      "Love in the Time of Science": {
+         "To Be Free": {},
+         "Wednesday’s Child": true,
+         "Baby Blue": {},
+         "Dead Things": {},
+         "Unemployed in Summertime": {},
+         "Easy": {},
+         "Fingertips": {},
+         "Telepathy": {},
+         "Tuna Fish": {},
+         "Summerbreeze": {},
+         "Sea People": "len",
+         "=": {
+            "rel": 1999,
+            "white": true
+         }
+      },
+      "=": {
+         "Jungle Drum": {
+            "flow": "2,065,864",
+            "link": "https://youtu.be/iZ9vkd7Rp-g"
+         }
+      }
+   },
+   "Empress Of": {
+      "Us": {
+         "Everything to Me": "len",
+         "Just the Same": false,
+         "Trust Me Baby": {},
+         "Love for Me": {},
+         "I Don’t Even Smoke Weed": {},
+         "Timberlands": {},
+         "I’ve Got Love": {},
+         "All for Nothing": {},
+         "When I’m With Him": {},
+         "Again": {},
+         "=": {
+            "rel": 2018,
+            "white": true
+         }
+      },
+      "Woman Is a Word": {
+         "Woman Is a Word": true,
+         "=": {
+            "rel": 2016,
+            "white": true
+         }
+      },
+      "Me": {
+         "Everything Is You": false,
+         "Water Water": false,
+         "Standard": true,
+         "How Do You Do It": false,
+         "To Get By": "len",
+         "Kitty Kat": "len",
+         "Need Myself": false,
+         "Make Up": false,
+         "Threat": false,
+         "Icon": false,
+         "=": {
+            "rel": 2015,
+            "white": true
+         }
+      },
+      "Systems": {
+         "Hat Trick": false,
+         "No Means No": false,
+         "Tristeza": false,
+         "Camisa Favorita": false,
+         "=": {
+            "rel": "2013-08-16",
+            "white": true
+         }
+      },
+      "Colorminutes": {
+         "1": "len",
+         "2": "len",
+         "3": "len",
+         "4": "len",
+         "5": "len",
+         "6": "len",
+         "7": "len",
+         "8": "len",
+         "9": "len",
+         "10": "len",
+         "11": "len",
+         "12": "len",
+         "13": "len",
+         "14": "len",
+         "15": "len",
+         "=": {
+            "rel": "2013-01-11",
+            "white": true
+         }
+      },
+      "=": {
+         "Water Water": {
+            "flow": "200,617",
+            "link": "https://youtu.be/iwo_HeW4G-Q"
+         }
+      }
+   },
+   "Enya": {
+      "A Day Without Rain": {
+         "Only Time": {},
+         "=": {
+            "rel": 2000,
+            "white": false
+         }
+      },
+      "=": {
+         "Only Time": {
+            "flow": "12,250,684",
+            "link": "https://youtu.be/7wfYIMyS_dI"
+         }
+      }
+   },
+   "Everything but the Girl": {
+      "Temperamental": {
+         "Five Fathoms": true,
+         "Low Tide of the Night": {},
+         "Blame": {},
+         "Hatfield 1980": {},
+         "Temperamental": {},
+         "Compression": {},
+         "Downhill Racer": {},
+         "Lullaby of Clubland": {},
+         "No Difference": {},
+         "The Future of the Future (Stay Gold)": {},
+         "=": {
+            "rel": 1999,
+            "white": true
+         }
+      },
+      "Walking Wounded": {
+         "rel": 1996
+      },
+      "Amplified Heart": {
+         "Rollercoaster": {},
+         "Troubled Mind": {},
+         "I Don’t Understand Anything": {},
+         "Walking to You": {},
+         "Get Me": {},
+         "Missing": true,
+         "Two Star": {},
+         "We Walk the Same Line": {},
+         "25th December": {},
+         "Disenchanted": "len",
+         "=": {
+            "rel": 1994,
+            "white": true
+         }
+      },
+      "Acoustic": {
+         "Love Is Strange": {},
+         "Tougher Than the Rest": {},
+         "Time After Time": {},
+         "Alison": {},
+         "Downtown Train": {},
+         "Driving": true,
+         "One Place": {},
+         "Apron Strings (live)": "len",
+         "Me and Bobby D": {},
+         "Come On Home": {},
+         "Fascination (live)": {},
+         "=": {
+            "rel": 1992,
+            "white": true
+         }
+      },
+      "Worldwide": {
+         "Old Friends": {},
+         "Understanding": {},
+         "You Lift Me Up": {},
+         "Talk to Me Like the Sea": {},
+         "British Summertime": true,
+         "Twin Cities": {},
+         "Frozen River": {},
+         "One Place": {},
+         "Politics Aside": {},
+         "Boxing and Pop Music": {},
+         "Feel Alright": "len",
+         "=": {
+            "rel": 1991,
+            "white": true
+         }
+      },
+      "The Language of Life": {
+         "Driving": true,
+         "Get Back Together": {},
+         "Meet Me in the Morning": {},
+         "Me and Bobby D": {},
+         "The Language of Life": {},
+         "Take Me": {},
+         "Imagining America": {},
+         "Letting Love Go": {},
+         "My Baby Don’t Love Me": {},
+         "The Road": {},
+         "=": {
+            "rel": 1990,
+            "white": true
+         }
+      },
+      "=": {
+         "Missing": {
+            "flow": "2,556,051",
+            "link": "https://youtu.be/Q4sPkS8b62Q"
+         }
+      }
+   }
+}
