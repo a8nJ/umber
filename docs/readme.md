@@ -1,5 +1,4 @@
-Docs
-=====
+# Meta
 
 To add an album:
 
