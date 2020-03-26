@@ -713,22 +713,24 @@
    },
    "Audioslave": {
       "Out of Exile": {
+         "$date": 2005,
+         "$list": "black",
          "Be Yourself": {
             "trend": "13,995,809",
             "link": "https://youtu.be/WC5FdFlUcl0"
          },
-         "$date": 2005,
-         "$list": "black"
+         "Yesterday to Tomorrow": {}
       },
       "Audioslave": {
+         "$date": 2002,
+         "$list": "black",
          "Cochise": {},
          "Like a Stone": {
             "trend": "47,408,565",
             "link": "https://youtu.be/7QU1nvuxaMA"
          },
          "Show Me How to Live": {},
-         "$date": 2002,
-         "$list": "black"
+         "Shadow on the Sun": {}
       }
    },
    "Autechre": {

@@ -1188,10 +1188,12 @@
    },
    "Jeremy Soule": {
       "The Northerner Diaries": {
+         "$date": "2017-12-21",
+         "$list": "white",
          "Njól": "good",
          "Útanlands": {},
          "Draumr": {},
-         "Jata": {},
+         "Jata": "good",
          "Lėikr": "short",
          "Bifröst": "short",
          "Jafnan": {},
@@ -1199,11 +1201,11 @@
          "Ek Elska Þik": {},
          "Himinbjörg": {},
          "Vetr": {},
-         "Ginnung": "short",
-         "$date": "2017-12-21",
-         "$list": "white"
+         "Ginnung": "short"
       },
       "The Elder Scrolls IV Oblivion": {
+         "$date": 2006,
+         "$list": "white",
          "Reign of the Septims": "short",
          "Through the Valleys": "good",
          "Death Knell": "short",
@@ -1229,11 +1231,11 @@
          "Churl’s Revenge": "short",
          "Deep Waters": "short",
          "Dusk at the Market": "good",
-         "Peace of Akatosh": "good",
-         "$date": 2006,
-         "$list": "white"
+         "Peace of Akatosh": "good"
       },
       "The Elder Scrolls III Morrowind": {
+         "$date": 2002,
+         "$list": "white",
          "Nerevar Rising": "short",
          "Peaceful Waters": "good",
          "Knight’s Charge": "short",
@@ -1253,15 +1255,7 @@
          "The Prophecy Fulfilled": "short",
          "Triumphant": "short",
          "Introduction": "short",
-         "Fate’s Quickening": "short",
-         "$date": 2002,
-         "$list": "white"
-      },
-      "=": {
-         "The Elder Scrolls V Skyrim": {
-            "flow": "1,669,397",
-            "link": "https://youtu.be/aQeIYVM3YBM"
-         }
+         "Fate’s Quickening": "short"
       }
    },
    "Jessie Ware": {
