@@ -7,12 +7,6 @@
             "white": false
          }
       },
-      "Fear of Music": {
-         "date": 1979
-      },
-      "More Songs About Buildings and Food": {
-         "date": 1978
-      },
       "Talking Heads 77": {
          "Psycho Killer": {},
          "=": {
@@ -1599,7 +1593,11 @@
    },
    "The Who": {
       "Who’s Next": {
-         "Baba O’Riley": true,
+         "$list": "white",
+         "Baba O’riley": {
+            "flow": "2,748,331",
+            "link": "https://youtu.be/x2KRpRMSu4g"
+         },
          "Bargain": {},
          "Love Ain’t for Keeping": "len",
          "My Wife": {},
@@ -1607,16 +1605,7 @@
          "Getting in Tune": {},
          "Going Mobile": {},
          "Behind Blue Eyes": true,
-         "Won’t Get Fooled Again": true,
-         "=": {
-            "list": "white"
-         }
-      },
-      "=": {
-         "Baba O’riley": {
-            "flow": "2,748,331",
-            "link": "https://youtu.be/x2KRpRMSu4g"
-         }
+         "Won’t Get Fooled Again": true
       }
    },
    "The xx": {
