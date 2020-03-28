@@ -2,19 +2,19 @@
    "Cake": {
       "Fashion Nugget": {
          "Frank Sinatra": "good",
-         "The Distance": {},
-         "Friend Is a Four Letter Word": {},
-         "Open Book": {},
-         "Daria": {},
+         "The Distance": "",
+         "Friend Is a Four Letter Word": "",
+         "Open Book": "",
+         "Daria": "",
          "Race Car Ya-Yas": "short",
-         "I Will Survive": {},
+         "I Will Survive": "",
          "Stickshifts and Safetybelts": "short",
          "Perhaps, Perhaps, Perhaps": "short",
-         "It’s Coming Down": {},
-         "Nugget": {},
+         "It’s Coming Down": "",
+         "Nugget": "",
          "She’ll Come Back to Me": "short",
-         "Italian Leather Sofa": {},
-         "Sad Songs and Waltzes": {},
+         "Italian Leather Sofa": "",
+         "Sad Songs and Waltzes": "",
          "=": {
             "$date": 1996,
             "$list": "white"
@@ -23,17 +23,17 @@
    },
    "Can": {
       "Ege Bamyasi": {
-         "Pinch": {},
-         "Sing Swan Song": {},
-         "One More Night": {},
+         "Pinch": "",
+         "Sing Swan Song": "",
+         "One More Night": "",
          "Vitamin C": {
             "rate": "good",
             "link": "https://youtu.be/9a1NhRbNJ_Y",
             "trend": "183,424"
          },
-         "Soup": {},
-         "I’m So Green": {},
-         "Spoon": {},
+         "Soup": "",
+         "I’m So Green": "",
+         "Spoon": "",
          "=": {
             "$date": 1972,
             "$list": "white"
@@ -42,8 +42,8 @@
    },
    "Cassie": {
       "Cassie": {
-         "Long Way 2 Go": {},
-         "Me & U": {},
+         "Long Way 2 Go": "",
+         "Me & U": "",
          "=": {
             "$date": 2006,
             "$list": "black"
@@ -58,8 +58,8 @@
    },
    "Chet Faker": {
       "Built on Glass": {
-         "1998": {},
-         "Gold": {},
+         "1998": "",
+         "Gold": "",
          "=": {
             "$date": 2014
          }
@@ -73,7 +73,7 @@
    },
    "Chicago": {
       "Chicago 17": {
-         "You’re The Inspiration": {},
+         "You’re The Inspiration": "",
          "=": {
             "$date": 1984,
             "$list": "black"
@@ -95,17 +95,17 @@
          "$date": 1977
       },
       "Chicago X": {
-         "Once or Twice": {},
-         "You Are on My Mind": {},
-         "Skin Tight": {},
+         "Once or Twice": "",
+         "You Are on My Mind": "",
+         "Skin Tight": "",
          "If You Leave Me Now": "good",
-         "Together Again": {},
-         "Another Rainy Day in New York City": {},
-         "Mama Mama": {},
-         "Scrapbook": {},
-         "Gently I’ll Wake You": {},
-         "You Get It Up": {},
-         "Hope for Love": {},
+         "Together Again": "",
+         "Another Rainy Day in New York City": "",
+         "Mama Mama": "",
+         "Scrapbook": "",
+         "Gently I’ll Wake You": "",
+         "You Get It Up": "",
+         "Hope for Love": "",
          "=": {
             "$date": 1976,
             "$list": "white"
@@ -121,16 +121,16 @@
          "$date": 1973
       },
       "Chicago V": {
-         "A Hit by Varèse": {},
-         "All Is Well": {},
-         "Now That You’ve Gone": {},
+         "A Hit by Varèse": "",
+         "All Is Well": "",
+         "Now That You’ve Gone": "",
          "Dialogue, Part I": "short",
-         "Dialogue, Part II": {},
-         "While the City Sleeps": {},
+         "Dialogue, Part II": "",
+         "While the City Sleeps": "",
          "Saturday in the Park": "good",
-         "State of the Union": {},
-         "Goodbye": {},
-         "Alma Mater": {},
+         "State of the Union": "",
+         "Goodbye": "",
+         "Alma Mater": "",
          "=": {
             "$date": 1972,
             "$list": "white"
@@ -140,27 +140,27 @@
          "$date": 1971
       },
       "Chicago II": {
-         "Movin’ In": {},
-         "The Road": {},
-         "Poem for the People": {},
-         "In the Country": {},
+         "Movin’ In": "",
+         "The Road": "",
+         "Poem for the People": "",
+         "In the Country": "",
          "Wake Up Sunshine": "short",
-         "Make Me Smile": {},
+         "Make Me Smile": "",
          "So Much to Say, So Much to Give": "short",
          "Anxiety’s Moment": "short",
          "West Virginia Fantasies": "short",
-         "Colour My World": {},
+         "Colour My World": "",
          "To Be Free": "short",
          "Now More Than Ever": "short",
-         "Fancy Colours": {},
+         "Fancy Colours": "",
          "25 or 6 to 4": "good",
          "Prelude": "short",
          "A.M. Mourning": "short",
          "P.M. Mourning": "short",
-         "Memories of Love": {},
+         "Memories of Love": "",
          "It Better End Soon (1st Movement)": "short",
-         "It Better End Soon (2nd Movement)": {},
-         "It Better End Soon (3rd Movement)": {},
+         "It Better End Soon (2nd Movement)": "",
+         "It Better End Soon (3rd Movement)": "",
          "It Better End Soon (4th Movement)": "short",
          "Where Do We Go From Here": "short",
          "=": {
@@ -197,17 +197,17 @@
          }
       },
       "Far From the Maddening Crowds": {
-         "Early": {},
+         "Early": "",
          "Already There": "short",
-         "Offshore (original mix)": {},
-         "Lost You Somewhere": {},
-         "From Blue to Green": {},
-         "Sunstroke (Disco Citizens remix)": {},
-         "Leaving Town": {},
-         "Red Skies": {},
-         "Sunstroke (original mix)": {},
+         "Offshore (original mix)": "",
+         "Lost You Somewhere": "",
+         "From Blue to Green": "",
+         "Sunstroke (Disco Citizens remix)": "",
+         "Leaving Town": "",
+         "Red Skies": "",
+         "Sunstroke (original mix)": "",
          "Offshore ’97": "good",
-         "The Drive Home": {},
+         "The Drive Home": "",
          "=": {
             "$date": 1997,
             "$list": "white"
@@ -222,17 +222,17 @@
    },
    "Childish Gambino": {
       "Awaken, My Love!": {
-         "Me and Your Mama": {},
-         "Redbone": {},
+         "Me and Your Mama": "",
+         "Redbone": "",
          "=": {
             "$date": 2016,
             "$list": "black"
          }
       },
       "Because the Internet": {
-         "3005": {},
-         "Sweatpants": {},
-         "Telegraph Ave": {},
+         "3005": "",
+         "Sweatpants": "",
+         "Telegraph Ave": "",
          "=": {
             "$date": 2013,
             "$list": "black"
@@ -242,16 +242,16 @@
          "Outside": false,
          "Fire Fly": false,
          "Bonfire": false,
-         "All the Shine": {},
+         "All the Shine": "",
          "Letter Home": "short",
-         "Heartbeat": {},
-         "Backpackers": {},
-         "L.E.S.": {},
-         "Hold You Down": {},
-         "Kids (Keep Up)": {},
-         "You See Me": {},
-         "Sunrise": {},
-         "That Power": {},
+         "Heartbeat": "",
+         "Backpackers": "",
+         "L.E.S.": "",
+         "Hold You Down": "",
+         "Kids (Keep Up)": "",
+         "You See Me": "",
+         "Sunrise": "",
+         "That Power": "",
          "=": {
             "$date": 2011,
             "$list": "white"
@@ -274,7 +274,7 @@
    },
    "Chris Isaak": {
       "Heart Shaped World": {
-         "Wicked Game": {},
+         "Wicked Game": "",
          "=": {
             "$date": 1989,
             "$list": "black"
@@ -282,16 +282,16 @@
       },
       "Chris Isaak": {
          "You Owe Me Some Kind of Love": "good",
-         "Heart Full of Soul": {},
-         "Blue Hotel": {},
-         "Lie to Me": {},
-         "Fade Away": {},
+         "Heart Full of Soul": "",
+         "Blue Hotel": "",
+         "Lie to Me": "",
+         "Fade Away": "",
          "Wild Love": "short",
          "This Love Will Last": "short",
          "You Took My Heart": "short",
          "Cryin’": "short",
          "Lovers Game": "short",
-         "Waiting for the Rain to Fall": {},
+         "Waiting for the Rain to Fall": "",
          "=": {
             "$date": 1986,
             "$list": "white"
@@ -310,7 +310,7 @@
    },
    "Ciara": {
       "Basic Instinct": {
-         "Ride": {},
+         "Ride": "",
          "=": {
             "$date": 2010,
             "$list": "black"
@@ -327,30 +327,30 @@
       "Milk & Kisses": {
          "Violaine": false,
          "Serpentskirt": "good",
-         "Tishbite": {},
-         "Half‐Gifts": {},
-         "Calfskin Smack": {},
-         "Rilkean Heart": {},
-         "Ups": {},
-         "Eperdu": {},
-         "Treasure Hiding": {},
-         "Seekers Who Are Lovers": {},
+         "Tishbite": "",
+         "Half‐Gifts": "",
+         "Calfskin Smack": "",
+         "Rilkean Heart": "",
+         "Ups": "",
+         "Eperdu": "",
+         "Treasure Hiding": "",
+         "Seekers Who Are Lovers": "",
          "=": {
             "$date": 1996,
             "$list": "white"
          }
       },
       "Four-Calendar Café": {
-         "Know Who You Are at Every Age": {},
-         "Evangeline": {},
-         "Bluebeard": {},
-         "Theft, and Wandering Around Lost": {},
-         "Oil of Angels": {},
-         "Squeeze-Wax": {},
-         "My Truth": {},
-         "Essence": {},
+         "Know Who You Are at Every Age": "",
+         "Evangeline": "",
+         "Bluebeard": "",
+         "Theft, and Wandering Around Lost": "",
+         "Oil of Angels": "",
+         "Squeeze-Wax": "",
+         "My Truth": "",
+         "Essence": "",
          "Summerhead": "good",
-         "Pur": {},
+         "Pur": "",
          "=": {
             "$date": 1993,
             "$list": "white"
@@ -362,27 +362,27 @@
          "Iceblink Luck": false,
          "Fifty-Fifty Clown": false,
          "Heaven or Las Vegas": false,
-         "I Wear Your Ring": {},
-         "Fotzepolitic": {},
-         "Wolf in the Breast": {},
-         "Road, River and Rail": {},
-         "Frou-Frou Foxes in Midsummer Fires": {},
+         "I Wear Your Ring": "",
+         "Fotzepolitic": "",
+         "Wolf in the Breast": "",
+         "Road, River and Rail": "",
+         "Frou-Frou Foxes in Midsummer Fires": "",
          "=": {
             "$date": 1990,
             "$list": "white"
          }
       },
       "Blue Bell Knoll": {
-         "Blue Bell Knoll": {},
+         "Blue Bell Knoll": "",
          "Athol-Brose": false,
-         "Carolyn’s Fingers": {},
+         "Carolyn’s Fingers": "",
          "For Phoebe Still a Baby": false,
          "The Itchy Glowbo Blow": "good",
-         "Cico Buff": {},
-         "Suckling the Mender": {},
-         "Spooning Good Singing Gum": {},
-         "A Kissed Out Red Floatboat": {},
-         "Ella Megalast Burls Forever": {},
+         "Cico Buff": "",
+         "Suckling the Mender": "",
+         "Spooning Good Singing Gum": "",
+         "A Kissed Out Red Floatboat": "",
+         "Ella Megalast Burls Forever": "",
          "=": {
             "$date": 1988,
             "$list": "white"
@@ -390,14 +390,14 @@
       },
       "Victorialand": {
          "Lazy Calm": "good",
-         "Fluffy Tufts": {},
+         "Fluffy Tufts": "",
          "Throughout the Dark Months of April and May": "good",
          "Whales Tails": "good",
          "Oomingmak": "short",
-         "Little Spacey": {},
-         "Feet-Like Fins": {},
-         "How to Bring a Blush to the Snow": {},
-         "The Thinner the Air": {},
+         "Little Spacey": "",
+         "Feet-Like Fins": "",
+         "How to Bring a Blush to the Snow": "",
+         "The Thinner the Air": "",
          "=": {
             "$date": 1986,
             "$list": "white"
@@ -406,8 +406,8 @@
       "Tiny Dynamine": {
          "Pink Orange Red": "good",
          "Ribbed and Veined": "good",
-         "Plain Tiger": {},
-         "Sultitan Itan": {},
+         "Plain Tiger": "",
+         "Sultitan Itan": "",
          "=": {
             "$date": 1985,
             "$list": "white"
@@ -416,14 +416,14 @@
       "Treasure": {
          "Ivo": "good",
          "Lorelei": false,
-         "Beatrix": {},
+         "Beatrix": "",
          "Persephone": "good",
          "Pandora (For Cindy)": "good",
-         "Amelia": {},
-         "Aloysius": {},
-         "Cicely": {},
+         "Amelia": "",
+         "Aloysius": "",
+         "Cicely": "",
          "Otterley": "good",
-         "Donimo": {},
+         "Donimo": "",
          "=": {
             "$date": 1984,
             "$list": "white"
@@ -431,25 +431,25 @@
       },
       "Sunburst and Snowblind": {
          "Sugar Hiccup": "dup",
-         "From the Flagstones": {},
+         "From the Flagstones": "",
          "Hitherto": "good",
-         "Because of Whirl-Jack": {},
+         "Because of Whirl-Jack": "",
          "=": {
             "$date": 1983,
             "$list": "white"
          }
       },
       "Head Over Heels": {
-         "When Mama Was Moth": {},
+         "When Mama Was Moth": "",
          "Five Ten Fiftyfold": "good",
          "Sugar Hiccup": false,
          "In Our Angelhood": "good",
          "Glass Candle Grenades": "short",
-         "In the Gold Dust Rush": {},
+         "In the Gold Dust Rush": "",
          "The Tinderbox (of a Heart)": "good",
          "Multifoiled": "short",
-         "My Love Paramour": {},
-         "Musette and Drums": {},
+         "My Love Paramour": "",
+         "Musette and Drums": "",
          "=": {
             "$date": 1983,
             "$list": "white"
@@ -478,7 +478,7 @@
    },
    "Coldplay": {
       "A Rush of Blood to the Head": {
-         "The Scientist": {},
+         "The Scientist": "",
          "=": {
             "$date": 2002,
             "$list": "black"
@@ -495,35 +495,35 @@
       "Iteration": {
          "Of Your Fake Dimension": false,
          "Ephemeron": false,
-         "Dryswch": {},
-         "Isostasy": {},
-         "Memory": {},
-         "Propagation": {},
-         "Vacuume": {},
-         "Ternary": {},
-         "Usurper": {},
-         "Syrthio": {},
-         "When Will You Find the Limit": {},
-         "Iteration": {},
+         "Dryswch": "",
+         "Isostasy": "",
+         "Memory": "",
+         "Propagation": "",
+         "Vacuume": "",
+         "Ternary": "",
+         "Usurper": "",
+         "Syrthio": "",
+         "When Will You Find the Limit": "",
+         "Iteration": "",
          "=": {
             "$date": 2017,
             "$list": "white"
          }
       },
       "In Decay": {
-         "Open": {},
-         "84’ Dreamin": {},
-         "Dreambender": {},
-         "Controlpop": {},
+         "Open": "",
+         "84’ Dreamin": "",
+         "Dreambender": "",
+         "Controlpop": "",
          "Colorvision": "good",
          "Alfa Beach": "good",
-         "Stop": {},
-         "Klymaxx": {},
-         "Yxes": {},
-         "Smily Cyclops": {},
-         "Video Arkade": {},
-         "Data Kiss": {},
-         "Closed": {},
+         "Stop": "",
+         "Klymaxx": "",
+         "Yxes": "",
+         "Smily Cyclops": "",
+         "Video Arkade": "",
+         "Data Kiss": "",
+         "Closed": "",
          "=": {
             "$date": 2012,
             "$list": "white"
@@ -536,11 +536,11 @@
          "Air Cal": false,
          "Flightwave": false,
          "Hyperlips": "good",
-         "Brokendate": {},
-         "Glawio": {},
-         "Ether Drift": {},
-         "Futureworld": {},
-         "Karova": {},
+         "Brokendate": "",
+         "Glawio": "",
+         "Ether Drift": "",
+         "Futureworld": "",
+         "Karova": "",
          "=": {
             "$date": 2011,
             "$list": "white"
@@ -560,11 +560,11 @@
          "Pilgrimage": false,
          "One Word": false,
          "I Believe": false,
-         "Beyond Being": {},
-         "Extraordinary Way": {},
-         "Dying Light": {},
-         "Forever Lost": {},
-         "Into the Escape": {},
+         "Beyond Being": "",
+         "Extraordinary Way": "",
+         "Dying Light": "",
+         "Forever Lost": "",
+         "Into the Escape": "",
          "=": {
             "$date": 2005,
             "$list": "white"
@@ -572,16 +572,16 @@
       },
       "Conjure One": {
          "Damascus": "short",
-         "Center of the Sun": {},
-         "Tears From the Moon": {},
+         "Center of the Sun": "",
+         "Tears From the Moon": "",
          "Tidal Pool": "good",
-         "Manic Star": {},
-         "Redemption": {},
-         "Years": {},
-         "Make a Wish": {},
+         "Manic Star": "",
+         "Redemption": "",
+         "Years": "",
+         "Make a Wish": "",
          "Pandora": "good",
-         "Sleep": {},
-         "Premonition (reprise)": {},
+         "Sleep": "",
+         "Premonition (reprise)": "",
          "=": {
             "$date": 2002,
             "$list": "white"
@@ -596,16 +596,16 @@
    },
    "Counting Crows": {
       "This Desert Life": {
-         "Hanginaround": {},
-         "Mrs. Potter’s Lullaby": {},
-         "Amy Hit the Atmosphere": {},
-         "Four Days": {},
-         "All My Friends": {},
-         "High Life": {},
+         "Hanginaround": "",
+         "Mrs. Potter’s Lullaby": "",
+         "Amy Hit the Atmosphere": "",
+         "Four Days": "",
+         "All My Friends": "",
+         "High Life": "",
          "Colorblind": "good",
-         "I Wish I Was a Girl": {},
-         "Speedway": {},
-         "St. Robinson in His Cadillac Dream / Kid Things": {},
+         "I Wish I Was a Girl": "",
+         "Speedway": "",
+         "St. Robinson in His Cadillac Dream / Kid Things": "",
          "=": {
             "$date": 1999,
             "$list": "white"
@@ -615,7 +615,7 @@
          "$date": 1996
       },
       "August and Everything After": {
-         "Mr. Jones": {},
+         "Mr. Jones": "",
          "=": {
             "$date": 1993,
             "$list": "black"
@@ -635,33 +635,33 @@
    "Crazy P": {
       "Walk Dance Talk Sing": {
          "Like a Fool": "good",
-         "The Come On": {},
-         "Echo": {},
-         "Cruel Mistress": {},
-         "Magnetise": {},
-         "Something More": {},
-         "Walk Dance Talk Sing": {},
-         "Scrap the Book": {},
-         "The Way": {},
-         "Hear My Song": {},
-         "Witch Doctor": {},
+         "The Come On": "",
+         "Echo": "",
+         "Cruel Mistress": "",
+         "Magnetise": "",
+         "Something More": "",
+         "Walk Dance Talk Sing": "",
+         "Scrap the Book": "",
+         "The Way": "",
+         "Hear My Song": "",
+         "Witch Doctor": "",
          "=": {
             "$date": 2015,
             "$list": "white"
          }
       },
       "When We On": {
-         "Open for Service": {},
-         "Changes": {},
-         "Beatbox": {},
-         "The Unbearable Lightness of Being": {},
+         "Open for Service": "",
+         "Changes": "",
+         "Beatbox": "",
+         "The Unbearable Lightness of Being": "",
          "Heartbreaker": "good",
-         "Twisted": {},
-         "Sonar": {},
-         "Your Dark Energy": {},
-         "Eruption": {},
-         "Wecanonlybewhoweare": {},
-         "Future Beat": {},
+         "Twisted": "",
+         "Sonar": "",
+         "Your Dark Energy": "",
+         "Eruption": "",
+         "Wecanonlybewhoweare": "",
+         "Future Beat": "",
          "=": {
             "$date": 2011,
             "$list": "white"
@@ -676,16 +676,16 @@
    },
    "Curve": {
       "Cuckoo": {
-         "Missing Link": {},
-         "Crystal": {},
+         "Missing Link": "",
+         "Crystal": "",
          "Men Are From Mars, Women Are From Venus": "good",
-         "All of One": {},
-         "Unreadable Communication": {},
-         "Turkey Crossing": {},
-         "Superblaster": {},
-         "Left of Mother": {},
-         "Sweetest Pie": {},
-         "Cuckoo": {},
+         "All of One": "",
+         "Unreadable Communication": "",
+         "Turkey Crossing": "",
+         "Superblaster": "",
+         "Left of Mother": "",
+         "Sweetest Pie": "",
+         "Cuckoo": "",
          "=": {
             "$date": 1993,
             "$list": "white"
