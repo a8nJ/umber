@@ -1406,7 +1406,24 @@
       }
    },
    "The Who": {
+      "It’s Hard": {
+          "$date": "1982-09-04",
+          "$list": "white",
+          "Athena": "",
+          "It’s Your Turn": "",
+          "Cooks County": "",
+          "It’s Hard": "",
+          "Dangerous": "",
+          "Eminence Front": "good",
+          "I’ve Known No War": "",
+          "One Life’s Enough": "short",
+          "One at a Time": "",
+          "Why Did I Fall for That": "",
+          "A Man Is a Man": "",
+          "Cry If You Want": ""
+      },
       "Who’s Next": {
+         "$date": 1971,
          "$list": "white",
          "Baba O’riley": {
             "flow": "2,748,331",
