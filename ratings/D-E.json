@@ -1,9 +1,9 @@
 {
    "Daft Punk": {
       "Random Access Memories": {
-         "Get Lucky": {},
-         "Instant Crush": {},
-         "Lose Yourself to Dance": {},
+         "Get Lucky": "",
+         "Instant Crush": "",
+         "Lose Yourself to Dance": "",
          "=": {
             "rel": 2013,
             "white": false
@@ -19,37 +19,37 @@
          "Rinzler": "len",
          "The Game Has Changed": true,
          "Outlands": "len",
-         "Adagio for TRON": {},
+         "Adagio for TRON": "",
          "Nocturne": "len",
          "End of Line": "len",
          "Derezzed": "len",
          "Fall": "len",
          "Solar Sailer": "len",
          "Rectifier": "len",
-         "Disc Wars": {},
-         "C.L.U.": {},
+         "Disc Wars": "",
+         "C.L.U.": "",
          "Arrival": "len",
-         "Flynn Lives": {},
-         "TRON Legacy (End Titles)": {},
-         "Finale": {},
+         "Flynn Lives": "",
+         "TRON Legacy (End Titles)": "",
+         "Finale": "",
          "=": {
             "rel": 2010,
             "white": true
          }
       },
       "Alive 2007": {
-         "Robot Rock / Oh Yeah": {},
-         "Touch It / Technologic": {},
-         "Television Rules the Nation / Crescendolls": {},
+         "Robot Rock / Oh Yeah": "",
+         "Touch It / Technologic": "",
+         "Television Rules the Nation / Crescendolls": "",
          "Too Long / Steam Machine": true,
          "Around the World / Harder Better Faster Stronger": true,
-         "Burnin’ / Too Long": {},
-         "Face to Face / Short Circuit": {},
+         "Burnin’ / Too Long": "",
+         "Face to Face / Short Circuit": "",
          "One More Time / Aerodynamic": true,
          "Aerodynamic Beats / Forget About the World": true,
-         "Prime Time of Your Life / Brainwasher / Rollin’ and Scratchin’ / Alive": {},
+         "Prime Time of Your Life / Brainwasher / Rollin’ and Scratchin’ / Alive": "",
          "Da Funk / Daftendirekt": true,
-         "Superheroes / Human After All / Rock’n Roll": {},
+         "Superheroes / Human After All / Rock’n Roll": "",
          "Human After All/Together/One More Time/Music Sounds Better With You": true,
          "=": {
             "rel": 2007,
@@ -64,26 +64,26 @@
          "Make Love": true,
          "The Brainwasher": false,
          "On/Off": "len",
-         "Television Rules the Nation": {},
-         "Technologic": {},
-         "Emotion": {},
+         "Television Rules the Nation": "",
+         "Technologic": "",
+         "Emotion": "",
          "=": {
             "rel": 2005,
             "white": true
          }
       },
       "Discovery": {
-         "Digital Love": {},
-         "Harder Better Faster Stronger": {},
-         "One More Time": {},
-         "Something About Us": {},
+         "Digital Love": "",
+         "Harder Better Faster Stronger": "",
+         "One More Time": "",
+         "Something About Us": "",
          "=": {
             "rel": 2001,
             "white": false
          }
       },
       "Homework": {
-         "Around the World": {},
+         "Around the World": "",
          "=": {
             "rel": 1997,
             "white": false
@@ -112,10 +112,10 @@
       "Pilotwings 64": {
          "Hang Glider": true,
          "Rocket Belt": true,
-         "Gyrocopter": {},
-         "Jumble Hopper": {},
-         "Birdman": {},
-         "Bravissimo!": {},
+         "Gyrocopter": "",
+         "Jumble Hopper": "",
+         "Birdman": "",
+         "Bravissimo!": "",
          "=": {
             "rel": 1996,
             "white": true
@@ -130,18 +130,18 @@
    },
    "Daniel Lanois": {
       "Acadie": {
-         "Still Water": {},
-         "The Maker": {},
-         "O Marie": {},
+         "Still Water": "",
+         "The Maker": "",
+         "O Marie": "",
          "Jolie Louise": "len",
          "Fisherman’s Daughter": "len",
          "White Mustang II": true,
          "Under a Stormy Sky": "len",
-         "Where the Hawkwind Kills": {},
-         "Silium’s Hill": {},
-         "Ice": {},
-         "St. Ann’s Gold": {},
-         "Amazing Grace": {},
+         "Where the Hawkwind Kills": "",
+         "Silium’s Hill": "",
+         "Ice": "",
+         "St. Ann’s Gold": "",
+         "Amazing Grace": "",
          "=": {
             "rel": 1989,
             "white": true
@@ -156,20 +156,20 @@
    },
    "Dave Matthews Band": {
       "Stand Up": {
-         "Dreamgirl": {},
-         "Old Dirt Hill (Bring That Beat Back)": {},
-         "Stand Up (for It)": {},
+         "Dreamgirl": "",
+         "Old Dirt Hill (Bring That Beat Back)": "",
+         "Stand Up (for It)": "",
          "American Baby Intro": "len",
-         "American Baby": {},
+         "American Baby": "",
          "Smooth Rider": "len",
-         "Everybody Wake Up (Our Finest Hour Arrives)": {},
-         "Out of My Hands": {},
-         "Hello Again": {},
-         "Louisiana Bayou": {},
-         "Stolen Away on 55th & 3rd": {},
+         "Everybody Wake Up (Our Finest Hour Arrives)": "",
+         "Out of My Hands": "",
+         "Hello Again": "",
+         "Louisiana Bayou": "",
+         "Stolen Away on 55th & 3rd": "",
          "You Might Die Trying": true,
-         "Steady as We Go": {},
-         "Hunger for the Great Light": {},
+         "Steady as We Go": "",
+         "Hunger for the Great Light": "",
          "=": {
             "rel": 2005,
             "white": true
@@ -178,15 +178,15 @@
       "Busted Stuff": {
          "Busted Stuff": false,
          "Grey Street": true,
-         "Where Are You Going?": {},
-         "You Never Know": {},
-         "Captain": {},
-         "Raven": {},
-         "Grace Is Gone": {},
-         "Kit Kat Jam": {},
-         "Digging a Ditch": {},
-         "Big Eyed Fish": {},
-         "Bartender": {},
+         "Where Are You Going?": "",
+         "You Never Know": "",
+         "Captain": "",
+         "Raven": "",
+         "Grace Is Gone": "",
+         "Kit Kat Jam": "",
+         "Digging a Ditch": "",
+         "Big Eyed Fish": "",
+         "Bartender": "",
          "=": {
             "rel": 2002,
             "white": true
@@ -198,13 +198,13 @@
          "The Space Between": false,
          "Dreams of Our Fathers": false,
          "So Right": false,
-         "If I Had It All": {},
-         "What You Are": {},
-         "Angel": {},
-         "Fool to Think": {},
-         "Sleep to Dream Her": {},
-         "Mother Father": {},
-         "Everyday": {},
+         "If I Had It All": "",
+         "What You Are": "",
+         "Angel": "",
+         "Fool to Think": "",
+         "Sleep to Dream Her": "",
+         "Mother Father": "",
+         "Everyday": "",
          "=": {
             "rel": 2001,
             "white": true
@@ -217,11 +217,11 @@
          "Don’t Drink the Water": false,
          "Stay (Wasting Time)": false,
          "Halloween": false,
-         "The Stone": {},
-         "Crush": {},
-         "The Dreaming Tree": {},
-         "Pig": {},
-         "Spoon": {},
+         "The Stone": "",
+         "Crush": "",
+         "The Dreaming Tree": "",
+         "Pig": "",
+         "Spoon": "",
          "=": {
             "rel": 1998,
             "white": true
@@ -229,35 +229,35 @@
       },
       "Crash": {
          "So Much to Say": true,
-         "Two Step": {},
+         "Two Step": "",
          "Crash Into Me": true,
-         "Too Much": {},
-         "41": {},
-         "Say Goodbye": {},
-         "Drive In Drive Out": {},
-         "Let You Down": {},
-         "Lie in Our Graves": {},
-         "Cry Freedom": {},
-         "Tripping Billies": {},
-         "Proudest Monkey": {},
+         "Too Much": "",
+         "41": "",
+         "Say Goodbye": "",
+         "Drive In Drive Out": "",
+         "Let You Down": "",
+         "Lie in Our Graves": "",
+         "Cry Freedom": "",
+         "Tripping Billies": "",
+         "Proudest Monkey": "",
          "=": {
             "rel": 1996,
             "white": true
          }
       },
       "Under the Table and Dreaming": {
-         "The Best of What’s Around": {},
-         "What Would You Say": {},
-         "Satellite": {},
-         "Rhyme & Reason": {},
-         "Typical Situation": {},
-         "Dancing Nancies": {},
+         "The Best of What’s Around": "",
+         "What Would You Say": "",
+         "Satellite": "",
+         "Rhyme & Reason": "",
+         "Typical Situation": "",
+         "Dancing Nancies": "",
          "Ants Marching": true,
-         "Lover Lay Down": {},
-         "Jimi Thing": {},
-         "Warehouse": {},
-         "Pay for What You Get": {},
-         "34": {},
+         "Lover Lay Down": "",
+         "Jimi Thing": "",
+         "Warehouse": "",
+         "Pay for What You Get": "",
+         "34": "",
          "=": {
             "rel": 1994,
             "white": true
@@ -272,7 +272,7 @@
    },
    "Depeche Mode": {
       "Spirit": {
-         "Where’s the Revolution": {},
+         "Where’s the Revolution": "",
          "=": {
             "rel": 2017,
             "white": false
@@ -312,15 +312,15 @@
          "rel": 1993
       },
       "Violator": {
-         "Enjoy The Silence": {},
-         "Personal Jesus": {},
+         "Enjoy The Silence": "",
+         "Personal Jesus": "",
          "=": {
             "rel": 1990,
             "white": false
          }
       },
       "Music for the Masses": {
-         "Strangelove": {},
+         "Strangelove": "",
          "=": {
             "rel": 1987,
             "white": false
@@ -345,11 +345,11 @@
          "Boys Say Go!": false,
          "Nodisco": false,
          "What’s Your Name?": "len",
-         "Photographic": {},
-         "Tora! Tora! Tora!": {},
-         "Big Muff": {},
+         "Photographic": "",
+         "Tora! Tora! Tora!": "",
+         "Big Muff": "",
          "Any Second Now (Voices)": "len",
-         "Just Can’t Get Enough": {},
+         "Just Can’t Get Enough": "",
          "=": {
             "rel": 1981,
             "white": true
@@ -381,10 +381,10 @@
          "The Bride": "len",
          "Stillness Is the Move": true,
          "Two Doves": true,
-         "Useful Chamber": {},
+         "Useful Chamber": "",
          "No Intention": true,
-         "Remade Horizon": {},
-         "Fluorescent Half Dome": {},
+         "Remade Horizon": "",
+         "Fluorescent Half Dome": "",
          "=": {
             "rel": 2009,
             "white": true
@@ -405,17 +405,17 @@
          }
       },
       "Dirty Vegas": {
-         "I Should Know": {},
-         "Ghosts": {},
-         "Lost Not Found": {},
+         "I Should Know": "",
+         "Ghosts": "",
+         "Lost Not Found": "",
          "Days Go By": true,
-         "Throwing Shapes": {},
-         "Candles": {},
-         "All or Nothing": {},
-         "Alive": {},
-         "7AM": {},
-         "The Brazilian": {},
-         "Simple Things, Part 2": {},
+         "Throwing Shapes": "",
+         "Candles": "",
+         "All or Nothing": "",
+         "Alive": "",
+         "7AM": "",
+         "The Brazilian": "",
+         "Simple Things, Part 2": "",
          "Days Go By (acoustic)": "len",
          "=": {
             "rel": 2002,
@@ -425,22 +425,22 @@
    },
    "Disturbed": {
       "Evolution": {
-         "A Reason to Fight": {},
-         "Are You Ready": {},
-         "Hold on to Memories": {},
-         "Immortalized": {},
-         "No More": {},
-         "Stronger on Your Own": {},
-         "The Best Ones Lie": {},
-         "The Light": {},
-         "The Vengeful One": {},
+         "A Reason to Fight": "",
+         "Are You Ready": "",
+         "Hold on to Memories": "",
+         "Immortalized": "",
+         "No More": "",
+         "Stronger on Your Own": "",
+         "The Best Ones Lie": "",
+         "The Light": "",
+         "The Vengeful One": "",
          "=": {
             "rel": 2018,
             "white": false
          }
       },
       "Immortalized": {
-         "The Sound of Silence": {},
+         "The Sound of Silence": "",
          "=": {
             "rel": 2015,
             "white": false
@@ -453,7 +453,7 @@
          "rel": 2008
       },
       "Ten Thousand Fists": {
-         "Stricken": {},
+         "Stricken": "",
          "=": {
             "rel": 2005,
             "white": false
@@ -463,10 +463,10 @@
          "rel": 2002
       },
       "The Sickness": {
-         "Down With the Sickness": {},
-         "Stupify": {},
-         "The Game": {},
-         "Voices": {},
+         "Down With the Sickness": "",
+         "Stupify": "",
+         "The Game": "",
+         "Voices": "",
          "=": {
             "rel": 2000,
             "white": false
@@ -496,13 +496,13 @@
          "Traveling": true,
          "Nostalgia": false,
          "Growth/Decay": true,
-         "Hypotheticals": {},
-         "Outlines": {},
-         "Walking Backwards": {},
-         "Untethered": {},
-         "Nobody": {},
-         "Regret": {},
-         "Wake Up in Nowhere": {},
+         "Hypotheticals": "",
+         "Outlines": "",
+         "Walking Backwards": "",
+         "Untethered": "",
+         "Nobody": "",
+         "Regret": "",
+         "Wake Up in Nowhere": "",
          "=": {
             "rel": 2015,
             "white": true
@@ -532,9 +532,9 @@
    },
    "Dr. Dre": {
       "2001": {
-         "Forgot About Dre": {},
-         "Still D.R.E": {},
-         "The Next Episode": {},
+         "Forgot About Dre": "",
+         "Still D.R.E": "",
+         "The Next Episode": "",
          "=": {
             "rel": 1999,
             "white": false
@@ -542,21 +542,21 @@
       },
       "The Chronic": {
          "The Chronic (intro)": "len",
-         "Fuck Wit Dre Day (And Everybody’s Celebratin’)": {},
-         "Let Me Ride": {},
-         "The Day the Niggaz Took Over": {},
+         "Fuck Wit Dre Day (And Everybody’s Celebratin’)": "",
+         "Let Me Ride": "",
+         "The Day the Niggaz Took Over": "",
          "Nuthin’ but a “G” Thang": true,
-         "Deeez Nuuuts": {},
-         "Lil’ Ghetto Boy": {},
-         "A Nigga Witta Gun": {},
-         "Rat-Tat-Tat-Tat": {},
+         "Deeez Nuuuts": "",
+         "Lil’ Ghetto Boy": "",
+         "A Nigga Witta Gun": "",
+         "Rat-Tat-Tat-Tat": "",
          "The $20 Sack Pyramid": "len",
-         "Lyrical Gangbang": {},
+         "Lyrical Gangbang": "",
          "High Powered": "len",
          "The Doctor’s Office": "len",
-         "Stranded on Death Row": {},
-         "The Roach (The Chronic Outro)": {},
-         "Bitches Ain’t Shit": {},
+         "Stranded on Death Row": "",
+         "The Roach (The Chronic Outro)": "",
+         "Bitches Ain’t Shit": "",
          "=": {
             "rel": 1992,
             "white": true
@@ -575,12 +575,12 @@
    },
    "Duke Ellington": {
       "Money Jungle": {
-         "Money Jungle": {},
+         "Money Jungle": "",
          "Fleurette Africaine": true,
-         "Very Special": {},
+         "Very Special": "",
          "Warm Valley": true,
-         "Wig Wise": {},
-         "Caravan": {},
+         "Wig Wise": "",
+         "Caravan": "",
          "Solitude": true,
          "=": {
             "rel": 1962,
@@ -597,14 +597,14 @@
          "rel": 1961
       },
       "First Time! The Count Meets the Duke": {
-         "Battle Royal": {},
+         "Battle Royal": "",
          "To You": true,
-         "Take the “A” Train": {},
-         "Until I Met You": {},
-         "Wild Man": {},
-         "Segue in C": {},
-         "B D B": {},
-         "Jumpin’ at the Woodside": {},
+         "Take the “A” Train": "",
+         "Until I Met You": "",
+         "Wild Man": "",
+         "Segue in C": "",
+         "B D B": "",
+         "Jumpin’ at the Woodside": "",
          "=": {
             "rel": 1961,
             "white": true
@@ -619,7 +619,7 @@
    },
    "Duran Duran": {
       "Duran Duran (The Wedding Album)": {
-         "Come Undone": {},
+         "Come Undone": "",
          "=": {
             "rel": 1993,
             "white": false
@@ -661,15 +661,15 @@
    "Eddie Money": {
       "Can’t Hold Back": {
          "Take Me Home Tonight": true,
-         "One Love": {},
-         "I Wanna Go Back": {},
-         "Endless Nights": {},
-         "One Chance": {},
-         "We Should Be Sleeping": {},
-         "Bring on the Rain": {},
-         "I Can’t Hold Back": {},
-         "Stranger in a Strange Land": {},
-         "Calm Before the Storm": {},
+         "One Love": "",
+         "I Wanna Go Back": "",
+         "Endless Nights": "",
+         "One Chance": "",
+         "We Should Be Sleeping": "",
+         "Bring on the Rain": "",
+         "I Can’t Hold Back": "",
+         "Stranger in a Strange Land": "",
+         "Calm Before the Storm": "",
          "=": {
             "rel": 1985,
             "white": true
@@ -693,7 +693,7 @@
       },
       "Last Chance to Dance": {
          "Last Chance to Dance": true,
-         "Holiday Blues (demo)": {},
+         "Holiday Blues (demo)": "",
          "Ex-Change (demo)": "len",
          "Only U 4 Me (demo)": "len",
          "=": {
@@ -710,7 +710,7 @@
    },
    "Eli & Fur": {
       "Illusions": {
-         "You’re So High": {},
+         "You’re So High": "",
          "=": {
             "rel": 2013,
             "white": false
@@ -718,10 +718,10 @@
       },
       "Night Blooming Jasmine": {
          "Night Blooming Jasmine": true,
-         "Something Was Real": {},
-         "Parfume": {},
-         "Honest": {},
-         "Parfume (extended mix)": {},
+         "Something Was Real": "",
+         "Parfume": "",
+         "Honest": "",
+         "Parfume (extended mix)": "",
          "=": {
             "rel": 2018,
             "white": true
@@ -740,7 +740,7 @@
    },
    "Elton John": {
       "Madman Across the Water": {
-         "Tiny Dancer": {},
+         "Tiny Dancer": "",
          "=": {
             "rel": 1971,
             "white": false
@@ -761,27 +761,27 @@
          "Home": false,
          "Elísabet": false,
          "Animal Games": "len",
-         "Speed of Dark": {},
-         "Blood Red": {},
-         "When Fever Breaks": {},
+         "Speed of Dark": "",
+         "Blood Red": "",
+         "When Fever Breaks": "",
          "=": {
             "rel": 2013,
             "white": true
          }
       },
       "Me and Armini": {
-         "Fireheads": {},
+         "Fireheads": "",
          "Me and Armini": true,
-         "Birds": {},
-         "Heard It All Before": {},
-         "Ha Ha": {},
-         "Big Jumps": {},
+         "Birds": "",
+         "Heard It All Before": "",
+         "Ha Ha": "",
+         "Big Jumps": "",
          "Jungle Drum": "len",
          "Hold Heart": "len",
-         "Gun": {},
+         "Gun": "",
          "Beggar’s Prayer": "len",
-         "Dead Duck": {},
-         "Bleeder": {},
+         "Dead Duck": "",
+         "Bleeder": "",
          "=": {
             "rel": 2008,
             "white": true
@@ -798,24 +798,24 @@
          "Heartstopper": false,
          "At Least It Was": true,
          "Fisherman’s Woman": "len",
-         "Thinking Out Loud": {},
-         "Serenade": {},
+         "Thinking Out Loud": "",
+         "Serenade": "",
          "=": {
             "rel": 2005,
             "white": true
          }
       },
       "Love in the Time of Science": {
-         "To Be Free": {},
+         "To Be Free": "",
          "Wednesday’s Child": true,
-         "Baby Blue": {},
-         "Dead Things": {},
-         "Unemployed in Summertime": {},
-         "Easy": {},
-         "Fingertips": {},
-         "Telepathy": {},
-         "Tuna Fish": {},
-         "Summerbreeze": {},
+         "Baby Blue": "",
+         "Dead Things": "",
+         "Unemployed in Summertime": "",
+         "Easy": "",
+         "Fingertips": "",
+         "Telepathy": "",
+         "Tuna Fish": "",
+         "Summerbreeze": "",
          "Sea People": "len",
          "=": {
             "rel": 1999,
@@ -833,14 +833,14 @@
       "Us": {
          "Everything to Me": "len",
          "Just the Same": false,
-         "Trust Me Baby": {},
-         "Love for Me": {},
-         "I Don’t Even Smoke Weed": {},
-         "Timberlands": {},
-         "I’ve Got Love": {},
-         "All for Nothing": {},
-         "When I’m With Him": {},
-         "Again": {},
+         "Trust Me Baby": "",
+         "Love for Me": "",
+         "I Don’t Even Smoke Weed": "",
+         "Timberlands": "",
+         "I’ve Got Love": "",
+         "All for Nothing": "",
+         "When I’m With Him": "",
+         "Again": "",
          "=": {
             "rel": 2018,
             "white": true
@@ -909,7 +909,7 @@
    },
    "Enya": {
       "A Day Without Rain": {
-         "Only Time": {},
+         "Only Time": "",
          "=": {
             "rel": 2000,
             "white": false
@@ -925,15 +925,15 @@
    "Everything but the Girl": {
       "Temperamental": {
          "Five Fathoms": true,
-         "Low Tide of the Night": {},
-         "Blame": {},
-         "Hatfield 1980": {},
-         "Temperamental": {},
-         "Compression": {},
-         "Downhill Racer": {},
-         "Lullaby of Clubland": {},
-         "No Difference": {},
-         "The Future of the Future (Stay Gold)": {},
+         "Low Tide of the Night": "",
+         "Blame": "",
+         "Hatfield 1980": "",
+         "Temperamental": "",
+         "Compression": "",
+         "Downhill Racer": "",
+         "Lullaby of Clubland": "",
+         "No Difference": "",
+         "The Future of the Future (Stay Gold)": "",
          "=": {
             "rel": 1999,
             "white": true
@@ -943,15 +943,15 @@
          "rel": 1996
       },
       "Amplified Heart": {
-         "Rollercoaster": {},
-         "Troubled Mind": {},
-         "I Don’t Understand Anything": {},
-         "Walking to You": {},
-         "Get Me": {},
+         "Rollercoaster": "",
+         "Troubled Mind": "",
+         "I Don’t Understand Anything": "",
+         "Walking to You": "",
+         "Get Me": "",
          "Missing": true,
-         "Two Star": {},
-         "We Walk the Same Line": {},
-         "25th December": {},
+         "Two Star": "",
+         "We Walk the Same Line": "",
+         "25th December": "",
          "Disenchanted": "len",
          "=": {
             "rel": 1994,
@@ -959,33 +959,33 @@
          }
       },
       "Acoustic": {
-         "Love Is Strange": {},
-         "Tougher Than the Rest": {},
-         "Time After Time": {},
-         "Alison": {},
-         "Downtown Train": {},
+         "Love Is Strange": "",
+         "Tougher Than the Rest": "",
+         "Time After Time": "",
+         "Alison": "",
+         "Downtown Train": "",
          "Driving": true,
-         "One Place": {},
+         "One Place": "",
          "Apron Strings (live)": "len",
-         "Me and Bobby D": {},
-         "Come On Home": {},
-         "Fascination (live)": {},
+         "Me and Bobby D": "",
+         "Come On Home": "",
+         "Fascination (live)": "",
          "=": {
             "rel": 1992,
             "white": true
          }
       },
       "Worldwide": {
-         "Old Friends": {},
-         "Understanding": {},
-         "You Lift Me Up": {},
-         "Talk to Me Like the Sea": {},
+         "Old Friends": "",
+         "Understanding": "",
+         "You Lift Me Up": "",
+         "Talk to Me Like the Sea": "",
          "British Summertime": true,
-         "Twin Cities": {},
-         "Frozen River": {},
-         "One Place": {},
-         "Politics Aside": {},
-         "Boxing and Pop Music": {},
+         "Twin Cities": "",
+         "Frozen River": "",
+         "One Place": "",
+         "Politics Aside": "",
+         "Boxing and Pop Music": "",
          "Feel Alright": "len",
          "=": {
             "rel": 1991,
@@ -994,15 +994,15 @@
       },
       "The Language of Life": {
          "Driving": true,
-         "Get Back Together": {},
-         "Meet Me in the Morning": {},
-         "Me and Bobby D": {},
-         "The Language of Life": {},
-         "Take Me": {},
-         "Imagining America": {},
-         "Letting Love Go": {},
-         "My Baby Don’t Love Me": {},
-         "The Road": {},
+         "Get Back Together": "",
+         "Meet Me in the Morning": "",
+         "Me and Bobby D": "",
+         "The Language of Life": "",
+         "Take Me": "",
+         "Imagining America": "",
+         "Letting Love Go": "",
+         "My Baby Don’t Love Me": "",
+         "The Road": "",
          "=": {
             "rel": 1990,
             "white": true
