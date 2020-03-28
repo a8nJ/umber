@@ -1,18 +1,18 @@
 {
    "Bad Company": {
       "Bad Company": {
-         "Can’t Get Enough": {},
-         "Rock Steady": {},
-         "Ready for Love": {},
-         "Don’t Let Me Down": {},
+         "Can’t Get Enough": "",
+         "Rock Steady": "",
+         "Ready for Love": "",
+         "Don’t Let Me Down": "",
          "Bad Company": {
             "link": "https://youtu.be/ww5GXbk58R0",
             "rate": "good",
             "trend": "3,524,989"
          },
-         "The Way I Choose": {},
-         "Movin’ On": {},
-         "Seagull": {},
+         "The Way I Choose": "",
+         "Movin’ On": "",
+         "Seagull": "",
          "=": {
             "$date": 1974,
             "$list": "white"
@@ -26,14 +26,14 @@
             "rate": "good",
             "trend": "5,505,081"
          },
-         "Rough Justice": {},
-         "King of the Jungle": {},
-         "Dream Baby": {},
+         "Rough Justice": "",
+         "King of the Jungle": "",
+         "Dream Baby": "",
          "Link": "short",
-         "Hot Line to Heaven": {},
+         "Hot Line to Heaven": "",
          "State I’m In": "short",
-         "Robert De Niro’s Waiting": {},
-         "Through a Child’s Eye": {},
+         "Robert De Niro’s Waiting": "",
+         "Through a Child’s Eye": "",
          "=": {
             "$date": 1984,
             "$list": "white"
@@ -46,16 +46,16 @@
          "$list": "white",
          "I Do": "short",
          "Joe’s Dream": "good",
-         "In God’s House": {},
-         "Honeymooning Alone": {},
-         "Sunday Love": {},
-         "Never Forgive the Angels": {},
-         "Close Encounters": {},
-         "Widow’s Peak": {},
-         "Land’s End": {},
-         "If I Knew": {},
-         "I Will Love Again": {},
-         "In Your Bed": {}
+         "In God’s House": "",
+         "Honeymooning Alone": "",
+         "Sunday Love": "",
+         "Never Forgive the Angels": "",
+         "Close Encounters": "",
+         "Widow’s Peak": "",
+         "Land’s End": "",
+         "If I Knew": "",
+         "I Will Love Again": "",
+         "In Your Bed": ""
       },
       "The Haunted Man": {
          "$date": 2012,
@@ -69,40 +69,40 @@
             "trend": "927,413",
             "link": "https://youtu.be/UznHTBZIa8E"
          },
-         "Winter Fields": {},
-         "The Haunted Man": {},
-         "Marilyn": {},
-         "A Wall": {},
-         "Rest Your Head": {},
-         "Deep Sea Diver": {}
+         "Winter Fields": "",
+         "The Haunted Man": "",
+         "Marilyn": "",
+         "A Wall": "",
+         "Rest Your Head": "",
+         "Deep Sea Diver": ""
       },
       "Two Suns": {
          "$date": 2009,
          "$list": "white",
          "Glass": "good",
-         "Sleep Alone": {},
-         "Moon and Moon": {},
+         "Sleep Alone": "",
+         "Moon and Moon": "",
          "Daniel": "good",
-         "Peace of Mind": {},
-         "Siren Song": {},
-         "Pearl’s Dream": {},
-         "Good Love": {},
+         "Peace of Mind": "",
+         "Siren Song": "",
+         "Pearl’s Dream": "",
+         "Good Love": "",
          "Two Planets": "good",
-         "Travelling Woman": {},
+         "Travelling Woman": "",
          "The Big Sleep": "short",
-         "Wilderness": {},
-         "Sleep Alone (909s in DarkTimes mix)": {},
-         "Daniel (lo fi)": {},
-         "A Forest": {},
+         "Wilderness": "",
+         "Sleep Alone (909s in DarkTimes mix)": "",
+         "Daniel (lo fi)": "",
+         "A Forest": "",
          "Use Somebody (lo fi)": "short",
-         "Good Love (live)": {},
-         "Daniel (live)": {},
+         "Good Love (live)": "",
+         "Daniel (live)": "",
          "Lonely (live)": "good"
       },
       "Fur and Gold": {
          "$date": 2006,
          "$list": "white",
-         "Horse and I": {},
+         "Horse and I": "",
          "Trophy": "bad",
          "Tahiti": "good",
          "What’s a Girl to Do?": "short",
@@ -111,21 +111,21 @@
          "Prescilla": "bad",
          "Bat’s Mouth": "bad",
          "Seal Jubilee": "good",
-         "Sarah": {},
-         "I Saw a Light": {},
-         "I’m on Fire": {}
+         "Sarah": "",
+         "I Saw a Light": "",
+         "I’m on Fire": ""
       }
    },
    "Beach House": {
       "Depression Cherry": {
-         "Space Song": {},
+         "Space Song": "",
          "=": {
             "$date": 2015,
             "$list": "black"
          }
       },
       "Bloom": {
-         "Myth": {},
+         "Myth": "",
          "=": {
             "$date": 2012,
             "$list": "black"
@@ -133,13 +133,13 @@
       },
       "Teen Dream": {
          "Zebra": "good",
-         "Silver Soul": {},
+         "Silver Soul": "",
          "Norway": "good",
-         "Walk in the Park": {},
-         "Used to Be": {},
+         "Walk in the Park": "",
+         "Used to Be": "",
          "Lover of Mine": "good",
-         "Better Times": {},
-         "10 Mile Stereo": {},
+         "Better Times": "",
+         "10 Mile Stereo": "",
          "Real Love": "good",
          "Take Care": "good",
          "=": {
@@ -167,15 +167,15 @@
          "Ch-Check It Out": "good",
          "Right Right Now Now": "short",
          "3 the Hard Way": "short",
-         "It Takes Time to Build": {},
+         "It Takes Time to Build": "",
          "Rhyme the Rhyme Well": "short",
          "Triple Trouble": "short",
          "Hey Fuck You": "short",
-         "Oh Word?": {},
+         "Oh Word?": "",
          "That’s It That’s All": "short",
          "All Lifestyles": "short",
          "Shazam!": "short",
-         "An Open Letter to NYC": {},
+         "An Open Letter to NYC": "",
          "Crawlspace": "short",
          "The Brouhaha": "short",
          "We Got The": "short",
@@ -188,7 +188,7 @@
          "$date": 1998
       },
       "Ill Communication": {
-         "Sabotage": {},
+         "Sabotage": "",
          "=": {
             "$date": 1994,
             "$list": "black"
@@ -224,18 +224,18 @@
       },
       "Morning Phase": {
          "Cycle": "short",
-         "Morning": {},
-         "Heart Is a Drum": {},
-         "Say Goodbye": {},
-         "Blue Moon": {},
-         "Unforgiven": {},
-         "Wave": {},
-         "Don’t Let It Go": {},
-         "Blackbird Chain": {},
+         "Morning": "",
+         "Heart Is a Drum": "",
+         "Say Goodbye": "",
+         "Blue Moon": "",
+         "Unforgiven": "",
+         "Wave": "",
+         "Don’t Let It Go": "",
+         "Blackbird Chain": "",
          "Phase": "short",
          "Turn Away": "good",
-         "Country Down": {},
-         "Waking Light": {},
+         "Country Down": "",
+         "Waking Light": "",
          "=": {
             "$date": 2014,
             "$list": "white"
@@ -262,21 +262,21 @@
       "Odelay": {
          "Devil’s Haircut": "bad",
          "Hotwax": "bad",
-         "Lord Only Knows": {},
-         "The New Pollution": {},
-         "Derelict": {},
-         "Novacane": {},
-         "Jack‐Ass": {},
-         "Where It’s At": {},
+         "Lord Only Knows": "",
+         "The New Pollution": "",
+         "Derelict": "",
+         "Novacane": "",
+         "Jack‐Ass": "",
+         "Where It’s At": "",
          "Minus": "short",
-         "Sissyneck": {},
+         "Sissyneck": "",
          "Readymade": "short",
-         "High 5 (Rock the Catskills)": {},
-         "Ramshackle": {},
+         "High 5 (Rock the Catskills)": "",
+         "Ramshackle": "",
          "Computer Rock": "short",
-         "Deadweight": {},
-         "Inferno": {},
-         "Gold Chains": {},
+         "Deadweight": "",
+         "Inferno": "",
+         "Gold Chains": "",
          "=": {
             "$date": 1996,
             "$list": "white"
@@ -286,7 +286,7 @@
          "$date": 1994
       },
       "Mellow Gold": {
-         "Loser": {},
+         "Loser": "",
          "=": {
             "$date": 1994,
             "$list": "black"
@@ -306,9 +306,9 @@
    "Beirut": {
       "The Flying Club Cup": {
          "A Call to Arms": "short",
-         "Nantes": {},
-         "A Sunday Smile": {},
-         "Guyamas Sonora": {},
+         "Nantes": "",
+         "A Sunday Smile": "",
+         "Guyamas Sonora": "",
          "La banlieue": "short",
          "Cliquot": "good",
          "The Penalty": "short",
@@ -317,7 +317,7 @@
          "Un dernier verre (pour la route)": "short",
          "Cherbourg": "good",
          "St. Apollonia": "short",
-         "The Flying Club Cup": {},
+         "The Flying Club Cup": "",
          "=": {
             "$date": 2007,
             "$list": "white"
@@ -332,15 +332,15 @@
    },
    "Bell Biv DeVoe": {
       "Poison": {
-         "Dope!": {},
-         "B.B.D. (I Thought It Was Me)?": {},
-         "Let Me Know Something?!": {},
-         "Do Me!": {},
-         "Ronnie, Bobby, Ricky, Mike, Ralph and Johnny (Word to the Mutha)!": {},
-         "Poison": {},
-         "Ain’t Nut’in’ Changed!": {},
-         "When Will I See You Smile Again?": {},
-         "I Do Need You.": {},
+         "Dope!": "",
+         "B.B.D. (I Thought It Was Me)?": "",
+         "Let Me Know Something?!": "",
+         "Do Me!": "",
+         "Ronnie, Bobby, Ricky, Mike, Ralph and Johnny (Word to the Mutha)!": "",
+         "Poison": "",
+         "Ain’t Nut’in’ Changed!": "",
+         "When Will I See You Smile Again?": "",
+         "I Do Need You.": "",
          "=": {
             "$date": 1990,
             "$list": "white"
@@ -355,15 +355,15 @@
    },
    "Ben Howard": {
       "Every Kingdom": {
-         "Old Pine": {},
-         "Diamonds": {},
-         "The Wolves": {},
-         "Everything": {},
-         "Only Love": {},
-         "The Fear": {},
-         "Keep Your Head Up": {},
-         "Black Flies": {},
-         "Gracious": {},
+         "Old Pine": "",
+         "Diamonds": "",
+         "The Wolves": "",
+         "Everything": "",
+         "Only Love": "",
+         "The Fear": "",
+         "Keep Your Head Up": "",
+         "Black Flies": "",
+         "Gracious": "",
          "Promise": "good",
          "=": {
             "$date": 2011,
@@ -382,14 +382,14 @@
          "The First Daffodils": "short",
          "Dye the Water Green": "good",
          "Wulf": "short",
-         "Mirroring All": {},
-         "À tout à l’heure": {},
-         "Sycamore Silhouetting": {},
-         "You": {},
-         "Raincoat": {},
-         "Look at Orion!": {},
-         "Business Park": {},
-         "You Won’t Remember...": {},
+         "Mirroring All": "",
+         "À tout à l’heure": "",
+         "Sycamore Silhouetting": "",
+         "You": "",
+         "Raincoat": "",
+         "Look at Orion!": "",
+         "Business Park": "",
+         "You Won’t Remember...": "",
          "=": {
             "$date": 2013,
             "$list": "white"
@@ -399,18 +399,18 @@
          "$date": 2011
       },
       "Ambivalence Avenue": {
-         "Ambivalence Avenue": {},
+         "Ambivalence Avenue": "",
          "Jealous of Roses": "short",
          "All the Flowers": "short",
-         "Fire Ant": {},
+         "Fire Ant": "",
          "Haikuesque (When She Laughs)": "good",
-         "Sugarette": {},
+         "Sugarette": "",
          "Lovers’ Carvings": "good",
          "Abrasion": "short",
-         "S’Vive": {},
+         "S’Vive": "",
          "The Palm of Your Wave": "short",
-         "Cry! Baby!": {},
-         "Dwrcan": {},
+         "Cry! Baby!": "",
+         "Dwrcan": "",
          "=": {
             "$date": "2009-06-22",
             "$list": "white"
@@ -429,10 +429,10 @@
          "Torn Under the Window Light": "short",
          "The Ephemeral Bluebell": "bad",
          "Over the Far and Hills Away": "short",
-         "Amongst the Bark and Fungus": {},
+         "Amongst the Bark and Fungus": "",
          "Top Soil": "short",
-         "Thatched": {},
-         "The Garden Shelter": {},
+         "Thatched": "",
+         "The Garden Shelter": "",
          "=": {
             "$date": "2009-02-03",
             "$list": "white"
@@ -447,18 +447,18 @@
    },
    "Bicep": {
       "Bicep": {
-         "Orca": {},
+         "Orca": "",
          "Glue": "good",
-         "Kites": {},
+         "Kites": "",
          "Vespa": "short",
-         "Ayaya": {},
-         "Spring": {},
-         "Drift": {},
-         "Opal": {},
-         "Rain": {},
-         "Ayr": {},
-         "Vale": {},
-         "Aura": {},
+         "Ayaya": "",
+         "Spring": "",
+         "Drift": "",
+         "Opal": "",
+         "Rain": "",
+         "Ayr": "",
+         "Vale": "",
+         "Aura": "",
          "=": {
             "$date": 2017,
             "$list": "white"
@@ -466,8 +466,8 @@
       },
       "Dahlia": {
          "Dahlia": "good",
-         "Rays": {},
-         "Seagulls": {},
+         "Rays": "",
+         "Seagulls": "",
          "=": {
             "$date": 2015,
             "$list": "white"
@@ -482,8 +482,8 @@
    },
    "Big Boi": {
       "Boomiverse": {
-         "All Night": {},
-         "Kill Jill": {},
+         "All Night": "",
+         "Kill Jill": "",
          "=": {
             "$date": 2017,
             "$list": "black"
@@ -495,19 +495,19 @@
       "Sir Lucious Left Foot… The Son of Chico Dusty": {
          "Feel Me (intro)": "short",
          "Daddy Fat Sax": "short",
-         "Turns Me On": {},
-         "Follow Us": {},
+         "Turns Me On": "",
+         "Follow Us": "",
          "Shutterbugg": "good",
-         "General Patton": {},
-         "Tangerine": {},
-         "You Ain’t No DJ": {},
-         "Hustle Blood": {},
-         "Be Still": {},
-         "Fo Yo Sorrows": {},
-         "Night Night": {},
-         "Shine Blockas": {},
-         "The Train, Part 2 (Sir Lucious Left Foot Saves the Day)": {},
-         "Back Up Plan": {},
+         "General Patton": "",
+         "Tangerine": "",
+         "You Ain’t No DJ": "",
+         "Hustle Blood": "",
+         "Be Still": "",
+         "Fo Yo Sorrows": "",
+         "Night Night": "",
+         "Shine Blockas": "",
+         "The Train, Part 2 (Sir Lucious Left Foot Saves the Day)": "",
+         "Back Up Plan": "",
          "=": {
             "$date": 2010,
             "$list": "white"
@@ -532,12 +532,12 @@
          "Undo": "bad",
          "Pagan Poetry": "bad",
          "Frosti": "short",
-         "Aurora": {},
-         "An Echo, a Stain": {},
+         "Aurora": "",
+         "An Echo, a Stain": "",
          "Sun in My Mouth": "short",
-         "Heirloom": {},
-         "Harm of Will": {},
-         "Unison": {},
+         "Heirloom": "",
+         "Harm of Will": "",
+         "Unison": "",
          "=": {
             "$date": 2001,
             "$list": "white"
@@ -603,8 +603,8 @@
    },
    "Blink 182": {
       "California": {
-         "Bored to Death": {},
-         "She’s Out Of Her Mind": {},
+         "Bored to Death": "",
+         "She’s Out Of Her Mind": "",
          "=": {
             "$date": 2016,
             "$list": "black"
@@ -614,26 +614,26 @@
          "$date": 2011
       },
       "blink-182": {
-         "Always": {},
-         "I Miss You": {},
+         "Always": "",
+         "I Miss You": "",
          "=": {
             "$date": 2003,
             "$list": "black"
          }
       },
       "Take Off Your Pants and Jacket": {
-         "First Date": {},
-         "Stay Together for the Kids": {},
-         "The Rock Show": {},
+         "First Date": "",
+         "Stay Together for the Kids": "",
+         "The Rock Show": "",
          "=": {
             "$date": 2001,
             "$list": "black"
          }
       },
       "Enema of the State": {
-         "Adam’s Song": {},
-         "All the Small Things": {},
-         "What’s My Age Again?": {},
+         "Adam’s Song": "",
+         "All the Small Things": "",
+         "What’s My Age Again?": "",
          "=": {
             "$date": 1999,
             "$list": "black"
@@ -660,8 +660,8 @@
    },
    "Blood Orange": {
       "Negro Swan": {
-         "Orlando": {},
-         "Saint": {},
+         "Orlando": "",
+         "Saint": "",
          "Take Your Time": "short",
          "Hope": "bad",
          "Jewelry": "bad",
@@ -687,18 +687,18 @@
          "Chance": "short",
          "Best to You": "good",
          "With Him": "short",
-         "E.V.P.": {},
+         "E.V.P.": "",
          "Love Ya": "short",
-         "But You": {},
-         "Desirée": {},
-         "Hands Up": {},
-         "Hadron Collider": {},
-         "Squash Squash": {},
-         "Juicy 1-4": {},
-         "Better Than Me": {},
+         "But You": "",
+         "Desirée": "",
+         "Hands Up": "",
+         "Hadron Collider": "",
+         "Squash Squash": "",
+         "Juicy 1-4": "",
+         "Better Than Me": "",
          "Thank You": "good",
-         "I Know": {},
-         "Better Numb": {},
+         "I Know": "",
+         "Better Numb": "",
          "=": {
             "$date": 2016,
             "$list": "white"
@@ -708,14 +708,14 @@
          "Chamakay": "good",
          "You’re Not Good Enough": "good",
          "Uncle ACE": "good",
-         "No Right Thing": {},
+         "No Right Thing": "",
          "It Is What It Is": "good",
          "Chosen": "good",
-         "Clipped On": {},
+         "Clipped On": "",
          "Always Let U Down": "good",
          "On the Line": "good",
          "High Street": "short",
-         "Time Will Tell": {},
+         "Time Will Tell": "",
          "=": {
             "$date": 2013,
             "$list": "white"
@@ -727,11 +727,11 @@
          "I’m Sorry We Lied": "good",
          "Can We Go Inside Now?": "good",
          "S’cooled": "good",
-         "Complete Failure": {},
+         "Complete Failure": "",
          "Instantly Blank (The Goodness)": "short",
-         "The Complete Knock": {},
-         "Are You Sure You’re Really Busy?": {},
-         "Champagne Coast": {},
+         "The Complete Knock": "",
+         "Are You Sure You’re Really Busy?": "",
+         "Champagne Coast": "",
          "=": {
             "$date": 2011,
             "$list": "white"
@@ -769,8 +769,8 @@
          "Nothing Is Real": "bad",
          "Sundown": "short",
          "New Seeds": "good",
-         "Come to Dust": {},
-         "Semena Mertvykh": {},
+         "Come to Dust": "",
+         "Semena Mertvykh": "",
          "=": {
             "$date": 2013,
             "$list": "white"
@@ -905,32 +905,32 @@
          "Outlier": "bad",
          "Grains": "bad",
          "Second Sun": "bad",
-         "Surface": {},
-         "Bambro Koyo Ganda": {},
-         "Kerala": {},
-         "Ontario": {},
-         "No Reason": {},
-         "7th Sevens": {},
-         "Figures": {},
+         "Surface": "",
+         "Bambro Koyo Ganda": "",
+         "Kerala": "",
+         "Ontario": "",
+         "No Reason": "",
+         "7th Sevens": "",
+         "Figures": "",
          "=": {
             "$date": 2017,
             "$list": "white"
          }
       },
       "The North Borders": {
-         "First Fires": {},
-         "Emkay": {},
-         "Cirrus": {},
-         "Heaven for the Sinner": {},
+         "First Fires": "",
+         "Emkay": "",
+         "Cirrus": "",
+         "Heaven for the Sinner": "",
          "Sapphire": "good",
-         "Jets": {},
-         "Towers": {},
-         "Don’t Wait": {},
-         "Know You": {},
-         "Antenna": {},
-         "Ten Tigers": {},
-         "Transits": {},
-         "Pieces": {},
+         "Jets": "",
+         "Towers": "",
+         "Don’t Wait": "",
+         "Know You": "",
+         "Antenna": "",
+         "Ten Tigers": "",
+         "Transits": "",
+         "Pieces": "",
          "=": {
             "$date": 2013,
             "$list": "white"
@@ -957,18 +957,18 @@
       "Days to Come": {
          "Intro": "short",
          "Days to Come": "good",
-         "Between the Lines": {},
+         "Between the Lines": "",
          "The Fever": "good",
          "Ketto": "good",
          "Nightlite": "good",
          "Transmission 94, Parts 1 & 2": "good",
-         "On Your Marks": {},
-         "If You Stayed Over": {},
-         "Walk in the Sky": {},
+         "On Your Marks": "",
+         "If You Stayed Over": "",
+         "Walk in the Sky": "",
          "Recurring": "good",
-         "Days to Come (instrumental)": {},
-         "Between the Lines (instrumental)": {},
-         "Nightlite (demo version)": {},
+         "Days to Come (instrumental)": "",
+         "Between the Lines (instrumental)": "",
+         "Nightlite (demo version)": "",
          "If You Stayed Over (instrumental)": "short",
          "If You Stayed Over (reprise)": "short",
          "Walk in the Sky (instrumental)": "good",
@@ -1029,8 +1029,8 @@
    },
    "Boyz II Men": {
       "II": {
-         "I’ll Make Love To You": {},
-         "On Bended Knee": {},
+         "I’ll Make Love To You": "",
+         "On Bended Knee": "",
          "=": {
             "$date": 1994,
             "$list": "black"
@@ -1040,7 +1040,7 @@
          "$date": 1993
       },
       "Cooleyhighharmony": {
-         "End Of The Road": {},
+         "End Of The Road": "",
          "=": {
             "$date": 1991,
             "$list": "black"
@@ -1059,16 +1059,16 @@
    },
    "Boz Scaggs": {
       "Dig": {
-         "Payday": {},
-         "Sarah": {},
-         "Miss Riddle": {},
-         "I Just Go": {},
-         "Get on the Natch": {},
-         "Desire": {},
-         "Call That Love": {},
-         "King of El Paso": {},
-         "You’re Not": {},
-         "Vanishing Point": {},
+         "Payday": "",
+         "Sarah": "",
+         "Miss Riddle": "",
+         "I Just Go": "",
+         "Get on the Natch": "",
+         "Desire": "",
+         "Call That Love": "",
+         "King of El Paso": "",
+         "You’re Not": "",
+         "Vanishing Point": "",
          "Thanks to You": "good",
          "=": {
             "$date": 2001,
@@ -1078,18 +1078,18 @@
       "Come On Home": {
          "It All Went Down the Drain": "bad",
          "Ask Me ’Bout Nothin’ (but the Blues)": "good",
-         "Don’t Cry No More": {},
-         "Found Love": {},
-         "Come On Home": {},
-         "Picture of a Broken Heart": {},
-         "Love Letters": {},
-         "I’ve Got Your Love": {},
-         "Early in the Morning": {},
-         "Your Good Thing (Is About to End)": {},
+         "Don’t Cry No More": "",
+         "Found Love": "",
+         "Come On Home": "",
+         "Picture of a Broken Heart": "",
+         "Love Letters": "",
+         "I’ve Got Your Love": "",
+         "Early in the Morning": "",
+         "Your Good Thing (Is About to End)": "",
          "T-Bone Shuffle": "short",
-         "Sick and Tired": {},
-         "After Hours": {},
-         "Goodnight Louise": {},
+         "Sick and Tired": "",
+         "After Hours": "",
+         "Goodnight Louise": "",
          "=": {
             "$date": 1997,
             "$list": "white"
@@ -1103,16 +1103,16 @@
       },
       "Other Roads": {
          "What’s Number One?": "bad",
-         "Claudia": {},
-         "Heart of Mine": {},
-         "Right Out of My Head": {},
-         "I Don’t Hear You": {},
-         "Mental Shakedown": {},
-         "Soul to Soul": {},
-         "Crimes of Passion": {},
-         "Funny": {},
-         "Cool Running": {},
-         "The Night of Van Gogh": {},
+         "Claudia": "",
+         "Heart of Mine": "",
+         "Right Out of My Head": "",
+         "I Don’t Hear You": "",
+         "Mental Shakedown": "",
+         "Soul to Soul": "",
+         "Crimes of Passion": "",
+         "Funny": "",
+         "Cool Running": "",
+         "The Night of Van Gogh": "",
          "=": {
             "$date": 1988,
             "$list": "white"
@@ -1127,7 +1127,7 @@
    },
    "Britney Spears": {
       "Blackout": {
-         "Break The Ice": {},
+         "Break The Ice": "",
          "=": {
             "$date": 2007,
             "$list": "black"
@@ -1142,16 +1142,16 @@
    },
    "Bruce Hornsby": {
       "Harbor Lights": {
-         "Harbor Lights": {},
-         "Talk of the Town": {},
-         "Long Tall Cool One": {},
-         "China Doll": {},
+         "Harbor Lights": "",
+         "Talk of the Town": "",
+         "Long Tall Cool One": "",
+         "China Doll": "",
          "Fields of Gray": "good",
-         "Rainbow’s Cadillac": {},
-         "Passing Through": {},
-         "The Tide Will Rise": {},
-         "What a Time": {},
-         "Pastures of Plenty": {},
+         "Rainbow’s Cadillac": "",
+         "Passing Through": "",
+         "The Tide Will Rise": "",
+         "What a Time": "",
+         "Pastures of Plenty": "",
          "=": {
             "$date": 1993,
             "$list": "white"
@@ -1164,15 +1164,15 @@
          "$date": 1988
       },
       "The Way It Is": {
-         "On the Western Skyline": {},
-         "Every Little Kiss": {},
-         "Mandolin Rain": {},
-         "The Long Race": {},
+         "On the Western Skyline": "",
+         "Every Little Kiss": "",
+         "Mandolin Rain": "",
+         "The Long Race": "",
          "The Way It Is": "good",
          "Down the Road Tonight": "good",
-         "The Wild Frontier": {},
-         "The River Runs Low": {},
-         "The Red Plains": {},
+         "The Wild Frontier": "",
+         "The River Runs Low": "",
+         "The Red Plains": "",
          "=": {
             "$date": 1986,
             "$list": "white"
@@ -1187,7 +1187,7 @@
    },
    "Bryan Adams": {
       "18 Til I Die": {
-         "Have You Ever Really Loved A Woman?": {},
+         "Have You Ever Really Loved A Woman?": "",
          "=": {
             "$date": 1996,
             "$list": "black"
@@ -1203,17 +1203,17 @@
    "Burial": {
       "Untrue": {
          "Archangel": "bad",
-         "Near Dark": {},
+         "Near Dark": "",
          "Ghost Hardware": "good",
-         "Endorphin": {},
-         "Etched Headplate": {},
+         "Endorphin": "",
+         "Etched Headplate": "",
          "In McDonalds": "short",
-         "Untrue": {},
+         "Untrue": "",
          "Shell of Light": "bad",
-         "Dog Shelter": {},
-         "Homeless": {},
+         "Dog Shelter": "",
+         "Homeless": "",
          "UK": "short",
-         "Raver": {},
+         "Raver": "",
          "=": {
             "$date": 2007,
             "$list": "white"
@@ -1225,12 +1225,12 @@
          "Wounder": "bad",
          "Night Bus": "short",
          "Southern Comfort": "good",
-         "U Hurt Me": {},
-         "Gutted": {},
-         "Forgive": {},
-         "Broken Home": {},
-         "Prayer": {},
-         "Pirates": {},
+         "U Hurt Me": "",
+         "Gutted": "",
+         "Forgive": "",
+         "Broken Home": "",
+         "Prayer": "",
+         "Pirates": "",
          "=": {
             "$date": 2006,
             "$list": "white"
@@ -1268,14 +1268,14 @@
          "Swallowed": "bad",
          "Insect Kin": "bad",
          "Cold Contagious": "bad",
-         "A Tendency to Start Fires": {},
-         "Mouth": {},
-         "Straight No Chaser": {},
-         "History": {},
-         "Synapse": {},
-         "Communicator": {},
-         "Bonedriven": {},
-         "Distant Voices": {},
+         "A Tendency to Start Fires": "",
+         "Mouth": "",
+         "Straight No Chaser": "",
+         "History": "",
+         "Synapse": "",
+         "Communicator": "",
+         "Bonedriven": "",
+         "Distant Voices": "",
          "=": {
             "$date": 1996,
             "$list": "white"
@@ -1283,18 +1283,18 @@
       },
       "Sixteen Stone": {
          "Everything Zen": "good",
-         "Swim": {},
-         "Bomb": {},
+         "Swim": "",
+         "Bomb": "",
          "Little Things": "good",
          "Comedown": "good",
-         "Body": {},
+         "Body": "",
          "Machinehead": "good",
-         "Testosterone": {},
-         "Monkey": {},
-         "Glycerine": {},
-         "Alien": {},
+         "Testosterone": "",
+         "Monkey": "",
+         "Glycerine": "",
+         "Alien": "",
          "X‐Girlfriend": "short",
-         "Comedown (acoustic)": {},
+         "Comedown (acoustic)": "",
          "=": {
             "$date": 1994,
             "$list": "white"
