@@ -24,29 +24,23 @@
          "Guido the Killer Pimp": false,
          "Lana": false,
          "Love on a Real Train (Risky Business)": true,
-         "=": {
          "$date": 1983,
          "$list": "white"
-         }
       },
       "Force Majeure": {
          "Force Majeure": false,
          "Cloudburst Flight": true,
          "Thru Metamorphic Rocks": false,
-         "=": {
          "$date": 1979,
          "$list": "white"
-         }
       },
       "Phaedra": {
          "Phaedra": "short",
          "Mysterious Semblance at the Strand of Nightmares": false,
          "Movements of a Visionary": false,
          "Sequent C’": "short",
-         "=": {
          "$date": 1974,
          "$list": "white"
-         }
       },
       "=": {
          "Stratosfear": {
@@ -69,10 +63,8 @@
          "Don’t Drink the Water": false,
          "Me and My Big Ideas": false,
          "Los reyes Católicos (reprise)": false,
-         "=": {
          "$date": 1995,
          "$list": "white"
-         }
       },
       "Elemental": {
          "$date": 1993
@@ -82,10 +74,8 @@
       },
       "Songs From the Big Chair": {
          "Everybody Wants to Rule the World": {},
-         "=": {
          "$date": 1985,
          "$list": "black"
-         }
       },
       "=": {
          "Everybody Wants to Rule the World": {
@@ -115,10 +105,8 @@
          "Tunnels Ov Set": {},
          "Later Vexations": {},
          "Kissing Someone Else’s D.O.G": {},
-         "=": {
          "$date": 2009,
          "$list": "white"
-         }
       },
       "Radio Scarecrow": {
          "Transmission Start": "short",
@@ -138,10 +126,8 @@
          "Dials & Dialers 1": "short",
          "Ghost Vexations": true,
          "Dials & Dialers 2": "short",
-         "=": {
          "$date": 2008,
          "$list": "white"
-         }
       },
       "Silenced": {
          "Trojan Horus, Part 1": {},
@@ -162,10 +148,8 @@
          "Sudden Intake": true,
          "4 3s 555, Part 1": "short",
          "4 3s 555, Part 2": {},
-         "=": {
          "$date": 2005,
          "$list": "white"
-         }
       },
       "Unsavoury Products": {
          "$date": 2002
@@ -176,10 +160,8 @@
          "Simperton": {},
          "Rue": {},
          "Psycosyin": {},
-         "=": {
          "$date": 1999,
          "$list": "white"
-         }
       },
       "Music for Adverts (and Short Films)": {
          "Dumb & Dumber": "short",
@@ -208,10 +190,8 @@
          "Mo": {},
          "Wot": "short",
          "Kheprit": {},
-         "=": {
          "$date": 1996,
          "$list": "white"
-         }
       },
       "Spanners": {
          "Raxmus": true,
@@ -226,10 +206,8 @@
          "Utopian Dream": false,
          "Frisbee Skip": false,
          "Chesh": false,
-         "=": {
          "$date": 1995,
          "$list": "white"
-         }
       },
       "Temple of Transparent Balls": {
          "Cost I": false,
@@ -243,10 +221,8 @@
          "Cycle": {},
          "In the Light of Grey": {},
          "The Crete That Crete Made": {},
-         "=": {
          "$date": 1993,
          "$list": "white"
-         }
       },
       "=": {
          "Spanners": {
@@ -268,17 +244,13 @@
          "Do You Believe": {},
          "Junk of the Hearts": {},
          "Nil": "short",
-         "=": {
          "$date": 1998,
          "$list": "white"
-         }
       },
       "First Band on the Moon": {
          "Lovefool": {},
-         "=": {
          "$date": 1996,
          "$list": "black"
-         }
       },
       "=": {
          "Lovefool": {
@@ -294,10 +266,8 @@
    "The Cars": {
       "Heartbeat City": {
          "Drive": {},
-         "=": {
          "$date": 1984,
          "$list": "black"
-         }
       },
       "Shake It Up": {
          "Since You’re Gone": false,
@@ -309,10 +279,8 @@
          "This Could Be Love": false,
          "Think It Over": false,
          "Maybe Baby": false,
-         "=": {
          "$date": 1981,
          "$list": "white"
-         }
       },
       "Panorama": {
          "$date": 1980
@@ -330,10 +298,8 @@
          "Bye Bye Love": {},
          "Moving in Stereo": {},
          "All Mixed Up": {},
-         "=": {
          "$date": 1978,
          "$list": "white"
-         }
       },
       "=": {
          "Drive": {
@@ -368,10 +334,8 @@
          "Breathe": {},
          "Man With the Movie Camera": {},
          "Time and Space": true,
-         "=": {
          "$date": 2008,
          "$list": "white"
-         }
       },
       "Ma fleur": {
          "To Build a Home": {},
@@ -385,10 +349,8 @@
          "Breathe": {},
          "That Home": "short",
          "Time & Space": {},
-         "=": {
          "$date": 2007,
          "$list": "white"
-         }
       },
       "Man With a Movie Camera": {
          "The Projectionist": "short",
@@ -408,10 +370,8 @@
          "Drunken Tune": false,
          "The Animated Tripod": "short",
          "All Things": true,
-         "=": {
          "$date": 2003,
          "$list": "white"
-         }
       },
       "Every Day": {
          "All That You Give": true,
@@ -423,10 +383,8 @@
          "Everyday": true,
          "Oregon": true,
          "Semblance": "short",
-         "=": {
          "$date": 2002,
          "$list": "white"
-         }
       },
       "Motion": {
          "Durian": {},
@@ -436,10 +394,8 @@
          "Bluebirds": {},
          "And Relax!": true,
          "Diabolus": {},
-         "=": {
          "$date": 1999,
          "$list": "white"
-         }
       },
       "=": {
          "To Build a Home": {
@@ -462,9 +418,7 @@
          "Maybe Someday": {},
          "Alright": {},
          "Asleep at the Wheel": {},
-         "=": {
          "$list": "white"
-         }
       },
       "=": {
          "Love And Terror": {
@@ -478,10 +432,8 @@
          "Rock the Casbah": {},
          "Should I Stay or Should I Go": {},
          "Straight to Hell": {},
-         "=": {
          "$date": 1982,
          "$list": "black"
-         }
       },
       "Sandinista!": {
          "The Magnificent Seven": true,
@@ -520,10 +472,8 @@
          "Version Pardner": {},
          "Career Opportunities": "short",
          "Shepherds Delight": {},
-         "=": {
          "$date": 1980,
          "$list": "white"
-         }
       },
       "=": {
          "Should I Stay or Should I Go": {
@@ -539,34 +489,26 @@
    "The Cranberries": {
       "Bury the Hatchet": {
          "Animal Instinct": false,
-         "=": {
          "$date": 1999,
          "$list": "black"
-         }
       },
       "To the Faithful Departed": {
          "When You’re Gone": {},
-         "=": {
          "$date": 1996,
          "$list": "black"
-         }
       },
       "No Need to Argue": {
          "Ode To My Family": {},
          "Zombie": {},
-         "=": {
          "$date": 1994,
          "$list": "black"
-         }
       },
       "Everybody Else Is Doing It, So Why Can’t We?": {
          "Dreams": {},
          "I Still Do": {},
          "Linger": {},
-         "=": {
          "$date": 1993,
          "$list": "black"
-         }
       },
       "=": {
          "Animal Instinct": {
@@ -598,10 +540,8 @@
          "Onesixteen": {},
          "Glass Breaker": {},
          "I Luv U": "short",
-         "=": {
          "$date": 2005,
          "$list": "white"
-         }
       },
       "Legion of Boom": {
          "Starting Over": {},
@@ -616,10 +556,8 @@
          "Acetone": true,
          "High and Low": {},
          "Wide Open": {},
-         "=": {
          "$date": 2004,
          "$list": "white"
-         }
       },
       "Tweekend": {
          "PHD": true,
@@ -633,10 +571,8 @@
          "Over the Line": {},
          "Blowout": {},
          "Tough Guy": {},
-         "=": {
          "$date": 2001,
          "$list": "white"
-         }
       },
       "Vegas": {
          "Trip Like I Do": true,
@@ -649,10 +585,8 @@
          "She’s My Pusher": {},
          "Jaded": true,
          "Bad Stone": true,
-         "=": {
          "$date": 1997,
          "$list": "white"
-         }
       },
       "=": {
          "Name of the Game": {
@@ -673,9 +607,7 @@
          "The Same Deep Water as You": {},
          "Disintegration": {},
          "Untitled": {},
-         "=": {
          "$list": "white"
-         }
       },
       "=": {
          "Lovesong": {
@@ -695,10 +627,8 @@
          "Unsquare Dance": "short",
          "Bru’s Boogie Woogie": "short",
          "Blue Shadows in the Street": {},
-         "=": {
          "$date": 1961,
          "$list": "white"
-         }
       },
       "The Riddle": {
          "$date": 1961
@@ -723,10 +653,8 @@
          "Kathy’s Waltz": {},
          "Everybody’s Jumpin’": {},
          "Pick Up Sticks": {},
-         "=": {
          "$date": 1959,
          "$list": "white"
-         }
       },
       "=": {
          "Take Five": {
@@ -748,9 +676,7 @@
          "Busted Down Around O’Connelly Corners": "short",
          "Ukiah": {},
          "The Captain and Me": {},
-         "=": {
          "$list": "white"
-         }
       },
       "=": {
          "What a fool Believes": {
@@ -763,10 +689,8 @@
       "L.A. Woman": {
          "L.A. Woman": {},
          "Riders on the Storm": {},
-         "=": {
          "$date": 1971,
          "$list": "black"
-         }
       },
       "Morrison Hotel": {
          "Roadhouse Blues": false,
@@ -780,10 +704,8 @@
          "Queen of the Highway": "short",
          "Indian Summer": "short",
          "Maggie M’Gill": false,
-         "=": {
          "$date": 1970,
          "$list": "white"
-         }
       },
       "The Soft Parade": {
          "$date": 1969
@@ -797,10 +719,8 @@
       "The Doors": {
          "Light My Fire": {},
          "The End": {},
-         "=": {
          "$date": 1967,
          "$list": "black"
-         }
       },
       "=": {
          "Riders on the Storm": {
@@ -832,9 +752,7 @@
          "Sleepy": {},
          "The Song of a Hundred Toads": "short",
          "If the World Should End in Ice": "short",
-         "=": {
          "$list": "white"
-         }
       },
       "=": {
          "Far From Any Road": {
@@ -856,10 +774,8 @@
          "Missing Persons": "short",
          "Summer’s Gone": {},
          "Going Solo": {},
-         "=": {
          "$date": 1984,
          "$list": "white"
-         }
       },
       "=": {
          "Lola": {
@@ -883,10 +799,8 @@
          "Vedamalady": {},
          "Noctourniquet": {},
          "Zed and Two Naughts": {},
-         "=": {
          "$date": 2012,
          "$list": "white"
-         }
       },
       "Octahedron": {
          "Since We’ve Been Wrong": true,
@@ -897,10 +811,8 @@
          "Desperate Graves": {},
          "Copernicus": true,
          "Luciforms": {},
-         "=": {
          "$date": 2009,
          "$list": "white"
-         }
       },
       "The Bedlam in Goliath": {
          "Aberinkula": {},
@@ -915,10 +827,8 @@
          "Ouroborous": {},
          "Soothsayer": true,
          "Conjugal Burns": {},
-         "=": {
          "$date": 2007,
          "$list": "white"
-         }
       },
       "Amputechture": {
          "Vicarious Atonement": true,
@@ -929,10 +839,8 @@
          "Viscera Eyes": {},
          "Day of the Baphomets": {},
          "El Ciervo Vulnerado": {},
-         "=": {
          "$date": 2006,
          "$list": "white"
-         }
       },
       "Frances the Mute": {
          "Cygnus....Vismund Cygnus": true,
@@ -940,10 +848,8 @@
          "L’Via L’Viaquez": {},
          "Miranda That Ghost Just Isn’t Holy Anymore": {},
          "Cassandra Gemini": true,
-         "=": {
          "$date": 2005,
          "$list": "white"
-         }
       },
       "De‐Loused in the Comatorium": {
          "Son et lumiere": "short",
@@ -956,19 +862,15 @@
          "This Apparatus Must Be Unearthed": {},
          "Televators": {},
          "Take the Veil Cerpin Taxt": true,
-         "=": {
          "$date": 2003,
          "$list": "white"
-         }
       },
       "Tremulant EP": {
          "Cut That City": false,
          "Concertina": false,
          "Eunuch Provocateur": true,
-         "=": {
          "$date": 2002,
          "$list": "white"
-         }
       },
       "=": {
          "The Widow": {
@@ -986,10 +888,8 @@
          "Nocturnal": {},
          "Light Years": {},
          "Tokyo Night Train": {},
-         "=": {
          "$date": 2017,
          "$list": "white"
-         }
       },
       "Endless Summer The Instrumentals": {
          "$date": 2016
@@ -1007,10 +907,8 @@
          "Nighthawks": {},
          "Lonely City": {},
          "Memories": true,
-         "=": {
          "$date": 2016,
          "$list": "white"
-         }
       },
       "Days of Thunder (the instrumentals)": {
          "The Years (prologue) (instrumental)": {},
@@ -1019,10 +917,8 @@
          "Days of Thunder (instrumental)": true,
          "Kick Drums & Red Wine (instrumental)": {},
          "Los Angeles (instrumental)": {},
-         "=": {
          "$date": 2016,
          "$list": "white"
-         }
       },
       "=": {
          "Endless Summer": {
@@ -1045,10 +941,8 @@
          "Nevermind Me": {},
          "Desensitized": "short",
          "1‐2‐8": "short",
-         "=": {
          "$date": 1997,
          "$list": "white"
-         }
       },
       "=": {
          "The Impression That I Get": {
@@ -1060,10 +954,8 @@
    "The Notorious B.I.G.": {
       "Life After Death": {
          "Mo Money Mo Problems": {},
-         "=": {
          "$date": 1997,
          "$list": "black"
-         }
       },
       "=": {
          "Mo Money Mo Problems": {
@@ -1075,10 +967,8 @@
    "The Police": {
       "Synchronicity": {
          "Every Breath You Take": {},
-         "=": {
          "$date": 1983,
          "$list": "black"
-         }
       },
       "Ghost in the Machine": {
          "$date": 1981
@@ -1095,10 +985,8 @@
          "Man in a Suitcase": "short",
          "Shadows in the Rain": {},
          "The Other Way of Stopping": {},
-         "=": {
          "$date": 1980,
          "$list": "white"
-         }
       },
       "Reggatta de Blanc": {
          "Message in a Bottle": true,
@@ -1112,17 +1000,13 @@
          "Contact": "short",
          "Does Everyone Stare": {},
          "No Time This Time": {},
-         "=": {
          "$date": 1979,
          "$list": "white"
-         }
       },
       "Outlandos d’Amour": {
          "Roxanne": {},
-         "=": {
          "$date": 1978,
          "$list": "black"
-         }
       },
       "=": {
          "Every Breath You Take": {
@@ -1144,10 +1028,8 @@
          "Breathe": {},
          "Climbatize": {},
          "Firestarter": {},
-         "=": {
          "$date": 1997,
          "$list": "black"
-         }
       },
       "Music for the Jilted Generation": {
          "Intro": "short",
@@ -1163,10 +1045,8 @@
          "The Narcotic Suite 3 Kilos": {},
          "The Narcotic Suite Skylined": {},
          "The Narcotic Suite Claustrophobic Sting": {},
-         "=": {
          "$date": 1994,
          "$list": "white"
-         }
       },
       "=": {
          "Firestarter": {
@@ -1192,9 +1072,7 @@
          "Sad Song": {},
          "Telescope": {},
          "Metal Swing": {},
-         "=": {
          "$list": "white"
-         }
       },
       "=": {
          "Full Performance": {
@@ -1206,10 +1084,8 @@
    "The Rolling Stones": {
       "Blue & Lonesome": {
          "Ride ’em on Down": {},
-         "=": {
          "$date": 2016,
          "$list": "black"
-         }
       },
       "A Bigger Bang": {
          "$date": 2005
@@ -1228,10 +1104,8 @@
          "Too Tight": {},
          "Thief in the Night": {},
          "How Can I Stop": {},
-         "=": {
          "$date": 1997,
          "$list": "white"
-         }
       },
       "Voodoo Lounge": {
          "$date": 1994
@@ -1262,10 +1136,8 @@
          "Before They Make Me Run": {},
          "Beast of Burden": {},
          "Shattered": {},
-         "=": {
          "$date": 1978,
          "$list": "white"
-         }
       },
       "Black and Blue": {
          "$date": 1976
@@ -1275,10 +1147,8 @@
       },
       "Goats Head Soup": {
          "Angie": {},
-         "=": {
          "$date": 1973,
          "$list": "black"
-         }
       },
       "Exile on Main St.": {
          "$date": 1972
@@ -1294,17 +1164,13 @@
          "Sister Morphine": {},
          "Dead Flowers": {},
          "Moonlight Mile": true,
-         "=": {
          "$date": 1971,
          "$list": "white"
-         }
       },
       "Let It Bleed": {
          "Gimme Shelter": {},
-         "=": {
          "$date": 1969,
          "$list": "black"
-         }
       },
       "Beggars Banquet": {
          "$date": 1968
@@ -1317,20 +1183,16 @@
       },
       "Aftermath": {
          "Paint It Black": {},
-         "=": {
          "$date": 1966,
          "$list": "black"
-         }
       },
       "December’s Children (and Everybody’s)": {
          "$date": 1965
       },
       "Out of Our Heads": {
          "(I Can’t Get No) Satisfaction": {},
-         "=": {
          "$date": 1965,
          "$list": "black"
-         }
       },
       "=": {
          "Angie": {
@@ -1371,10 +1233,8 @@
          "Paint a Vulgar Picture": {},
          "Death at One’s Elbow": "short",
          "I Won’t Share You": "short",
-         "=": {
          "$date": 1987,
          "$list": "white"
-         }
       },
       "The Queen Is Dead": {
          "The Queen Is Dead": false,
@@ -1387,10 +1247,8 @@
          "Vicar in a Tutu": "short",
          "There Is a Light That Never Goes Out": {},
          "Some Girls Are Bigger Than Others": {},
-         "=": {
          "$date": 1986,
          "$list": "white"
-         }
       },
       "Meat Is Murder": {
          "The Headmaster Ritual": {},
@@ -1403,17 +1261,13 @@
          "Well I Wonder": true,
          "Barbarism Begins at Home": true,
          "Meat Is Murder": {},
-         "=": {
          "$date": 1985,
          "$list": "white"
-         }
       },
       "The Smiths": {
          "This Charming Man": {},
-         "=": {
          "$date": 1984,
          "$list": "black"
-         }
       },
       "=": {
          "How Soon Is Now?": {
@@ -1439,9 +1293,7 @@
          "Golden Brown": true,
          "How to Find True Love and Happiness in the Present Day": {},
          "La Folie": {},
-         "=": {
          "$list": "white"
-         }
       },
       "=": {
          "The Stranglers": {
@@ -1463,10 +1315,8 @@
          "Your Eyes": "short",
          "Cry": {},
          "Monochrome": {},
-         "=": {
          "$date": 1997,
          "$list": "white"
-         }
       },
       "Blind": {
          "I Feel": {},
@@ -1481,10 +1331,8 @@
          "Blood on My Hands": {},
          "Medicine": {},
          "Wild Horses": true,
-         "=": {
          "$date": 1992,
          "$list": "white"
-         }
       },
       "Reading, Writing and Arithmetic": {
          "Skin & Bones": false,
@@ -1497,10 +1345,8 @@
          "I Kicked a Boy": "short",
          "My Finest Hour": {},
          "Joy": {},
-         "=": {
          "$date": 1990,
          "$list": "white"
-         }
       },
       "=": {
          "Wild Horses": {
@@ -1512,9 +1358,7 @@
    "The Wallflowers": {
       "Bringing Down the Horse": {
          "One Headlight": {},
-         "=": {
          "$list": "black"
-         }
       },
       "=": {
          "One Headlight": {
@@ -1527,10 +1371,8 @@
       "Elephant": {
          "Ball and Biscuit": {},
          "Seven Nation Army": {},
-         "=": {
          "$date": 2003,
          "$list": "black"
-         }
       },
       "White Blood Cells": {
          "Dead Leaves and the Dirty Ground": true,
@@ -1549,10 +1391,8 @@
          "Now Mary": "short",
          "I Can Learn": {},
          "This Protector": "short",
-         "=": {
          "$date": 2001,
          "$list": "white"
-         }
       },
       "=": {
          "Icky Thump": {
@@ -1586,24 +1426,18 @@
       "I See You": {
          "I Dare You": {},
          "On Hold": {},
-         "=": {
          "$date": 2017,
          "$list": "black"
-         }
       },
       "Coexist": {
          "Angels": {},
-         "=": {
          "$date": 2012,
          "$list": "black"
-         }
       },
       "xx": {
          "Crystalized": {},
-         "=": {
          "$date": 2009,
          "$list": "black"
-         }
       },
       "=": {
          "Angels": {
@@ -1639,10 +1473,8 @@
          "Fragments": true,
          "Overstand": {},
          "Free": {},
-         "=": {
          "$date": 2011,
          "$list": "white"
-         }
       },
       "Radio Retaliation": {
          "Sound the Alarm": {},
@@ -1660,10 +1492,8 @@
          "The Shining Path": true,
          "Blasting Through the City": {},
          "Sweet Tides": {},
-         "=": {
          "$date": 2008,
          "$list": "white"
-         }
       },
       "The Cosmic Game": {
          "Marching the Hate Machines (Into the Sun)": true,
@@ -1682,10 +1512,8 @@
          "The Supreme Illusion": {},
          "The Time We Lost Our Way": true,
          "A Gentle Dissolve": "short",
-         "=": {
          "$date": 2005,
          "$list": "white"
-         }
       },
       "The Richest Man in Babylon": {
          "Heaven’s Gonna Burn Your Eyes": {},
@@ -1703,10 +1531,8 @@
          "The State of the Union": {},
          "Until the Morning": true,
          "Resolution": true,
-         "=": {
          "$date": 2002,
          "$list": "white"
-         }
       },
       "The Mirror Conspiracy": {
          "Treasures": "short",
@@ -1722,10 +1548,8 @@
          "Illumination": {},
          "The Mirror Conspiracy": {},
          "Tomorrow": true,
-         "=": {
          "$date": 2000,
          "$list": "white"
-         }
       },
       "Sounds From the Thievery Hi‐Fi": {
          "A Warning (Dub)": "short",
@@ -1744,10 +1568,8 @@
          "Assault on Babylon": {},
          ".38.45 (A Thievery Number)": {},
          "One": {},
-         "=": {
          "$date": 1997,
          "$list": "white"
-         }
       },
       "=": {
          "The Richest Man in Babylon": {
@@ -1767,10 +1589,8 @@
          "Fight or Fall": {},
          "Cowboy Song": {},
          "Emerald": {},
-         "=": {
          "$date": 1975,
          "$list": "white"
-         }
       },
       "=": {
          "Boys Are Back In Town": {
@@ -1794,10 +1614,8 @@
          "Slow Motion": {},
          "Darkness": {},
          "Darwin / The Red Summer Sun (extended coda)": {},
-         "=": {
          "$date": 1999,
          "$list": "white"
-         }
       },
       "Third Eye Blind": {
          "Losing a Whole Year": {},
@@ -1814,10 +1632,8 @@
          "The Background": {},
          "Motorcycle Drive By": {},
          "God of Wine": {},
-         "=": {
          "$date": 1997,
          "$list": "white"
-         }
       },
       "=": {
          "Jumper": {
@@ -1840,10 +1656,8 @@
          "To Sir With Dub": true,
          "Elevated States (feat. Mustafa Akbar)": {},
          "Last Flight Out": true,
-         "=": {
          "$date": 2004,
          "$list": "white"
-         }
       },
       "Scorpio Rising": {
          "Heart of the Hustler": {},
@@ -1857,10 +1671,8 @@
          "Solar": true,
          "On the Sly": {},
          "Golden": true,
-         "=": {
          "$date": 2001,
          "$list": "white"
-         }
       },
       "Ambassadors of Style": {
          "Hijack": false,
@@ -1874,10 +1686,8 @@
          "Sirocco": {},
          "The Moon, The Sky": {},
          "Sid’s Mellow Trip": {},
-         "=": {
          "$date": 2000,
          "$list": "white"
-         }
       },
       "=": {
          "Scorpio Rising": {
