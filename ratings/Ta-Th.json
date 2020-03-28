@@ -26,7 +26,7 @@
          "Love on a Real Train (Risky Business)": true,
          "=": {
          "$date": 1983,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Force Majeure": {
@@ -35,7 +35,7 @@
          "Thru Metamorphic Rocks": false,
          "=": {
          "$date": 1979,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Phaedra": {
@@ -45,7 +45,7 @@
          "Sequent C’": "short",
          "=": {
          "$date": 1974,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "=": {
@@ -71,7 +71,7 @@
          "Los reyes Católicos (reprise)": false,
          "=": {
          "$date": 1995,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Elemental": {
@@ -84,7 +84,7 @@
          "Everybody Wants to Rule the World": {},
          "=": {
          "$date": 1985,
-            "$list": "black"
+         "$list": "black"
          }
       },
       "=": {
@@ -117,7 +117,7 @@
          "Kissing Someone Else’s D.O.G": {},
          "=": {
          "$date": 2009,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Radio Scarecrow": {
@@ -140,7 +140,7 @@
          "Dials & Dialers 2": "short",
          "=": {
          "$date": 2008,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Silenced": {
@@ -164,7 +164,7 @@
          "4 3s 555, Part 2": {},
          "=": {
          "$date": 2005,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Unsavoury Products": {
@@ -178,7 +178,7 @@
          "Psycosyin": {},
          "=": {
          "$date": 1999,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Music for Adverts (and Short Films)": {
@@ -210,7 +210,7 @@
          "Kheprit": {},
          "=": {
          "$date": 1996,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Spanners": {
@@ -228,7 +228,7 @@
          "Chesh": false,
          "=": {
          "$date": 1995,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Temple of Transparent Balls": {
@@ -245,7 +245,7 @@
          "The Crete That Crete Made": {},
          "=": {
          "$date": 1993,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "=": {
@@ -270,14 +270,14 @@
          "Nil": "short",
          "=": {
          "$date": 1998,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "First Band on the Moon": {
          "Lovefool": {},
          "=": {
          "$date": 1996,
-            "$list": "black"
+         "$list": "black"
          }
       },
       "=": {
@@ -296,7 +296,7 @@
          "Drive": {},
          "=": {
          "$date": 1984,
-            "$list": "black"
+         "$list": "black"
          }
       },
       "Shake It Up": {
@@ -311,7 +311,7 @@
          "Maybe Baby": false,
          "=": {
          "$date": 1981,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Panorama": {
@@ -332,7 +332,7 @@
          "All Mixed Up": {},
          "=": {
          "$date": 1978,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "=": {
@@ -370,7 +370,7 @@
          "Time and Space": true,
          "=": {
          "$date": 2008,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Ma fleur": {
@@ -387,7 +387,7 @@
          "Time & Space": {},
          "=": {
          "$date": 2007,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Man With a Movie Camera": {
@@ -410,7 +410,7 @@
          "All Things": true,
          "=": {
          "$date": 2003,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Every Day": {
@@ -425,7 +425,7 @@
          "Semblance": "short",
          "=": {
          "$date": 2002,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Motion": {
@@ -438,7 +438,7 @@
          "Diabolus": {},
          "=": {
          "$date": 1999,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "=": {
@@ -463,7 +463,7 @@
          "Alright": {},
          "Asleep at the Wheel": {},
          "=": {
-            "$list": "white"
+         "$list": "white"
          }
       },
       "=": {
@@ -480,7 +480,7 @@
          "Straight to Hell": {},
          "=": {
          "$date": 1982,
-            "$list": "black"
+         "$list": "black"
          }
       },
       "Sandinista!": {
@@ -522,7 +522,7 @@
          "Shepherds Delight": {},
          "=": {
          "$date": 1980,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "=": {
@@ -541,14 +541,14 @@
          "Animal Instinct": false,
          "=": {
          "$date": 1999,
-            "$list": "black"
+         "$list": "black"
          }
       },
       "To the Faithful Departed": {
          "When You’re Gone": {},
          "=": {
          "$date": 1996,
-            "$list": "black"
+         "$list": "black"
          }
       },
       "No Need to Argue": {
@@ -556,7 +556,7 @@
          "Zombie": {},
          "=": {
          "$date": 1994,
-            "$list": "black"
+         "$list": "black"
          }
       },
       "Everybody Else Is Doing It, So Why Can’t We?": {
@@ -565,7 +565,7 @@
          "Linger": {},
          "=": {
          "$date": 1993,
-            "$list": "black"
+         "$list": "black"
          }
       },
       "=": {
@@ -600,7 +600,7 @@
          "I Luv U": "short",
          "=": {
          "$date": 2005,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Legion of Boom": {
@@ -618,7 +618,7 @@
          "Wide Open": {},
          "=": {
          "$date": 2004,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Tweekend": {
@@ -635,7 +635,7 @@
          "Tough Guy": {},
          "=": {
          "$date": 2001,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Vegas": {
@@ -651,7 +651,7 @@
          "Bad Stone": true,
          "=": {
          "$date": 1997,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "=": {
@@ -674,7 +674,7 @@
          "Disintegration": {},
          "Untitled": {},
          "=": {
-            "$list": "white"
+         "$list": "white"
          }
       },
       "=": {
@@ -697,7 +697,7 @@
          "Blue Shadows in the Street": {},
          "=": {
          "$date": 1961,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "The Riddle": {
@@ -725,7 +725,7 @@
          "Pick Up Sticks": {},
          "=": {
          "$date": 1959,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "=": {
@@ -749,7 +749,7 @@
          "Ukiah": {},
          "The Captain and Me": {},
          "=": {
-            "$list": "white"
+         "$list": "white"
          }
       },
       "=": {
@@ -765,7 +765,7 @@
          "Riders on the Storm": {},
          "=": {
          "$date": 1971,
-            "$list": "black"
+         "$list": "black"
          }
       },
       "Morrison Hotel": {
@@ -782,7 +782,7 @@
          "Maggie M’Gill": false,
          "=": {
          "$date": 1970,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "The Soft Parade": {
@@ -799,7 +799,7 @@
          "The End": {},
          "=": {
          "$date": 1967,
-            "$list": "black"
+         "$list": "black"
          }
       },
       "=": {
@@ -833,7 +833,7 @@
          "The Song of a Hundred Toads": "short",
          "If the World Should End in Ice": "short",
          "=": {
-            "$list": "white"
+         "$list": "white"
          }
       },
       "=": {
@@ -858,7 +858,7 @@
          "Going Solo": {},
          "=": {
          "$date": 1984,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "=": {
@@ -885,7 +885,7 @@
          "Zed and Two Naughts": {},
          "=": {
          "$date": 2012,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Octahedron": {
@@ -899,7 +899,7 @@
          "Luciforms": {},
          "=": {
          "$date": 2009,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "The Bedlam in Goliath": {
@@ -917,7 +917,7 @@
          "Conjugal Burns": {},
          "=": {
          "$date": 2007,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Amputechture": {
@@ -931,7 +931,7 @@
          "El Ciervo Vulnerado": {},
          "=": {
          "$date": 2006,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Frances the Mute": {
@@ -942,7 +942,7 @@
          "Cassandra Gemini": true,
          "=": {
          "$date": 2005,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "De‐Loused in the Comatorium": {
@@ -958,7 +958,7 @@
          "Take the Veil Cerpin Taxt": true,
          "=": {
          "$date": 2003,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Tremulant EP": {
@@ -967,7 +967,7 @@
          "Eunuch Provocateur": true,
          "=": {
          "$date": 2002,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "=": {
@@ -988,7 +988,7 @@
          "Tokyo Night Train": {},
          "=": {
          "$date": 2017,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Endless Summer The Instrumentals": {
@@ -1009,7 +1009,7 @@
          "Memories": true,
          "=": {
          "$date": 2016,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Days of Thunder (the instrumentals)": {
@@ -1021,7 +1021,7 @@
          "Los Angeles (instrumental)": {},
          "=": {
          "$date": 2016,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "=": {
@@ -1047,7 +1047,7 @@
          "1‐2‐8": "short",
          "=": {
          "$date": 1997,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "=": {
@@ -1062,7 +1062,7 @@
          "Mo Money Mo Problems": {},
          "=": {
          "$date": 1997,
-            "$list": "black"
+         "$list": "black"
          }
       },
       "=": {
@@ -1077,7 +1077,7 @@
          "Every Breath You Take": {},
          "=": {
          "$date": 1983,
-            "$list": "black"
+         "$list": "black"
          }
       },
       "Ghost in the Machine": {
@@ -1097,7 +1097,7 @@
          "The Other Way of Stopping": {},
          "=": {
          "$date": 1980,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Reggatta de Blanc": {
@@ -1114,14 +1114,14 @@
          "No Time This Time": {},
          "=": {
          "$date": 1979,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Outlandos d’Amour": {
          "Roxanne": {},
          "=": {
          "$date": 1978,
-            "$list": "black"
+         "$list": "black"
          }
       },
       "=": {
@@ -1146,7 +1146,7 @@
          "Firestarter": {},
          "=": {
          "$date": 1997,
-            "$list": "black"
+         "$list": "black"
          }
       },
       "Music for the Jilted Generation": {
@@ -1165,7 +1165,7 @@
          "The Narcotic Suite Claustrophobic Sting": {},
          "=": {
          "$date": 1994,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "=": {
@@ -1193,7 +1193,7 @@
          "Telescope": {},
          "Metal Swing": {},
          "=": {
-            "$list": "white"
+         "$list": "white"
          }
       },
       "=": {
@@ -1208,7 +1208,7 @@
          "Ride ’em on Down": {},
          "=": {
          "$date": 2016,
-            "$list": "black"
+         "$list": "black"
          }
       },
       "A Bigger Bang": {
@@ -1230,7 +1230,7 @@
          "How Can I Stop": {},
          "=": {
          "$date": 1997,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Voodoo Lounge": {
@@ -1264,7 +1264,7 @@
          "Shattered": {},
          "=": {
          "$date": 1978,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Black and Blue": {
@@ -1277,7 +1277,7 @@
          "Angie": {},
          "=": {
          "$date": 1973,
-            "$list": "black"
+         "$list": "black"
          }
       },
       "Exile on Main St.": {
@@ -1296,14 +1296,14 @@
          "Moonlight Mile": true,
          "=": {
          "$date": 1971,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Let It Bleed": {
          "Gimme Shelter": {},
          "=": {
          "$date": 1969,
-            "$list": "black"
+         "$list": "black"
          }
       },
       "Beggars Banquet": {
@@ -1319,7 +1319,7 @@
          "Paint It Black": {},
          "=": {
          "$date": 1966,
-            "$list": "black"
+         "$list": "black"
          }
       },
       "December’s Children (and Everybody’s)": {
@@ -1329,7 +1329,7 @@
          "(I Can’t Get No) Satisfaction": {},
          "=": {
          "$date": 1965,
-            "$list": "black"
+         "$list": "black"
          }
       },
       "=": {
@@ -1373,7 +1373,7 @@
          "I Won’t Share You": "short",
          "=": {
          "$date": 1987,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "The Queen Is Dead": {
@@ -1389,7 +1389,7 @@
          "Some Girls Are Bigger Than Others": {},
          "=": {
          "$date": 1986,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Meat Is Murder": {
@@ -1405,14 +1405,14 @@
          "Meat Is Murder": {},
          "=": {
          "$date": 1985,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "The Smiths": {
          "This Charming Man": {},
          "=": {
          "$date": 1984,
-            "$list": "black"
+         "$list": "black"
          }
       },
       "=": {
@@ -1440,7 +1440,7 @@
          "How to Find True Love and Happiness in the Present Day": {},
          "La Folie": {},
          "=": {
-            "$list": "white"
+         "$list": "white"
          }
       },
       "=": {
@@ -1465,7 +1465,7 @@
          "Monochrome": {},
          "=": {
          "$date": 1997,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Blind": {
@@ -1483,7 +1483,7 @@
          "Wild Horses": true,
          "=": {
          "$date": 1992,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Reading, Writing and Arithmetic": {
@@ -1499,7 +1499,7 @@
          "Joy": {},
          "=": {
          "$date": 1990,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "=": {
@@ -1513,7 +1513,7 @@
       "Bringing Down the Horse": {
          "One Headlight": {},
          "=": {
-            "$list": "black"
+         "$list": "black"
          }
       },
       "=": {
@@ -1529,7 +1529,7 @@
          "Seven Nation Army": {},
          "=": {
          "$date": 2003,
-            "$list": "black"
+         "$list": "black"
          }
       },
       "White Blood Cells": {
@@ -1551,7 +1551,7 @@
          "This Protector": "short",
          "=": {
          "$date": 2001,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "=": {
@@ -1588,21 +1588,21 @@
          "On Hold": {},
          "=": {
          "$date": 2017,
-            "$list": "black"
+         "$list": "black"
          }
       },
       "Coexist": {
          "Angels": {},
          "=": {
          "$date": 2012,
-            "$list": "black"
+         "$list": "black"
          }
       },
       "xx": {
          "Crystalized": {},
          "=": {
          "$date": 2009,
-            "$list": "black"
+         "$list": "black"
          }
       },
       "=": {
@@ -1641,7 +1641,7 @@
          "Free": {},
          "=": {
          "$date": 2011,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Radio Retaliation": {
@@ -1662,7 +1662,7 @@
          "Sweet Tides": {},
          "=": {
          "$date": 2008,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "The Cosmic Game": {
@@ -1684,7 +1684,7 @@
          "A Gentle Dissolve": "short",
          "=": {
          "$date": 2005,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "The Richest Man in Babylon": {
@@ -1705,7 +1705,7 @@
          "Resolution": true,
          "=": {
          "$date": 2002,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "The Mirror Conspiracy": {
@@ -1724,7 +1724,7 @@
          "Tomorrow": true,
          "=": {
          "$date": 2000,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Sounds From the Thievery Hi‐Fi": {
@@ -1746,7 +1746,7 @@
          "One": {},
          "=": {
          "$date": 1997,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "=": {
@@ -1769,7 +1769,7 @@
          "Emerald": {},
          "=": {
          "$date": 1975,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "=": {
@@ -1796,7 +1796,7 @@
          "Darwin / The Red Summer Sun (extended coda)": {},
          "=": {
          "$date": 1999,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Third Eye Blind": {
@@ -1816,7 +1816,7 @@
          "God of Wine": {},
          "=": {
          "$date": 1997,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "=": {
@@ -1842,7 +1842,7 @@
          "Last Flight Out": true,
          "=": {
          "$date": 2004,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Scorpio Rising": {
@@ -1859,7 +1859,7 @@
          "Golden": true,
          "=": {
          "$date": 2001,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "Ambassadors of Style": {
@@ -1876,7 +1876,7 @@
          "Sid’s Mellow Trip": {},
          "=": {
          "$date": 2000,
-            "$list": "white"
+         "$list": "white"
          }
       },
       "=": {
