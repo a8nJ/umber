@@ -591,6 +591,8 @@
    },
    "Oneohtrix Point Never": {
       "Age Of": {
+         "$date": 2018,
+         "$list": "white",
          "Age Of": "",
          "Babylon": "bad",
          "Manifold": "short",
@@ -603,14 +605,11 @@
          "Same": "short",
          "RayCats": "good",
          "Still Stuff That Doesn’t Happen": "",
-         "Last Known Image of a Song": "",
-         "$date": 2018,
-         "$list": "white"
-      },
-      "Garden of Delete": {
-         "$date": 2015
+         "Last Known Image of a Song": ""
       },
       "R Plus Seven": {
+         "$date": 2013,
+         "$list": "white",
          "Boring Angel": "bad",
          "Americans": "bad",
          "He She": "short",
@@ -621,25 +620,28 @@
          "Cryo": "short",
          "Still Life": "good",
          "Chrome Country": "good",
-         "Gone": "short",
-         "$date": 2013,
-         "$list": "white"
+         "Gone": "short"
       },
       "Replica": {
+         "$date": 2011,
+         "$list": "white",
          "Andro": "",
          "Power of Persuasion": "good",
          "Sleep Dealer": "",
          "Remember": "",
-         "Replica": "",
+         "Replica": {
+            "flow": "103,714",
+            "link": "https://youtu.be/hiwi7d0f91Y"
+         },
          "Nassau": "",
          "Submersible": "good",
          "Up": "",
          "Child Soldier": "",
-         "Explain": "",
-         "$date": 2011,
-         "$list": "white"
+         "Explain": ""
       },
       "Returnal": {
+         "$date": 2010,
+         "$list": "white",
          "Nil Admirari": "",
          "Describing Bodies": "",
          "Stress Waves": "good",
@@ -647,11 +649,11 @@
          "Pelham Island Road": "",
          "Where Does Time Go": "",
          "Ouroboros": "short",
-         "Preyouandi": "",
-         "$date": 2010,
-         "$list": "white"
+         "Preyouandi": ""
       },
       "Rifts": {
+         "$date": "2009-10-20",
+         "$list": "white",
          "A Pact Between Strangers": "",
          "Behind the Bank": "short",
          "Betrayed in the Octagon": "dup",
@@ -684,9 +686,7 @@
          "When I Get Back From New York": "",
          "Woe Is the Transgression I": "dup",
          "Woe Is the Transgression II": "dup",
-         "Zones Without People": "dup",
-         "$date": "2009-10-20",
-         "$list": "white"
+         "Zones Without People": "dup"
       },
       "Russian Mind": {
          "Months": "bad",
@@ -699,32 +699,26 @@
          "$list": "white"
       },
       "Zones Without People": {
-         "Computer Vision": "short",
-         "Format & Journey North": "",
-         "Zones Without People": "",
-         "Learning to Control Myself": "",
-         "Disconnecting Entirely": "short",
-         "Emil Cioran": "",
-         "Hyperdawn": "",
-         "$date": "2009-08",
-         "$list": "white"
+          "$date": "2009-08-11",
+          "$list": "white",
+          "Computer Vision": "short",
+          "Format & Journey North": "",
+          "Zones Without People": "good",
+          "Learning to Control Myself": "",
+          "Disconnecting Entirely": "short",
+          "Emil Cioran": "",
+          "Hyperdawn": ""
       },
       "Betrayed in the Octagon": {
+         "$date": 2007,
+         "$list": "white",
          "Woe Is the Transgression I": "bad",
          "Behind the Bank": "short",
          "Eyeballs": "short",
          "Betrayed in the Octagon": "",
          "Woe Is the Transgression II": "",
          "Parallel Minds": "",
-         "Laser to Laser": "",
-         "$date": 2007,
-         "$list": "white"
-      },
-      "=": {
-         "Replica": {
-            "flow": "103,714",
-            "link": "https://youtu.be/hiwi7d0f91Y"
-         }
+         "Laser to Laser": ""
       }
    },
    "OutKast": {
