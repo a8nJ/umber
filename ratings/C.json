@@ -1,6 +1,8 @@
 {
    "Cake": {
       "Fashion Nugget": {
+         "$date": 1996,
+         "$list": "white",
          "Frank Sinatra": "good",
          "The Distance": "",
          "Friend Is a Four Letter Word": "",
@@ -14,13 +16,13 @@
          "Nugget": "",
          "She’ll Come Back to Me": "short",
          "Italian Leather Sofa": "",
-         "Sad Songs and Waltzes": "",
-         "$date": 1996,
-         "$list": "white"
+         "Sad Songs and Waltzes": ""
       }
    },
    "Can": {
       "Ege Bamyasi": {
+         "$date": 1972,
+         "$list": "white",
          "Pinch": "",
          "Sing Swan Song": "",
          "One More Night": "",
@@ -31,9 +33,7 @@
          },
          "Soup": "",
          "I’m So Green": "",
-         "Spoon": "",
-         "$date": 1972,
-         "$list": "white"
+         "Spoon": ""
       }
    },
    "Cassie": {
@@ -167,14 +167,14 @@
       "Behind the Sun": {
          "Overture": "good",
          "Low Sun": "good",
-         "No Ordinary Morning": false,
+         "No Ordinary Morning": "bad",
          "Saltwater (original mix)": "good",
-         "Halcyon": false,
-         "Autumn Tactics": false,
-         "Overlap": false,
-         "Don’t Give Up": false,
+         "Halcyon": "bad",
+         "Autumn Tactics": "bad",
+         "Overlap": "bad",
+         "Don’t Give Up": "bad",
          "Saltwater (The Thrillseekers remix)": "good",
-         "Andromeda": false,
+         "Andromeda": "bad",
          "$date": 2000,
          "$list": "white"
       },
@@ -215,9 +215,9 @@
          "$list": "black"
       },
       "Camp": {
-         "Outside": false,
-         "Fire Fly": false,
-         "Bonfire": false,
+         "Outside": "bad",
+         "Fire Fly": "bad",
+         "Bonfire": "bad",
          "All the Shine": "",
          "Letter Home": "short",
          "Heartbeat": "",
@@ -293,7 +293,7 @@
    },
    "Cocteau Twins": {
       "Milk & Kisses": {
-         "Violaine": false,
+         "Violaine": "bad",
          "Serpentskirt": "good",
          "Tishbite": "",
          "Half‐Gifts": "",
@@ -321,11 +321,11 @@
          "$list": "white"
       },
       "Heaven or Las Vegas": {
-         "Cherry-Coloured Funk": false,
-         "Pitch the Baby": false,
-         "Iceblink Luck": false,
-         "Fifty-Fifty Clown": false,
-         "Heaven or Las Vegas": false,
+         "Cherry-Coloured Funk": "bad",
+         "Pitch the Baby": "bad",
+         "Iceblink Luck": "bad",
+         "Fifty-Fifty Clown": "bad",
+         "Heaven or Las Vegas": "bad",
          "I Wear Your Ring": "",
          "Fotzepolitic": "",
          "Wolf in the Breast": "",
@@ -336,9 +336,9 @@
       },
       "Blue Bell Knoll": {
          "Blue Bell Knoll": "",
-         "Athol-Brose": false,
+         "Athol-Brose": "bad",
          "Carolyn’s Fingers": "",
-         "For Phoebe Still a Baby": false,
+         "For Phoebe Still a Baby": "bad",
          "The Itchy Glowbo Blow": "good",
          "Cico Buff": "",
          "Suckling the Mender": "",
@@ -371,7 +371,7 @@
       },
       "Treasure": {
          "Ivo": "good",
-         "Lorelei": false,
+         "Lorelei": "bad",
          "Beatrix": "",
          "Persephone": "good",
          "Pandora (For Cindy)": "good",
@@ -394,7 +394,7 @@
       "Head Over Heels": {
          "When Mama Was Moth": "",
          "Five Ten Fiftyfold": "good",
-         "Sugar Hiccup": false,
+         "Sugar Hiccup": "bad",
          "In Our Angelhood": "good",
          "Glass Candle Grenades": "short",
          "In the Gold Dust Rush": "",
@@ -406,14 +406,14 @@
          "$list": "white"
       },
       "Garlands": {
-         "Blood Bitch": false,
-         "Wax and Wane": false,
+         "Blood Bitch": "bad",
+         "Wax and Wane": "bad",
          "But I’m Not": "short",
-         "Blind Dumb Deaf": false,
-         "Shallow Then Halo": false,
-         "The Hollow Men": false,
-         "Garlands": false,
-         "Grail Overfloweth": false,
+         "Blind Dumb Deaf": "bad",
+         "Shallow Then Halo": "bad",
+         "The Hollow Men": "bad",
+         "Garlands": "bad",
+         "Grail Overfloweth": "bad",
          "$date": 1982,
          "$list": "white"
       },
@@ -439,8 +439,8 @@
    },
    "Com Truise": {
       "Iteration": {
-         "Of Your Fake Dimension": false,
-         "Ephemeron": false,
+         "Of Your Fake Dimension": "bad",
+         "Ephemeron": "bad",
          "Dryswch": "",
          "Isostasy": "",
          "Memory": "",
@@ -473,10 +473,10 @@
       },
       "Galactic Melt": {
          "Terminal": "short",
-         "VHS Sex": false,
-         "Cathode Girls": false,
-         "Air Cal": false,
-         "Flightwave": false,
+         "VHS Sex": "bad",
+         "Cathode Girls": "bad",
+         "Air Cal": "bad",
+         "Flightwave": "bad",
          "Hyperlips": "good",
          "Brokendate": "",
          "Glawio": "",
@@ -495,11 +495,11 @@
    },
    "Conjure One": {
       "Extraordinary Ways": {
-         "Endless Dream": false,
-         "Face the Music": false,
-         "Pilgrimage": false,
-         "One Word": false,
-         "I Believe": false,
+         "Endless Dream": "bad",
+         "Face the Music": "bad",
+         "Pilgrimage": "bad",
+         "One Word": "bad",
+         "I Believe": "bad",
          "Beyond Being": "",
          "Extraordinary Way": "",
          "Dying Light": "",
