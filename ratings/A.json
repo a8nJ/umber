@@ -62,73 +62,37 @@
       "Paradise Blown": {
          "$date": 1994,
          "$list": "white",
-         "500 am": {
-            "rate": "good"
-         },
-         "Shak": {
-            "rate": "bad"
-         },
-         "Turn Me Loose": {
-            "rate": "bad"
-         },
-         "Edit": {
-            "rate": "short"
-         },
+         "500 am": "good",
+         "Shak": "bad",
+         "Turn Me Loose": "bad",
+         "Edit": "short",
          "Black Jesus": {
             "rate": "bad",
             "trend": "10,137",
             "link": "https://youtu.be/A6S_vJ7G0R0"
          },
-         "All Aboard": {
-            "rate": "bad"
-         },
-         "Summer": {
-            "rate": "good"
-         },
-         "The Herb": {
-            "rate": "bad"
-         },
-         "Brothers of the Red": {
-            "rate": "bad"
-         },
-         "Take Nine": {
-            "rate": "bad"
-         },
-         "Spoonful of Slow": {
-            "rate": "short"
-         },
-         "Bad Boy": {
-            "rate": "bad"
-         },
-         "Not Nice": {
-            "rate": "bad"
-         },
-         "Interleud": {
-            "rate": "short"
-         },
-         "It’s Late": {
-            "rate": "bad"
-         },
-         "Gossip / Bad Boy": {
-            "rate": "short"
-         },
-         "Lotto Jisco": {
-            "rate": "bad"
-         }
+         "All Aboard": "bad",
+         "Summer": "good",
+         "The Herb": "bad",
+         "Brothers of the Red": "bad",
+         "Take Nine": "bad",
+         "Spoonful of Slow": "short",
+         "Bad Boy": "bad",
+         "Not Nice": "bad",
+         "Interleud": "short",
+         "It’s Late": "bad",
+         "Gossip / Bad Boy": "short",
+         "Lotto Jisco": "bad"
       }
    },
    "Aaliyah": {
       "Aaliyah": {
          "$date": 2001,
          "$list": "white",
-         "We Need a Resolution": {
-            "rate": "good"
-         },
+         "We Need a Resolution": "good",
          "Loose Rap": "",
          "Rock the Boat": "",
-         "More Than a Woman": {
-            "rate": "good"
-         },
+         "More Than a Woman": "good",
          "Never No More": "",
          "I Care 4 You": "",
          "Extra Smooth": "",
@@ -180,21 +144,6 @@
          "$date": 1987,
          "$list": "black"
       },
-      "Done With Mirrors": {
-         "$date": 1985
-      },
-      "Rock in a Hard Place": {
-         "$date": 1982
-      },
-      "Night in the Ruts": {
-         "$date": 1979
-      },
-      "Draw the Line": {
-         "$date": 1977
-      },
-      "Rocks": {
-         "$date": 1976
-      },
       "Toys in the Attic": {
          "Walk This Way": {
             "trend": "7,394,905",
@@ -217,9 +166,7 @@
    },
    "Air": {
       "Music for Museum": {
-         "Land Me": {
-            "rate": "bad"
-         },
+         "Land Me": "bad",
          "Reverse Bubble": {
             "rate": "bad"
          },
