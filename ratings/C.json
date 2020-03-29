@@ -15,10 +15,8 @@
          "She’ll Come Back to Me": "short",
          "Italian Leather Sofa": "",
          "Sad Songs and Waltzes": "",
-         "=": {
          "$date": 1996,
-            "$list": "white"
-         }
+         "$list": "white"
       }
    },
    "Can": {
@@ -34,20 +32,16 @@
          "Soup": "",
          "I’m So Green": "",
          "Spoon": "",
-         "=": {
          "$date": 1972,
-            "$list": "white"
-         }
+         "$list": "white"
       }
    },
    "Cassie": {
       "Cassie": {
          "Long Way 2 Go": "",
          "Me & U": "",
-         "=": {
          "$date": 2006,
-            "$list": "black"
-         }
+         "$list": "black"
       },
       "=": {
          "Me & U": {
@@ -60,9 +54,7 @@
       "Built on Glass": {
          "1998": "",
          "Gold": "",
-         "=": {
          "$date": 2014
-         }
       },
       "=": {
          "Gold": {
@@ -74,10 +66,8 @@
    "Chicago": {
       "Chicago 17": {
          "You’re The Inspiration": "",
-         "=": {
          "$date": 1984,
-            "$list": "black"
-         }
+         "$list": "black"
       },
       "Chicago 16": {
          "$date": 1982
@@ -106,10 +96,8 @@
          "Gently I’ll Wake You": "",
          "You Get It Up": "",
          "Hope for Love": "",
-         "=": {
          "$date": 1976,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "Chicago VIII": {
          "$date": 1975
@@ -131,10 +119,8 @@
          "State of the Union": "",
          "Goodbye": "",
          "Alma Mater": "",
-         "=": {
          "$date": 1972,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "Chicago III": {
          "$date": 1971
@@ -163,10 +149,8 @@
          "It Better End Soon (3rd Movement)": "",
          "It Better End Soon (4th Movement)": "short",
          "Where Do We Go From Here": "short",
-         "=": {
          "$date": 1969,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "=": {
          "If You Leave Me Now": {
@@ -191,10 +175,8 @@
          "Don’t Give Up": false,
          "Saltwater (The Thrillseekers remix)": "good",
          "Andromeda": false,
-         "=": {
          "$date": 2000,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "Far From the Maddening Crowds": {
          "Early": "",
@@ -208,10 +190,8 @@
          "Sunstroke (original mix)": "",
          "Offshore ’97": "good",
          "The Drive Home": "",
-         "=": {
          "$date": 1997,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "=": {
          "Saltwater (original mix)": {
@@ -224,19 +204,15 @@
       "Awaken, My Love!": {
          "Me and Your Mama": "",
          "Redbone": "",
-         "=": {
          "$date": 2016,
-            "$list": "black"
-         }
+         "$list": "black"
       },
       "Because the Internet": {
          "3005": "",
          "Sweatpants": "",
          "Telegraph Ave": "",
-         "=": {
          "$date": 2013,
-            "$list": "black"
-         }
+         "$list": "black"
       },
       "Camp": {
          "Outside": false,
@@ -252,10 +228,8 @@
          "You See Me": "",
          "Sunrise": "",
          "That Power": "",
-         "=": {
          "$date": 2011,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "=": {
          "Redbone": {
@@ -275,10 +249,8 @@
    "Chris Isaak": {
       "Heart Shaped World": {
          "Wicked Game": "",
-         "=": {
          "$date": 1989,
-            "$list": "black"
-         }
+         "$list": "black"
       },
       "Chris Isaak": {
          "You Owe Me Some Kind of Love": "good",
@@ -292,10 +264,8 @@
          "Cryin’": "short",
          "Lovers Game": "short",
          "Waiting for the Rain to Fall": "",
-         "=": {
          "$date": 1986,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "=": {
          "Can’t Help Falling in Love": {
@@ -311,10 +281,8 @@
    "Ciara": {
       "Basic Instinct": {
          "Ride": "",
-         "=": {
          "$date": 2010,
-            "$list": "black"
-         }
+         "$list": "black"
       },
       "=": {
          "Ride": {
@@ -335,10 +303,8 @@
          "Eperdu": "",
          "Treasure Hiding": "",
          "Seekers Who Are Lovers": "",
-         "=": {
          "$date": 1996,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "Four-Calendar Café": {
          "Know Who You Are at Every Age": "",
@@ -351,10 +317,8 @@
          "Essence": "",
          "Summerhead": "good",
          "Pur": "",
-         "=": {
          "$date": 1993,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "Heaven or Las Vegas": {
          "Cherry-Coloured Funk": false,
@@ -367,10 +331,8 @@
          "Wolf in the Breast": "",
          "Road, River and Rail": "",
          "Frou-Frou Foxes in Midsummer Fires": "",
-         "=": {
          "$date": 1990,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "Blue Bell Knoll": {
          "Blue Bell Knoll": "",
@@ -383,10 +345,8 @@
          "Spooning Good Singing Gum": "",
          "A Kissed Out Red Floatboat": "",
          "Ella Megalast Burls Forever": "",
-         "=": {
          "$date": 1988,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "Victorialand": {
          "Lazy Calm": "good",
@@ -398,20 +358,16 @@
          "Feet-Like Fins": "",
          "How to Bring a Blush to the Snow": "",
          "The Thinner the Air": "",
-         "=": {
          "$date": 1986,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "Tiny Dynamine": {
          "Pink Orange Red": "good",
          "Ribbed and Veined": "good",
          "Plain Tiger": "",
          "Sultitan Itan": "",
-         "=": {
          "$date": 1985,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "Treasure": {
          "Ivo": "good",
@@ -424,20 +380,16 @@
          "Cicely": "",
          "Otterley": "good",
          "Donimo": "",
-         "=": {
          "$date": 1984,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "Sunburst and Snowblind": {
          "Sugar Hiccup": "dup",
          "From the Flagstones": "",
          "Hitherto": "good",
          "Because of Whirl-Jack": "",
-         "=": {
          "$date": 1983,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "Head Over Heels": {
          "When Mama Was Moth": "",
@@ -450,10 +402,8 @@
          "Multifoiled": "short",
          "My Love Paramour": "",
          "Musette and Drums": "",
-         "=": {
          "$date": 1983,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "Garlands": {
          "Blood Bitch": false,
@@ -464,10 +414,8 @@
          "The Hollow Men": false,
          "Garlands": false,
          "Grail Overfloweth": false,
-         "=": {
          "$date": 1982,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "=": {
          "Heaven or Las Vegas": {
@@ -479,10 +427,8 @@
    "Coldplay": {
       "A Rush of Blood to the Head": {
          "The Scientist": "",
-         "=": {
          "$date": 2002,
-            "$list": "black"
-         }
+         "$list": "black"
       },
       "=": {
          "The Scientist": {
@@ -505,10 +451,8 @@
          "Syrthio": "",
          "When Will You Find the Limit": "",
          "Iteration": "",
-         "=": {
          "$date": 2017,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "In Decay": {
          "Open": "",
@@ -524,10 +468,8 @@
          "Video Arkade": "",
          "Data Kiss": "",
          "Closed": "",
-         "=": {
          "$date": 2012,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "Galactic Melt": {
          "Terminal": "short",
@@ -541,10 +483,8 @@
          "Ether Drift": "",
          "Futureworld": "",
          "Karova": "",
-         "=": {
          "$date": 2011,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "=": {
          "Propagation": {
@@ -565,10 +505,8 @@
          "Dying Light": "",
          "Forever Lost": "",
          "Into the Escape": "",
-         "=": {
          "$date": 2005,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "Conjure One": {
          "Damascus": "short",
@@ -582,10 +520,8 @@
          "Pandora": "good",
          "Sleep": "",
          "Premonition (reprise)": "",
-         "=": {
          "$date": 2002,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "=": {
          "Tears From the Moon": {
@@ -606,20 +542,16 @@
          "I Wish I Was a Girl": "",
          "Speedway": "",
          "St. Robinson in His Cadillac Dream / Kid Things": "",
-         "=": {
          "$date": 1999,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "Recovering the Satellites": {
          "$date": 1996
       },
       "August and Everything After": {
          "Mr. Jones": "",
-         "=": {
          "$date": 1993,
-            "$list": "black"
-         }
+         "$list": "black"
       },
       "=": {
          "Accidentally in Love": {
@@ -645,10 +577,8 @@
          "The Way": "",
          "Hear My Song": "",
          "Witch Doctor": "",
-         "=": {
          "$date": 2015,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "When We On": {
          "Open for Service": "",
@@ -662,10 +592,8 @@
          "Eruption": "",
          "Wecanonlybewhoweare": "",
          "Future Beat": "",
-         "=": {
          "$date": 2011,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "=": {
          "Heartbreaker": {
@@ -686,10 +614,8 @@
          "Left of Mother": "",
          "Sweetest Pie": "",
          "Cuckoo": "",
-         "=": {
          "$date": 1993,
-            "$list": "white"
-         }
+         "$list": "white"
       },
       "=": {
          "Clipped": {
