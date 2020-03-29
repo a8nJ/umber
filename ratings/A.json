@@ -962,58 +962,32 @@
          "$list": "white"
       },
       "LP5": {
-         "Acroyear2": {
-            "rate": "bad"
-         },
-         "777": {
-            "rate": "bad"
-         },
-         "Rae": {
-            "rate": "bad"
-         },
-         "Melve": {
-            "rate": "short"
-         },
-         "Vose In": {
-            "rate": "bad"
-         },
-         "Fold4,Wrap5": {
-            "rate": "bad"
-         },
+         "$date": 1998,
+         "$list": "white",
+         "Acroyear2": "bad",
+         "777": "bad",
+         "Rae": "bad",
+         "Melve": "short",
+         "Vose In": "bad",
+         "Fold4,Wrap5": "bad",
          "Under BOAC": "",
          "Corc": "",
-         "Caliper Remote": {
-            "rate": "short"
-         },
+         "Caliper Remote": "short",
          "Arch Carrier": "",
-         "Drane2": "",
-         "$date": 1998,
-         "$list": "white"
+         "Drane2": ""
       },
       "Chiastic Slide": {
-         "Cipater": {
-            "rate": "bad"
-         },
-         "Rettic AC": {
-            "rate": "short"
-         },
-         "Tewe": {
-            "rate": "bad"
-         },
-         "Cichli": {
-            "rate": "bad"
-         },
-         "Hub": {
-            "rate": "bad"
-         },
-         "Calbruc": {
-            "rate": "bad"
-         },
+         "$date": 1997,
+         "$list": "white",
+         "Cipater": "bad",
+         "Rettic AC": "short",
+         "Tewe": "bad",
+         "Cichli": "bad",
+         "Hub": "bad",
+         "Calbruc": "bad",
          "Recury": "",
          "Pule": "",
-         "Nuane": "",
-         "$date": 1997,
-         "$list": "white"
+         "Nuane": ""
       },
       "Tri Repetae": {
          "Dael": "",
@@ -1067,31 +1041,19 @@
          "$list": "white"
       },
       "Incunabula": {
-         "Kalpol Introl": {
-            "rate": "good"
-         },
-         "Bike": {
-            "rate": "good"
-         },
-         "Autriche": {
-            "rate": "good"
-         },
+         "$date": 1993,
+         "$list": "white",
+         "Kalpol Introl": "good",
+         "Bike": "good",
+         "Autriche": "good",
          "Bronchus 2": "",
          "Basscadet": "",
-         "Eggshell": {
-            "rate": "good"
-         },
+         "Eggshell": "good",
          "Doctrine": "",
          "Maetl": "",
-         "Windwind": {
-            "rate": "good"
-         },
+         "Windwind": "good",
          "Lowride": "",
-         "444": {
-            "rate": "good"
-         },
-         "$date": 1993,
-         "$list": "white"
+         "444": "good"
       }
    }
 }
