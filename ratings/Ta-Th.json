@@ -1422,6 +1422,19 @@
           "A Man Is a Man": "",
           "Cry If You Want": ""
       },
+      "Who Are You": {
+          "$date": "1978-08-18",
+          "$list": "white",
+          "New Song": "",
+          "Had Enough": "",
+          "905": "",
+          "Sister Disco": "",
+          "Music Must Change": "",
+          "Trick of the Light": "",
+          "Guitar and Pen": "",
+          "Love Is Coming Down": "",
+          "Who Are You": "good"
+      },
       "Who’s Next": {
          "$date": 1971,
          "$list": "white",

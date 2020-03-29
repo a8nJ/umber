@@ -44,7 +44,7 @@
       "Two Hearts Beat as One": "",
       "Red Light": "",
       "Surrender": "",
-      "40": "len"
+      "40": "short"
     },
     "October": {
       "$date": 1981,
@@ -55,11 +55,11 @@
       "Rejoice": "good",
       "Fire": "",
       "Tomorrow": "",
-      "October": "len",
+      "October": "short",
       "With a Shout (Jerusalem)": "",
       "Stranger in a Strange Land": "",
-      "Scarlet": "len",
-      "Is That All?": "len"
+      "Scarlet": "short",
+      "Is That All?": "short"
     },
     "Boy": {
       "$date": 1980,
@@ -70,7 +70,7 @@
       "Into the Heart": "",
       "Out of Control": "",
       "Stories for Boys": "",
-      "The Ocean": "len",
+      "The Ocean": "short",
       "A Day Without Me": "",
       "Another Time, Another Place": "",
       "The Electric Co.": "",
@@ -120,13 +120,13 @@
       "Amaris": "bad",
       "Genau Wie Damals": "bad",
       "Anywhere but Here": "good",
-      "Intervention Sol": "len",
+      "Intervention Sol": "short",
       "Mst": "bad",
       "Ao Hinode": "good",
       "Spellbreaker": "bad",
-      "Intervention Stjerner": "len",
+      "Intervention Stjerner": "short",
       "Caffeine Blues": "bad",
-      "Intervention Måne": "len",
+      "Intervention Måne": "short",
       "Coastal Path": "good",
       "$date": 2017,
       "$list": "white"
@@ -209,7 +209,7 @@
       "Sola Sistim": "",
       "Little Speaker": "",
       "Trim": "",
-      "Ess Gee": "len",
+      "Ess Gee": "short",
       "Dinosaur Adventure 3D": "",
       "Ballet Lane": "",
       "Luetin": ""
@@ -238,7 +238,7 @@
       "Rowla": "bad",
       "Pearls Girl": "bad",
       "Air Towel": "bad",
-      "Blueski": "len",
+      "Blueski": "short",
       "Stagger": "good"
     },
     "Dubnobasswithmyheadman": {
@@ -264,7 +264,7 @@
       "Texas": "",
       "Thrash": "",
       "Sole Survivor": "",
-      "Beach": "len",
+      "Beach": "short",
       "$date": 1988,
       "$list": "white"
     }
@@ -273,7 +273,7 @@
     "Hand on the Torch": {
       "Cantaloop (Flip Fantasia)": "good",
       "I Got It Goin’ On": "",
-      "Different Rhythms Different People": "len",
+      "Different Rhythms Different People": "short",
       "It’s Like That": "",
       "Just Another Brother": "",
       "Cruisin’": "",
@@ -344,8 +344,8 @@
   "Van Halen": {
     "Van Halen": {
       "Runnin’ With the Devil": "good",
-      "Eruption": "len",
-      "You Really Got Me": "len",
+      "Eruption": "short",
+      "You Really Got Me": "short",
       "Ain’t Talkin’ ’Bout Love": "good",
       "I’m the One": "",
       "Jamie’s Cryin’": "",
@@ -372,10 +372,10 @@
     "Moondance": {
       "And It Stoned Me": "",
       "Moondance": "good",
-      "Crazy Love": "len",
+      "Crazy Love": "short",
       "Caravan": "",
       "Into the Mystic": "",
-      "Come Running": "len",
+      "Come Running": "short",
       "These Dreams of You": "",
       "Brand New Day": "",
       "Everyone": "",
@@ -482,12 +482,12 @@
       "Plains": "",
       "Hot as Day": "",
       "We Were Wealth": "",
-      "Doubt": "len",
+      "Doubt": "short",
       "$date": 2011,
       "$list": "white"
     },
     "The Knot": {
-      "Milk and Honey": "len",
+      "Milk and Honey": "short",
       "For Prayer": "",
       "Take It In": "",
       "Siamese": "",
@@ -515,13 +515,13 @@
     },
     "Show Your Bones": {
       "Gold Lion": "",
-      "Way Out": "len",
+      "Way Out": "short",
       "Fancy": "",
       "Phenomena": "good",
-      "Honeybear": "len",
+      "Honeybear": "short",
       "Cheated Hearts": "",
       "Dudley": "",
-      "Mysteries": "len",
+      "Mysteries": "short",
       "The Sweets": "",
       "Warrior": "",
       "Turn Into": "",
@@ -530,12 +530,12 @@
     },
     "Fever to Tell": {
       "Rich": "good",
-      "Date With the Night": "len",
-      "Man": "len",
-      "Tick": "len",
+      "Date With the Night": "short",
+      "Man": "short",
+      "Tick": "short",
       "Black Tongue": "",
-      "Pin": "len",
-      "Cold Light": "len",
+      "Pin": "short",
+      "Cold Light": "short",
       "No No No": "",
       "Maps": "good",
       "Y Control": "",
@@ -580,12 +580,12 @@
     },
     "Fragile": {
       "Roundabout": "good",
-      "Cans and Brahms": "len",
-      "We Have Heaven": "len",
+      "Cans and Brahms": "short",
+      "We Have Heaven": "short",
       "South Side of the Sky": "",
-      "Five Per Cent for Nothing": "len",
+      "Five Per Cent for Nothing": "short",
       "Long Distance Runaround": "",
-      "The Fish (Schindleria Praematurus)": "len",
+      "The Fish (Schindleria Praematurus)": "short",
       "Mood for a Day": "",
       "Heart of the Sunrise / We Have Heaven (reprise)": "",
       "$date": 1971,
@@ -601,7 +601,7 @@
   "You Say Party": {
     "XXXX": {
       "There Is XXXX (Within My Heart)": "",
-      "Glory": "len",
+      "Glory": "short",
       "Dark Days": "good",
       "Cosmic Wanship Avengers": "",
       "Lonely’s Lunch": "",
@@ -646,15 +646,15 @@
     "You Are Beautiful at All Times": {
       "Ending With You": "bad",
       "I’ll Hit the Breaks": "bad",
-      "Again With the Subtitles": "len",
-      "The Subtleties That Count": "len",
+      "Again With the Subtitles": "short",
+      "The Subtleties That Count": "short",
       "We Aim": "bad",
-      "What’s the Matter?": "len",
+      "What’s the Matter?": "short",
       "In Two, the Weakly": "bad",
       "Almost in That Category": "bad",
-      "Good Like That": "len",
+      "Good Like That": "short",
       "Cannot See Straight": "good",
-      "It’s Not the Same": "len",
+      "It’s Not the Same": "short",
       "Longtime": "bad",
       "$date": 2006,
       "$list": "white"
@@ -668,7 +668,7 @@
   },
   "Zero 7": {
     "Yeah Ghost": {
-      "Count Me Out": "len",
+      "Count Me Out": "short",
       "Mr McGee": "bad",
       "Swing": "bad",
       "Everything Up (Zizou)": "bad",
@@ -676,7 +676,7 @@
       "Medicine Man": "bad",
       "Ghost sYMbOL": "",
       "Sleeper": "",
-      "Solastalgia": "len",
+      "Solastalgia": "short",
       "The Road": "",
       "All of Us": "",
       "$date": 2009,
@@ -688,7 +688,7 @@
       "Seeing Things": "",
       "The Pageant of the Bizarre": "",
       "You’re My Flame": "",
-      "Left Behind": "len",
+      "Left Behind": "short",
       "Today": "",
       "This Fine Social Scene": "",
       "Your Place": "",
