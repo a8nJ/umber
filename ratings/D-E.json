@@ -575,26 +575,15 @@
    },
    "Duke Ellington": {
       "Money Jungle": {
+         "$date": 1962,
+         "$list": "white",
          "Money Jungle": "",
          "Fleurette Africaine": "good",
          "Very Special": "",
          "Warm Valley": "good",
          "Wig Wise": "",
          "Caravan": "",
-         "Solitude": "good",
-         "=": {
-            "$date": 1962,
-            "white": "yet"
-         }
-      },
-      "Duke Ellington Meets Coleman Hawkins": {
-         "$date": 1962
-      },
-      "Recording Together for the First Time": {
-         "$date": 1961
-      },
-      "Piano in the Foreground": {
-         "$date": 1961
+         "Solitude": "good"
       },
       "First Time! The Count Meets the Duke": {
          "Battle Royal": "",

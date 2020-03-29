@@ -1,38 +1,40 @@
 {
   "U2": {
     "Songs of Experience": {
-      "Ordinary Love": "",
-      "You’re the Best Thing About Me": "",
       "$date": 2017,
-      "$list": "black"
+      "$list": "black",
+      "Ordinary Love": "",
+      "You’re the Best Thing About Me": ""
     },
     "All That You Can’t Leave Behind": {
-      "Beautiful Day": "",
-      "Stuck in a Moment You Can’t Get Out Of": "",
       "$date": 2000,
-      "$list": "black"
+      "$list": "black",
+      "Beautiful Day": "",
+      "Stuck in a Moment You Can’t Get Out Of": ""
     },
     "Achtung Baby": {
-      "One": "",
       "$date": 1991,
-      "$list": "black"
+      "$list": "black",
+      "One": ""
     },
     "The Joshua Tree": {
+      "$date": 1987,
+      "$list": "black",
       "I Still Haven’t Found What I’m Looking For": "",
       "In God’s Country": "",
       "Sweetest Thing": "",
       "Where the Streets Have No Name": "",
-      "With Or Without You": "",
-      "$date": 1987,
-      "$list": "black"
+      "With Or Without You": ""
     },
     "The Unforgettable Fire": {
-      "Bad": "",
-      "Pride": "",
       "$date": 1984,
-      "$list": "black"
+      "$list": "black",
+      "Bad": "",
+      "Pride": ""
     },
     "War": {
+      "$date": 1983,
+      "$list": "white",
       "Sunday Bloody Sunday": "",
       "Seconds": "",
       "New Year’s Day": "good",
@@ -42,11 +44,11 @@
       "Two Hearts Beat as One": "",
       "Red Light": "",
       "Surrender": "",
-      "40": "len",
-      "$date": 1983,
-      "$list": "white"
+      "40": "len"
     },
     "October": {
+      "$date": 1981,
+      "$list": "white",
       "Gloria": "",
       "I Fall Down": "",
       "I Threw a Brick Through a Window": "",
@@ -57,11 +59,11 @@
       "With a Shout (Jerusalem)": "",
       "Stranger in a Strange Land": "",
       "Scarlet": "len",
-      "Is That All?": "len",
-      "$date": 1981,
-      "$list": "white"
+      "Is That All?": "len"
     },
     "Boy": {
+      "$date": 1980,
+      "$list": "white",
       "I Will Follow": "good",
       "Twilight": "",
       "An Cat Dubh": "",
@@ -72,9 +74,7 @@
       "A Day Without Me": "",
       "Another Time, Another Place": "",
       "The Electric Co.": "",
-      "Shadows and Tall Trees": "",
-      "$date": 1980,
-      "$list": "white"
+      "Shadows and Tall Trees": ""
     },
     "=": {
       "Beautiful Day": {
@@ -368,45 +368,6 @@
       "Someone Like You": "",
       "$date": 1987,
       "$list": "white"
-    },
-    "No Guru, No Method, No Teacher": {
-      "$date": 1986
-    },
-    "A Sense of Wonder": {
-      "$date": 1984
-    },
-    "Inarticulate Speech of the Heart": {
-      "$date": 1983
-    },
-    "Beautiful Vision": {
-      "$date": 1982
-    },
-    "Common One": {
-      "$date": 1980
-    },
-    "Into the Music": {
-      "$date": 1979
-    },
-    "Wavelength": {
-      "$date": 1978
-    },
-    "A Period of Transition": {
-      "$date": 1977
-    },
-    "Veedon Fleece": {
-      "$date": 1974
-    },
-    "Hard Nose the Highway": {
-      "$date": 1973
-    },
-    "Saint Dominic’s Preview": {
-      "$date": 1972
-    },
-    "Tupelo Honey": {
-      "$date": 1971
-    },
-    "His Band and the Street Choir": {
-      "$date": 1970
     },
     "Moondance": {
       "And It Stoned Me": "",

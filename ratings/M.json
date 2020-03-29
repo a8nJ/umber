@@ -1,6 +1,7 @@
 {
    "M83": {
       "Junk": {
+         "$date": 2016,
          "Do It, Try It": "bad",
          "Go!": "bad",
          "Walkway Blues": "bad",
@@ -15,10 +16,10 @@
          "Atlantique Sud": "",
          "Time Wind": "",
          "Ludivine": "short",
-         "Sunday Night 1987": "",
-         "$date": 2016
+         "Sunday Night 1987": ""
       },
       "Oblivion Soundtrack": {
+         "$date": 2013,
          "Jack’s Dream": "short",
          "Waking Up": "",
          "Tech 49": "",
@@ -39,8 +40,7 @@
             "rate": "good",
             "trend": "2,746,085",
             "link": "https://youtu.be/1mkUp1V3ys0"
-         },
-         "$date": 2013
+         }
       },
       "Hurry Up, We’re Dreaming": {
          "$date": 2011,
@@ -381,19 +381,19 @@
          "$date": 2010
       },
       "Collected": {
-         "Safe From Harm": "dup",
-         "Karmacoma": "dup",
-         "Angel": "dup",
-         "Teardrop": "dup",
-         "Inertia Creeps": "dup",
-         "Protection": "dup",
-         "Butterfly Caught": "dup",
-         "Unfinished Sympathy": "dup",
-         "Risingson": "dup",
-         "What Your Soul Sings": "dup",
-         "Future Proof": "dup",
-         "Five Man Army": "dup",
-         "Sly": "dup",
+         "Safe From Harm": "reissue",
+         "Karmacoma": "reissue",
+         "Angel": "reissue",
+         "Teardrop": "reissue",
+         "Inertia Creeps": "reissue",
+         "Protection": "reissue",
+         "Butterfly Caught": "reissue",
+         "Unfinished Sympathy": "reissue",
+         "Risingson": "reissue",
+         "What Your Soul Sings": "reissue",
+         "Future Proof": "reissue",
+         "Five Man Army": "reissue",
+         "Sly": "reissue",
          "Live With Me": "good",
          "False Flags": "bad",
          "Incantations": "good",
