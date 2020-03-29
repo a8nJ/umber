@@ -6,7 +6,7 @@
          "Lose Yourself to Dance": "",
          "=": {
             "$date": 2013,
-            "white": false
+            "$list": "black"
          }
       },
       "TRON Legacy": {
@@ -17,7 +17,7 @@
          "Armory": "len",
          "Arena": "len",
          "Rinzler": "len",
-         "The Game Has Changed": true,
+         "The Game Has Changed": "good",
          "Outlands": "len",
          "Adagio for TRON": "",
          "Nocturne": "len",
@@ -34,26 +34,26 @@
          "Finale": "",
          "=": {
             "$date": 2010,
-            "white": true
+            "$list": "white"
          }
       },
       "Alive 2007": {
          "Robot Rock / Oh Yeah": "",
          "Touch It / Technologic": "",
          "Television Rules the Nation / Crescendolls": "",
-         "Too Long / Steam Machine": true,
-         "Around the World / Harder Better Faster Stronger": true,
+         "Too Long / Steam Machine": "good",
+         "Around the World / Harder Better Faster Stronger": "good",
          "Burnin’ / Too Long": "",
          "Face to Face / Short Circuit": "",
-         "One More Time / Aerodynamic": true,
-         "Aerodynamic Beats / Forget About the World": true,
+         "One More Time / Aerodynamic": "good",
+         "Aerodynamic Beats / Forget About the World": "good",
          "Prime Time of Your Life / Brainwasher / Rollin’ and Scratchin’ / Alive": "",
-         "Da Funk / Daftendirekt": true,
+         "Da Funk / Daftendirekt": "good",
          "Superheroes / Human After All / Rock’n Roll": "",
-         "Human After All/Together/One More Time/Music Sounds Better With You": true,
+         "Human After All/Together/One More Time/Music Sounds Better With You": "good",
          "=": {
             "$date": 2007,
-            "white": true
+            "$list": "white"
          }
       },
       "Human After All": {
@@ -61,7 +61,7 @@
          "The Prime Time of Your Life": false,
          "Robot Rock": false,
          "Steam Machine": false,
-         "Make Love": true,
+         "Make Love": "good",
          "The Brainwasher": false,
          "On/Off": "len",
          "Television Rules the Nation": "",
@@ -69,7 +69,7 @@
          "Emotion": "",
          "=": {
             "$date": 2005,
-            "white": true
+            "$list": "white"
          }
       },
       "Discovery": {
@@ -79,14 +79,14 @@
          "Something About Us": "",
          "=": {
             "$date": 2001,
-            "white": false
+            "$list": "black"
          }
       },
       "Homework": {
          "Around the World": "",
          "=": {
             "$date": 1997,
-            "white": false
+            "$list": "black"
          }
       },
       "=": {
@@ -110,15 +110,15 @@
    },
    "Dan Hess": {
       "Pilotwings 64": {
-         "Hang Glider": true,
-         "Rocket Belt": true,
+         "Hang Glider": "good",
+         "Rocket Belt": "good",
          "Gyrocopter": "",
          "Jumble Hopper": "",
          "Birdman": "",
          "Bravissimo!": "",
          "=": {
             "$date": 1996,
-            "white": true
+            "$list": "white"
          }
       },
       "=": {
@@ -135,7 +135,7 @@
          "O Marie": "",
          "Jolie Louise": "len",
          "Fisherman’s Daughter": "len",
-         "White Mustang II": true,
+         "White Mustang II": "good",
          "Under a Stormy Sky": "len",
          "Where the Hawkwind Kills": "",
          "Silium’s Hill": "",
@@ -144,7 +144,7 @@
          "Amazing Grace": "",
          "=": {
             "$date": 1989,
-            "white": true
+            "$list": "white"
          }
       },
       "=": {
@@ -167,17 +167,17 @@
          "Hello Again": "",
          "Louisiana Bayou": "",
          "Stolen Away on 55th & 3rd": "",
-         "You Might Die Trying": true,
+         "You Might Die Trying": "good",
          "Steady as We Go": "",
          "Hunger for the Great Light": "",
          "=": {
             "$date": 2005,
-            "white": true
+            "$list": "white"
          }
       },
       "Busted Stuff": {
          "Busted Stuff": false,
-         "Grey Street": true,
+         "Grey Street": "good",
          "Where Are You Going?": "",
          "You Never Know": "",
          "Captain": "",
@@ -189,7 +189,7 @@
          "Bartender": "",
          "=": {
             "$date": 2002,
-            "white": true
+            "$list": "white"
          }
       },
       "Everyday": {
@@ -207,7 +207,7 @@
          "Everyday": "",
          "=": {
             "$date": 2001,
-            "white": true
+            "$list": "white"
          }
       },
       "Before These Crowded Streets": {
@@ -224,13 +224,13 @@
          "Spoon": "",
          "=": {
             "$date": 1998,
-            "white": true
+            "$list": "white"
          }
       },
       "Crash": {
-         "So Much to Say": true,
+         "So Much to Say": "good",
          "Two Step": "",
-         "Crash Into Me": true,
+         "Crash Into Me": "good",
          "Too Much": "",
          "41": "",
          "Say Goodbye": "",
@@ -242,7 +242,7 @@
          "Proudest Monkey": "",
          "=": {
             "$date": 1996,
-            "white": true
+            "$list": "white"
          }
       },
       "Under the Table and Dreaming": {
@@ -252,7 +252,7 @@
          "Rhyme & Reason": "",
          "Typical Situation": "",
          "Dancing Nancies": "",
-         "Ants Marching": true,
+         "Ants Marching": "good",
          "Lover Lay Down": "",
          "Jimi Thing": "",
          "Warehouse": "",
@@ -260,7 +260,7 @@
          "34": "",
          "=": {
             "$date": 1994,
-            "white": true
+            "$list": "white"
          }
       },
       "=": {
@@ -275,7 +275,7 @@
          "Where’s the Revolution": "",
          "=": {
             "$date": 2017,
-            "white": false
+            "$list": "black"
          }
       },
       "Delta Machine": {
@@ -305,7 +305,7 @@
          "Junior Painkiller": "len",
          "=": {
             "$date": 1997,
-            "white": true
+            "$list": "white"
          }
       },
       "Songs of Faith and Devotion": {
@@ -316,14 +316,14 @@
          "Personal Jesus": "",
          "=": {
             "$date": 1990,
-            "white": false
+            "$list": "black"
          }
       },
       "Music for the Masses": {
          "Strangelove": "",
          "=": {
             "$date": 1987,
-            "white": false
+            "$list": "black"
          }
       },
       "Black Celebration": {
@@ -352,7 +352,7 @@
          "Just Can’t Get Enough": "",
          "=": {
             "$date": 1981,
-            "white": true
+            "$list": "white"
          }
       },
       "=": {
@@ -376,18 +376,18 @@
    },
    "Dirty Projectors": {
       "Bitte Orca": {
-         "Cannibal Resource": true,
-         "Temecula Sunrise": true,
+         "Cannibal Resource": "good",
+         "Temecula Sunrise": "good",
          "The Bride": "len",
-         "Stillness Is the Move": true,
-         "Two Doves": true,
+         "Stillness Is the Move": "good",
+         "Two Doves": "good",
          "Useful Chamber": "",
-         "No Intention": true,
+         "No Intention": "good",
          "Remade Horizon": "",
          "Fluorescent Half Dome": "",
          "=": {
             "$date": 2009,
-            "white": true
+            "$list": "white"
          }
       },
       "=": {
@@ -408,7 +408,7 @@
          "I Should Know": "",
          "Ghosts": "",
          "Lost Not Found": "",
-         "Days Go By": true,
+         "Days Go By": "good",
          "Throwing Shapes": "",
          "Candles": "",
          "All or Nothing": "",
@@ -419,7 +419,7 @@
          "Days Go By (acoustic)": "len",
          "=": {
             "$date": 2002,
-            "white": true
+            "$list": "white"
          }
       }
    },
@@ -436,14 +436,14 @@
          "The Vengeful One": "",
          "=": {
             "$date": 2018,
-            "white": false
+            "$list": "black"
          }
       },
       "Immortalized": {
          "The Sound of Silence": "",
          "=": {
             "$date": 2015,
-            "white": false
+            "$list": "black"
          }
       },
       "Asylum": {
@@ -456,7 +456,7 @@
          "Stricken": "",
          "=": {
             "$date": 2005,
-            "white": false
+            "$list": "black"
          }
       },
       "Believe": {
@@ -469,7 +469,7 @@
          "Voices": "",
          "=": {
             "$date": 2000,
-            "white": false
+            "$list": "black"
          }
       },
       "=": {
@@ -493,9 +493,9 @@
    },
    "Doe Paoro": {
       "After": {
-         "Traveling": true,
+         "Traveling": "good",
          "Nostalgia": false,
-         "Growth/Decay": true,
+         "Growth/Decay": "good",
          "Hypotheticals": "",
          "Outlines": "",
          "Walking Backwards": "",
@@ -505,7 +505,7 @@
          "Wake Up in Nowhere": "",
          "=": {
             "$date": 2015,
-            "white": true
+            "$list": "white"
          }
       },
       "Slow to Love": {
@@ -520,7 +520,7 @@
          "Soft but Strong": "len",
          "=": {
             "$date": 2012,
-            "white": true
+            "$list": "white"
          }
       },
       "=": {
@@ -537,7 +537,7 @@
          "The Next Episode": "",
          "=": {
             "$date": 1999,
-            "white": false
+            "$list": "black"
          }
       },
       "The Chronic": {
@@ -545,7 +545,7 @@
          "Fuck Wit Dre Day (And Everybody’s Celebratin’)": "",
          "Let Me Ride": "",
          "The Day the Niggaz Took Over": "",
-         "Nuthin’ but a “G” Thang": true,
+         "Nuthin’ but a “G” Thang": "good",
          "Deeez Nuuuts": "",
          "Lil’ Ghetto Boy": "",
          "A Nigga Witta Gun": "",
@@ -559,7 +559,7 @@
          "Bitches Ain’t Shit": "",
          "=": {
             "$date": 1992,
-            "white": true
+            "$list": "white"
          }
       },
       "=": {
@@ -576,12 +576,12 @@
    "Duke Ellington": {
       "Money Jungle": {
          "Money Jungle": "",
-         "Fleurette Africaine": true,
+         "Fleurette Africaine": "good",
          "Very Special": "",
-         "Warm Valley": true,
+         "Warm Valley": "good",
          "Wig Wise": "",
          "Caravan": "",
-         "Solitude": true,
+         "Solitude": "good",
          "=": {
             "$date": 1962,
             "white": "yet"
@@ -598,7 +598,7 @@
       },
       "First Time! The Count Meets the Duke": {
          "Battle Royal": "",
-         "To You": true,
+         "To You": "good",
          "Take the “A” Train": "",
          "Until I Met You": "",
          "Wild Man": "",
@@ -607,7 +607,7 @@
          "Jumpin’ at the Woodside": "",
          "=": {
             "$date": 1961,
-            "white": true
+            "$list": "white"
          }
       },
       "=": {
@@ -622,7 +622,7 @@
          "Come Undone": "",
          "=": {
             "$date": 1993,
-            "white": false
+            "$list": "black"
          }
       },
       "Liberty": {
@@ -644,7 +644,7 @@
          "Proposition": false,
          "=": {
             "$date": 1986,
-            "white": true
+            "$list": "white"
          }
       },
       "=": {
@@ -660,7 +660,7 @@
    },
    "Eddie Money": {
       "Can’t Hold Back": {
-         "Take Me Home Tonight": true,
+         "Take Me Home Tonight": "good",
          "One Love": "",
          "I Wanna Go Back": "",
          "Endless Nights": "",
@@ -672,7 +672,7 @@
          "Calm Before the Storm": "",
          "=": {
             "$date": 1985,
-            "white": true
+            "$list": "white"
          }
       },
       "=": {
@@ -685,20 +685,20 @@
    "Ekkah": {
       "Can’t Give It Up / Figure It Out (Night Edit)": {
          "Can’t Give It Up": "len",
-         "Figure It Out (Night Edit)": true,
+         "Figure It Out (Night Edit)": "good",
          "=": {
             "$date": 2016,
-            "white": true
+            "$list": "white"
          }
       },
       "Last Chance to Dance": {
-         "Last Chance to Dance": true,
+         "Last Chance to Dance": "good",
          "Holiday Blues (demo)": "",
          "Ex-Change (demo)": "len",
          "Only U 4 Me (demo)": "len",
          "=": {
             "$date": 2014,
-            "white": true
+            "$list": "white"
          }
       },
       "=": {
@@ -713,18 +713,18 @@
          "You’re So High": "",
          "=": {
             "$date": 2013,
-            "white": false
+            "$list": "black"
          }
       },
       "Night Blooming Jasmine": {
-         "Night Blooming Jasmine": true,
+         "Night Blooming Jasmine": "good",
          "Something Was Real": "",
          "Parfume": "",
          "Honest": "",
          "Parfume (extended mix)": "",
          "=": {
             "$date": 2018,
-            "white": true
+            "$list": "white"
          }
       },
       "=": {
@@ -743,7 +743,7 @@
          "Tiny Dancer": "",
          "=": {
             "$date": 1971,
-            "white": false
+            "$list": "black"
          }
       },
       "=": {
@@ -766,12 +766,12 @@
          "When Fever Breaks": "",
          "=": {
             "$date": 2013,
-            "white": true
+            "$list": "white"
          }
       },
       "Me and Armini": {
          "Fireheads": "",
-         "Me and Armini": true,
+         "Me and Armini": "good",
          "Birds": "",
          "Heard It All Before": "",
          "Ha Ha": "",
@@ -784,30 +784,30 @@
          "Bleeder": "",
          "=": {
             "$date": 2008,
-            "white": true
+            "$list": "white"
          }
       },
       "Fisherman’s Woman": {
          "Nothing Brings Me Down": false,
-         "Sunny Road": true,
+         "Sunny Road": "good",
          "Snow": "len",
-         "Lifesaver": true,
+         "Lifesaver": "good",
          "Honeymoon Child": false,
          "Today Has Been OK": false,
          "Next Time Around": false,
          "Heartstopper": false,
-         "At Least It Was": true,
+         "At Least It Was": "good",
          "Fisherman’s Woman": "len",
          "Thinking Out Loud": "",
          "Serenade": "",
          "=": {
             "$date": 2005,
-            "white": true
+            "$list": "white"
          }
       },
       "Love in the Time of Science": {
          "To Be Free": "",
-         "Wednesday’s Child": true,
+         "Wednesday’s Child": "good",
          "Baby Blue": "",
          "Dead Things": "",
          "Unemployed in Summertime": "",
@@ -819,7 +819,7 @@
          "Sea People": "len",
          "=": {
             "$date": 1999,
-            "white": true
+            "$list": "white"
          }
       },
       "=": {
@@ -843,20 +843,20 @@
          "Again": "",
          "=": {
             "$date": 2018,
-            "white": true
+            "$list": "white"
          }
       },
       "Woman Is a Word": {
-         "Woman Is a Word": true,
+         "Woman Is a Word": "good",
          "=": {
             "$date": 2016,
-            "white": true
+            "$list": "white"
          }
       },
       "Me": {
          "Everything Is You": false,
          "Water Water": false,
-         "Standard": true,
+         "Standard": "good",
          "How Do You Do It": false,
          "To Get By": "len",
          "Kitty Kat": "len",
@@ -866,7 +866,7 @@
          "Icon": false,
          "=": {
             "$date": 2015,
-            "white": true
+            "$list": "white"
          }
       },
       "Systems": {
@@ -876,7 +876,7 @@
          "Camisa Favorita": false,
          "=": {
             "$date": "2013-08-16",
-            "white": true
+            "$list": "white"
          }
       },
       "Colorminutes": {
@@ -897,7 +897,7 @@
          "15": "len",
          "=": {
             "$date": "2013-01-11",
-            "white": true
+            "$list": "white"
          }
       },
       "=": {
@@ -912,7 +912,7 @@
          "Only Time": "",
          "=": {
             "$date": 2000,
-            "white": false
+            "$list": "black"
          }
       },
       "=": {
@@ -924,7 +924,7 @@
    },
    "Everything but the Girl": {
       "Temperamental": {
-         "Five Fathoms": true,
+         "Five Fathoms": "good",
          "Low Tide of the Night": "",
          "Blame": "",
          "Hatfield 1980": "",
@@ -936,7 +936,7 @@
          "The Future of the Future (Stay Gold)": "",
          "=": {
             "$date": 1999,
-            "white": true
+            "$list": "white"
          }
       },
       "Walking Wounded": {
@@ -948,14 +948,14 @@
          "I Don’t Understand Anything": "",
          "Walking to You": "",
          "Get Me": "",
-         "Missing": true,
+         "Missing": "good",
          "Two Star": "",
          "We Walk the Same Line": "",
          "25th December": "",
          "Disenchanted": "len",
          "=": {
             "$date": 1994,
-            "white": true
+            "$list": "white"
          }
       },
       "Acoustic": {
@@ -964,7 +964,7 @@
          "Time After Time": "",
          "Alison": "",
          "Downtown Train": "",
-         "Driving": true,
+         "Driving": "good",
          "One Place": "",
          "Apron Strings (live)": "len",
          "Me and Bobby D": "",
@@ -972,7 +972,7 @@
          "Fascination (live)": "",
          "=": {
             "$date": 1992,
-            "white": true
+            "$list": "white"
          }
       },
       "Worldwide": {
@@ -980,7 +980,7 @@
          "Understanding": "",
          "You Lift Me Up": "",
          "Talk to Me Like the Sea": "",
-         "British Summertime": true,
+         "British Summertime": "good",
          "Twin Cities": "",
          "Frozen River": "",
          "One Place": "",
@@ -989,11 +989,11 @@
          "Feel Alright": "len",
          "=": {
             "$date": 1991,
-            "white": true
+            "$list": "white"
          }
       },
       "The Language of Life": {
-         "Driving": true,
+         "Driving": "good",
          "Get Back Together": "",
          "Meet Me in the Morning": "",
          "Me and Bobby D": "",
@@ -1005,7 +1005,7 @@
          "The Road": "",
          "=": {
             "$date": 1990,
-            "white": true
+            "$list": "white"
          }
       },
       "=": {
