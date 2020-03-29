@@ -293,6 +293,8 @@
    },
    "Cocteau Twins": {
       "Milk & Kisses": {
+         "$date": 1996,
+         "$list": "white",
          "Violaine": "bad",
          "Serpentskirt": "good",
          "Tishbite": "",
@@ -302,53 +304,57 @@
          "Ups": "",
          "Eperdu": "",
          "Treasure Hiding": "",
-         "Seekers Who Are Lovers": "",
-         "$date": 1996,
-         "$list": "white"
+         "Seekers Who Are Lovers": ""
       },
       "Four-Calendar Café": {
+         "$date": 1993,
+         "$list": "white",
          "Know Who You Are at Every Age": "",
-         "Evangeline": "",
-         "Bluebeard": "",
+         "Evangeline": "bad",
+         "Bluebeard": "bad",
          "Theft, and Wandering Around Lost": "",
-         "Oil of Angels": "",
+         "Oil of Angels": "bad",
          "Squeeze-Wax": "",
          "My Truth": "",
          "Essence": "",
          "Summerhead": "good",
-         "Pur": "",
-         "$date": 1993,
-         "$list": "white"
+         "Pur": ""
       },
       "Heaven or Las Vegas": {
+         "$date": 1990,
+         "$list": "white",
          "Cherry-Coloured Funk": "bad",
          "Pitch the Baby": "bad",
          "Iceblink Luck": "bad",
          "Fifty-Fifty Clown": "bad",
-         "Heaven or Las Vegas": "bad",
+         "Heaven or Las Vegas": {
+            "rate": "bad",
+            "trend": "202,206",
+            "link": "https://youtu.be/6KnYw4EwYGc"
+         },
          "I Wear Your Ring": "",
          "Fotzepolitic": "",
          "Wolf in the Breast": "",
          "Road, River and Rail": "",
-         "Frou-Frou Foxes in Midsummer Fires": "",
-         "$date": 1990,
-         "$list": "white"
+         "Frou-Frou Foxes in Midsummer Fires": ""
       },
       "Blue Bell Knoll": {
+         "$date": 1988,
+         "$list": "white",
          "Blue Bell Knoll": "",
          "Athol-Brose": "bad",
          "Carolyn’s Fingers": "",
          "For Phoebe Still a Baby": "bad",
          "The Itchy Glowbo Blow": "good",
-         "Cico Buff": "",
+         "Cico Buff": "bad",
          "Suckling the Mender": "",
          "Spooning Good Singing Gum": "",
          "A Kissed Out Red Floatboat": "",
-         "Ella Megalast Burls Forever": "",
-         "$date": 1988,
-         "$list": "white"
+         "Ella Megalast Burls Forever": "bad"
       },
       "Victorialand": {
+         "$date": 1986,
+         "$list": "white",
          "Lazy Calm": "good",
          "Fluffy Tufts": "",
          "Throughout the Dark Months of April and May": "good",
@@ -357,19 +363,19 @@
          "Little Spacey": "",
          "Feet-Like Fins": "",
          "How to Bring a Blush to the Snow": "",
-         "The Thinner the Air": "",
-         "$date": 1986,
-         "$list": "white"
+         "The Thinner the Air": ""
       },
       "Tiny Dynamine": {
+         "$date": 1985,
+         "$list": "white",
          "Pink Orange Red": "good",
          "Ribbed and Veined": "good",
          "Plain Tiger": "",
-         "Sultitan Itan": "",
-         "$date": 1985,
-         "$list": "white"
+         "Sultitan Itan": ""
       },
       "Treasure": {
+         "$date": 1984,
+         "$list": "white",
          "Ivo": "good",
          "Lorelei": "bad",
          "Beatrix": "",
@@ -379,19 +385,19 @@
          "Aloysius": "",
          "Cicely": "",
          "Otterley": "good",
-         "Donimo": "",
-         "$date": 1984,
-         "$list": "white"
+         "Donimo": ""
       },
       "Sunburst and Snowblind": {
+         "$date": 1983,
+         "$list": "white",
          "Sugar Hiccup": "reissue",
          "From the Flagstones": "",
          "Hitherto": "good",
-         "Because of Whirl-Jack": "",
-         "$date": 1983,
-         "$list": "white"
+         "Because of Whirl-Jack": ""
       },
       "Head Over Heels": {
+         "$date": 1983,
+         "$list": "white",
          "When Mama Was Moth": "",
          "Five Ten Fiftyfold": "good",
          "Sugar Hiccup": "bad",
@@ -401,11 +407,11 @@
          "The Tinderbox (of a Heart)": "good",
          "Multifoiled": "short",
          "My Love Paramour": "",
-         "Musette and Drums": "",
-         "$date": 1983,
-         "$list": "white"
+         "Musette and Drums": ""
       },
       "Garlands": {
+         "$date": 1982,
+         "$list": "white",
          "Blood Bitch": "bad",
          "Wax and Wane": "bad",
          "But I’m Not": "short",
@@ -413,15 +419,7 @@
          "Shallow Then Halo": "bad",
          "The Hollow Men": "bad",
          "Garlands": "bad",
-         "Grail Overfloweth": "bad",
-         "$date": 1982,
-         "$list": "white"
-      },
-      "=": {
-         "Heaven or Las Vegas": {
-            "trend": "202,206",
-            "link": "https://youtu.be/6KnYw4EwYGc"
-         }
+         "Grail Overfloweth": "bad"
       }
    },
    "Coldplay": {

@@ -115,53 +115,50 @@
          }
       },
       "Get a Grip": {
+         "$date": 1993,
+         "$list": "black",
          "Amazing": "",
          "Crazy": {
             "trend": "50,729,923",
             "link": "https://youtu.be/NMNgbISmF4I"
          },
-         "Livin’ on the Edge": "",
-         "$date": 1993,
-         "$list": "black"
+         "Livin’ on the Edge": ""
       },
       "Pump": {
+         "$date": 1989,
+         "$list": "black",
          "Cryin’": {
             "trend": "23,633,799",
             "link": "https://youtu.be/qfNmyxV2Ncw"
          },
          "Janie’s Got a Gun": "",
-         "Love in an Elevator": "",
-         "$date": 1989,
-         "$list": "black"
+         "Love in an Elevator": ""
       },
       "Permanent Vacation": {
+         "$date": 1987,
+         "$list": "black",
          "Angel": {
             "trend": "10,621,283",
             "link": "https://youtu.be/CBTOGVb_cQg"
          },
          "Dude": "",
-         "Rag Doll": "",
-         "$date": 1987,
-         "$list": "black"
+         "Rag Doll": ""
       },
       "Toys in the Attic": {
+         "$date": 1975,
+         "$list": "black",
          "Walk This Way": {
             "trend": "7,394,905",
             "link": "https://youtu.be/4B_UYYPb-Gk"
-         },
-         "$date": 1975,
-         "$list": "black"
-      },
-      "Get Your Wings": {
-         "$date": 1974
+         }
       },
       "Aerosmith": {
+         "$date": 1973,
+         "$list": "black",
          "Dream On": {
             "trend": "8,369,719",
             "link": "https://youtu.be/O0oQCmnvvl0"
-         },
-         "$date": 1973,
-         "$list": "black"
+         }
       }
    },
    "Air": {
@@ -260,29 +257,15 @@
          "Le Voyage de Pénélope": "good"
       },
       "Premiers Symptômes": {
-         "Modular Mix": {
-            "rate": "good"
-         },
-         "Casanova 70": {
-            "rate": "good"
-         },
-         "Les Professionnels": {
-            "rate": "good"
-         },
-         "J’ai dormi sous l’eau": {
-            "rate": "good"
-         },
-         "Le soleil est près de moi": {
-            "rate": "good"
-         },
-         "Californie": {
-            "rate": "short"
-         },
-         "Gordini Mix (Brakes On mix)": {
-            "rate": "good"
-         },
          "$date": 1997,
-         "$list": "white"
+         "$list": "white",
+         "Modular Mix": "good",
+         "Casanova 70": "good",
+         "Les Professionnels": "good",
+         "J’ai dormi sous l’eau": "good",
+         "Le soleil est près de moi": "good",
+         "Californie": "short",
+         "Gordini Mix (Brakes On mix)": "good"
       }
    },
    "Alannah Myles": {
