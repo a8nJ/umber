@@ -8,114 +8,56 @@
       "Bedsofaland": {
          "$date": 2009,
          "$list": "white",
-         "Hotwire": {
-            "rate": "short"
-         },
-         "Russian Spring": {
-            "rate": "short"
-         },
+         "Hotwire": "short",
+         "Russian Spring": "short",
          "Endless": "",
          "Smoke Rings": "",
-         "Mano Nera": {
-            "rate": "good"
-         },
+         "Mano Nera": "good",
          "Bedsofaland": "",
          "Cruiser": "",
-         "The Leopard": {
-            "rate": "short"
-         },
-         "One Cylinder": {
-            "rate": "short"
-         },
+         "The Leopard": "short",
+         "One Cylinder": "short",
          "Sunnyside": "",
          "Blasè": "",
-         "Free D": {
-            "rate": "short"
-         },
+         "Free D": "short",
          "Slow Plus": ""
       },
       "Sweet Jones": {
          "$date": 2003,
          "$list": "white",
-         "The Woodworm": {
-            "rate": "good"
-         },
-         "Code 3": {
-            "rate": "bad"
-         },
-         "Sunday Monday": {
-            "rate": "good"
-         },
-         "Poundstretcher": {
-            "rate": "good"
-         },
+         "The Woodworm": "good",
+         "Code 3": "bad",
+         "Sunday Monday": "good",
+         "Poundstretcher": "good",
          "Keep Going Daddy": "",
          "Big Six": "",
-         "Grazing Maize": {
-            "rate": "short"
-         },
-         "Cosa": {
-            "rate": "good"
-         },
-         "Tumbleweed": {
-            "rate": "good"
-         },
-         "Carborante": {
-            "rate": "good"
-         },
+         "Grazing Maize": "short",
+         "Cosa": "good",
+         "Tumbleweed": "good",
+         "Carborante": "good",
          "The Flying Nun": "",
          "The Last of the West": ""
       },
       "Electric Lazyland": {
          "$date": 1994,
          "$list": "white",
-         "Life Goes On & On": {
-            "rate": "bad"
-         },
-         "Electric Lazyland": {
-            "rate": "bad"
-         },
-         "Skarakesh": {
-            "rate": "bad"
-         },
-         "B Hip & Shop": {
-            "rate": "bad"
-         },
-         "No. 2": {
-            "rate": "bad"
-         },
-         "Monk’s Dream": {
-            "rate": "bad"
-         },
-         "Train": {
-            "rate": "bad"
-         },
-         "Very Gently": {
-            "rate": "bad"
-         },
-         "Swingpool": {
-            "rate": "bad"
-         },
-         "Checkin’ on You": {
-            "rate": "bad"
-         },
-         "Special 8": {
-            "rate": "bad"
-         },
-         "No. 9": {
-            "rate": "short"
-         },
-         "What’s New": {
-            "rate": "bad"
-         },
+         "Life Goes On & On": "bad",
+         "Electric Lazyland": "bad",
+         "Skarakesh": "bad",
+         "B Hip & Shop": "bad",
+         "No. 2": "bad",
+         "Monk’s Dream": "bad",
+         "Train": "bad",
+         "Very Gently": "bad",
+         "Swingpool": "bad",
+         "Checkin’ on You": "bad",
+         "Special 8": "bad",
+         "No. 9": "short",
+         "What’s New": "bad",
          "High Fashion": "",
-         "Meet the Voda": {
-            "rate": "short"
-         },
+         "Meet the Voda": "short",
          "Roughport Invention": "",
-         "Golden Oldie": {
-            "rate": "short"
-         }
+         "Golden Oldie": "short"
       },
       "Paradise Blown": {
          "$date": 1994,
