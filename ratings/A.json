@@ -976,8 +976,17 @@
          "Arch Carrier": "",
          "Drane2": ""
       },
+      "Cichlisuite": {
+          "$date": "1997-08-26",
+          "$list": "white",
+          "Yeesland": "",
+          "Pencha": "",
+          "Characi": "",
+          "Krib": "bad",
+          "Tilapia": ""
+      },
       "Chiastic Slide": {
-         "$date": 1997,
+         "$date": "1997-02-17",
          "$list": "white",
          "Cipater": "bad",
          "Rettic AC": "short",
@@ -990,6 +999,8 @@
          "Nuane": ""
       },
       "Tri Repetae": {
+         "$date": 1995,
+         "$list": "white",
          "Dael": "",
          "Clipper": "",
          "Leterel": "",
@@ -998,12 +1009,8 @@
          "Eutow": "",
          "C/Pach": "",
          "Gnit": "",
-         "Overand": {
-            "rate": "good"
-         },
-         "Rsdio": "",
-         "$date": 1995,
-         "$list": "white"
+         "Overand": "good",
+         "Rsdio": ""
       },
       "Amber": {
          "Foil": {
