@@ -1542,6 +1542,8 @@
    },
    "Suzanne Vega": {
       "Days of Open Hand": {
+         "$date": 1990,
+         "$list": "white",
          "Tired of Sleeping": "bad",
          "Men in a War": "bad",
          "Rusted Pipe": "bad",
@@ -1552,13 +1554,17 @@
          "Big Space": "bad",
          "Predictions": "bad",
          "Fifty-Fifty Chance": "short",
-         "Pilgrimage": "good",
-         "$date": 1990,
-         "$list": "white"
+         "Pilgrimage": "good"
       },
       "Solitude Standing": {
+         "$date": "1987-04",
+         "$list": "white",
          "Tom’s Diner": "good",
-         "Luka": "",
+         "Luka": {
+            "rate": "",
+            "flow": "4,659,374",
+            "link": "https://youtu.be/VZt7J0iaUD0"
+         },
          "Ironbound / Fancy Poultry": "",
          "In the Eye": "",
          "Night Vision": "short",
@@ -1567,11 +1573,11 @@
          "Language": "",
          "Gypsy": "",
          "Wooden Horse (Caspar Hauser’s Song)": "",
-         "Tom’s Diner (reprise)": "short",
-         "$date": "1987-04",
-         "$list": "white"
+         "Tom’s Diner (reprise)": "short"
       },
       "Suzanne Vega": {
+         "$date": 1985,
+         "$list": "white",
          "Cracking": "short",
          "Freeze Tag": "short",
          "Marlene on the Wall": "bad",
@@ -1579,61 +1585,44 @@
          "Straight Lines": "good",
          "Undertow": "bad",
          "Some Journey": "good",
-         "The Queen and the Soldier": "",
+         "The Queen and the Soldier": "bad",
          "Knight Moves": "",
-         "Neighborhood Girls": "",
-         "$date": 1985,
-         "$list": "white"
-      },
-      "=": {
-         "Luka": {
-            "flow": "4,659,374",
-            "link": "https://youtu.be/VZt7J0iaUD0"
-         }
+         "Neighborhood Girls": ""
       }
    },
    "System of a Down": {
       "Hypnotize": {
-         "Hypnotize": "",
-         "Lonely Day": "",
          "$date": 2005,
-         "$list": "black"
+         "$list": "black",
+         "Hypnotize": "",
+         "Lonely Day": {
+            "flow": "22,196,437",
+            "link": "https://youtu.be/DnGdoEa1tPg"
+         }
       },
       "Mezmerize": {
-         "B.Y.O.B.": "",
-         "Question!": "",
          "$date": 2005,
-         "$list": "black"
-      },
-      "Steal This Album!": {
-         "$date": 2002
-      },
-      "Toxicity": {
-         "Aerials": "",
-         "Chop Suey!": "",
-         "Toxicity": "",
-         "$date": 2001,
-         "$list": "black"
-      },
-      "System of a Down": {
-         "Spiders": "",
-         "Sugar": "",
-         "$date": 1998,
-         "$list": "black"
-      },
-      "=": {
+         "$list": "black",
          "B.Y.O.B.": {
             "flow": "30,340,425",
             "link": "https://youtu.be/zUzd9KyIDrM"
          },
+         "Question!": ""
+      },
+      "Toxicity": {
+         "$date": 2001,
+         "$list": "black",
+         "Aerials": "",
          "Chop Suey!": {
             "flow": "87,410,345",
             "link": "https://youtu.be/CSvFpBOe8eY"
          },
-         "Lonely Day": {
-            "flow": "22,196,437",
-            "link": "https://youtu.be/DnGdoEa1tPg"
-         },
+         "Toxicity": ""
+      },
+      "System of a Down": {
+         "$date": 1998,
+         "$list": "black",
+         "Spiders": "",
          "Sugar": {
             "flow": "10,356,237",
             "link": "https://youtu.be/5vBGOrI6yBk"

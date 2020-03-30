@@ -262,8 +262,25 @@
       }
    },
    "Mandalay": {
+      "Instinct": {
+          "$date": "2000",
+          "$list": "white",
+          "Not Seventeen": "bad",
+          "Don’t Invent Me": "",
+          "Like Her": "",
+          "Deep Love": "",
+          "No Reality": "",
+          "You Forget": "",
+          "Simple Things": "",
+          "Too Much Room": "",
+          "What If I": "",
+          "It’s Enough Now": "",
+          "Believe": ""
+      },
       "Empathy": {
-         "This Life": "",
+         "$date": "1998-03-23",
+         "$list": "white",
+         "This Life": "good",
          "Flowers Bloom": "good",
          "Insensible": "good",
          "Another": "",
@@ -272,14 +289,12 @@
          "Opposites": "bad",
          "This Time Last Year": "bad",
          "Kissing the Day": "bad",
-         "Beautiful": "bad",
-         "About You": "bad"
-      },
-      "=": {
          "Beautiful": {
+            "rate": "bad",
             "trend": "55,963",
             "link": "https://youtu.be/ie-0hEReVfU"
-         }
+         },
+         "About You": "bad"
       }
    },
    "Mariah Carey": {
@@ -298,20 +313,17 @@
          "We Belong Together": "",
          "$date": 2005
       },
-      "Charmbracelet": {
-         "$date": 2002
-      },
-      "Rainbow": {
-         "$date": 1999
-      },
       "Butterfly": {
          "My All": "",
          "$date": 1997
       },
       "Daydream": {
-         "Always Be My Baby": "",
-         "Fantasy": "",
-         "$date": 1995
+         "$date": 1995,
+         "Always Be My Baby": {
+            "trend": "15,209,697",
+            "link": "https://youtu.be/LfRNRymrv9k"
+         },
+        "Fantasy": ""
       },
       "Merry Christmas": {
          "All I Want for Christmas Is You": "",
@@ -326,10 +338,6 @@
          "All I Want For Christmas Is You": {
             "trend": "57,340,677",
             "link": "https://youtu.be/yXQViqx6GMY"
-         },
-         "Always Be My Baby": {
-            "trend": "15,209,697",
-            "link": "https://youtu.be/LfRNRymrv9k"
          },
          "Hero": {
             "trend": "23,152,721",
