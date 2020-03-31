@@ -561,85 +561,43 @@
    },
    "Autechre": {
       "Exai": {
-         "FLeure": "bad",
-         "irlite (get 0)": {
-            "rate": "bad"
-         },
-         "prac-f": {
-            "rate": "bad"
-         },
-         "jatevee C": {
-            "rate": "bad"
-         },
-         "T ess xi": {
-            "rate": "bad"
-         },
-         "vekoS": {
-            "rate": "bad"
-         },
-         "Flep": {
-            "rate": "bad"
-         },
-         "tuinorizn": {
-            "rate": "bad"
-         },
-         "bladelores": {
-            "rate": "bad"
-         },
-         "1 1 is": {
-            "rate": "bad"
-         },
-         "nodezsh": {
-            "rate": "bad"
-         },
-         "runrepik": {
-            "rate": "bad"
-         },
-         "spl9": {
-            "rate": "bad"
-         },
-         "cloudline": {
-            "rate": "bad"
-         },
-         "deco Loc": {
-            "rate": "bad"
-         },
-         "recks on": {
-            "rate": "bad"
-         },
-         "YJY UX": {
-            "rate": "bad"
-         },
          "$date": 2013,
-         "$list": "white"
+         "$list": "white",
+         "FLeure": "bad",
+         "irlite (get 0)": "bad",
+         "prac-f": "bad",
+         "jatevee C": "bad",
+         "T ess xi": "bad",
+         "vekoS": "bad",
+         "Flep": "bad",
+         "tuinorizn": "bad",
+         "bladelores": "bad",
+         "1 1 is": "bad",
+         "nodezsh": "bad",
+         "runrepik": "bad",
+         "spl9": "bad",
+         "cloudline": "bad",
+         "deco Loc": "bad",
+         "recks on": "bad",
+         "YJY UX": "bad"
       },
       "Oversteps": {
-         "r ess": {
-            "rate": "good"
-         },
+         "$date": 2010,
+         "$list": "white",
+         "r ess": "good",
          "ilanders": "",
          "known(1)": "",
-         "pt2ph8": {
-            "rate": "good"
-         },
+         "pt2ph8": "good",
          "qplay": "",
-         "see on see": {
-            "rate": "good"
-         },
+         "see on see": "good",
          "Treale": "",
          "os veix3": "",
          "O=0": "",
          "d-sho qub": "",
          "st epreo": "",
-         "redfall": {
-            "rate": "good"
-         },
+         "redfall": "good",
          "krYlon": "",
-         "Yuop": {
-            "rate": "good"
-         },
-         "$date": 2010,
-         "$list": "white"
+         "Yuop": "good"
       },
       "Quaristice": {
          "Altibzz": {
