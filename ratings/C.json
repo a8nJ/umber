@@ -38,12 +38,9 @@
    },
    "Cassie": {
       "Cassie": {
-         "Long Way 2 Go": "",
-         "Me & U": "",
          "$date": 2006,
-         "$list": "black"
-      },
-      "=": {
+         "$list": "black",
+         "Long Way 2 Go": "",
          "Me & U": {
             "trend": "13,636,105",
             "link": "https://youtu.be/zVJ5gsLeCSM"
@@ -52,11 +49,8 @@
    },
    "Chet Faker": {
       "Built on Glass": {
+         "$date": 2014,
          "1998": "",
-         "Gold": "",
-         "$date": 2014
-      },
-      "=": {
          "Gold": {
             "trend": "40,403,436",
             "link": "https://youtu.be/hi4pzKvuEQM"
@@ -68,21 +62,6 @@
          "You’re The Inspiration": "",
          "$date": 1984,
          "$list": "black"
-      },
-      "Chicago 16": {
-         "$date": 1982
-      },
-      "Chicago XIV": {
-         "$date": 1980
-      },
-      "Chicago 13": {
-         "$date": 1979
-      },
-      "Hot Streets": {
-         "$date": 1978
-      },
-      "Chicago XI": {
-         "$date": 1977
       },
       "Chicago X": {
          "Once or Twice": "",
@@ -202,19 +181,27 @@
    },
    "Childish Gambino": {
       "Awaken, My Love!": {
-         "Me and Your Mama": "",
-         "Redbone": "",
          "$date": 2016,
-         "$list": "black"
+         "$list": "black",
+         "Me and Your Mama": "",
+         "Redbone": {
+            "trend": "130,783,298",
+            "link": "https://youtu.be/Kp7eSUU9oy8"
+         }
       },
       "Because the Internet": {
-         "3005": "",
-         "Sweatpants": "",
-         "Telegraph Ave": "",
          "$date": 2013,
-         "$list": "black"
+         "$list": "black",
+         "3005": "",
+         "Sweatpants": {
+            "trend": "25,128,289",
+            "link": "https://youtu.be/ExVtrghW5Y4"
+         },
+         "Telegraph Ave": ""
       },
       "Camp": {
+         "$date": 2011,
+         "$list": "white",
          "Outside": "bad",
          "Fire Fly": "bad",
          "Bonfire": "bad",
@@ -227,23 +214,7 @@
          "Kids (Keep Up)": "",
          "You See Me": "",
          "Sunrise": "",
-         "That Power": "",
-         "$date": 2011,
-         "$list": "white"
-      },
-      "=": {
-         "Redbone": {
-            "trend": "130,783,298",
-            "link": "https://youtu.be/Kp7eSUU9oy8"
-         },
-         "Sober": {
-            "trend": "2,720,472",
-            "link": "https://youtu.be/ayLiAVJ6vTM"
-         },
-         "Sweatpants": {
-            "trend": "25,128,289",
-            "link": "https://youtu.be/ExVtrghW5Y4"
-         }
+         "That Power": ""
       }
    },
    "Chris Isaak": {

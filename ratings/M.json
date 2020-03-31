@@ -824,8 +824,13 @@
    },
    "Modest Mouse": {
       "We Were Dead Before the Ship Even Sank": {
+         "$date": 2007,
          "March Into the Sea": "bad",
-         "Dashboard": "bad",
+         "Dashboard": {
+            "rate": "bad",
+            "trend": "1,579,646",
+            "link": "https://youtu.be/penvn9VL32Y"
+         },
          "Fire It Up": "bad",
          "Florida": "short",
          "Parting of the Sensory": "bad",
@@ -837,23 +842,15 @@
          "Steam Engenius": "bad",
          "Spitting Venom": "bad",
          "People as Places as People": "bad",
-         "Invisible": "bad",
-         "$date": 2007
+         "Invisible": "bad"
       },
       "Good News for People Who Love Bad News": {
-         "Float On": "",
-         "Ocean Breathes Salty": "",
-         "$date": 2004
-      },
-      "=": {
-         "Dashboard": {
-            "trend": "1,579,646",
-            "link": "https://youtu.be/penvn9VL32Y"
-         },
+         "$date": 2004,
          "Float On": {
             "trend": "7,530,975",
             "link": "https://youtu.be/CTAud5O7Qqk"
-         }
+         },
+         "Ocean Breathes Salty": ""
       }
    },
    "Moloko": {

@@ -1008,35 +1008,41 @@
    },
    "Phil Collins": {
       "But Seriously": {
-         "Another Day in Paradise": "",
          "$date": 1989,
-         "$list": "black"
-      },
-      "No Jacket Required": {
-         "One More Night": "",
-         "$date": 1985,
-         "$list": "black"
-      },
-      "Hello, I Must Be Going!": {
-         "$date": 1982
-      },
-      "Face Value": {
-         "In the Air Tonight": "",
-         "$date": 1981,
-         "$list": "black"
-      },
-      "=": {
+         "$list": "black",
          "Another Day in Paradise": {
             "flow": "28,886,074",
             "link": "https://youtu.be/Qt2mbGP6vFI"
-         },
-         "In the Air Tonight": {
-            "flow": "19,622,622",
-            "link": "https://youtu.be/YkADj0TPrJA"
-         },
+         }
+      },
+      "No Jacket Required": {
+         "$date": 1985,
+         "$list": "black",
          "One More Night": {
             "flow": "6,375,300",
             "link": "https://youtu.be/zKVq-P3z5Vg"
+         }
+      },
+      "Hello, I Must Be Going!": {
+          "$date": "1982",
+          "$list": "white",
+          "I Don’t Care Anymore": "good",
+          "I Cannot Believe It’s True": "",
+          "Like China": "",
+          "Do You Know, Do You Care?": "",
+          "You Can’t Hurry Love": "short",
+          "It Don’t Matter to Me": "",
+          "Thru These Walls": "",
+          "Don’t Let Him Steal Your Heart Away": "",
+          "The West Side": "",
+          "Why Can’t It Wait ’til Morning": ""
+      },
+      "Face Value": {
+         "$date": 1981,
+         "$list": "black",
+         "In the Air Tonight": {
+            "flow": "19,622,622",
+            "link": "https://youtu.be/YkADj0TPrJA"
          }
       }
    },
