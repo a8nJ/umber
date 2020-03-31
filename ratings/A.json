@@ -561,9 +561,7 @@
    },
    "Autechre": {
       "Exai": {
-         "FLeure": {
-            "rate": "bad"
-         },
+         "FLeure": "bad",
          "irlite (get 0)": {
             "rate": "bad"
          },
