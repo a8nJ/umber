@@ -1,17 +1,19 @@
 {
    "Kammerflimmer Kollektief": {
       "There Are Actions Which We Have Neglected and Which Never Cease to Call Us": {
+         "$date": 2018,
+         "$list": "white",
          "Action 1 Lucid, Imperial Beach": "bad",
          "Action 2 Discharged, Quauhnáhuac": "bad",
          "Action 3 Thoughtless, Hamburg": "bad",
          "Action 4 Wasted, Ivano-Frankivsk": "good",
          "Action 5 Resplendent, Bolinas": "",
          "Action 6 Vigilant, Jerichow": "short",
-         "Action 7 Blessed, Ermenonville": "",
-         "$date": 2018,
-         "$list": "white"
+         "Action 7 Blessed, Ermenonville": ""
       },
       "Désarroi": {
+         "$date": 2015,
+         "$list": "white",
          "Mayhem!": "bad",
          "grundstürzend": "good",
          "Free Form Freak-Out": "bad",
@@ -20,11 +22,11 @@
          "unlösbar": "bad",
          "saumselig": "short",
          "Zurück zum Beton (version)": "bad",
-         "Mayhem! (reprise)": "bad",
-         "$date": 2015,
-         "$list": "white"
+         "Mayhem! (reprise)": "bad"
       },
       "Teufelskamin": {
+         "$date": 2011,
+         "$list": "white",
          "Coricidin Boogie": "good",
          "Never Collapse, Always Dazzle!": "",
          "Teufelskamin Jam 1": "",
@@ -34,11 +36,11 @@
          "Teufelskamin Jam 2": "",
          "Nearly Able to Fly": "",
          "New Ghosts": "",
-         "The People United Will Never Be Defeated": "short",
-         "$date": 2011,
-         "$list": "white"
+         "The People United Will Never Be Defeated": "short"
       },
       "Wildling": {
+         "$date": 2010,
+         "$list": "white",
          "Move Right In": "good",
          "Silver Chords": "good",
          "Aum a Go-Go": "short",
@@ -50,11 +52,11 @@
          "Cry Tuff": "",
          "We Paint the Town Beige": "",
          "There’s a Crack in Everything": "",
-         "Milte Hi Ankhen (aka Bird in Hand)": "short",
-         "$date": 2010,
-         "$list": "white"
+         "Milte Hi Ankhen (aka Bird in Hand)": "short"
       },
       "Cicadidae": {
+         "$date": 2003,
+         "$list": "white",
          "Neumond inselhin": "good",
          "Sie tranken Regen": "short",
          "Über die Wasserscheide": "good",
@@ -64,11 +66,11 @@
          "Mantra": "good",
          "Eiderdaunen (gerupft)": "bad",
          "Irgendwann Frühling": "bad",
-         "There’s a Weight on You, but You Can’t Feel It.": "good",
-         "$date": 2003,
-         "$list": "white"
+         "There’s a Weight on You, but You Can’t Feel It.": "good"
       },
       "Hysteria": {
+         "$date": 2001,
+         "$list": "white",
          "Hysteria": "bad",
          "Seen (not seen)": "bad",
          "Engel wacht": "bad",
@@ -76,15 +78,7 @@
          "Du siehst hoch; du siehst ‘Wolken’": "bad",
          "Zikaden, vielleicht": "",
          "Mohn!": "",
-         "Du siehst hoch; du siehst ‘Wolken’ (version)": "",
-         "$date": 2001,
-         "$list": "white"
-      },
-      "=": {
-         "Gras": {
-            "flow": "6,363",
-            "link": "https://youtu.be/OBNvfFFYBQA"
-         }
+         "Du siehst hoch; du siehst ‘Wolken’ (version)": ""
       }
    },
    "Kacey Musgraves": {
@@ -689,6 +683,8 @@
    },
    "Leon Vynehall": {
       "Nothing Is Still": {
+         "$date": 2018,
+         "$list": "white",
          "From the Sea/It Looms (Chapters I & II)": "good",
          "Movements (Chapter III)": "good",
          "Birds on the Tarmac (Footnote III)": "short",
@@ -698,11 +694,11 @@
          "Envelopes (Chapter VI)": "good",
          "English Oak (Chapter VII)": "",
          "Ice Cream (Chapter VIII)": "",
-         "It Breaks (Chapter IX)": "short",
-         "$date": 2018,
-         "$list": "white"
+         "It Breaks (Chapter IX)": "short"
       },
       "Rojus": {
+         "$date": "2016-04-01",
+         "$list": "white",
          "Beyond This": "",
          "Saxony": "",
          "Beau Sovereign": "",
@@ -710,36 +706,33 @@
          "Wahness": "",
          "Blush": "",
          "Kiburu’s": "good",
-         "There Is You": "",
-         "$date": "2016-04-01",
-         "$list": "white"
+         "There Is You": ""
       },
       "Midnight on Rainbow Road": {
-         "Midnight on Rainbow Road (Beat Edit)": "bad",
-         "Midnight on Rainbow Road": "good",
          "$date": "2016-02-26",
-         "$list": "white"
+         "$list": "white",
+         "Midnight on Rainbow Road (Beat Edit)": "bad",
+         "Midnight on Rainbow Road": "good"
       },
       "Music for the Uninvited": {
+         "$date": 2014,
+         "$list": "white",
          "Inside the Deku Tree": "good",
          "Goodthing": "",
          "Be Brave, Clench Fists": "good",
          "Pier Children": "",
-         "It’s Just (House of Dupree)": "",
-         "Christ Air": "",
-         "St. Sinclair": "",
-         "$date": 2014,
-         "$list": "white"
-      },
-      "=": {
          "It’s Just": {
             "flow": "605,308",
             "link": "https://youtu.be/XpIrFglZfQU"
-         }
+         },
+         "Christ Air": "",
+         "St. Sinclair": ""
       }
    },
    "Linkin Park": {
       "One More Light": {
+         "$date": 2017,
+         "$list": "black",
          "Battle Symphony": "",
          "Good Goodbye": "",
          "Heavy": "",
@@ -747,57 +740,55 @@
          "Nobody Can Save Me": "",
          "One More Light": "",
          "Sharp Edges": "",
-         "Talking to Myself": "",
-         "$date": 2017,
-         "$list": "black"
+         "Talking to Myself": ""
       },
       "The Hunting Party": {
-         "Final Masquerade": "",
-         "Until It’s Gone": "",
          "$date": 2014,
-         "$list": "black"
+         "$list": "black",
+         "Final Masquerade": "",
+         "Until It’s Gone": ""
       },
       "Living Things": {
+         "$date": 2012,
+         "$list": "black",
          "Burn It Down": "",
          "Castle of Glass": "",
-         "Lost in the Echo": "",
-         "$date": 2012,
-         "$list": "black"
+         "Lost in the Echo": ""
       },
       "A Thousand Suns": {
+         "$date": 2010,
+         "$list": "black",
          "Burning in the Skies": "",
          "Iridescent": "",
          "New Divide": "",
          "The Catalyst": "",
-         "Waiting for the End": "",
-         "$date": 2010,
-         "$list": "black"
+         "Waiting for the End": ""
       },
       "Minutes to Midnight": {
+         "$date": 2007,
+         "$list": "black",
          "Bleed It Out": "",
          "Given Up": "",
          "Leave Out All the Rest": "",
-         "What I’ve Done": "",
-         "$date": 2007,
-         "$list": "black"
+         "What I’ve Done": ""
       },
       "Meteora": {
+         "$date": 2003,
+         "$list": "black",
          "Breaking the Habit": "",
          "Faint": "",
          "From the Inside": "",
          "Numb": "",
-         "Somewhere I Belong": "",
-         "$date": 2003,
-         "$list": "black"
+         "Somewhere I Belong": ""
       },
       "Hybrid Theory": {
+         "$date": 2000,
+         "$list": "black",
          "Crawling": "",
          "In The End": "",
          "One Step Closer": "",
          "Papercut": "",
-         "Points of Authority": "",
-         "$date": 2000,
-         "$list": "black"
+         "Points of Authority": ""
       },
       "=": {
          "Castle of Glass": {
