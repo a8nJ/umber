@@ -3,24 +3,36 @@
       "Songs of Experience": {
          "$date": 2017,
          "$list": "black",
-         "Ordinary Love": "",
+         "Ordinary Love": {
+            "flow": "8,936,989",
+            "link": "https://youtu.be/XC3ahd6Di3M"
+         },
          "You’re the Best Thing About Me": ""
       },
       "All That You Can’t Leave Behind": {
          "$date": 2000,
          "$list": "black",
-         "Beautiful Day": "",
+         "Beautiful Day": {
+            "flow": "13,389,398",
+            "link": "https://youtu.be/co6WMzDOh1o"
+         },
          "Stuck in a Moment You Can’t Get Out Of": ""
       },
       "Achtung Baby": {
          "$date": 1991,
          "$list": "black",
-         "One": ""
+         "One": {
+            "flow": "11,486,273",
+            "link": "https://youtu.be/ZpDQJnI4OhU"
+         }
       },
       "The Joshua Tree": {
          "$date": 1987,
          "$list": "black",
-         "I Still Haven’t Found What I’m Looking For": "",
+         "I Still Haven’t Found What I’m Looking For": {
+            "flow": "14,605,782",
+            "link": "https://youtu.be/e3-5YC_oHjE"
+         },
          "In God’s Country": "",
          "Sweetest Thing": "",
          "Where the Streets Have No Name": "",
@@ -30,14 +42,21 @@
          "$date": 1984,
          "$list": "black",
          "Bad": "",
-         "Pride": ""
+         "Pride": {
+            "flow": "7,268,862",
+            "link": "https://youtu.be/LHcP4MWABGY"
+         }
       },
       "War": {
          "$date": 1983,
          "$list": "white",
          "Sunday Bloody Sunday": "",
          "Seconds": "",
-         "New Year’s Day": "good",
+         "New Year’s Day": {
+            "rate": "good",
+            "flow": "1,904,620",
+            "link": "https://youtu.be/vdLuk2Agamk"
+         },
          "Like a Song": "",
          "Drowning Man": "",
          "The Refugee": "",
@@ -75,32 +94,6 @@
          "Another Time, Another Place": "",
          "The Electric Co.": "",
          "Shadows and Tall Trees": ""
-      },
-      "=": {
-         "Beautiful Day": {
-            "flow": "13,389,398",
-            "link": "https://youtu.be/co6WMzDOh1o"
-         },
-         "I Still Haven’t Found What I’m Looking For": {
-            "flow": "14,605,782",
-            "link": "https://youtu.be/e3-5YC_oHjE"
-         },
-         "New Year’s Day": {
-            "flow": "1,904,620",
-            "link": "https://youtu.be/vdLuk2Agamk"
-         },
-         "One": {
-            "flow": "11,486,273",
-            "link": "https://youtu.be/ZpDQJnI4OhU"
-         },
-         "Ordinary Love": {
-            "flow": "8,936,989",
-            "link": "https://youtu.be/XC3ahd6Di3M"
-         },
-         "Pride": {
-            "flow": "7,268,862",
-            "link": "https://youtu.be/LHcP4MWABGY"
-         }
       }
    },
    "Ulrich Schnauss": {
@@ -130,27 +123,6 @@
          "Coastal Path": "good",
          "$date": 2017,
          "$list": "white"
-      },
-      "No Further Ahead Than Today": {
-         "$date": 2016
-      },
-      "Tomorrow Is Another Day": {
-         "$date": 2013
-      },
-      "A Long Way to Fall": {
-         "$date": 2013
-      },
-      "Underrated Silence": {
-         "$date": 2012
-      },
-      "Ulrich Schnauss & Jonas Munk": {
-         "$date": 2011
-      },
-      "Frozen in Time": {
-         "$date": 2011
-      },
-      "Epic": {
-         "$date": 2010
       },
       "Goodbye": {
          "Never Be the Same": "bad",
@@ -271,7 +243,11 @@
    },
    "Us3": {
       "Hand on the Torch": {
-         "Cantaloop (Flip Fantasia)": "good",
+         "Cantaloop": {
+            "rate": "good",
+            "flow": "822,480",
+            "link": "https://youtu.be/JwBjhBL9G6U"
+         },
          "I Got It Goin’ On": "",
          "Different Rhythms Different People": "short",
          "It’s Like That": "",
@@ -285,12 +261,6 @@
          "Make Tracks": "",
          "The Darkside": "",
          "$list": "white"
-      },
-      "=": {
-         "Cantaloop": {
-            "flow": "822,480",
-            "link": "https://youtu.be/JwBjhBL9G6U"
-         }
       }
    },
    "Usher": {
@@ -298,21 +268,6 @@
          "Climax": "",
          "$date": 2012,
          "$list": "black"
-      },
-      "Versus": {
-         "$date": 2010
-      },
-      "Raymond v. Raymond": {
-         "$date": 2010
-      },
-      "Here I Stand": {
-         "$date": 2008
-      },
-      "You Make Me Wanna": {
-         "$date": 2004
-      },
-      "Sex Appeal": {
-         "$date": 2004
       },
       "Confessions": {
          "Burn": "",
