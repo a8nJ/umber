@@ -600,68 +600,28 @@
          "Yuop": "good"
       },
       "Quaristice": {
-         "Altibzz": {
-            "rate": "good"
-         },
-         "The Plc": {
-            "rate": "bad"
-         },
-         "IO": {
-            "rate": "bad"
-         },
-         "plyPhon": {
-            "rate": "short"
-         },
-         "Perlence": {
-            "rate": "bad"
-         },
-         "SonDEremawe": {
-            "rate": "short"
-         },
-         "Simmm": {
-            "rate": "good"
-         },
-         "paralel Suns": {
-            "rate": "good"
-         },
-         "Steels": {
-            "rate": "short"
-         },
-         "Tankakern": {
-            "rate": "bad"
-         },
-         "rale": {
-            "rate": "bad"
-         },
-         "Fol3": {
-            "rate": "good"
-         },
-         "fwzE": {
-            "rate": "short"
-         },
-         "90101-5l-l": {
-            "rate": "bad"
-         },
-         "bnc Castl": {
-            "rate": "short"
-         },
-         "Theswere": {
-            "rate": "short"
-         },
-         "WNSN": {
-            "rate": "bad"
-         },
-         "chenc9": {
-            "rate": "bad"
-         },
-         "Notwo": {
-            "rate": "good"
-         },
-         "Outh9X": {
-            "rate": "bad"
-         },
          "$date": 2008,
-         "$list": "white"
+         "$list": "white",
+         "Altibzz": "good",
+         "The Plc": "bad",
+         "IO": "bad",
+         "plyPhon": "short",
+         "Perlence": "bad",
+         "SonDEremawe": "short",
+         "Simmm": "good",
+         "paralel Suns": "good",
+         "Steels": "short",
+         "Tankakern": "bad",
+         "rale": "bad",
+         "Fol3": "good",
+         "fwzE": "short",
+         "90101-5l-l": "bad",
+         "bnc Castl": "short",
+         "Theswere": "short",
+         "WNSN": "bad",
+         "chenc9": "bad",
+         "Notwo": "good",
+         "Outh9X": "bad"
       },
       "Untilted": {
          "LCC": {
