@@ -624,67 +624,47 @@
          "Outh9X": "bad"
       },
       "Untilted": {
-         "LCC": {
-            "rate": "bad"
-         },
-         "Ipacial Section": {
-            "rate": "bad"
-         },
-         "Pro Radii": {
-            "rate": "bad"
-         },
-         "Augmatic Disport": {
-            "rate": "bad"
-         },
-         "Iera": {
-            "rate": "bad"
-         },
+         "$date": 2005,
+         "$list": "white",
+         "LCC": "bad",
+         "Ipacial Section": "bad",
+         "Pro Radii": "bad",
+         "Augmatic Disport": "bad",
+         "Iera": "bad",
          "Fermium": "",
          "The Trees": "",
-         "Sublimit": "",
-         "$date": 2005,
-         "$list": "white"
+         "Sublimit": ""
       },
       "Draft 7.30": {
+         "$date": 2003,
+         "$list": "white",
          "Xylin Room": "",
          "IV VV IV VV VIII": "",
          "6IE.CR": "",
          "TAPR": "",
-         "Surripere": {
-            "rate": "good"
-         },
+         "Surripere": "good",
          "Theme of Sudden Roundabout": "",
          "VL AL 5": "",
          "P.NTIL": "",
          "V-PROC": "",
-         "Reniform Puls": "",
-         "$date": 2003,
-         "$list": "white"
+         "Reniform Puls": ""
       },
       "Confield": {
-         "VI Scose Poise": {
-            "rate": "bad"
-         },
-         "Cfern": {
-            "rate": "bad"
-         },
-         "Pen Expers": {
-            "rate": "bad"
-         },
-         "Sim Gishel": {
-            "rate": "bad"
-         },
-         "Parhelic Triangle": {
-            "rate": "bad"
-         },
+         "$date": 2001,
+         "$list": "white",
+         "VI Scose Poise": "bad",
+         "Cfern": "bad",
+         "Pen Expers": "bad",
+         "Sim Gishel": "bad",
+         "Parhelic Triangle": "bad",
          "Bine": "",
          "Eidetic Casein": "",
          "Uviol": "",
-         "Lentic Catachresis": "",
-         "$date": 2001,
-         "$list": "white"
+         "Lentic Catachresis": ""
       },
       "EP7": {
+         "$date": 1999,
+         "$list": "white",
          "Rpeg": "",
          "Ccec": "",
          "Squeller": "",
@@ -699,9 +679,7 @@
          "Maphive 6.1": "",
          "Zeiss Contarex": "",
          "Netlon Sentinel": "",
-         "Pir": "",
-         "$date": 1999,
-         "$list": "white"
+         "Pir": ""
       },
       "LP5": {
          "$date": 1998,
@@ -755,39 +733,19 @@
          "Rsdio": ""
       },
       "Amber": {
-         "Foil": {
-            "rate": "bad"
-         },
-         "Montreal": {
-            "rate": "bad"
-         },
-         "Silverside": {
-            "rate": "bad"
-         },
-         "Slip": {
-            "rate": "bad"
-         },
-         "Glitch": {
-            "rate": "bad"
-         },
-         "Piezo": {
-            "rate": "bad"
-         },
-         "Nine": {
-            "rate": "good"
-         },
-         "Further": "bad",
-         "Yulquen": {
-            "rate": "good"
-         },
-         "Nil": {
-            "rate": "good"
-         },
-         "Teartear": {
-            "rate": "bad"
-         },
          "$date": 1994,
-         "$list": "white"
+         "$list": "white",
+         "Foil": "bad",
+         "Montreal": "bad",
+         "Silverside": "bad",
+         "Slip": "bad",
+         "Glitch": "bad",
+         "Piezo": "bad",
+         "Nine": "bad",
+         "Further": "bad",
+         "Yulquen": "good",
+         "Nil": "good",
+         "Teartear": "bad"
       },
       "Incunabula": {
          "$date": 1993,
