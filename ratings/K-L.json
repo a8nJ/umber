@@ -608,28 +608,24 @@
    },
    "Lenny Kravitz": {
       "Raise Vibration": {
-         "Low": "",
          "$date": 2018,
-         "$list": "black"
+         "$list": "black",
+         "Low": {
+            "flow": "38,900,177",
+            "link": "https://youtu.be/BilaShsQphM"
+         }
       },
       "Strut": {
-         "The Chamber": "",
          "$date": 2014,
-         "$list": "black"
-      },
-      "Black and White America": {
-         "$date": 2011
-      },
-      "It Is Time for a Love Revolution": {
-         "$date": 2008
-      },
-      "Baptism": {
-         "$date": 2004
-      },
-      "Lenny": {
-         "$date": 2001
+         "$list": "black",
+         "The Chamber": {
+            "flow": "6,443,630",
+            "link": "https://youtu.be/jAHlQ77lm10"
+         }
       },
       "5": {
+         "$date": "1999-06-01",
+         "$list": "white",
          "Live": "",
          "Supersoulfighter": "",
          "I Belong to You": "",
@@ -637,21 +633,21 @@
          "If You Can’t Say No": "",
          "Thinking of You": "",
          "Take Time": "",
-         "Fly Away": "",
+         "Fly Away": {
+            "flow": "5,872,138",
+            "link": "https://youtu.be/EvuL5jyCHOw"
+         },
          "It’s Your Life": "",
          "Straight Cold Player": "",
          "Little Girl’s Eyes": "",
          "You’re My Flavor": "",
          "Can We Find a Reason?": "",
          "American Woman": "good",
-         "Without You": "",
-         "$date": "1999-06-01",
-         "$list": "white"
-      },
-      "Circus": {
-         "$date": 1995
+         "Without You": ""
       },
       "Are You Gonna Go My Way": {
+         "$date": 1993,
+         "$list": "white",
          "Are You Gonna Go My Way": "good",
          "Believe": "",
          "Come on and Love Me": "",
@@ -662,23 +658,7 @@
          "My Love": "",
          "Sugar": "",
          "Sister": "",
-         "Eleutheria": "",
-         "$date": 1993,
-         "$list": "white"
-      },
-      "=": {
-         "Fly Away": {
-            "flow": "5,872,138",
-            "link": "https://youtu.be/EvuL5jyCHOw"
-         },
-         "Low": {
-            "flow": "38,900,177",
-            "link": "https://youtu.be/BilaShsQphM"
-         },
-         "The Chamber": {
-            "flow": "6,443,630",
-            "link": "https://youtu.be/jAHlQ77lm10"
-         }
+         "Eleutheria": ""
       }
    },
    "Leon Vynehall": {
@@ -735,7 +715,10 @@
          "$list": "black",
          "Battle Symphony": "",
          "Good Goodbye": "",
-         "Heavy": "",
+         "Heavy": {
+            "flow": "64,311,891",
+            "link": "https://youtu.be/5dmQ3QWpy1Q"
+         },
          "Invisible": "",
          "Nobody Can Save Me": "",
          "One More Light": "",
@@ -745,14 +728,20 @@
       "The Hunting Party": {
          "$date": 2014,
          "$list": "black",
-         "Final Masquerade": "",
+         "Final Masquerade": {
+            "flow": "16,666,261",
+            "link": "https://youtu.be/i8q8fFs3kTM"
+         },
          "Until It’s Gone": ""
       },
       "Living Things": {
          "$date": 2012,
          "$list": "black",
          "Burn It Down": "",
-         "Castle of Glass": "",
+         "Castle of Glass": {
+            "flow": "58,573,035",
+            "link": "https://youtu.be/ScNNfyq3d_w"
+         },
          "Lost in the Echo": ""
       },
       "A Thousand Suns": {
@@ -760,7 +749,10 @@
          "$list": "black",
          "Burning in the Skies": "",
          "Iridescent": "",
-         "New Divide": "",
+         "New Divide": {
+            "flow": "39,329,565",
+            "link": "https://youtu.be/ysSxxIqKNN0"
+         },
          "The Catalyst": "",
          "Waiting for the End": ""
       },
@@ -770,7 +762,10 @@
          "Bleed It Out": "",
          "Given Up": "",
          "Leave Out All the Rest": "",
-         "What I’ve Done": ""
+         "What I’ve Done": {
+            "flow": "32,414,709",
+            "link": "https://youtu.be/8sgycukafqQ"
+         }
       },
       "Meteora": {
          "$date": 2003,
@@ -778,47 +773,23 @@
          "Breaking the Habit": "",
          "Faint": "",
          "From the Inside": "",
-         "Numb": "",
+         "Numb": {
+            "flow": "94,590,761",
+            "link": "https://youtu.be/kXYiU_JCYtU"
+         },
          "Somewhere I Belong": ""
       },
       "Hybrid Theory": {
          "$date": 2000,
          "$list": "black",
          "Crawling": "",
-         "In The End": "",
-         "One Step Closer": "",
-         "Papercut": "",
-         "Points of Authority": ""
-      },
-      "=": {
-         "Castle of Glass": {
-            "flow": "58,573,035",
-            "link": "https://youtu.be/ScNNfyq3d_w"
-         },
-         "Final Masquerade": {
-            "flow": "16,666,261",
-            "link": "https://youtu.be/i8q8fFs3kTM"
-         },
-         "Heavy": {
-            "flow": "64,311,891",
-            "link": "https://youtu.be/5dmQ3QWpy1Q"
-         },
          "In the End": {
             "flow": "81,909,752",
             "link": "https://youtu.be/eVTXPUF4Oz4"
          },
-         "New Divide": {
-            "flow": "39,329,565",
-            "link": "https://youtu.be/ysSxxIqKNN0"
-         },
-         "Numb": {
-            "flow": "94,590,761",
-            "link": "https://youtu.be/kXYiU_JCYtU"
-         },
-         "What I’ve Done": {
-            "flow": "32,414,709",
-            "link": "https://youtu.be/8sgycukafqQ"
-         }
+         "One Step Closer": "",
+         "Papercut": "",
+         "Points of Authority": ""
       }
    },
    "Lisa Loeb": {
