@@ -265,39 +265,35 @@
    },
    "Usher": {
       "Looking 4 Myself": {
-         "Climax": "",
          "$date": 2012,
-         "$list": "black"
-      },
-      "Confessions": {
-         "Burn": "",
-         "Confessions, Pt. II": "",
-         "Yeah!": "",
-         "$date": 2004,
-         "$list": "black"
-      },
-      "8701": {
-         "U Got It Bad": "",
-         "$date": 2001,
-         "$list": "black"
-      },
-      "=": {
+         "$list": "black",
          "Climax": {
             "flow": "11,119,074",
             "link": "https://youtu.be/nNTyfVh3nmU"
-         },
-         "U Got It Bad": {
-            "flow": "20,097,223",
-            "link": "https://youtu.be/o3IWTfcks4k"
-         },
+         }
+      },
+      "Confessions": {
+         "$date": 2004,
+         "$list": "black",
+         "Burn": "",
+         "Confessions, Pt. II": "",
          "Yeah!": {
             "flow": "73,694,050",
             "link": "https://youtu.be/GxBSyx85Kp8"
+         }
+      },
+      "8701": {
+         "$date": 2001,
+         "$list": "black",
+         "U Got It Bad": {
+            "flow": "20,097,223",
+            "link": "https://youtu.be/o3IWTfcks4k"
          }
       }
    },
    "Van Halen": {
       "Van Halen": {
+         "$list": "white",
          "Runnin’ With the Devil": "good",
          "Eruption": "short",
          "You Really Got Me": "short",
@@ -308,23 +304,21 @@
          "Feel Your Love Tonight": "",
          "Little Dreamer": "",
          "Ice Cream Man": "",
-         "On Fire": "",
-         "$list": "white"
-      },
-      "=": {
-         "Jump": {
-            "flow": "5,659,609",
-            "link": "https://youtu.be/SwYN7mTi6HM"
-         }
+         "On Fire": ""
       }
    },
    "Van Morrison": {
       "Poetic Champions Compose": {
-         "Someone Like You": "",
          "$date": 1987,
-         "$list": "white"
+         "$list": "white",
+         "Someone Like You": {
+            "flow": "1,793,331",
+            "link": "https://youtu.be/UfmkgQRmmeE"
+         }
       },
       "Moondance": {
+         "$date": 1970,
+         "$list": "white",
          "And It Stoned Me": "",
          "Moondance": "good",
          "Crazy Love": "short",
@@ -334,11 +328,11 @@
          "These Dreams of You": "",
          "Brand New Day": "",
          "Everyone": "",
-         "Glad Tidings": "good",
-         "$date": 1970,
-         "$list": "white"
+         "Glad Tidings": "good"
       },
       "Astral Weeks:": {
+         "$date": 1968,
+         "$list": "white",
          "Astral Weeks": "",
          "Beside You": "",
          "Sweet Thing": "",
@@ -346,32 +340,20 @@
          "The Way Young Lovers Do": "",
          "Madame George": "",
          "Ballerina": "",
-         "Slim Slow Slider": "good",
-         "$date": 1968,
-         "$list": "white"
+         "Slim Slow Slider": "good"
       },
       "Blowin’ Your Mind!": {
-         "Brown Eyed Girl": "",
-         "$date": 1967,
-         "$list": "black"
-      },
-      "=": {
          "Brown Eyed Girl": {
             "flow": "6,776,288",
             "link": "https://youtu.be/UfmkgQRmmeE"
          },
-         "Someone Like You": {
-            "flow": "1,793,331",
-            "link": "https://youtu.be/UfmkgQRmmeE"
-         }
+         "$date": 1967,
+         "$list": "black"
       }
    },
    "Warren G": {
       "Regulate... G Funk Era": {
-         "Regulate": "",
-         "$list": "black"
-      },
-      "=": {
+         "$list": "black",
          "Regulate": {
             "flow": "19,524,457",
             "link": "https://youtu.be/1plPyJdXKIY"
@@ -380,10 +362,7 @@
    },
    "Weezer": {
       "Weezer (blue album)": {
-         "Say It Ain’t So": "",
-         "$list": "black"
-      },
-      "=": {
+         "$list": "black",
          "Say It Ain’t So": {
             "flow": "8,507,855",
             "link": "https://youtu.be/ENXvZ9YRjbo"
@@ -405,21 +384,12 @@
          "Whole Love": "",
          "One Sunday Morning": "",
          "$list": "white"
-      },
-      "=": {
-         "you and i": {
-            "flow": "254,287",
-            "link": "https://youtu.be/USjuOWLyWIQ"
-         }
       }
    },
    "Will Smith": {
       "Big Willie Style": {
-         "Gettin’ Jiggy Wit It": "",
          "$date": 1997,
-         "$list": "black"
-      },
-      "=": {
+         "$list": "black",
          "Gettin’ Jiggy Wit It": {
             "flow": "6,326,024",
             "link": "https://youtu.be/3JcmQONgXJM"
@@ -428,20 +398,26 @@
    },
    "Wye Oak": {
       "Civilian": {
+         "$date": 2011,
+         "$list": "white",
          "Two Small Deaths": "",
          "The Alter": "",
          "Holy Holy": "",
          "Dogs Eyes": "",
-         "Civilian": "good",
+         "Civilian": {
+            "rate": "good",
+            "flow": "1,076,903",
+            "link": "https://youtu.be/Mssm8Ml5sOo"
+         },
          "Fish": "",
          "Plains": "",
          "Hot as Day": "",
          "We Were Wealth": "",
-         "Doubt": "short",
-         "$date": 2011,
-         "$list": "white"
+         "Doubt": "short"
       },
       "The Knot": {
+         "$date": 2009,
+         "$list": "white",
          "Milk and Honey": "short",
          "For Prayer": "",
          "Take It In": "",
@@ -451,24 +427,21 @@
          "Tattoo": "",
          "I Want for Nothing": "",
          "That I Do": "",
-         "Sight, Flight": "",
-         "$date": 2009,
-         "$list": "white"
-      },
-      "=": {
-         "Civilian": {
-            "flow": "1,076,903",
-            "link": "https://youtu.be/Mssm8Ml5sOo"
-         }
+         "Sight, Flight": ""
       }
    },
    "Yeah Yeah Yeahs": {
       "It’s Blitz!": {
-         "Heads Will Roll": "",
          "$date": 2009,
-         "$list": "black"
+         "$list": "black",
+         "Heads Will Roll": {
+            "flow": "16,143,630",
+            "link": "https://youtu.be/or3U2rXxvQw"
+         }
       },
       "Show Your Bones": {
+         "$date": 2006,
+         "$list": "white",
          "Gold Lion": "",
          "Way Out": "short",
          "Fancy": "",
@@ -479,11 +452,11 @@
          "Mysteries": "short",
          "The Sweets": "",
          "Warrior": "",
-         "Turn Into": "",
-         "$date": 2006,
-         "$list": "white"
+         "Turn Into": ""
       },
       "Fever to Tell": {
+         "$date": 2003,
+         "$list": "white",
          "Rich": "good",
          "Date With the Night": "short",
          "Man": "short",
@@ -492,24 +465,16 @@
          "Pin": "short",
          "Cold Light": "short",
          "No No No": "",
-         "Maps": "good",
-         "Y Control": "",
-         "Modern Romance / Poor Song": "",
-         "$date": 2003,
-         "$list": "white"
-      },
-      "=": {
-         "Heads Will Roll": {
-            "flow": "16,143,630",
-            "link": "https://youtu.be/or3U2rXxvQw"
-         },
          "Maps": {
+            "rate": "good",
             "flow": "5,403,883",
             "link": "https://youtu.be/oIIxlgcuQRU"
-         }
+         },
+         "Y Control": "",
+         "Modern Romance / Poor Song": ""
       }
    },
-   "true": {
+   "Yes": {
       "90125": {
          "Owner of a Lonely Heart": "",
          "$date": 1983,
