@@ -1,19 +1,27 @@
 {
    "Radiohead": {
       "A Moon Shaped Pool": {
-         "Burn the Witch": "",
-         "Daydreaming": "",
-         "Present Tense": "",
-         "The Numbers": "",
          "$date": 2016,
-         "$list": "black"
+         "$list": "black",
+         "Burn the Witch": "",
+         "Daydreaming": {
+            "flow": "16,733,662",
+            "link": "https://youtu.be/TTAU7lLDZYU"
+         },
+         "Present Tense": "",
+         "The Numbers": ""
       },
       "The King of Limbs": {
-         "Lotus Flower": "",
          "$date": 2011,
-         "$list": "black"
+         "$list": "black",
+         "Lotus Flower": {
+            "flow": "6,919,866",
+            "link": "https://youtu.be/cfOa1a8hYP8"
+         }
       },
       "In Rainbows": {
+         "$date": 2007,
+         "$list": "white",
          "15 Step": "",
          "Bodysnatchers": "",
          "Nude": "",
@@ -22,12 +30,16 @@
          "Faust Arp": "short",
          "Reckoner": "good",
          "House of Cards": "good",
-         "Jigsaw Falling Into Place": "good",
-         "Videotape": "",
-         "$date": 2007,
-         "$list": "white"
+         "Jigsaw Falling Into Place": {
+            "rate": "good",
+            "flow": "1,436,309",
+            "link": "https://youtu.be/GoLJJRIWCLU"
+         },
+         "Videotape": ""
       },
       "Hail to the Thief": {
+         "$date": 2003,
+         "$list": "white",
          "2 + 2 = 5": "",
          "Sit Down. Stand Up.": "",
          "Sail to the Moon.": "good",
@@ -41,11 +53,11 @@
          "A Punchup at a Wedding.": "",
          "Myxomatosis.": "",
          "Scatterbrain.": "",
-         "A Wolf at the Door.": "",
-         "$date": 2003,
-         "$list": "white"
+         "A Wolf at the Door.": ""
       },
       "Amnesiac": {
+         "$date": 2001,
+         "$list": "white",
          "Packt Like Sardines in a Crushd Tin Box": "",
          "Pyramid Song": "good",
          "Pulk/Pull Revolving Doors": "",
@@ -56,11 +68,11 @@
          "Dollars and Cents": "",
          "Hunting Bears": "good",
          "Like Spinning Plates": "",
-         "Life in a Glasshouse": "",
-         "$date": 2001,
-         "$list": "white"
+         "Life in a Glasshouse": ""
       },
       "Kid A": {
+         "$date": 2000,
+         "$list": "white",
          "Everything in Its Right Place": "good",
          "Kid A": "",
          "The National Anthem": "good",
@@ -70,55 +82,36 @@
          "In Limbo": "",
          "Idioteque": "",
          "Morning Bell": "",
-         "Motion Picture Soundtrack": "",
-         "$date": 2000,
-         "$list": "white"
+         "Motion Picture Soundtrack": ""
       },
       "OK Computer": {
+         "$date": 1997,
+         "$list": "black",
          "I Promise": "",
          "Karma Police": "",
          "Lift": "",
-         "No Surprises": "",
-         "Paranoid Android": "",
-         "$date": 1997,
-         "$list": "black"
+         "No Surprises": {
+            "flow": "8,829,048",
+            "link": "https://youtu.be/u5CVsCnxyXg"
+         },
+         "Paranoid Android": ""
       },
       "The Bends": {
-         "Fake Plastic Trees": "",
-         "High & Dry": "",
-         "Street Spirit": "",
          "$date": 1995,
-         "$list": "black"
-      },
-      "Pablo Honey": {
-         "Creep": "",
-         "$date": 1993,
-         "$list": "black"
-      },
-      "=": {
-         "Creep": {
-            "flow": "28,719,100",
-            "link": "https://youtu.be/XFkzRNyygfk"
-         },
-         "Daydreaming": {
-            "flow": "16,733,662",
-            "link": "https://youtu.be/TTAU7lLDZYU"
-         },
+         "$list": "black",
          "Fake Plastic Trees": {
             "flow": "7,034,238",
             "link": "https://youtu.be/n5h0qHwNrHk"
          },
-         "Jigsaw Falling Into Place": {
-            "flow": "1,436,309",
-            "link": "https://youtu.be/GoLJJRIWCLU"
-         },
-         "Lotus Flower": {
-            "flow": "6,919,866",
-            "link": "https://youtu.be/cfOa1a8hYP8"
-         },
-         "No Surprises": {
-            "flow": "8,829,048",
-            "link": "https://youtu.be/u5CVsCnxyXg"
+         "High & Dry": "",
+         "Street Spirit": ""
+      },
+      "Pablo Honey": {
+         "$date": 1993,
+         "$list": "black",
+         "Creep": {
+            "flow": "28,719,100",
+            "link": "https://youtu.be/XFkzRNyygfk"
          }
       }
    },
