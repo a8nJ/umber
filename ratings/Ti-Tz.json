@@ -251,11 +251,17 @@
    },
    "Tool": {
       "Lateralus": {
+         "$date": 2001,
+         "$list": "white",
          "The Grudge": "",
          "Eon Blue Apocalypse": "short",
          "The Patient": "good",
          "Mantra": "short",
-         "Schism": "good",
+         "Schism": {
+            "rate": "good",
+            "flow": "5,112,577",
+            "link": "https://youtu.be/_yNAABKD4IA"
+         },
          "Parabol": "",
          "Parabola": "",
          "Ticks & Leeches": "",
@@ -263,11 +269,11 @@
          "Disposition": "good",
          "Reflection": "good",
          "Triad": "",
-         "Faaip de Oiad": "short",
-         "$date": 2001,
-         "$list": "white"
+         "Faaip de Oiad": "short"
       },
       "Ænima": {
+         "$date": "1996-09-17",
+         "$list": "white",
          "Stinkfist": "good",
          "Eulogy": "",
          "H.": "",
@@ -282,20 +288,14 @@
          "Cesaro Summability": "short",
          "Ænema": "",
          "(-) Ions": "",
-         "Third Eye": "",
-         "$date": "1996-09-17",
-         "$list": "white"
-      },
-      "=": {
-         "Schism": {
-            "flow": "5,112,577",
-            "link": "https://youtu.be/_yNAABKD4IA"
-         }
+         "Third Eye": ""
       }
    },
    "Tori Amos": {
       "The Beekeeper": {
          "Parasol": "",
+         "$date": 2005,
+         "$list": "white",
          "Sweet the Sting": "bad",
          "The Power of Orange Knickers": "bad",
          "Jamaica Inn": "bad",
@@ -313,20 +313,11 @@
          "Hoochie Woman": "short",
          "Goodbye Pisces": "bad",
          "Marys of the Sea": "bad",
-         "Toast": "good",
-         "$date": 2005,
-         "$list": "white"
-      },
-      "Scarlet’s Walk": {
-         "$date": 2002
-      },
-      "Strange Little Girls": {
-         "$date": 2001
-      },
-      "To Venus and Back": {
-         "$date": 1999
+         "Toast": "good"
       },
       "From the Choirgirl Hotel": {
+         "$date": 1998,
+         "$list": "white",
          "Spark": "bad",
          "Cruel": "good",
          "Black‐Dove (January)": "",
@@ -338,11 +329,11 @@
          "Northern Lad": "",
          "Hotel": "",
          "Playboy Mommy": "",
-         "Pandora’s Aquarium": "",
-         "$date": 1998,
-         "$list": "white"
+         "Pandora’s Aquarium": ""
       },
       "Boys for Pele": {
+         "$date": 1996,
+         "$list": "white",
          "Beauty Queen/Horses": "",
          "Blood Roses": "",
          "Father Lucifer": "",
@@ -360,11 +351,11 @@
          "Agent Orange": "short",
          "Doughnut Song": "",
          "Putting the Damage On": "",
-         "Twinkle": "",
-         "$date": 1996,
-         "$list": "white"
+         "Twinkle": ""
       },
       "Under the Pink": {
+         "$date": 1994,
+         "$list": "white",
          "Pretty Good Year": "bad",
          "God": "bad",
          "Bells for Her": "good",
@@ -376,11 +367,11 @@
          "Icicle": "bad",
          "Cloud on My Tongue": "bad",
          "Space Dog": "bad",
-         "Yes, Anastasia": "bad",
-         "$date": 1994,
-         "$list": "white"
+         "Yes, Anastasia": "bad"
       },
       "Little Earthquakes": {
+         "$date": 1992,
+         "$list": "white",
          "Crucify": "bad",
          "Girl": "",
          "Silent All These Years": "",
@@ -392,19 +383,13 @@
          "Mother": "",
          "Tear in Your Hand": "",
          "Me and a Gun": "",
-         "Little Earthquakes": "",
-         "$date": 1992,
-         "$list": "white"
-      },
-      "=": {
-         "Enjoy the Silence": {
-            "flow": "215,070",
-            "link": "https://youtu.be/_gZzkGvyqzc"
-         }
+         "Little Earthquakes": ""
       }
    },
    "Toro y Moi": {
       "Boo Boo": {
+         "$date": 2017,
+         "$list": "white",
          "Mirage": "good",
          "No Show": "good",
          "Mona Lisa": "",
@@ -416,11 +401,11 @@
          "You and I": "",
          "Labyrinth": "",
          "Inside My Head": "",
-         "W.I.W.W.T.W.": "",
-         "$date": 2017,
-         "$list": "white"
+         "W.I.W.W.T.W.": ""
       },
       "What For?": {
+         "$date": 2015,
+         "$list": "white",
          "What You Want": "bad",
          "Buffalo": "bad",
          "The Flight": "bad",
@@ -430,11 +415,11 @@
          "Spell It Out": "short",
          "Half Dome": "",
          "Run Baby Run": "short",
-         "Yeah Right": "",
-         "$date": 2015,
-         "$list": "white"
+         "Yeah Right": ""
       },
       "Anything in Return": {
+         "$date": 2013,
+         "$list": "white",
          "Harm in Change": "",
          "Say That": "good",
          "So Many Details": "good",
@@ -447,11 +432,11 @@
          "Cake": "",
          "Day One": "",
          "Never Matter": "",
-         "How’s It Wrong": "",
-         "$date": 2013,
-         "$list": "white"
+         "How’s It Wrong": ""
       },
       "Underneath the Pine": {
+         "$date": 2011,
+         "$list": "white",
          "Intro / Chi Chi": "short",
          "New Beat": "bad",
          "Go With You": "bad",
@@ -462,15 +447,7 @@
          "Light Black": "bad",
          "Still Sound": "",
          "Good Hold": "short",
-         "Elise": "",
-         "$date": 2011,
-         "$list": "white"
-      },
-      "=": {
-         "Freelance": {
-            "flow": "4,402,441",
-            "link": "https://youtu.be/Jm6hDWBZXc4"
-         }
+         "Elise": ""
       }
    },
    "Tosca": {
