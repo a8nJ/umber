@@ -476,11 +476,16 @@
    },
    "Yes": {
       "90125": {
-         "Owner of a Lonely Heart": "",
          "$date": 1983,
-         "$list": "white"
+         "$list": "white",
+         "Owner of a Lonely Heart": {
+            "flow": "2,105,831",
+            "link": "https://youtu.be/SVOuYquXuuc"
+         }
       },
       "Fragile": {
+         "$date": 1971,
+         "$list": "white",
          "Roundabout": "good",
          "Cans and Brahms": "short",
          "We Have Heaven": "short",
@@ -489,19 +494,13 @@
          "Long Distance Runaround": "",
          "The Fish (Schindleria Praematurus)": "short",
          "Mood for a Day": "",
-         "Heart of the Sunrise / We Have Heaven (reprise)": "",
-         "$date": 1971,
-         "$list": "white"
-      },
-      "=": {
-         "Owner of a Lonely Heart": {
-            "flow": "2,105,831",
-            "link": "https://youtu.be/SVOuYquXuuc"
-         }
+         "Heart of the Sunrise / We Have Heaven (reprise)": ""
       }
    },
    "You Say Party": {
       "XXXX": {
+         "$date": 2010,
+         "$list": "white",
          "There Is XXXX (Within My Heart)": "",
          "Glory": "short",
          "Dark Days": "good",
@@ -511,16 +510,11 @@
          "Laura Palmer’s Prom": "",
          "She’s Spoken For": "",
          "XXXX/Loyalty": "",
-         "Heart of Gold": "",
-         "$date": 2010,
-         "$list": "white"
+         "Heart of Gold": ""
       },
       "Lose All Time": {
-         "Monster": "",
          "$date": 2007,
-         "$list": "white"
-      },
-      "=": {
+         "$list": "white",
          "Monster": {
             "flow": "49,486",
             "link": "https://youtu.be/-IQKsrXDHrg"
@@ -529,23 +523,25 @@
    },
    "Yppah": {
       "Eighty One": {
-         "Never Mess With Sunday": "",
          "$date": 2012,
-         "$list": "white"
-      },
-      "They Know What Ghost Know": {
-         "$date": 2009
+         "$list": "white",
+         "Never Mess With Sunday": {
+            "flow": "93,586",
+            "link": "https://youtu.be/NqfAj1C7rPc"
+         }
       },
       "Gumball Machine Weekend": {
+         "$date": 2009,
+         "$list": "white",
          "Gumball Machine Weekend": "",
          "Shutter Speed": "good",
          "They Know What Ghost Know": "",
          "Gumball Machine Weekend (Pollination Remix)": "",
-         "The Drag": "",
-         "$date": 2009,
-         "$list": "white"
+         "The Drag": ""
       },
       "You Are Beautiful at All Times": {
+         "$date": 2006,
+         "$list": "white",
          "Ending With You": "bad",
          "I’ll Hit the Breaks": "bad",
          "Again With the Subtitles": "short",
@@ -557,19 +553,13 @@
          "Good Like That": "short",
          "Cannot See Straight": "good",
          "It’s Not the Same": "short",
-         "Longtime": "bad",
-         "$date": 2006,
-         "$list": "white"
-      },
-      "=": {
-         "Never Mess With Sunday": {
-            "flow": "93,586",
-            "link": "https://youtu.be/NqfAj1C7rPc"
-         }
+         "Longtime": "bad"
       }
    },
    "Zero 7": {
       "Yeah Ghost": {
+         "$date": 2009,
+         "$list": "white",
          "Count Me Out": "short",
          "Mr McGee": "bad",
          "Swing": "bad",
@@ -580,11 +570,11 @@
          "Sleeper": "",
          "Solastalgia": "short",
          "The Road": "",
-         "All of Us": "",
-         "$date": 2009,
-         "$list": "white"
+         "All of Us": ""
       },
       "The Garden": {
+         "$date": 2006,
+         "$list": "white",
          "Futures": "",
          "Throw It All Away": "good",
          "Seeing Things": "",
@@ -596,11 +586,11 @@
          "Your Place": "",
          "If I Can’t Have You": "",
          "Crosses": "good",
-         "Waiting to Die": "",
-         "$date": 2006,
-         "$list": "white"
+         "Waiting to Die": ""
       },
       "When It Falls": {
+         "$date": 2004,
+         "$list": "white",
          "Warm Sound": "",
          "Home": "",
          "Somersault": "",
@@ -611,14 +601,18 @@
          "Speed Dial No. 2": "",
          "Look Up": "good",
          "In Time": "",
-         "Morning Song": "",
-         "$date": 2004,
-         "$list": "white"
+         "Morning Song": ""
       },
       "Simple Things": {
+         "$date": 2001,
+         "$list": "white",
          "I Have Seen": "bad",
          "Polaris": "good",
-         "Destiny": "good",
+         "Destiny": {
+            "rate": "good",
+            "flow": "527,084",
+            "link": "https://youtu.be/INn1C6ImJKg"
+         },
          "Give It Away": "good",
          "Simple Things": "bad",
          "Red Dust": "bad",
@@ -629,15 +623,7 @@
          "Likufanele": "bad",
          "End Theme": "bad",
          "Spinning Dub": "bad",
-         "Salt Water Sound": "good",
-         "$date": 2001,
-         "$list": "white"
-      },
-      "=": {
-         "Destiny": {
-            "flow": "527,084",
-            "link": "https://youtu.be/INn1C6ImJKg"
-         }
+         "Salt Water Sound": "good"
       }
    }
 }

@@ -1,19 +1,21 @@
 {
    "Tiësto": {
       "A Town Called Paradise": {
+         "$date": 2014,
+         "$list": "black",
          "Maximal Crazy": "",
          "Red Lights": "",
-         "Secrets": "",
+         "Secrets": {
+            "flow": "46,288,667",
+            "link": "https://youtu.be/Dr1nN__-2Po"
+         },
          "The Only Way Is Up": "",
          "The Right Song": "",
-         "Wasted": "",
-         "$date": 2014,
-         "$list": "black"
-      },
-      "Kaleidoscope": {
-         "$date": 2009
+         "Wasted": ""
       },
       "Elements of Life": {
+         "$date": 2007,
+         "$list": "white",
          "Ten Seconds Before Sunrise": "good",
          "Everything": "",
          "Do You Feel Me": "",
@@ -24,31 +26,18 @@
          "Break My Fall": "",
          "In the Dark": "",
          "Dance4Life": "",
-         "Elements of Life": "",
-         "He’s a Pirate (Tiësto remix)": "",
-         "$date": 2007,
-         "$list": "white"
-      },
-      "Parade of the Athletes": {
-         "$date": 2004
-      },
-      "Just Be": {
-         "Adagio for Strings": "",
-         "$date": 2004,
-         "$list": "black"
-      },
-      "=": {
-         "Adagio For Strings": {
-            "flow": "7,863,568",
-            "link": "https://youtu.be/8tIgN7eICn4"
-         },
          "Elements of Life": {
             "flow": "4,903,277",
             "link": "https://youtu.be/EE7CXZ1Lyu4"
          },
-         "Secrets": {
-            "flow": "46,288,667",
-            "link": "https://youtu.be/Dr1nN__-2Po"
+         "He’s a Pirate (Tiësto remix)": ""
+      },
+      "Just Be": {
+         "$date": 2004,
+         "$list": "black",
+         "Adagio For Strings": {
+            "flow": "7,863,568",
+            "link": "https://youtu.be/8tIgN7eICn4"
          }
       }
    },
