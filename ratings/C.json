@@ -59,35 +59,35 @@
    },
    "Chicago": {
       "Chicago 17": {
-         "You’re The Inspiration": "",
          "$date": 1984,
-         "$list": "black"
+         "$list": "black",
+         "You’re The Inspiration": {
+            "trend": "7,406,342",
+            "link": "https://youtu.be/wM-XhQeFzW4"
+         }
       },
       "Chicago X": {
+         "$date": 1976,
+         "$list": "white",
          "Once or Twice": "",
          "You Are on My Mind": "",
          "Skin Tight": "",
-         "If You Leave Me Now": "good",
+         "If You Leave Me Now": {
+            "rate": "good",
+            "trend": "1,030,105",
+            "link": "https://youtu.be/j1ykMNtzMT8"
+         },
          "Together Again": "",
          "Another Rainy Day in New York City": "",
          "Mama Mama": "",
          "Scrapbook": "",
          "Gently I’ll Wake You": "",
          "You Get It Up": "",
-         "Hope for Love": "",
-         "$date": 1976,
-         "$list": "white"
-      },
-      "Chicago VIII": {
-         "$date": 1975
-      },
-      "Chicago VII": {
-         "$date": 1974
-      },
-      "Chicago VI": {
-         "$date": 1973
+         "Hope for Love": ""
       },
       "Chicago V": {
+         "$date": 1972,
+         "$list": "white",
          "A Hit by Varèse": "",
          "All Is Well": "",
          "Now That You’ve Gone": "",
@@ -97,14 +97,11 @@
          "Saturday in the Park": "good",
          "State of the Union": "",
          "Goodbye": "",
-         "Alma Mater": "",
-         "$date": 1972,
-         "$list": "white"
-      },
-      "Chicago III": {
-         "$date": 1971
+         "Alma Mater": ""
       },
       "Chicago II": {
+         "$date": 1969,
+         "$list": "white",
          "Movin’ In": "",
          "The Road": "",
          "Poem for the People": "",
@@ -127,19 +124,7 @@
          "It Better End Soon (2nd Movement)": "",
          "It Better End Soon (3rd Movement)": "",
          "It Better End Soon (4th Movement)": "short",
-         "Where Do We Go From Here": "short",
-         "$date": 1969,
-         "$list": "white"
-      },
-      "=": {
-         "If You Leave Me Now": {
-            "trend": "1,030,105",
-            "link": "https://youtu.be/j1ykMNtzMT8"
-         },
-         "You’re The Inspiration": {
-            "trend": "7,406,342",
-            "link": "https://youtu.be/wM-XhQeFzW4"
-         }
+         "Where Do We Go From Here": "short"
       }
    },
    "Chicane": {
@@ -378,7 +363,7 @@
          "The Tinderbox (of a Heart)": "good",
          "Multifoiled": "short",
          "My Love Paramour": "",
-         "Musette and Drums": ""
+         "Musette and Drums": "good"
       },
       "Garlands": {
          "$date": 1982,

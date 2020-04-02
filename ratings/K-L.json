@@ -80,6 +80,23 @@
          "Mohn!": "",
          "Du siehst hoch; du siehst ‘Wolken’ (version)": ""
       }
+      "Mäander": {
+          "$date": "1999",
+          "$list": "white",
+          "Mond?": "bad",
+          "Implodiert": "bad",
+          "Tuch": "bad",
+          "Faller": "bad",
+          "Rand": "short",
+          "Gras": "bad",
+          "Simultan": "short",
+          "Konstant": "",
+          "Lunger": "",
+          "Seen": "",
+          "Nachtwach": "",
+          "Horn": "",
+          "Brack": ""
+      }
    },
    "Kacey Musgraves": {
       "Golden Hour": {

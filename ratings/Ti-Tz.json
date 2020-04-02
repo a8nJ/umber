@@ -223,53 +223,30 @@
    },
    "Toni Braxton": {
       "Sex & Cigarettes": {
-         "Long As I Live": "",
          "$date": 2018,
-         "$list": "black"
-      },
-      "Finally": {
-         "$date": 2016
-      },
-      "Love, Marriage & Divorce": {
-         "$date": 2014
-      },
-      "Pulse": {
-         "$date": 2010
-      },
-      "Libra": {
-         "$date": 2005
-      },
-      "More Than a Woman": {
-         "$date": 2002
-      },
-      "Snowflakes": {
-         "$date": 2001
-      },
-      "The Heat": {
-         "Just Be a Man About It": "",
-         "$date": 2000,
-         "$list": "black"
-      },
-      "Secrets": {
-         "He Was’t Man Enough": "",
-         "Un-Break My Heart": "",
-         "You’re Makin’ Me High": "",
-         "$date": 1996,
-         "$list": "black"
-      },
-      "=": {
-         "Just Be a Man About It": {
-            "flow": "8,561,793",
-            "link": "https://youtu.be/wpaR3wzTlvo"
-         },
+         "$list": "black",
          "Long As I Live": {
             "flow": "32,213,630",
             "link": "https://youtu.be/EjW7WzozgI0"
-         },
+         }
+      },
+      "The Heat": {
+         "$date": 2000,
+         "$list": "black",
+         "Just Be a Man About It": {
+            "flow": "8,561,793",
+            "link": "https://youtu.be/wpaR3wzTlvo"
+         }
+      },
+      "Secrets": {
+         "$date": 1996,
+         "$list": "black",
+         "He Was’t Man Enough": "",
          "Un-Break My Heart": {
             "flow": "42,821,132",
             "link": "https://youtu.be/p2Rch6WvPJE"
-         }
+         },
+         "You’re Makin’ Me High": ""
       }
    },
    "Tool": {
