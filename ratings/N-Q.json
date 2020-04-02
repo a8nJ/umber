@@ -248,6 +248,8 @@
    },
    "Nicolas Jaar": {
       "Sirens": {
+         "$date": "2016-09-30",
+         "$list": "white",
          "Mirrors": "",
          "Killing Time": "good",
          "Sirens": "short",
@@ -256,22 +258,22 @@
          "Leaves": "",
          "false": "",
          "Three Sides of Nazareth": "",
-         "History Lesson": "",
-         "$date": "2016-09-30",
-         "$list": "white"
+         "History Lesson": ""
       },
       "Nymphs": {
+         "$date": "2016-09-23",
+         "$list": "white",
          "Don’t Break My Love": "",
          "Why Didn’t You Save Me": "",
          "The Three Sides of Audrey and Why She’s All Alone Now": "",
          "No One Is Looking at U": "",
          "Swim": "",
          "Mistress": "good",
-         "Fight": "",
-         "$date": "2016-09-23",
-         "$list": "white"
+         "Fight": ""
       },
       "Space Is Only Noise": {
+         "$date": 2011,
+         "$list": "white",
          "Être": "bad",
          "Colomb": "bad",
          "Sunflower": "short",
@@ -284,26 +286,20 @@
          "Specters of the Future": "short",
          "Trace": "short",
          "Variations": "",
-         "^tre": "short",
-         "$date": 2011,
-         "$list": "white"
+         "^tre": "short"
       },
       "Love You Gotta Lose Again": {
+         "$date": 2010,
+         "$list": "white",
          "WOUH": "good",
          "Love You Gotta Lose Again": "",
-         "Don’t Believe the Hype": "short",
-         "$date": 2010,
-         "$list": "white"
-      },
-      "=": {
-         "Mi Mujer": {
-            "flow": "4,499,726",
-            "link": "https://youtu.be/1Upj_Ib30K4"
-         }
+         "Don’t Believe the Hype": "short"
       }
    },
    "Nightmares on Wax": {
       "Shape the Future": {
+         "$date": 2018,
+         "$list": "white",
          "Back to Nature": "good",
          "Tell My Vision": "bad",
          "Shape the Future": "bad",
@@ -314,22 +310,19 @@
          "Citizen Kane": "bad",
          "Deep Shadows": "",
          "Gotta Smile": "bad",
-         "The Othership": "good",
-         "$date": 2018,
-         "$list": "white"
+         "The Othership": "good"
       },
       "Ground Floor": {
+         "$date": 2016,
+         "$list": "white",
          "World Inside": "bad",
          "Scratch That!": "",
          "Reclaim the Balcony": "",
-         "Dirty Triumphant": "",
-         "$date": 2016,
-         "$list": "white"
-      },
-      "Feelin’ Good": {
-         "$date": 2013
+         "Dirty Triumphant": ""
       },
       "Thought So": {
+         "$date": 2008,
+         "$list": "white",
          "Intro": "short",
          "Da Feelin": "bad",
          "195lbs": "bad",
@@ -340,27 +333,31 @@
          "Pretty Dark": "bad",
          "Hear in Colour": "good",
          "Still? Yes!": "bad",
-         "Hey! Ego": "bad",
-         "$date": 2008,
-         "$list": "white"
+         "Hey! Ego": "bad"
       },
       "In a Space Outta Sound": {
+         "$date": 2006,
+         "$list": "white",
          "Passion": "good",
          "The Sweetest": "bad",
          "Flip Ya Lid": "good",
          "Pudpots": "bad",
          "Damn": "good",
-         "You Wish": "good",
+         "You Wish": {
+            "rate": "good",
+            "flow": "330,951",
+            "link": "https://youtu.be/TwDOa-lvizM"
+         },
          "Deepdown": "bad",
          "Chime Out": "short",
          "Me!": "good",
          "I Am You": "bad",
          "Soul Purpose": "good",
-         "African Pirates": "bad",
-         "$date": 2006,
-         "$list": "white"
+         "African Pirates": "bad"
       },
       "Mind Elevation": {
+         "$date": 2002,
+         "$list": "white",
          "Mind Eye": "bad",
          "Say-Say": "bad",
          "Thinking of Omara": "bad",
@@ -373,11 +370,11 @@
          "Know My Name": "",
          "B B H (Bongo-Brk-Haven)": "",
          "Mirrorball": "short",
-         "Thoughts": "",
-         "$date": 2002,
-         "$list": "white"
+         "Thoughts": ""
       },
       "Carboot Soul": {
+         "$date": 1999,
+         "$list": "white",
          "Les Nuits": "good",
          "Morse": "good",
          "Ethnic Majority": "good",
@@ -387,11 +384,11 @@
          "Argha Noah": "good",
          "Fire in the Middle": "good",
          "Survival": "bad",
-         "Capumcap": "bad",
-         "$date": 1999,
-         "$list": "white"
+         "Capumcap": "bad"
       },
       "Smokers Delight": {
+         "$date": 1995,
+         "$list": "white",
          "Nights Introlude": "good",
          "Dreddoverboard": "bad",
          "Pipes Honour": "good",
@@ -407,11 +404,11 @@
          "What I’m Feelin’ (Good)": "short",
          "Rise": "good",
          "Rise (reprise)": "short",
-         "Gambia via Vagator Beach": "good",
-         "$date": 1995,
-         "$list": "white"
+         "Gambia via Vagator Beach": "good"
       },
       "A Word of Science": {
+         "$date": 1991,
+         "$list": "white",
          "Nights Interlude": "good",
          "A Case of Funk": "bad",
          "Coming Down": "bad",
@@ -426,15 +423,7 @@
          "B.W.T.M.": "short",
          "Sal Batardes": "bad",
          "E.A.S.E.": "",
-         "How Ya Doin’": "",
-         "$date": 1991,
-         "$list": "white"
-      },
-      "=": {
-         "You Wish": {
-            "flow": "330,951",
-            "link": "https://youtu.be/TwDOa-lvizM"
-         }
+         "How Ya Doin’": ""
       }
    },
    "Nirvana": {
@@ -575,18 +564,12 @@
    },
    "On-the-Go": {
       "One Spark": {
+         "$list": "white",
          "Spellbound": "good",
          "The Day You’ve Been Waiting For": "",
          "Out of Sight": "",
          "One Spark": "good",
-         "Fall Asleep": "",
-         "$list": "white"
-      },
-      "=": {
-         "In The Wind": {
-            "flow": "23,664",
-            "link": "https://youtu.be/Aov6cfc4zDs"
-         }
+         "Fall Asleep": ""
       }
    },
    "Oneohtrix Point Never": {
@@ -723,21 +706,26 @@
    },
    "OutKast": {
       "Speakerboxxx / The Love Below": {
-         "Hey Ya!": "",
-         "Roses": "",
-         "The Way You Move": "",
          "$date": 2003,
-         "$list": "black"
+         "$list": "black",
+         "Hey Ya!": {
+            "flow": "42,094,987",
+            "link": "https://youtu.be/PWgvGjAhvIw"
+         },
+         "Roses": "",
+         "The Way You Move": ""
       },
       "Stankonia": {
-         "Ms. Jackson": "",
          "$date": 2000,
-         "$list": "black"
-      },
-      "Aquemini": {
-         "$date": 1998
+         "$list": "black",
+         "Ms. Jackson": {
+            "flow": "32,944,721",
+            "link": "https://youtu.be/YSwT1uaMvUY"
+         }
       },
       "ATLiens": {
+         "$date": 1996,
+         "$list": "white",
          "You May Die (intro)": "short",
          "Two Dope Boyz (in a Cadillac)": "short",
          "ATLiens": "",
@@ -751,23 +739,7 @@
          "Decatur Psalm": "",
          "Millennium": "",
          "E.T. (Extraterrestrial)": "",
-         "13th Floor/Growing Old": "",
-         "$date": 1996,
-         "$list": "white"
-      },
-      "=": {
-         "Hey Ya!": {
-            "flow": "42,094,987",
-            "link": "https://youtu.be/PWgvGjAhvIw"
-         },
-         "Ms. Jackson": {
-            "flow": "32,944,721",
-            "link": "https://youtu.be/YSwT1uaMvUY"
-         },
-         "So Fresh, So Clean": {
-            "flow": "4,398,743",
-            "link": "https://youtu.be/-JfEJq56IwI"
-         }
+         "13th Floor/Growing Old": ""
       }
    },
    "Pastel Ghost": {
