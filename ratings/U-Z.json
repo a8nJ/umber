@@ -480,24 +480,6 @@
          "$date": 1983,
          "$list": "white"
       },
-      "Drama": {
-         "$date": 1980
-      },
-      "Tormato": {
-         "$date": 1978
-      },
-      "Going for the One": {
-         "$date": 1977
-      },
-      "Relayer": {
-         "$date": 1974
-      },
-      "Tales From Topographic Oceans": {
-         "$date": 1973
-      },
-      "Close to the Edge": {
-         "$date": 1972
-      },
       "Fragile": {
          "Roundabout": "good",
          "Cans and Brahms": "short",
