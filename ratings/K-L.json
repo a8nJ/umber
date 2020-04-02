@@ -136,6 +136,8 @@
    },
    "Kate Bush": {
       "Hounds of Love": {
+         "$date": 1985,
+         "$list": "white",
          "Running Up That Hill": "good",
          "Hounds of Love": "bad",
          "The Big Sky": "bad",
@@ -147,52 +149,42 @@
          "Watching You Without Me": "bad",
          "Jig of Life": "bad",
          "Hello Earth": "bad",
-         "The Morning Fog": "short",
-         "$date": 1985,
-         "$list": "white"
+         "The Morning Fog": "short"
       },
       "The Dreaming": {
+         "$date": 1982,
+         "$list": "white",
          "Sat in Your Lap": "bad",
          "There Goes a Tenner": "bad",
          "Pull Out the Pin": "bad",
          "Suspended in Gaffa": "bad",
          "Leave It Open": "bad",
-         "The Dreaming": "",
-         "Night of the Swallow": "",
-         "All the Love": "",
-         "Houdini": "",
-         "Get Out of My House": "",
-         "$date": 1982,
-         "$list": "white"
-      },
-      "Never for Ever": {
-         "$date": 1980
-      },
-      "Lionheart": {
-         "$date": 1978
+         "The Dreaming": "bad",
+         "Night of the Swallow": "bad",
+         "All the Love": "bad",
+         "Houdini": "bad",
+         "Get Out of My House": ""
       },
       "The Kick Inside": {
+         "$date": 1978,
+         "$list": "white",
          "Moving": "bad",
          "The Saxophone Song": "bad",
          "Strange Phenomena": "short",
          "Kite": "short",
          "The Man With the Child in His Eyes": "short",
-         "Wuthering Heights": "bad",
+         "Wuthering Heights": {
+            "rate": "bad",
+            "flow": "3,384,228",
+            "link": "https://youtu.be/BW3gKKiTvjs"
+         },
          "James and the Cold Gun": "bad",
          "Feel It": "bad",
          "Oh to Be in Love": "bad",
          "L’Amour Looks Something Like You": "short",
          "Them Heavy People": "bad",
          "Room for the Life": "bad",
-         "The Kick Inside": "bad",
-         "$date": 1978,
-         "$list": "white"
-      },
-      "=": {
-         "Kate Bush Wuthering Heights.": {
-            "flow": "3,384,228",
-            "link": "https://youtu.be/BW3gKKiTvjs"
-         }
+         "The Kick Inside": "bad"
       }
    },
    "Kelly Bailey": {
@@ -673,7 +665,7 @@
          "Trouble - Parts I, II, & III (Chapter V)": "bad",
          "Envelopes (Chapter VI)": "good",
          "English Oak (Chapter VII)": "",
-         "Ice Cream (Chapter VIII)": "",
+         "Ice Cream (Chapter VIII)": "bad",
          "It Breaks (Chapter IX)": "short"
       },
       "Rojus": {

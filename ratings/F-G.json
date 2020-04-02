@@ -53,25 +53,23 @@
    },
    "Filter": {
       "Title of Record": {
+         "$date": 1999,
+         "$list": "white",
          "Sand": "short",
          "Welcome to the Fold": "",
          "Captain Bligh": "bad",
          "It’s Gonna Kill Me": "bad",
          "The Best Things": "good",
-         "Take a Picture": "good",
+         "Take a Picture": {
+            "rate": "good",
+            "flow": "619,133",
+            "link": "https://youtu.be/Jhx0o3GifpI"
+         },
          "Skinny": "",
          "I Will Lead You": "",
          "Cancer": "",
          "I’m Not the Only One": "",
-         "Miss Blue": "",
-         "$date": 1999,
-         "$list": "white"
-      },
-      "=": {
-         "Take a Picture": {
-            "flow": "619,133",
-            "link": "https://youtu.be/Jhx0o3GifpI"
-         }
+         "Miss Blue": ""
       }
    },
    "Flamingosis": {
@@ -723,6 +721,8 @@
    },
    "Goldfrapp": {
       "Silver Eye": {
+         "$date": 2017,
+         "$list": "white",
          "Anymore": "bad",
          "Systemagic": "bad",
          "Tigerman": "good",
@@ -732,11 +732,11 @@
          "Beast That Never Was": "bad",
          "Everything Is Never Enough": "bad",
          "Moon in Your Mouth": "bad",
-         "Ocean": "good",
-         "$date": 2017,
-         "$list": "white"
+         "Ocean": "good"
       },
       "Tales of Us": {
+         "$date": 2013,
+         "$list": "white",
          "Jo": "good",
          "Annabel": "",
          "Drew": "",
@@ -747,14 +747,11 @@
          "Stranger": "",
          "Laurel": "",
          "Clay": "",
-         "Lee": "good",
-         "$date": 2013,
-         "$list": "white"
-      },
-      "Head First": {
-         "$date": 2010
+         "Lee": "good"
       },
       "Seventh Tree": {
+         "$date": 2008,
+         "$list": "white",
          "Clowns": "good",
          "Little Bird": "",
          "Happiness": "",
@@ -764,12 +761,16 @@
          "A&E": "",
          "Cologne Cerrone Houdini": "",
          "Caravan Girl": "",
-         "Monster Love": "",
-         "$date": 2008,
-         "$list": "white"
+         "Monster Love": ""
       },
       "Supernature": {
-         "Ooh La La": "good",
+         "$date": 2005,
+         "$list": "white",
+         "Ooh La La": {
+            "rate": "good",
+            "flow": "1,063,979",
+            "link": "https://youtu.be/uco-2V4ytYQ"
+         },
          "Lovely 2 C U": "good",
          "Ride a White Horse": "good",
          "You Never Know": "bad",
@@ -779,11 +780,11 @@
          "Koko": "bad",
          "Satin Chic": "bad",
          "Time Out From the World": "good",
-         "Number 1": "bad",
-         "$date": 2005,
-         "$list": "white"
+         "Number 1": "bad"
       },
       "Black Cherry": {
+         "$date": 2003,
+         "$list": "white",
          "Crystalline Green": "bad",
          "Train": "bad",
          "Black Cherry": "bad",
@@ -793,11 +794,11 @@
          "Twist": "bad",
          "Strict Machine": "bad",
          "Forever": "bad",
-         "Slippage": "bad",
-         "$date": 2003,
-         "$list": "white"
+         "Slippage": "bad"
       },
       "Felt Mountain": {
+         "$date": 2000,
+         "$list": "white",
          "Lovely Head": "good",
          "Paper Bag": "good",
          "Human": "good",
@@ -807,21 +808,9 @@
          "Oompa Radar": "bad",
          "Utopia": "good",
          "Horse Tears": "good",
-         "Pilots (on a Star)": "",
+         "Pilots (on a Star)": "bad",
          "U.K. Girls (Physical)": "good",
-         "Lovely Head (Miss World mix)": "",
-         "Utopia (New Ears mix)": "",
-         "Human (Calexico vocal)": "",
-         "Human (Massey’s Cro-Magnon mix)": "",
-         "Utopia (Tom Middleton’s Cosmos vocal mix)": "good",
-         "$date": 2000,
-         "$list": "white"
-      },
-      "=": {
-         "Ooh La La": {
-            "flow": "1,063,979",
-            "link": "https://youtu.be/uco-2V4ytYQ"
-         }
+         "Utopia (Tom Middleton’s Cosmos vocal mix)": "good"
       }
    },
    "Goo Goo Dolls": {
