@@ -43,6 +43,7 @@
    },
    "Tipper": {
       "Surrounded": {
+         "$list": "white",
          "Middle of Nowhere": "short",
          "California Rolls": "",
          "Tear Strips Off": "good",
@@ -54,40 +55,33 @@
          "No Dice": "",
          "Just as the Sun Went Down": "",
          "Adrift for Days": "",
-         "Illabye": "",
-         "$list": "white"
-      },
-      "=": {
-         "Dreamsters": {
-            "flow": "145,653",
-            "link": "https://youtu.be/w6kTGhJIMgw"
-         }
+         "Illabye": ""
       }
    },
    "Toadies": {
       "Rubberneck": {
+         "$list": "white",
          "Mexican Hairless": "short",
          "Mister Love": "short",
          "Backslider": "short",
-         "Possum Kingdom": "good",
+         "Possum Kingdom": {
+            "rate": "good",
+            "flow": "1,923,926",
+            "link": "https://youtu.be/EkwD5rQ-_d4"
+         },
          "Quitter": "",
          "Away": "",
          "I Come From the Water": "short",
          "Tyler": "good",
          "Happyface": "short",
          "Velvet": "short",
-         "I Burn": "",
-         "$list": "white"
-      },
-      "=": {
-         "Possum Kingdom": {
-            "flow": "1,923,926",
-            "link": "https://youtu.be/EkwD5rQ-_d4"
-         }
+         "I Burn": ""
       }
    },
    "Tom Waits": {
       "Bad as Me": {
+         "$date": 2011,
+         "$list": "white",
          "Chicago": "short",
          "Raised Right Men": "",
          "Talking at the Same Time": "",
@@ -100,14 +94,11 @@
          "Satisfied": "good",
          "Last Leaf": "short",
          "Hell Broke Luce": "",
-         "New Year’s Eve": "",
-         "$date": 2011,
-         "$list": "white"
-      },
-      "Orphans Brawlers, Bawlers & Bastards": {
-         "$date": 2006
+         "New Year’s Eve": ""
       },
       "Real Gone": {
+         "$date": 2004,
+         "$list": "white",
          "Top of the Hill": "",
          "Hoist That Rag": "good",
          "Sins of My Father": "good",
@@ -123,23 +114,11 @@
          "Clang Boom Steam": "short",
          "Make It Rain": "",
          "Day After Tomorrow": "",
-         "A-Chick-a-Boom": "short",
-         "$date": 2004,
-         "$list": "white"
-      },
-      "Alice": {
-         "$date": 2002
-      },
-      "Blood Money": {
-         "$date": 2002
-      },
-      "Mule Variations": {
-         "$date": 1999
-      },
-      "The Black Rider": {
-         "$date": 1993
+         "A-Chick-a-Boom": "short"
       },
       "Bone Machine": {
+         "$date": 1992,
+         "$list": "white",
          "Earth Died Screaming": "",
          "Dirt in the Ground": "",
          "Such a Scream": "short",
@@ -155,14 +134,11 @@
          "Whistle Down the Wind": "",
          "I Don’t Wanna Grow Up": "short",
          "Let Me Get Up on It": "short",
-         "That Feel": "",
-         "$date": 1992,
-         "$list": "white"
-      },
-      "Franks Wild Years": {
-         "$date": 1987
+         "That Feel": ""
       },
       "Rain Dogs": {
+         "$date": 1985,
+         "$list": "white",
          "Singapore": "short",
          "Clap Hands": "good",
          "Cemetery Polka": "short",
@@ -181,11 +157,11 @@
          "Walking Spanish": "bad",
          "Downtown Train": "bad",
          "Bride Of Rain Dog (Instrumental)": "short",
-         "Anywhere I Lay My Head": "short",
-         "$date": 1985,
-         "$list": "white"
+         "Anywhere I Lay My Head": "short"
       },
       "Swordfishtrombones": {
+         "$date": 1983,
+         "$list": "white",
          "Underground": "short",
          "Shore Leave": "",
          "Dave the Butcher": "short",
@@ -200,14 +176,11 @@
          "Soldier’s Things": "",
          "Gin Soaked Boy": "short",
          "Trouble’s Braids": "short",
-         "Rainbirds": "",
-         "$date": 1983,
-         "$list": "white"
-      },
-      "Heartattack and Vine": {
-         "$date": 1980
+         "Rainbirds": ""
       },
       "Blue Valentine": {
+         "$date": 1978,
+         "$list": "white",
          "Somewhere (from ’West Side Story’)": "",
          "Red Shoes by the Drugstore": "",
          "Christmas Card From a Hooker in Minneapolis": "",
@@ -217,11 +190,11 @@
          "Whistlin’ Past the Graveyard": "good",
          "Kentucky Avenue": "",
          "A Sweet Little Bullet From a Pretty Blue Gun": "",
-         "Blue Valentines": "good",
-         "$date": 1978,
-         "$list": "white"
+         "Blue Valentines": "good"
       },
       "Foreign Affairs": {
+         "$date": 1977,
+         "$list": "white",
          "Cinny’s Waltz": "short",
          "Muriel": "bad",
          "I Never Talk to Strangers": "good",
@@ -230,14 +203,11 @@
          "Potter’s Field": "bad",
          "Burma-Shave": "good",
          "Barber Shop": "bad",
-         "Foreign Affair": "good",
-         "$date": 1977,
-         "$list": "white"
-      },
-      "Small Change": {
-         "$date": 1976
+         "Foreign Affair": "good"
       },
       "Nighthawks at the Diner": {
+         "$date": 1975,
+         "$list": "white",
          "Emotional Weather Report": "",
          "On a Foggy Night": "",
          "Eggs and Sausage (In a Cadillac With Susan Michelson)": "good",
@@ -248,15 +218,7 @@
          "Spare Parts I (A Nocturnal Emission)": "",
          "Nobody": "short",
          "Big Joe and Phantom 309": "",
-         "Spare Parts II and Closing": "",
-         "$date": 1975,
-         "$list": "white"
-      },
-      "=": {
-         "Hope I don’t fall in love with you": {
-            "flow": "1,489,189",
-            "link": "https://youtu.be/EtLVXBqfqBY"
-         }
+         "Spare Parts II and Closing": ""
       }
    },
    "Toni Braxton": {
