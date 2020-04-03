@@ -771,21 +771,23 @@
    },
    "The Midnight": {
       "Nocturnal": {
+         "$date": 2017,
+         "$list": "white",
          "Shadows": "",
          "Crystalline": "",
          "Collateral": "good",
          "River of Darkness": "",
          "Nocturnal": "",
          "Light Years": "",
-         "Tokyo Night Train": "",
-         "$date": 2017,
-         "$list": "white"
-      },
-      "Endless Summer The Instrumentals": {
-         "$date": 2016
+         "Tokyo Night Train": ""
       },
       "Endless Summer": {
-         "Endless Summer": "",
+         "$date": 2016,
+         "$list": "white",
+         "Endless Summer": {
+            "flow": "742,368",
+            "link": "https://youtu.be/_pUL7u-mYqA"
+         },
          "Sunset": "good",
          "Daytona": "",
          "Jason": "",
@@ -796,33 +798,31 @@
          "Crockett’s Revenge": "",
          "Nighthawks": "",
          "Lonely City": "",
-         "Memories": "good",
-         "$date": 2016,
-         "$list": "white"
+         "Memories": "good"
       },
       "Days of Thunder (the instrumentals)": {
+         "$date": 2016,
+         "$list": "white",
          "The Years (prologue) (instrumental)": "",
          "Gloria (instrumental)": "",
          "WeMoveForward (instrumental)": "",
          "Days of Thunder (instrumental)": "good",
          "Kick Drums & Red Wine (instrumental)": "",
-         "Los Angeles (instrumental)": "",
-         "$date": 2016,
-         "$list": "white"
-      },
-      "=": {
-         "Endless Summer": {
-            "flow": "742,368",
-            "link": "https://youtu.be/_pUL7u-mYqA"
-         }
+         "Los Angeles (instrumental)": ""
       }
    },
    "The Mighty Mighty Bosstones": {
       "Let’s Face It": {
+         "$date": 1997,
+         "$list": "white",
          "Noise Brigade": "short",
          "The Rascal King": "short",
          "Royal Oil": "short",
-         "The Impression That I Get": "good",
+         "The Impression That I Get": {
+            "rate": "good",
+            "flow": "2,309,375",
+            "link": "https://youtu.be/NIGMUAMevH0"
+         },
          "Let’s Face It": "short",
          "That Bug Bit Me": "short",
          "Another Drinkin’ Song": "",
@@ -830,24 +830,13 @@
          "Break So Easily": "short",
          "Nevermind Me": "",
          "Desensitized": "short",
-         "1‐2‐8": "short",
-         "$date": 1997,
-         "$list": "white"
-      },
-      "=": {
-         "The Impression That I Get": {
-            "flow": "2,309,375",
-            "link": "https://youtu.be/NIGMUAMevH0"
-         }
+         "1‐2‐8": "short"
       }
    },
    "The Notorious B.I.G.": {
       "Life After Death": {
-         "Mo Money Mo Problems": "",
          "$date": 1997,
-         "$list": "black"
-      },
-      "=": {
+         "$list": "black",
          "Mo Money Mo Problems": {
             "flow": "6,564,343",
             "link": "https://youtu.be/gUhRKVIjJtw"
@@ -856,14 +845,16 @@
    },
    "The Police": {
       "Synchronicity": {
-         "Every Breath You Take": "",
          "$date": 1983,
-         "$list": "black"
-      },
-      "Ghost in the Machine": {
-         "$date": 1981
+         "$list": "black",
+         "Every Breath You Take": {
+            "flow": "70,115,315",
+            "link": "https://youtu.be/OMOGaugKpzs"
+         }
       },
       "Zenyattà Mondatta": {
+         "$date": 1980,
+         "$list": "white",
          "Don’t Stand So Close to Me": "",
          "Driven to Tears": "good",
          "When the World Is Running Down, You Make the Best of What’s Still Around": "",
@@ -874,12 +865,16 @@
          "Behind My Camel": "short",
          "Man in a Suitcase": "short",
          "Shadows in the Rain": "",
-         "The Other Way of Stopping": "",
-         "$date": 1980,
-         "$list": "white"
+         "The Other Way of Stopping": ""
       },
       "Reggatta de Blanc": {
-         "Message in a Bottle": "good",
+         "$date": 1979,
+         "$list": "white",
+         "Message In a Bottle Video": {
+            "rate": "good",
+            "flow": "5,572,785",
+            "link": "https://youtu.be/MbXWrmQW-OE"
+         },
          "Reggatta de Blanc": "",
          "It’s Alright for You": "",
          "Bring on the Night": "",
@@ -889,24 +884,11 @@
          "The Bed’s Too Big Without You": "",
          "Contact": "short",
          "Does Everyone Stare": "",
-         "No Time This Time": "",
-         "$date": 1979,
-         "$list": "white"
+         "No Time This Time": ""
       },
       "Outlandos d’Amour": {
-         "Roxanne": "",
          "$date": 1978,
-         "$list": "black"
-      },
-      "=": {
-         "Every Breath You Take": {
-            "flow": "70,115,315",
-            "link": "https://youtu.be/OMOGaugKpzs"
-         },
-         "Message In a Bottle Video": {
-            "flow": "5,572,785",
-            "link": "https://youtu.be/MbXWrmQW-OE"
-         },
+         "$list": "black",
          "Roxanne": {
             "flow": "8,176,400",
             "link": "https://youtu.be/3T1c7GkzRQQ"
@@ -915,18 +897,27 @@
    },
    "The Prodigy": {
       "The Fat of the Land": {
+         "$date": 1997,
+         "$list": "black",
          "Breathe": "",
          "Climbatize": "",
-         "Firestarter": "",
-         "$date": 1997,
-         "$list": "black"
+         "Firestarter": {
+            "flow": "10,199,906",
+            "link": "https://youtu.be/wmin5WkOuPw"
+         }
       },
       "Music for the Jilted Generation": {
+         "$date": 1994,
+         "$list": "white",
          "Intro": "short",
          "Break & Enter": "",
          "Their Law": "",
          "Full Throttle": "",
-         "Voodoo People": "bad",
+         "voodoo people": {
+            "rate": "bad",
+            "flow": "2,661,490",
+            "link": "https://youtu.be/-Fz85FE0KtQ"
+         },
          "Speedway (Theme From Fastlane)": "",
          "The Heat (The Energy)": "",
          "Poison": "",
@@ -934,19 +925,7 @@
          "One Love (edit)": "",
          "The Narcotic Suite 3 Kilos": "",
          "The Narcotic Suite Skylined": "",
-         "The Narcotic Suite Claustrophobic Sting": "",
-         "$date": 1994,
-         "$list": "white"
-      },
-      "=": {
-         "Firestarter": {
-            "flow": "10,199,906",
-            "link": "https://youtu.be/wmin5WkOuPw"
-         },
-         "voodoo people": {
-            "flow": "2,661,490",
-            "link": "https://youtu.be/-Fz85FE0KtQ"
-         }
+         "The Narcotic Suite Claustrophobic Sting": ""
       }
    },
    "The Range": {
