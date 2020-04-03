@@ -1037,6 +1037,8 @@
    },
    "The Smiths": {
       "Strangeways, Here We Come": {
+         "$date": 1987,
+         "$list": "white",
          "A Rush and a Push and the Land Is Ours": "good",
          "I Started Something I Couldn’t Finish": "",
          "Death of a Disco Dancer": "",
@@ -1046,11 +1048,11 @@
          "Unhappy Birthday": "short",
          "Paint a Vulgar Picture": "",
          "Death at One’s Elbow": "short",
-         "I Won’t Share You": "short",
-         "$date": 1987,
-         "$list": "white"
+         "I Won’t Share You": "short"
       },
       "The Queen Is Dead": {
+         "$date": 1986,
+         "$list": "white",
          "The Queen Is Dead": "bad",
          "Frankly, Mr. Shankly": "short",
          "I Know It’s Over": "good",
@@ -1060,34 +1062,29 @@
          "The Boy With the Thorn in His Side": "",
          "Vicar in a Tutu": "short",
          "There Is a Light That Never Goes Out": "",
-         "Some Girls Are Bigger Than Others": "",
-         "$date": 1986,
-         "$list": "white"
+         "Some Girls Are Bigger Than Others": ""
       },
       "Meat Is Murder": {
+         "$date": 1985,
+         "$list": "white",
          "The Headmaster Ritual": "",
          "Rusholme Ruffians": "",
          "I Want the One I Can’t Have": "",
          "What She Said": "short",
          "That Joke Isn’t Funny Anymore": "",
-         "How Soon Is Now?": "good",
-         "Nowhere Fast": "short",
-         "Well I Wonder": "good",
-         "Barbarism Begins at Home": "good",
-         "Meat Is Murder": "",
-         "$date": 1985,
-         "$list": "white"
-      },
-      "The Smiths": {
-         "This Charming Man": "",
-         "$date": 1984,
-         "$list": "black"
-      },
-      "=": {
          "How Soon Is Now?": {
+            "rate": "good",
             "flow": "2,538,862",
             "link": "https://youtu.be/hnpILIIo9ek"
          },
+         "Nowhere Fast": "short",
+         "Well I Wonder": "good",
+         "Barbarism Begins at Home": "good",
+         "Meat Is Murder": ""
+      },
+      "The Smiths": {
+         "$date": 1984,
+         "$list": "black",
          "This Charming Man": {
             "flow": "7,660,429",
             "link": "https://youtu.be/cJRP3LRcUFg"
@@ -1096,6 +1093,7 @@
    },
    "The Stranglers": {
       "La Folie": {
+         "$list": "white",
          "Non Stop": "short",
          "Everybody Loves You When You’re Dead": "short",
          "Tramp": "",
@@ -1106,18 +1104,13 @@
          "It Only Takes Two to Tango": "",
          "Golden Brown": "good",
          "How to Find True Love and Happiness in the Present Day": "",
-         "La Folie": "",
-         "$list": "white"
-      },
-      "=": {
-         "The Stranglers": {
-            "flow": "1,811,334",
-            "link": "https://youtu.be/AWAsI3U2EaE"
-         }
+         "La Folie": ""
       }
    },
    "The Sundays": {
       "Static & Silence": {
+         "$date": 1997,
+         "$list": "white",
          "Summertime": "",
          "Homeward": "",
          "Folk Song": "good",
@@ -1128,11 +1121,11 @@
          "Leave This City": "",
          "Your Eyes": "short",
          "Cry": "",
-         "Monochrome": "",
-         "$date": 1997,
-         "$list": "white"
+         "Monochrome": ""
       },
       "Blind": {
+         "$date": 1992,
+         "$list": "white",
          "I Feel": "",
          "Goodbye": "good",
          "Life & Soul": "short",
@@ -1144,11 +1137,15 @@
          "24 Hours": "",
          "Blood on My Hands": "",
          "Medicine": "",
-         "Wild Horses": "good",
-         "$date": 1992,
-         "$list": "white"
+         "Wild Horses": {
+            "rate": "good",
+            "flow": "598,193",
+            "link": "https://youtu.be/BiyCkSOF1pc"
+         }
       },
       "Reading, Writing and Arithmetic": {
+         "$date": 1990,
+         "$list": "white",
          "Skin & Bones": "bad",
          "Here’s Where the Story Ends": "good",
          "Can’t Be Sure": "good",
@@ -1158,23 +1155,12 @@
          "A Certain Someone": "",
          "I Kicked a Boy": "short",
          "My Finest Hour": "",
-         "Joy": "",
-         "$date": 1990,
-         "$list": "white"
-      },
-      "=": {
-         "Wild Horses": {
-            "flow": "598,193",
-            "link": "https://youtu.be/BiyCkSOF1pc"
-         }
+         "Joy": ""
       }
    },
    "The Wallflowers": {
       "Bringing Down the Horse": {
-         "One Headlight": "",
-         "$list": "black"
-      },
-      "=": {
+         "$list": "black",
          "One Headlight": {
             "flow": "10,548,344",
             "link": "https://youtu.be/Zzyfcys1aLM"
@@ -1183,12 +1169,17 @@
    },
    "The White Stripes": {
       "Elephant": {
-         "Ball and Biscuit": "",
-         "Seven Nation Army": "",
          "$date": 2003,
-         "$list": "black"
+         "$list": "black",
+         "Ball and Biscuit": "",
+         "Seven Nation Army": {
+            "flow": "23,256,250",
+            "link": "https://youtu.be/0J2QdDbelmY"
+         }
       },
       "White Blood Cells": {
+         "$date": 2001,
+         "$list": "white",
          "Dead Leaves and the Dirty Ground": "good",
          "Hotel Yorba": "short",
          "I’m Finding It Harder to Be a Gentleman": "short",
@@ -1204,19 +1195,7 @@
          "I Can’t Wait": "",
          "Now Mary": "short",
          "I Can Learn": "",
-         "This Protector": "short",
-         "$date": 2001,
-         "$list": "white"
-      },
-      "=": {
-         "Icky Thump": {
-            "flow": "1,252,768",
-            "link": "https://youtu.be/1OjTspCqvk8"
-         },
-         "Seven Nation Army": {
-            "flow": "23,256,250",
-            "link": "https://youtu.be/0J2QdDbelmY"
-         }
+         "This Protector": "short"
       }
    },
    "The Who": {
