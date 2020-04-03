@@ -284,6 +284,8 @@
          "A Promise": ""
       },
       "Live at the Royal Albert Hall": {
+         "$date": 2008,
+         "$list": "white",
          "All That You Give": "",
          "Child Song": "good",
          "Flite": "",
@@ -292,12 +294,15 @@
          "Prelude": "",
          "Breathe": "",
          "Man With the Movie Camera": "",
-         "Time and Space": "good",
-         "$date": 2008,
-         "$list": "white"
+         "Time and Space": "good"
       },
       "Ma fleur": {
-         "To Build a Home": "",
+         "$date": 2007,
+         "$list": "white",
+         "To Build a Home": {
+            "flow": "4,012,190",
+            "link": "https://youtu.be/QB0ordd2nOI"
+         },
          "Familiar Ground": "",
          "Child Song": "",
          "Music Box": "good",
@@ -307,11 +312,11 @@
          "Ma fleur": "",
          "Breathe": "",
          "That Home": "short",
-         "Time & Space": "",
-         "$date": 2007,
-         "$list": "white"
+         "Time & Space": ""
       },
       "Man With a Movie Camera": {
+         "$date": 2003,
+         "$list": "white",
          "The Projectionist": "short",
          "Melody": "short",
          "Dawn": "good",
@@ -328,11 +333,11 @@
          "Yoyo Waltz": "short",
          "Drunken Tune": "bad",
          "The Animated Tripod": "short",
-         "All Things": "good",
-         "$date": 2003,
-         "$list": "white"
+         "All Things": "good"
       },
       "Every Day": {
+         "$date": 2002,
+         "$list": "white",
          "All That You Give": "good",
          "Burn Out": "",
          "Flite": "",
@@ -341,30 +346,23 @@
          "All Things to All Men": "",
          "Everyday": "good",
          "Oregon": "good",
-         "Semblance": "short",
-         "$date": 2002,
-         "$list": "white"
+         "Semblance": "short"
       },
       "Motion": {
+         "$date": 1999,
+         "$list": "white",
          "Durian": "",
          "Ode to the Big Sea": "",
          "Night of the Iguana": "",
          "Channel 1 Suite": "",
          "Bluebirds": "",
          "And Relax!": "good",
-         "Diabolus": "",
-         "$date": 1999,
-         "$list": "white"
-      },
-      "=": {
-         "To Build a Home": {
-            "flow": "4,012,190",
-            "link": "https://youtu.be/QB0ordd2nOI"
-         }
+         "Diabolus": ""
       }
    },
    "The Cinematics": {
       "A Strange Education": {
+         "$list": "white",
          "Race to the City": "good",
          "Break": "good",
          "A Strange Education": "",
@@ -376,26 +374,28 @@
          "Ready Now": "",
          "Maybe Someday": "",
          "Alright": "",
-         "Asleep at the Wheel": "",
-         "$list": "white"
-      },
-      "=": {
-         "Love And Terror": {
-            "flow": "32,705",
-            "link": "https://youtu.be/IyOA2mYmZeI"
-         }
+         "Asleep at the Wheel": ""
       }
    },
    "The Clash": {
       "Combat Rock": {
-         "Rock the Casbah": "",
-         "Should I Stay or Should I Go": "",
-         "Straight to Hell": "",
          "$date": 1982,
-         "$list": "black"
+         "$list": "black",
+         "Rock the Casbah": "",
+         "Should I Stay or Should I Go": {
+            "flow": "18,807,531",
+            "link": "https://youtu.be/BN1WwnEDWAM"
+         },
+         "Straight to Hell": ""
       },
       "Sandinista!": {
-         "The Magnificent Seven": "good",
+         "$date": 1980,
+         "$list": "white",
+         "The Magnificent Seven": {
+            "rate": "good",
+            "flow": "512,354",
+            "link": "https://youtu.be/GcHL8efKKPE"
+         },
          "Hitsville U.K.": "",
          "Junco Partner": "",
          "Ivan Meets G.I. Joe": "",
@@ -430,61 +430,43 @@
          "Silicone on Sapphire": "",
          "Version Pardner": "",
          "Career Opportunities": "short",
-         "Shepherds Delight": "",
-         "$date": 1980,
-         "$list": "white"
-      },
-      "=": {
-         "Should I Stay or Should I Go": {
-            "flow": "18,807,531",
-            "link": "https://youtu.be/BN1WwnEDWAM"
-         },
-         "The Magnificent Seven": {
-            "flow": "512,354",
-            "link": "https://youtu.be/GcHL8efKKPE"
-         }
+         "Shepherds Delight": ""
       }
    },
    "The Cranberries": {
       "Bury the Hatchet": {
-         "Animal Instinct": "bad",
          "$date": 1999,
-         "$list": "black"
-      },
-      "To the Faithful Departed": {
-         "When You’re Gone": "",
-         "$date": 1996,
-         "$list": "black"
-      },
-      "No Need to Argue": {
-         "Ode To My Family": "",
-         "Zombie": "",
-         "$date": 1994,
-         "$list": "black"
-      },
-      "Everybody Else Is Doing It, So Why Can’t We?": {
-         "Dreams": "",
-         "I Still Do": "",
-         "Linger": "",
-         "$date": 1993,
-         "$list": "black"
-      },
-      "=": {
+         "$list": "black",
          "Animal Instinct": {
             "flow": "6,073,015",
             "link": "https://youtu.be/ky4CdN0x58A"
-         },
-         "Linger": {
-            "flow": "20,017,284",
-            "link": "https://youtu.be/G6Kspj3OO0s"
-         },
+         }
+      },
+      "To the Faithful Departed": {
+         "$date": 1996,
+         "$list": "black",
          "When You’re Gone": {
             "flow": "7,514,918",
             "link": "https://youtu.be/RUmdWdEgHgk"
-         },
+         }
+      },
+      "No Need to Argue": {
+         "$date": 1994,
+         "$list": "black",
+         "Ode To My Family": "",
          "Zombie": {
             "flow": "90,951,005",
             "link": "https://youtu.be/6Ejga4kJUts"
+         }
+      },
+      "Everybody Else Is Doing It, So Why Can’t We?": {
+         "$date": 1993,
+         "$list": "black",
+         "Dreams": "",
+         "I Still Do": "",
+         "Linger": {
+            "flow": "20,017,284",
+            "link": "https://youtu.be/G6Kspj3OO0s"
          }
       }
    },
