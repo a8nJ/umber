@@ -45,6 +45,8 @@
    },
    "Tears for Fears": {
       "Raoul and the Kings of Spain": {
+         "$date": 1995,
+         "$list": "white",
          "Raoul and the Kings of Spain": "bad",
          "Falling Down": "bad",
          "Secrets": "bad",
@@ -56,34 +58,21 @@
          "I Choose You": "bad",
          "Don’t Drink the Water": "bad",
          "Me and My Big Ideas": "bad",
-         "Los reyes Católicos (reprise)": "bad",
-         "$date": 1995,
-         "$list": "white"
-      },
-      "Elemental": {
-         "$date": 1993
-      },
-      "The Seeds of Love": {
-         "$date": 1989
+         "Los reyes Católicos (reprise)": "bad"
       },
       "Songs From the Big Chair": {
-         "Everybody Wants to Rule the World": "",
          "$date": 1985,
-         "$list": "black"
-      },
-      "=": {
+         "$list": "black",
          "Everybody Wants to Rule the World": {
             "flow": "9,162,285",
             "link": "https://youtu.be/ST86JM1RPl0"
-         },
-         "Shout": {
-            "flow": "1,564,432",
-            "link": "https://youtu.be/aI9lo5BRJmg"
          }
       }
    },
    "The Black Dog": {
       "Further Vexations": {
+         "$date": 2009,
+         "$list": "white",
          "Biomantric L-if-e": "good",
          "0093": "",
          "Phil Because Ov, Indeed": "short",
@@ -98,11 +87,11 @@
          "Dada Mindstab": "",
          "Tunnels Ov Set": "",
          "Later Vexations": "",
-         "Kissing Someone Else’s D.O.G": "",
-         "$date": 2009,
-         "$list": "white"
+         "Kissing Someone Else’s D.O.G": ""
       },
       "Radio Scarecrow": {
+         "$date": 2008,
+         "$list": "white",
          "Transmission Start": "short",
          "Train by the Autobahn, Part 1": "good",
          "Train by the Autobahn, Part 2": "good",
@@ -119,11 +108,11 @@
          "Witches Ov": "bad",
          "Dials & Dialers 1": "short",
          "Ghost Vexations": "good",
-         "Dials & Dialers 2": "short",
-         "$date": 2008,
-         "$list": "white"
+         "Dials & Dialers 2": "short"
       },
       "Silenced": {
+         "$date": 2005,
+         "$list": "white",
          "Trojan Horus, Part 1": "",
          "Trojan Horus, Part 2": "short",
          "Lam Vril": "",
@@ -141,23 +130,20 @@
          "Bolt 33 Glitch & Chin": "short",
          "Sudden Intake": "good",
          "4 3s 555, Part 1": "short",
-         "4 3s 555, Part 2": "",
-         "$date": 2005,
-         "$list": "white"
-      },
-      "Unsavoury Products": {
-         "$date": 2002
+         "4 3s 555, Part 2": ""
       },
       "Peel Session": {
+         "$date": 1999,
+         "$list": "white",
          "Shadehead": "good",
          "Rise Up": "",
          "Simperton": "",
          "Rue": "",
-         "Psycosyin": "",
-         "$date": 1999,
-         "$list": "white"
+         "Psycosyin": ""
       },
       "Music for Adverts (and Short Films)": {
+         "$date": 1996,
+         "$list": "white",
          "Dumb & Dumber": "short",
          "The Wind Spirit": "short",
          "Jordan": "short",
@@ -183,11 +169,11 @@
          "Minour": "",
          "Mo": "",
          "Wot": "short",
-         "Kheprit": "",
-         "$date": 1996,
-         "$list": "white"
+         "Kheprit": ""
       },
       "Spanners": {
+         "$date": 1995,
+         "$list": "white",
          "Raxmus": "good",
          "Barbola Work": "bad",
          "Psil-Cosyin": "bad",
@@ -199,11 +185,11 @@
          "End of Time": "bad",
          "Utopian Dream": "bad",
          "Frisbee Skip": "bad",
-         "Chesh": "bad",
-         "$date": 1995,
-         "$list": "white"
+         "Chesh": "bad"
       },
       "Temple of Transparent Balls": {
+         "$date": 1993,
+         "$list": "white",
          "Cost I": "bad",
          "Cost II": "bad",
          "4.7.8.": "bad",
@@ -214,19 +200,13 @@
          "Mango": "",
          "Cycle": "",
          "In the Light of Grey": "",
-         "The Crete That Crete Made": "",
-         "$date": 1993,
-         "$list": "white"
-      },
-      "=": {
-         "Spanners": {
-            "flow": "12,354",
-            "link": "https://youtu.be/NZznxCVwzrk"
-         }
+         "The Crete That Crete Made": ""
       }
    },
    "The Cardigans": {
       "Gran Turismo": {
+         "$date": 1998,
+         "$list": "white",
          "Paralyzed": "",
          "Erase/Rewind": "good",
          "Explode": "",
@@ -234,36 +214,35 @@
          "Hanging Around": "",
          "Higher": "",
          "Marvel Hill": "",
-         "My Favourite Game": "",
-         "Do You Believe": "",
-         "Junk of the Hearts": "",
-         "Nil": "short",
-         "$date": 1998,
-         "$list": "white"
-      },
-      "First Band on the Moon": {
-         "Lovefool": "",
-         "$date": 1996,
-         "$list": "black"
-      },
-      "=": {
-         "Lovefool": {
-            "flow": "8,086,193",
-            "link": "https://youtu.be/NI6aOFI7hms"
-         },
          "My Favourite Game": {
             "flow": "4,707,718",
             "link": "https://youtu.be/6Ll5y2hZdCI"
+         },
+         "Do You Believe": "",
+         "Junk of the Hearts": "",
+         "Nil": "short"
+      },
+      "First Band on the Moon": {
+         "$date": 1996,
+         "$list": "black",
+         "Lovefool": {
+            "flow": "8,086,193",
+            "link": "https://youtu.be/NI6aOFI7hms"
          }
       }
    },
    "The Cars": {
       "Heartbeat City": {
-         "Drive": "",
          "$date": 1984,
-         "$list": "black"
+         "$list": "black",
+         "Drive": {
+            "flow": "7,067,292",
+            "link": "https://youtu.be/xuZA6qiJVfU"
+         }
       },
       "Shake It Up": {
+         "$date": 1981,
+         "$list": "white",
          "Since You’re Gone": "bad",
          "Shake It Up": "bad",
          "I’m Not the One": "bad",
@@ -272,38 +251,24 @@
          "A Dream Away": "bad",
          "This Could Be Love": "bad",
          "Think It Over": "bad",
-         "Maybe Baby": "bad",
-         "$date": 1981,
-         "$list": "white"
-      },
-      "Panorama": {
-         "$date": 1980
-      },
-      "Candy‐O": {
-         "$date": 1979
+         "Maybe Baby": "bad"
       },
       "The Cars": {
+         "$date": 1978,
+         "$list": "white",
          "Good Times Roll": "bad",
          "My Best Friend’s Girl": "bad",
-         "Just What I Needed": "bad",
+         "Just What I Needed": {
+            "rate": "bad",
+            "flow": "2,477,612",
+            "link": "https://youtu.be/Z5-rdr0qhWk"
+         },
          "I’m in Touch With Your World": "",
          "Don’t Cha Stop": "",
          "You’re All I’ve Got Tonight": "",
          "Bye Bye Love": "",
          "Moving in Stereo": "",
-         "All Mixed Up": "",
-         "$date": 1978,
-         "$list": "white"
-      },
-      "=": {
-         "Drive": {
-            "flow": "7,067,292",
-            "link": "https://youtu.be/xuZA6qiJVfU"
-         },
-         "JUST WHAT I NEEDED": {
-            "flow": "2,477,612",
-            "link": "https://youtu.be/Z5-rdr0qhWk"
-         }
+         "All Mixed Up": ""
       }
    },
    "The Cinematic Orchestra": {
