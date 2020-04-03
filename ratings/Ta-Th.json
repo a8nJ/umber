@@ -472,6 +472,8 @@
    },
    "The Crystal Method": {
       "London Original Motion Picture Soundtrack": {
+         "$date": 2005,
+         "$list": "white",
          "London": "short",
          "Smoked": "",
          "Fire to Me": "",
@@ -480,11 +482,11 @@
          "Vice": "good",
          "Onesixteen": "",
          "Glass Breaker": "",
-         "I Luv U": "short",
-         "$date": 2005,
-         "$list": "white"
+         "I Luv U": "short"
       },
       "Legion of Boom": {
+         "$date": 2004,
+         "$list": "white",
          "Starting Over": "",
          "Born Too Slow": "",
          "True Grit": "good",
@@ -496,26 +498,29 @@
          "Bound Too Long": "good",
          "Acetone": "good",
          "High and Low": "",
-         "Wide Open": "",
-         "$date": 2004,
-         "$list": "white"
+         "Wide Open": ""
       },
       "Tweekend": {
+         "$date": 2001,
+         "$list": "white",
          "PHD": "good",
          "Wild, Sweet and Cool": "good",
          "Roll It Up": "good",
          "Murder": "",
-         "Name of the Game": "",
+         "Name of the Game": {
+            "flow": "293,737",
+            "link": "https://youtu.be/A12-KN5UijA"
+         },
          "The Winner": "",
          "Ready for Action": "",
          "Ten Miles Back": "",
          "Over the Line": "",
          "Blowout": "",
-         "Tough Guy": "",
-         "$date": 2001,
-         "$list": "white"
+         "Tough Guy": ""
       },
       "Vegas": {
+         "$date": 1997,
+         "$list": "white",
          "Trip Like I Do": "good",
          "Busy Child": "good",
          "Cherry Twist": "good",
@@ -525,40 +530,32 @@
          "Vapor Trail": "",
          "She’s My Pusher": "",
          "Jaded": "good",
-         "Bad Stone": "good",
-         "$date": 1997,
-         "$list": "white"
-      },
-      "=": {
-         "Name of the Game": {
-            "flow": "293,737",
-            "link": "https://youtu.be/A12-KN5UijA"
-         }
+         "Bad Stone": "good"
       }
    },
    "The Cure": {
       "Disintegration": {
+         "$list": "white",
          "Plainsong": "",
          "Pictures of You": "good",
          "Closedown": "",
-         "Lovesong": "good",
+         "Lovesong": {
+            "rate": "good",
+            "flow": "2,040,934",
+            "link": "https://youtu.be/hXCKLJGLENs"
+         },
          "Lullaby": "good",
          "Fascination Street": "",
          "Prayers for Rain": "",
          "The Same Deep Water as You": "",
          "Disintegration": "",
-         "Untitled": "",
-         "$list": "white"
-      },
-      "=": {
-         "Lovesong": {
-            "flow": "2,040,934",
-            "link": "https://youtu.be/hXCKLJGLENs"
-         }
+         "Untitled": ""
       }
    },
    "The Dave Brubeck Quartet": {
       "Time Further Out": {
+         "$date": 1961,
+         "$list": "white",
          "It’s a Raggy Waltz": "",
          "Bluette": "",
          "Charles Matthew Hallelujah": "short",
@@ -567,45 +564,27 @@
          "Maori Blues": "",
          "Unsquare Dance": "short",
          "Bru’s Boogie Woogie": "short",
-         "Blue Shadows in the Street": "",
-         "$date": 1961,
-         "$list": "white"
-      },
-      "The Riddle": {
-         "$date": 1961
-      },
-      "Near-Myth": {
-         "$date": 1961
-      },
-      "Bernstein Plays Brubeck Plays Bernstein": {
-         "$date": 1961
-      },
-      "Tonight Only!": {
-         "$date": 1960
-      },
-      "Southern Scene": {
-         "$date": 1960
+         "Blue Shadows in the Street": ""
       },
       "Time Out": {
+         "$date": 1959,
+         "$list": "white",
          "Blue Rondo à la Turk": "",
          "Strange Meadow Lark": "",
-         "Take Five": "good",
+         "Take Five": {
+            "rate": "good",
+            "flow": "5,677,036",
+            "link": "https://youtu.be/vmDDOFXSgAs"
+         },
          "Three to Get Ready": "",
          "Kathy’s Waltz": "",
          "Everybody’s Jumpin’": "",
-         "Pick Up Sticks": "",
-         "$date": 1959,
-         "$list": "white"
-      },
-      "=": {
-         "Take Five": {
-            "flow": "5,677,036",
-            "link": "https://youtu.be/vmDDOFXSgAs"
-         }
+         "Pick Up Sticks": ""
       }
    },
    "The Doobie Brothers": {
       "The Captain and Me": {
+         "$list": "white",
          "Natural Thing": "",
          "Long Train Runnin’": "good",
          "China Grove": "",
@@ -616,14 +595,7 @@
          "Evil Woman": "",
          "Busted Down Around O’Connelly Corners": "short",
          "Ukiah": "",
-         "The Captain and Me": "",
-         "$list": "white"
-      },
-      "=": {
-         "What a fool Believes": {
-            "flow": "3,167,012",
-            "link": "https://youtu.be/dJe1iUuAW4M"
-         }
+         "The Captain and Me": ""
       }
    },
    "The Doors": {
