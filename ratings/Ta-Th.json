@@ -600,13 +600,22 @@
    },
    "The Doors": {
       "L.A. Woman": {
-         "L.A. Woman": "",
-         "Riders on the Storm": "",
          "$date": 1971,
-         "$list": "black"
+         "$list": "black",
+         "L.A. Woman": "",
+         "Riders on the Storm": {
+            "flow": "13,120,374",
+            "link": "https://youtu.be/lS-af9Q-zvQ"
+         }
       },
       "Morrison Hotel": {
-         "Roadhouse Blues": "bad",
+         "$date": 1970,
+         "$list": "white",
+         "Roadhouse Blues": {
+            "rate": "bad",
+            "flow": "785,933",
+            "link": "https://youtu.be/BgQg3J7xU1k"
+         },
          "Waiting for the Sun": "bad",
          "You Make Me Real": "short",
          "Peace Frog": "short",
@@ -616,34 +625,12 @@
          "The Spy": "bad",
          "Queen of the Highway": "short",
          "Indian Summer": "short",
-         "Maggie M’Gill": "bad",
-         "$date": 1970,
-         "$list": "white"
-      },
-      "The Soft Parade": {
-         "$date": 1969
-      },
-      "Waiting for the Sun": {
-         "$date": 1968
-      },
-      "Strange Days": {
-         "$date": 1967
+         "Maggie M’Gill": "bad"
       },
       "The Doors": {
-         "Light My Fire": "",
-         "The End": "",
          "$date": 1967,
-         "$list": "black"
-      },
-      "=": {
-         "Riders on the Storm": {
-            "flow": "13,120,374",
-            "link": "https://youtu.be/lS-af9Q-zvQ"
-         },
-         "Roadhouse Blues": {
-            "flow": "785,933",
-            "link": "https://youtu.be/BgQg3J7xU1k"
-         },
+         "$list": "black",
+         "Light My Fire": "",
          "The End": {
             "flow": "6,616,040",
             "link": "https://youtu.be/JSUIQgEVDM4"
@@ -652,11 +639,16 @@
    },
    "The Handsome Family": {
       "Singing Bones": {
+         "$list": "white",
          "The Forgotten Lake": "",
          "Gail With the Golden Hair": "",
          "24-Hour Store": "",
          "The Bottomless Hole": "",
-         "Far From Any Road": "good",
+         "Far From Any Road": {
+            "rate": "good",
+            "flow": "5,755,278",
+            "link": "https://youtu.be/p4zluA60hjs"
+         },
          "If the World Should End in Fire": "short",
          "A Shadow Underneath": "",
          "Dry Bones": "",
@@ -664,18 +656,13 @@
          "Whitehaven": "short",
          "Sleepy": "",
          "The Song of a Hundred Toads": "short",
-         "If the World Should End in Ice": "short",
-         "$list": "white"
-      },
-      "=": {
-         "Far From Any Road": {
-            "flow": "5,755,278",
-            "link": "https://youtu.be/p4zluA60hjs"
-         }
+         "If the World Should End in Ice": "short"
       }
    },
    "The Kinks": {
       "Word of Mouth": {
+         "$date": 1984,
+         "$list": "white",
          "Do It Again": "",
          "Word of Mouth": "",
          "Good Day": "",
@@ -686,19 +673,13 @@
          "Too Hot": "",
          "Missing Persons": "short",
          "Summer’s Gone": "",
-         "Going Solo": "",
-         "$date": 1984,
-         "$list": "white"
-      },
-      "=": {
-         "Lola": {
-            "flow": "4,711,953",
-            "link": "https://youtu.be/LemG0cvc4oU"
-         }
+         "Going Solo": ""
       }
    },
    "The Mars Volta": {
       "Noctourniquet": {
+         "$date": 2012,
+         "$list": "white",
          "The Whip Hand": "bad",
          "Aegis": "bad",
          "Dyslexicon": "bad",
@@ -711,11 +692,11 @@
          "Trinkets Pale of Moon": "",
          "Vedamalady": "",
          "Noctourniquet": "",
-         "Zed and Two Naughts": "",
-         "$date": 2012,
-         "$list": "white"
+         "Zed and Two Naughts": ""
       },
       "Octahedron": {
+         "$date": 2009,
+         "$list": "white",
          "Since We’ve Been Wrong": "good",
          "Teflon": "good",
          "Halo of Nembutals": "bad",
@@ -723,11 +704,11 @@
          "Cotopaxi": "",
          "Desperate Graves": "",
          "Copernicus": "good",
-         "Luciforms": "",
-         "$date": 2009,
-         "$list": "white"
+         "Luciforms": ""
       },
       "The Bedlam in Goliath": {
+         "$date": 2007,
+         "$list": "white",
          "Aberinkula": "",
          "Metatron": "good",
          "Ilyena": "good",
@@ -739,11 +720,11 @@
          "Askepios": "",
          "Ouroborous": "",
          "Soothsayer": "good",
-         "Conjugal Burns": "",
-         "$date": 2007,
-         "$list": "white"
+         "Conjugal Burns": ""
       },
       "Amputechture": {
+         "$date": 2006,
+         "$list": "white",
          "Vicarious Atonement": "good",
          "Tetragrammaton": "good",
          "Vermicide": "",
@@ -751,20 +732,24 @@
          "Asilos Magdalena": "",
          "Viscera Eyes": "",
          "Day of the Baphomets": "",
-         "El Ciervo Vulnerado": "",
-         "$date": 2006,
-         "$list": "white"
+         "El Ciervo Vulnerado": ""
       },
       "Frances the Mute": {
+         "$date": 2005,
+         "$list": "white",
          "Cygnus....Vismund Cygnus": "good",
-         "The Widow": "good",
+         "The Widow": {
+            "rate": "good",
+            "flow": "638,261",
+            "link": "https://youtu.be/VUBQLnEGHNk"
+         },
          "L’Via L’Viaquez": "",
          "Miranda That Ghost Just Isn’t Holy Anymore": "",
-         "Cassandra Gemini": "good",
-         "$date": 2005,
-         "$list": "white"
+         "Cassandra Gemini": "good"
       },
       "De‐Loused in the Comatorium": {
+         "$date": 2003,
+         "$list": "white",
          "Son et lumiere": "short",
          "Inertiatic ESP": "good",
          "Roulette Dares (The Haunt Of)": "",
@@ -774,22 +759,14 @@
          "Cicatriz ESP": "good",
          "This Apparatus Must Be Unearthed": "",
          "Televators": "",
-         "Take the Veil Cerpin Taxt": "good",
-         "$date": 2003,
-         "$list": "white"
+         "Take the Veil Cerpin Taxt": "good"
       },
       "Tremulant EP": {
+         "$date": 2002,
+         "$list": "white",
          "Cut That City": "bad",
          "Concertina": "bad",
-         "Eunuch Provocateur": "good",
-         "$date": 2002,
-         "$list": "white"
-      },
-      "=": {
-         "The Widow": {
-            "flow": "638,261",
-            "link": "https://youtu.be/VUBQLnEGHNk"
-         }
+         "Eunuch Provocateur": "good"
       }
    },
    "The Midnight": {
