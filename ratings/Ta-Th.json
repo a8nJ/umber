@@ -942,26 +942,26 @@
          "Telescope": "",
          "Metal Swing": "",
          "$list": "white"
-      },
-      "=": {
-         "Full Performance": {
-            "flow": "8,894",
-            "link": "https://youtu.be/Fn-H4BKXTzk"
-         }
       }
    },
    "The Rolling Stones": {
       "Blue & Lonesome": {
-         "Ride ’em on Down": "",
          "$date": 2016,
-         "$list": "black"
-      },
-      "A Bigger Bang": {
-         "$date": 2005
+         "$list": "black",
+         "Ride ’Em On Down": {
+            "flow": "10,705,563",
+            "link": "https://youtu.be/qEuV82GqQnE"
+         }
       },
       "Bridges to Babylon": {
+         "$date": 1997,
+         "$list": "white",
          "Flip the Switch": "",
-         "Anybody Seen My Baby?": "good",
+         "Anybody Seen My Baby": {
+            "rate": "good",
+            "flow": "5,230,007",
+            "link": "https://youtu.be/BinwuzZVjnE"
+         },
          "Low Down": "",
          "Already Over Me": "",
          "Gunface": "",
@@ -972,29 +972,11 @@
          "Always Suffering": "",
          "Too Tight": "",
          "Thief in the Night": "",
-         "How Can I Stop": "",
-         "$date": 1997,
-         "$list": "white"
-      },
-      "Voodoo Lounge": {
-         "$date": 1994
-      },
-      "Steel Wheels": {
-         "$date": 1989
-      },
-      "Dirty Work": {
-         "$date": 1986
-      },
-      "Undercover": {
-         "$date": 1983
-      },
-      "Tattoo You": {
-         "$date": 1981
-      },
-      "Emotional Rescue": {
-         "$date": 1980
+         "How Can I Stop": ""
       },
       "Some Girls": {
+         "$date": 1978,
+         "$list": "white",
          "Miss You": "good",
          "When the Whip Comes Down": "",
          "Just My Imagination (Running Away With Me)": "",
@@ -1004,25 +986,19 @@
          "Respectable": "",
          "Before They Make Me Run": "",
          "Beast of Burden": "",
-         "Shattered": "",
-         "$date": 1978,
-         "$list": "white"
-      },
-      "Black and Blue": {
-         "$date": 1976
-      },
-      "It’s Only Rock ’n Roll": {
-         "$date": 1974
+         "Shattered": ""
       },
       "Goats Head Soup": {
-         "Angie": "",
          "$date": 1973,
-         "$list": "black"
-      },
-      "Exile on Main St.": {
-         "$date": 1972
+         "$list": "black",
+         "Angie": {
+            "flow": "8,808,013",
+            "link": "https://youtu.be/K5_EBAzIPJM"
+         }
       },
       "Sticky Fingers": {
+         "$date": 1971,
+         "$list": "white",
          "Brown Sugar": "",
          "Sway": "",
          "Wild Horses": "good",
@@ -1032,58 +1008,27 @@
          "I Got the Blues": "",
          "Sister Morphine": "",
          "Dead Flowers": "",
-         "Moonlight Mile": "good",
-         "$date": 1971,
-         "$list": "white"
+         "Moonlight Mile": "good"
       },
       "Let It Bleed": {
-         "Gimme Shelter": "",
          "$date": 1969,
-         "$list": "black"
-      },
-      "Beggars Banquet": {
-         "$date": 1968
-      },
-      "Their Satanic Majesties Request": {
-         "$date": 1967
-      },
-      "Between the Buttons": {
-         "$date": 1967
-      },
-      "Aftermath": {
-         "Paint It Black": "",
-         "$date": 1966,
-         "$list": "black"
-      },
-      "December’s Children (and Everybody’s)": {
-         "$date": 1965
-      },
-      "Out of Our Heads": {
-         "(I Can’t Get No) Satisfaction": "",
-         "$date": 1965,
-         "$list": "black"
-      },
-      "=": {
-         "Angie": {
-            "flow": "8,808,013",
-            "link": "https://youtu.be/K5_EBAzIPJM"
-         },
-         "Anybody Seen My Baby": {
-            "flow": "5,230,007",
-            "link": "https://youtu.be/BinwuzZVjnE"
-         },
+         "$list": "black",
          "Gimme Shelter": {
             "flow": "14,006,926",
             "link": "https://youtu.be/RbmS3tQJ7Os"
-         },
+         }
+      },
+      "Aftermath": {
+         "$date": 1966,
+         "$list": "black",
          "Paint It, Black": {
             "flow": "58,616,027",
             "link": "https://youtu.be/O4irXQhgMqg"
-         },
-         "Ride ’Em On Down": {
-            "flow": "10,705,563",
-            "link": "https://youtu.be/qEuV82GqQnE"
-         },
+         }
+      },
+      "Out of Our Heads": {
+         "$date": 1965,
+         "$list": "black",
          "Satisfaction": {
             "flow": "18,248,667",
             "link": "https://youtu.be/nrIPxlFzDi0"
