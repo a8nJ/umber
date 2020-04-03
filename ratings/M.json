@@ -363,9 +363,6 @@
    },
    "Mark Morrison": {
       "Return of the Mack": {
-         "Return of the Mack": ""
-      },
-      "=": {
          "Return Of The Mack": {
             "trend": "6,664,680",
             "link": "https://youtu.be/uB1D9wWxd2w"
@@ -374,6 +371,7 @@
    },
    "Massive Attack": {
       "Heligoland": {
+         "$date": 2010,
          "Pray for Rain": "good",
          "Babel": "bad",
          "Splitting the Atom": "bad",
@@ -385,10 +383,10 @@
          "Saturday Come Slow": "bad",
          "Atlas Air": "bad",
          "Fatalism (Ryuichi Sakamoto & Yukihiro Takahashi remix)": "bad",
-         "United Snakes": "",
-         "$date": 2010
+         "United Snakes": ""
       },
       "Collected": {
+         "$date": 2006,
          "Safe From Harm": "reissue",
          "Karmacoma": "reissue",
          "Angel": "reissue",
@@ -412,10 +410,10 @@
          "Small Time Shoot ’em Up": "",
          "I Against I": "",
          "I Want You": "good",
-         "Danny the Dog": "",
-         "$date": 2006
+         "Danny the Dog": ""
       },
       "100th Window": {
+         "$date": 2002,
          "Future Proof": "good",
          "What Your Soul Sings": "bad",
          "Everywhen": "good",
@@ -424,14 +422,17 @@
          "A Prayer for England": "bad",
          "Small Time Shot Away": "good",
          "Name Taken": "good",
-         "Antistar": "short",
-         "$date": 2002
+         "Antistar": "short"
       },
       "Mezzanine": {
-         "Teardrop": "",
-         "$date": 1998
+         "$date": 1998,
+         "Teardrop": {
+            "trend": "6,311,699",
+            "link": "https://youtu.be/u7K72X4eo_s"
+         }
       },
       "Protection": {
+         "$date": 1994,
          "Protection": "good",
          "Karmacoma": "good",
          "Three": "good",
@@ -440,30 +441,23 @@
          "Better Things": "bad",
          "Eurochild": "good",
          "Sly": "good",
-         "Heat Miser": "bad",
-         "$date": 1994
+         "Heat Miser": "bad"
       },
       "Blue Lines": {
+         "$date": 1991,
          "Safe From Harm": "good",
          "One Love": "bad",
          "Blue Lines": "bad",
          "Be Thankful for What You’ve Got": "good",
          "Five Man Army": "good",
-         "Unfinished Sympathy": "good",
-         "Daydreaming": "bad",
-         "Lately": "good",
-         "Hymn of the Big Wheel": "bad",
-         "$date": 1991
-      },
-      "=": {
-         "Teardrop": {
-            "trend": "6,311,699",
-            "link": "https://youtu.be/u7K72X4eo_s"
-         },
          "Unfinished Sympathy": {
+            "rate": "good",
             "trend": "4,638,845",
             "link": "https://youtu.be/ZWmrfgj0MZI"
-         }
+         },
+         "Daydreaming": "bad",
+         "Lately": "good",
+         "Hymn of the Big Wheel": "bad"
       }
    },
    "Matchbox Twenty": {
