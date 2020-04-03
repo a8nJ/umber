@@ -452,6 +452,8 @@
    },
    "Tosca": {
       "Dehli9": {
+         "$date": 2003,
+         "$list": "white",
          "Oscar": "good",
          "Me & Yoko Ono": "",
          "Gute Laune": "",
@@ -473,13 +475,16 @@
          "Fluß (Session 9)": "",
          "Ping (Session 10)": "",
          "2504 / 1 (Session 11)": "",
-         "Piano 1 (Session 12)": "",
-         "$date": 2003,
-         "$list": "white"
+         "Piano 1 (Session 12)": ""
       },
       "Suzuki": {
+         "$date": 2000,
+         "$list": "white",
          "Pearl In": "short",
-         "Suzuki": "",
+         "Suzuki": {
+            "flow": "289,417",
+            "link": "https://youtu.be/mNk9cbJqtjs"
+         },
          "Annanas": "",
          "Orozco": "",
          "Busenfreund": "good",
@@ -489,23 +494,21 @@
          "Ocean Beat": "",
          "The Key": "",
          "Doris Dub": "",
-         "Pearl Off": "",
-         "$date": 2000,
-         "$list": "white"
-      },
-      "=": {
-         "Suzuki": {
-            "flow": "289,417",
-            "link": "https://youtu.be/mNk9cbJqtjs"
-         }
+         "Pearl Off": ""
       }
    },
    "Tricky": {
       "Maxinquaye": {
+         "$date": 1995,
+         "$list": "white",
          "Overcome": "bad",
          "Ponderosa": "bad",
          "Black Steel": "bad",
-         "Hell Is Round the Corner": "bad",
+         "Hell Is Round the Corner": {
+            "rate": "bad",
+            "flow": "661,976",
+            "link": "https://youtu.be/E3R_3h6zQEs"
+         },
          "Pumpkin": "",
          "Aftermath": "good",
          "Abbaon Fat Tracks": "",
@@ -513,19 +516,12 @@
          "Suffocated Love": "",
          "You Don’t": "",
          "Strugglin’": "",
-         "Feed Me": "",
-         "$date": 1995,
-         "$list": "white"
-      },
-      "=": {
-         "Hell Is Round the Corner": {
-            "flow": "661,976",
-            "link": "https://youtu.be/E3R_3h6zQEs"
-         }
+         "Feed Me": ""
       }
    },
    "TV on the Radio": {
       "Dear Science": {
+         "$list": "white",
          "Halfway Home": "",
          "Crying": "",
          "Dancing Choose": "short",
@@ -536,18 +532,13 @@
          "Love Dog": "",
          "Shout Me Out": "",
          "DLZ": "good",
-         "Lover’s Day": "",
-         "$list": "white"
-      },
-      "=": {
-         "Wolf Like Me": {
-            "flow": "613,197",
-            "link": "https://youtu.be/j1-xRk6llh4"
-         }
+         "Lover’s Day": ""
       }
    },
    "Tycho": {
       "Epoch": {
+         "$date": 2016,
+         "$list": "white",
          "Glider": "bad",
          "Horizon": "bad",
          "Slack": "bad",
@@ -558,11 +549,11 @@
          "Local": "short",
          "Rings": "",
          "Continuum": "short",
-         "Field": "short",
-         "$date": 2016,
-         "$list": "white"
+         "Field": "short"
       },
       "Awake": {
+         "$date": 2014,
+         "$list": "white",
          "Awake": "good",
          "Montana": "",
          "L": "",
@@ -570,12 +561,16 @@
          "See": "",
          "Apogee": "",
          "Spectre": "",
-         "Plains": "",
-         "$date": 2014,
-         "$list": "white"
+         "Plains": ""
       },
       "Dive": {
-         "A Walk": "bad",
+         "$date": 2011,
+         "$list": "white",
+         "A Walk": {
+            "rate": "bad",
+            "flow": "2,862,988",
+            "link": "https://youtu.be/mehLx_Fjv_c"
+         },
          "Hours": "bad",
          "Daydream": "good",
          "Dive": "",
@@ -584,11 +579,11 @@
          "Melanine": "short",
          "Adrift": "",
          "Epigram": "short",
-         "Elegy": "good",
-         "$date": 2011,
-         "$list": "white"
+         "Elegy": "good"
       },
       "Past Is Prologue / Sunrise Projector": {
+         "$date": 2006,
+         "$list": "white",
          "A Circular Reeducation": "good",
          "Brother": "short",
          "Cloud Generator": "good",
@@ -602,24 +597,16 @@
          "Send and Receive": "good",
          "Sunrise Calendar": "bad",
          "Sunrise Projector": "bad",
-         "The Disconnect": "bad",
-         "$date": 2006,
-         "$list": "white"
+         "The Disconnect": "bad"
       },
       "The Science of Patterns": {
+         "$date": 2002,
+         "$list": "white",
          "Dream as a Memory": "bad",
          "Human Condition": "bad",
          "Red Bridge": "bad",
          "Systems": "good",
-         "In the End": "bad",
-         "$date": 2002,
-         "$list": "white"
-      },
-      "=": {
-         "A Walk": {
-            "flow": "2,862,988",
-            "link": "https://youtu.be/mehLx_Fjv_c"
-         }
+         "In the End": "bad"
       }
    }
 }

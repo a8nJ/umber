@@ -19,34 +19,28 @@
    },
    "Tangerine Dream": {
       "Risky Business": {
+         "$date": 1983,
+         "$list": "white",
          "The Dream Is Always the Same": "bad",
          "No Future (Get off the Babysitter)": "short",
          "Guido the Killer Pimp": "bad",
          "Lana": "bad",
-         "Love on a Real Train (Risky Business)": "good",
-         "$date": 1983,
-         "$list": "white"
+         "Love on a Real Train (Risky Business)": "good"
       },
       "Force Majeure": {
+         "$date": 1979,
+         "$list": "white",
          "Force Majeure": "bad",
          "Cloudburst Flight": "good",
-         "Thru Metamorphic Rocks": "bad",
-         "$date": 1979,
-         "$list": "white"
+         "Thru Metamorphic Rocks": "bad"
       },
       "Phaedra": {
+         "$date": 1974,
+         "$list": "white",
          "Phaedra": "short",
          "Mysterious Semblance at the Strand of Nightmares": "bad",
          "Movements of a Visionary": "bad",
-         "Sequent C’": "short",
-         "$date": 1974,
-         "$list": "white"
-      },
-      "=": {
-         "Stratosfear": {
-            "flow": "197,923",
-            "link": "https://youtu.be/2w8VsvJ40sM"
-         }
+         "Sequent C’": "short"
       }
    },
    "Tears for Fears": {
