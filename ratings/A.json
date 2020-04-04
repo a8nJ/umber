@@ -284,16 +284,18 @@
    },
    "Alannah Myles": {
       "Alannah Myles": {
+         "$date": "1989",
+         "$list": "black",
          "Black Velvet": {
             "trend": "9,350,914",
             "link": "https://youtu.be/tT4d1LQy4es"
-         },
-         "$date": "1989",
-         "$list": "black"
+         }
       }
    },
    "Aleksi Perälä": {
       "Ovuca Bonus": {
+         "$date": "2014",
+         "$list": "white",
          "Transport Phenomenon": "",
          "Mean Squared Displacement": "",
          "Kinetic Theory": "",
@@ -301,20 +303,16 @@
          "Stochastic Process": "",
          "Transmutation": "",
          "Hydrophobic Effect": "",
-         "Fluorescence": {
-            "rate": "good"
-         },
-         "Biogenesis": {
-            "rate": "short"
-         },
+         "Fluorescence": "good",
+         "Biogenesis": "short",
          "Dynamic Light Scattering": "",
-         "Brownian Motion": "",
-         "$date": "2014",
-         "$list": "white"
+         "Brownian Motion": ""
       }
    },
    "Alela Diane": {
       "To Be Still": {
+         "$date": "2009",
+         "$list": "white",
          "Dry Grass & Shadows": "",
          "White as Diamonds": "",
          "Age Old Blue": "",
@@ -327,83 +325,69 @@
          "The Ocean": "",
          "Every Path": "",
          "Tatted Lace": "",
-         "Lady Divine": "",
-         "$date": "2009",
-         "$list": "white"
+         "Lady Divine": ""
       }
    },
    "Alice in Chains": {
       "Jar of Flies": {
-         "Rotten Apple": {
-            "rate": "good"
-         },
-         "Nutshell": {
-            "rate": "good"
-         },
-         "I Stay Away": {
-            "rate": "good"
-         },
-         "No Excuses": "",
-         "Whale & Wasp": {
-            "rate": "short"
-         },
-         "Don’t Follow": "",
-         "Swing on This": "",
          "$date": "1994",
-         "$list": "white"
+         "$list": "white",
+         "Rotten Apple": "good",
+         "Nutshell": "good",
+         "I Stay Away": "good",
+         "No Excuses": "",
+         "Whale & Wasp": "short",
+         "Don’t Follow": "",
+         "Swing on This": ""
       },
       "Dirt": {
+         "$date": "1992",
+         "$list": "black",
          "Down in a Hole": "",
          "Rooster": "",
          "Them Bones": "",
          "Would?": {
             "trend": "7,027,889",
             "link": "https://youtu.be/Nco_kh8xJDs"
-         },
-         "$date": "1992",
-         "$list": "black"
+         }
       },
       "Facelift": {
+         "$date": "1990",
+         "$list": "black",
          "Man in the Box": {
             "trend": "8,302,402",
             "link": "https://youtu.be/TAqZb52sgpU"
-         },
-         "$date": "1990",
-         "$list": "black"
+         }
       }
    },
    "Alicia Keys": {
       "Songs in A Minor": {
+         "$date": "2001",
+         "$list": "black",
          "Fallin’": {
             "trend": "17,037,786",
             "link": "https://youtu.be/Urdlvw0SSEc"
-         },
-         "$date": "2001",
-         "$list": "black"
+         }
       }
    },
    "America": {
       "Homecoming": {
-         "Ventura Highway": {
-            "rate": "good"
-         },
+         "$date": "1972-11-15",
+         "$list": "white",
+         "Ventura Highway": "good",
          "To Each His Own": "",
-         "Don’t Cross the River": {
-            "rate": "short"
-         },
+         "Don’t Cross the River": "short",
          "Moon Song": "",
          "Only in Your Heart": "",
-         "Till the Sun Comes Up Again": {
-            "rate": "short"
-         },
+         "Till the Sun Comes Up Again": "short",
          "Cornwall Blank": "",
          "Head and Heart": "",
          "California Revisited": "",
-         "Saturn Nights": "",
-         "$date": "1972-11-15",
-         "$list": "white"
+         "Saturn Nights": ""
       },
       "America": {
+         "$date": "1971-12-26",
+         "$list": "white",
          "Riverside": "",
          "Sandman": "",
          "Three Roses": "",
@@ -419,11 +403,7 @@
          "Never Found the Time": "",
          "Clarice": "",
          "Donkey Jaw": "",
-         "Pigeon Song": {
-            "rate": "short"
-         },
-         "$date": "1971-12-26",
-         "$list": "white"
+         "Pigeon Song": "short"
       }
    },
    "Amon Tobin": {
@@ -530,6 +510,8 @@
    },
    "Amy Grant": {
       "Heart in Motion": {
+         "$date": "1991",
+         "$list": "white",
          "Good for Me": "",
          "Baby Baby": {
             "rate": "good",
@@ -544,11 +526,7 @@
          "Hats": "",
          "I Will Remember You": "",
          "How Can We See That Far": "",
-         "Hope Set High": {
-            "rate": "short"
-         },
-         "$date": "1991",
-         "$list": "white"
+         "Hope Set High": "short"
       }
    },
    "Audioslave": {
