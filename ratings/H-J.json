@@ -138,14 +138,16 @@
    },
    "Heart": {
       "Bad Animals": {
+         "$date": "1987",
+         "$list": "black",
          "Alone": {
             "flow": "17,146,245",
             "link": "https://youtu.be/1Cw1ng75KP0"
-         },
-         "$date": "1987",
-         "$list": "black"
+         }
       },
       "Dog & Butterfly": {
+         "$date": "1978",
+         "$list": "white",
          "Cook With Fire": "",
          "High Time": "",
          "Hijinx": "",
@@ -153,11 +155,11 @@
          "Dog & Butterfly": "",
          "Lighter Touch": "",
          "Nada One": "",
-         "Mistral Wind": "",
-         "$date": "1978",
-         "$list": "white"
+         "Mistral Wind": ""
       },
       "Little Queen": {
+         "$date": "1977",
+         "$list": "white",
          "Barracuda": "good",
          "Love Alive": "",
          "Sylvan Song": "short",
@@ -167,13 +169,12 @@
          "Treat Me Well": "",
          "Say Hello": "",
          "Cry to Me": "short",
-         "Go On Cry": "",
-         "$date": "1977",
-         "$list": "white"
+         "Go On Cry": ""
       }
    },
    "Hem": {
       "Departure & Farewell": {
+         "$list": "white",
          "Departure and Farewell": "",
          "Walking Past the Graveyard, Not Breathing": "short",
          "Things Are Not Perfect in Our Yard": "short",
@@ -186,31 +187,32 @@
          "Traveler’s Song": "short",
          "The Tides at the Narrows": "short",
          "Last Call": "",
-         "So Long": "short",
-         "$list": "white"
+         "So Long": "short"
       }
    },
    "Henrik Schwarz": {
       "Instruments": {
+         "$list": "white",
          "Walk Music Four": "",
          "Marvin Two": "",
          "Cloud Three": "",
          "Leave My Head Alone Brain Seven": "good",
          "Wamims": "",
          "In Björndal": "short",
-         "I Exist Because Of You Two": "",
-         "$list": "white"
+         "I Exist Because Of You Two": ""
       }
    },
    "Hope Sandoval & The Warm Inventions": {
       "Son of a Lady": {
+         "$date": "2017-09-15",
+         "$list": "white",
          "Sleep": "",
          "Son of a Lady": "",
-         "Let Me Get There (acoustic)": "good",
-         "$date": "2017-09-15",
-         "$list": "white"
+         "Let Me Get There (acoustic)": "good"
       },
       "Through the Devil Softly": {
+         "$date": "2009-08-28",
+         "$list": "white",
          "Blanchard": "",
          "Wild Roses": "",
          "For the Rest of Your Life": "",
@@ -221,11 +223,11 @@
          "Trouble": "",
          "Fall Aside": "",
          "Blue Bird": "good",
-         "Satellite": "",
-         "$date": "2009-08-28",
-         "$list": "white"
+         "Satellite": ""
       },
       "Bavarian Fruit Bread": {
+         "$date": "2001-11-05",
+         "$list": "white",
          "Drop": "short",
          "Suzanne": "",
          "Butterfly Mornings": "good",
@@ -237,13 +239,13 @@
          "[untitled]": "short",
          "Bavarian Fruit Bread": "",
          "Around My Smile": "",
-         "Lose Me on the Way": "",
-         "$date": "2001-11-05",
-         "$list": "white"
+         "Lose Me on the Way": ""
       }
    },
    "Hudson Mohawke": {
       "Lantern": {
+         "$date": "2015",
+         "$list": "white",
          "Lantern": "short",
          "Very First Breath": "bad",
          "Ryderz": "short",
@@ -257,11 +259,11 @@
          "Resistance": "good",
          "Portrait of Luci": "bad",
          "System": "bad",
-         "Brand New World": "bad",
-         "$date": "2015",
-         "$list": "white"
+         "Brand New World": "bad"
       },
       "Butter": {
+         "$date": "2009",
+         "$list": "white",
          "Shower Melody": "short",
          "Gluetooth": "good",
          "Joy Fantastic": "bad",
@@ -279,13 +281,13 @@
          "FUSE": "good",
          "Star Crackout": "good",
          "Allhot": "short",
-         "Black n Red": "short",
-         "$date": "2009",
-         "$list": "white"
+         "Black n Red": "short"
       }
    },
    "Imogen Heap": {
       "Sparks": {
+         "$date": "2014",
+         "$list": "white",
          "You Know Where to Find Me": "good",
          "Entanglement": "",
          "The Listening Chair": "",
@@ -299,11 +301,11 @@
          "Climb to Sakteng": "",
          "The Beast": "",
          "Xizi She Knows": "",
-         "Propeller Seeds": "",
-         "$date": "2014",
-         "$list": "white"
+         "Propeller Seeds": ""
       },
       "Ellipse": {
+         "$date": "2009",
+         "$list": "white",
          "First Train Home": "bad",
          "Wait It Out": "bad",
          "Earth": "bad",
@@ -316,16 +318,16 @@
          "Aha!": "short",
          "The Fire": "short",
          "Canvas": "good",
-         "Half Life": "",
-         "$date": "2009",
-         "$list": "white"
+         "Half Life": ""
       },
       "Speak for Yourself": {
-         "Hide and Seek": "",
          "$date": "2005",
-         "$list": "black"
+         "$list": "black",
+         "Hide and Seek": ""
       },
       "Details": {
+         "$date": "2002",
+         "$list": "white",
          "Let Go": {
             "rate": "good",
             "flow": "514,850",
@@ -341,11 +343,11 @@
          "Maddening Shroud": "",
          "Flicks": "",
          "The Dumbing Down of Love": "",
-         "artist": "Frou Frou",
-            "$date": "2002",
-         "$list": "white"
+         "artist": "Frou Frou"
       },
       "i Megaphone": {
+         "$date": "1998",
+         "$list": "white",
          "Getting Scared": "bad",
          "Sweet Religion": "bad",
          "Oh Me, Oh My": "bad",
@@ -356,13 +358,13 @@
          "Rake It In": "",
          "Come Here Boy": "",
          "Useless": "",
-         "Sleep": "",
-         "$date": "1998",
-         "$list": "white"
+         "Sleep": ""
       }
    },
    "Incubus": {
       "Light Grenades": {
+         "$date": "2006",
+         "$list": "white",
          "Quicksand": "short",
          "A Kiss to Send Us Off": "",
          "Dig": "good",
@@ -377,11 +379,11 @@
          "Pendulous Threads": "",
          "Earth to Bella, Part II": "short",
          "Punch-Drunk": "",
-         "Look Alive": "",
-         "$date": "2006",
-         "$list": "white"
+         "Look Alive": ""
       },
       "A Crow Left of the Murder": {
+         "$date": "2004",
+         "$list": "white",
          "Megalomaniac": "bad",
          "A Crow Left of the Murder": "bad",
          "Agoraphobia": "bad",
@@ -395,11 +397,11 @@
          "Made for TV Movie": "",
          "Smile Lines": "",
          "Here in My Room": "",
-         "Leech": "",
-         "$date": "2004",
-         "$list": "white"
+         "Leech": ""
       },
       "Morning View": {
+         "$date": "2001",
+         "$list": "white",
          "Nice to Know You": "good",
          "Circles": "good",
          "Wish You Were Here": {
@@ -416,21 +418,21 @@
          "Have You Ever": "",
          "Are You In?": "good",
          "Under My Umbrella": "",
-         "Aqueous Transmission": "good",
-         "$date": "2001",
-         "$list": "white"
+         "Aqueous Transmission": "good"
       },
       "Make Yourself": {
+         "$date": "1999",
+         "$list": "black",
          "Drive": {
             "flow": "10,366,778",
             "link": "https://youtu.be/fgT9zGkiLig"
-         },
-         "$date": "1999",
-         "$list": "black"
+         }
       }
    },
    "Interpol": {
       "Marauder": {
+         "$date": "2018",
+         "$list": "white",
          "If You Really Love Nothing": {
             "flow": "4,276,392",
             "link": "https://youtu.be/gLk8i2zw2jU"
@@ -446,11 +448,11 @@
          "Number 10": "",
          "Party’s Over": "",
          "Interlude 2": "short",
-         "It Probably Matters": "",
-         "$date": "2018",
-         "$list": "white"
+         "It Probably Matters": ""
       },
       "El Pintor": {
+         "$date": "2014",
+         "$list": "white",
          "All the Rage Back Home": "good",
          "My Desire": "good",
          "Anywhere": "",
@@ -460,11 +462,11 @@
          "Breaker 1": "",
          "Ancient Ways": "",
          "Tidal Wave": "",
-         "Twice as Hard": "",
-         "$date": "2014",
-         "$list": "white"
+         "Twice as Hard": ""
       },
       "Interpol": {
+         "$date": "2010",
+         "$list": "white",
          "Success": "bad",
          "Memory Serves": "bad",
          "Summer Well": "bad",
@@ -475,11 +477,11 @@
          "Try It On": "",
          "All of the Ways": "",
          "The Undoing": "",
-         "Gavilan": "",
-         "$date": "2010",
-         "$list": "white"
+         "Gavilan": ""
       },
       "Our Love to Admire": {
+         "$date": "2007",
+         "$list": "white",
          "Pioneer to the Falls": "good",
          "No I in Threesome": "good",
          "The Scale": "good",
@@ -490,11 +492,11 @@
          "Rest My Chemistry": "good",
          "Who Do You Think": "",
          "Wrecking Ball": "",
-         "The Lighthouse": "good",
-         "$date": "2007",
-         "$list": "white"
+         "The Lighthouse": "good"
       },
       "Antics": {
+         "$date": "2004",
+         "$list": "white",
          "Next Exit": "",
          "Evil": "",
          "NARC": "good",
@@ -509,11 +511,11 @@
          "NARC (Paul Banks remix)": "short",
          "Not Even Jail (Daniel Kessler remix)": "",
          "Fog vs. Mould for the Length of Love": "",
-         "Public Pervert (Carlos D. remix)": "good",
-         "$date": "2004",
-         "$list": "white"
+         "Public Pervert (Carlos D. remix)": "good"
       },
       "Turn On the Bright Lights": {
+         "$date": "2002",
+         "$list": "white",
          "Untitled": "",
          "Obstacle 1": "good",
          "NYC": "",
@@ -524,13 +526,13 @@
          "Stella Was a Diver and She Was Always Down": "good",
          "Roland": "",
          "The New": "",
-         "Leif Erikson": "",
-         "$date": "2002",
-         "$list": "white"
+         "Leif Erikson": ""
       }
    },
    "INXS": {
       "Kick": {
+         "$date": "1987",
+         "$list": "white",
          "Guns in the Sky": "short",
          "New Sensation": "",
          "Devil Inside": "",
@@ -546,13 +548,13 @@
          "Mystify": "",
          "Kick": "",
          "Calling All Nations": "",
-         "Tiny Daggers": "",
-         "$date": "1987",
-         "$list": "white"
+         "Tiny Daggers": ""
       }
    },
    "Iron & Wine": {
       "Our Endless Numbered Days": {
+         "$date": "2004",
+         "$list": "white",
          "On Your Wings": "",
          "Naked as We Came": "short",
          "Cinder and Smoke": "good",
@@ -564,9 +566,7 @@
          "Free Until They Cut Me Down": "",
          "Fever Dream": "",
          "Sodom, South Georgia": "",
-         "Passing Afternoon": "",
-         "$date": "2004",
-         "$list": "white"
+         "Passing Afternoon": ""
       }
    },
    "Isan": {
@@ -639,6 +639,8 @@
          "Braille Foundry": ""
       },
       "Beautronics": {
+         "$date": "1998",
+         "$list": "white",
          "Vosill": "good",
          "Tint1-Barely Barley": "short",
          "Paintchart": "bad",
@@ -654,13 +656,12 @@
          "Iam Twisq": "",
          "Tint7-Bloody Mary": "short",
          "Sublimation": "",
-         "Anklet": "",
-         "$date": "1998",
-         "$list": "white"
+         "Anklet": ""
       }
    },
    "Jabberwocky": {
       "Lunar Lane": {
+         "$list": "white",
          "Maze": "short",
          "Fog": "good",
          "Photomaton": {
@@ -675,12 +676,13 @@
          "Erratum": "",
          "Ignition": "",
          "Jeopardy": "",
-         "Quantif": "",
-         "$list": "white"
+         "Quantif": ""
       }
    },
    "Jackson C. Frank": {
       "The Complete Recordings": {
+         "$date": "2015",
+         "$list": "white",
          "(Tumble) In the Wind (version 1)": "short",
          "(Tumble) In the Wind (version 2)": "",
          "Ananias": "short",
@@ -740,13 +742,13 @@
          "The Visit": "",
          "Washington Jail": "short",
          "Yellow Walls": "short",
-         "You Never Wanted Me": "",
-         "$date": "2015",
-         "$list": "white"
+         "You Never Wanted Me": ""
       }
    },
    "James Blake": {
       "Assume Form": {
+         "$date": "2019-01-18",
+         "$list": "white",
          "Assume Form": "",
          "Mile High": "",
          "Tell Them": "bad",
@@ -758,11 +760,11 @@
          "I’ll Come Too": "",
          "Power On": "",
          "Don’t Miss It": "",
-         "Lullaby for My Insomniac": "good",
-         "$date": "2019-01-18",
-         "$list": "white"
+         "Lullaby for My Insomniac": "good"
       },
       "Overgrown": {
+         "$date": "2013",
+         "$list": "white",
          "Overgrown": "good",
          "I Am Sold": "",
          "Life Round Here": "",
@@ -772,11 +774,11 @@
          "Digital Lion": "",
          "Voyeur": "",
          "To the Last": "",
-         "Our Love Comes Back": "",
-         "$date": "2013",
-         "$list": "white"
+         "Our Love Comes Back": ""
       },
       "James Blake": {
+         "$date": "2011",
+         "$list": "white",
          "Unluck": "",
          "The Wilhelm Scream": "good",
          "I Never Learnt to Share": "",
@@ -791,13 +793,12 @@
          "To Care (Like You)": "",
          "Why Don’t You Call Me": "short",
          "I Mind": "",
-         "Measurements": "",
-         "$date": "2011",
-         "$list": "white"
+         "Measurements": ""
       }
    },
    "Jamie xx": {
       "In Colour": {
+         "$list": "white",
          "Gosh": "",
          "Sleep Sound": "",
          "SeeSaw": "",
@@ -811,12 +812,13 @@
          },
          "I Know There’s Gonna Be (Good Times)": "",
          "The Rest Is Noise": "",
-         "Girl": "good",
-         "$list": "white"
+         "Girl": "good"
       }
    },
    "Janet Jackson": {
       "Unbreakable": {
+         "$date": "2015-10-02",
+         "$list": "white",
          "Unbreakable": "",
          "BURNITUP!": "",
          "Dammn Baby": "",
@@ -837,19 +839,19 @@
          "Lessons Learned": "",
          "Black Eagle": "",
          "Well Traveled": "",
-         "Gon’ B Alright": "",
-         "$date": "2015-10-02",
-         "$list": "white"
+         "Gon’ B Alright": ""
       },
       "All for You": {
+         "$date": "2001",
+         "$list": "black",
          "Would You Mind": {
             "flow": "6,516,984",
             "link": "https://youtu.be/HGzVFjjfAfw"
-         },
-         "$date": "2001",
-         "$list": "black"
+         }
       },
       "The Velvet Rope": {
+         "$date": "1997",
+         "$list": "white",
          "Interlude Twisted Elegance": "short",
          "Velvet Rope": "",
          "You": "",
@@ -871,11 +873,11 @@
          "Rope Burn": "",
          "Anything": "",
          "Interlude Sad": "short",
-         "Special": "",
-         "$date": "1997",
-         "$list": "white"
+         "Special": ""
       },
       "janet.": {
+         "$date": "1993",
+         "$list": "white",
          "Morning": "short",
          "That’s the Way Love Goes": "good",
          "You Know...": "short",
@@ -902,11 +904,11 @@
          "Rain": "short",
          "Any Time, Any Place": "",
          "Are You Still Up": "short",
-         "Sweet Dreams / Whoops Now": "",
-         "$date": "1993",
-         "$list": "white"
+         "Sweet Dreams / Whoops Now": ""
       },
       "Rhythm Nation 1814": {
+         "$date": "1989",
+         "$list": "white",
          "Interlude Pledge": "short",
          "Rhythm Nation": "",
          "Interlude T.V.": "short",
@@ -926,13 +928,12 @@
          "Lonely": "",
          "Come Back to Me": "",
          "Someday Is Tonight": "",
-         "Interlude Livin’… in Complete Darkness": "short",
-         "$date": "1989",
-         "$list": "white"
+         "Interlude Livin’… in Complete Darkness": "short"
       }
    },
    "JAWS": {
       "Simplicity": {
+         "$list": "white",
          "Just a Boy": "bad",
          "What We Haven’t Got Yet": "good",
          "Right in Front of Me": "good",
@@ -943,21 +944,20 @@
          "Work It Out": "",
          "In the Morning": "",
          "A Brief Escape From Life": "",
-         "The Invisible Sleep": "",
-         "$list": "white"
+         "The Invisible Sleep": ""
       }
    },
    "Jay-Z": {
       "444": {
+         "$date": "2017",
+         "$list": "black",
          "444": "",
          "Bam": "",
          "Family Feud": "",
          "The Story of O.J.": {
             "flow": "49,126,672",
             "link": "https://youtu.be/RM7lw0Ovzq0"
-         },
-         "$date": "2017",
-         "$list": "black"
+         }
       },
       "Watch the Throne": {
          "Niggas In Paris": {
