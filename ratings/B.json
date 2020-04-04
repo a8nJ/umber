@@ -631,6 +631,8 @@
          "Under the Coke Sign": "short"
       },
       "The Campfire Headphase": {
+         "$date": "2005",
+         "$list": "white",
          "Into the Rainbow Vein": "short",
          "Chromakey Dreamcoat": "good",
          "Satellite Anthem Icarus": "good",
@@ -645,12 +647,12 @@
          "Constants Are Changing": "short",
          "Slow This Bird Down": "good",
          "Tears From the Compound Eye": "good",
-         "Farewell Fire": "bad",
-         "$date": "2005",
-         "$list": "white"
+         "Farewell Fire": "bad"
       },
       "Geogaddi": {
-         "Ready Lets Go": "short",
+         "$date": "2002",
+         "$list": "white",
+         "Ready Lets Go": "good",
          "Music Is Math": "good",
          "Beware the Friendly Stranger": "short",
          "Gyroscope": "bad",
@@ -672,19 +674,19 @@
          "Diving Station": "short",
          "You Could Feel the Sky": "bad",
          "Corsair": "short",
-         "Magic Window": "short",
-         "$date": "2002",
-         "$list": "white"
+         "Magic Window": "short"
       },
       "In a Beautiful Place Out in the Country": {
+         "$date": "2000",
+         "$list": "white",
          "Kid for Today": "good",
          "Amo Bishop Roden": "good",
          "In a Beautiful Place Out in the Country": "good",
-         "Zoetrope": "bad",
-         "$date": "2000",
-         "$list": "white"
+         "Zoetrope": "bad"
       },
       "Music Has the Right to Children": {
+         "$date": "1998",
+         "$list": "white",
          "Wildlife Analysis": "short",
          "An Eagle in Your Mind": "good",
          "The Color of the Fire": "short",
@@ -701,11 +703,11 @@
          "Pete Standing Alone": "bad",
          "Smokes Quantity": "bad",
          "Open the Light": "good",
-         "One Very Important Thought": "short",
-         "$date": "1998",
-         "$list": "white"
+         "One Very Important Thought": "short"
       },
       "Boc Maxima": {
+         "$date": "1996",
+         "$list": "white",
          "Chinook": "bad",
          "Rodox Video": "short",
          "Everything You Do Is a Balloon": {
@@ -725,13 +727,13 @@
          "Nlogax": "bad",
          "M9": "bad",
          "Original Nlogax": "short",
-         "Whitewater": "bad",
-         "$date": "1996",
-         "$list": "white"
+         "Whitewater": "bad"
       }
    },
    "Bonobo": {
       "Migration": {
+         "$date": "2017",
+         "$list": "white",
          "Migration": "bad",
          "Break Apart": "bad",
          "Outlier": "bad",
@@ -743,11 +745,11 @@
          "Ontario": "",
          "No Reason": "",
          "7th Sevens": "",
-         "Figures": "",
-         "$date": "2017",
-         "$list": "white"
+         "Figures": ""
       },
       "The North Borders": {
+         "$date": "2013",
+         "$list": "white",
          "First Fires": "",
          "Emkay": "",
          "Cirrus": "",
@@ -760,11 +762,11 @@
          "Antenna": "",
          "Ten Tigers": "",
          "Transits": "",
-         "Pieces": "",
-         "$date": "2013",
-         "$list": "white"
+         "Pieces": ""
       },
       "Black Sands": {
+         "$date": "2010",
+         "$list": "white",
          "Prelude": "short",
          "Kiara": {
             "rate": "good",
@@ -780,11 +782,11 @@
          "The Keeper": "bad",
          "Stay the Same": "good",
          "Animals": "good",
-         "Black Sands": "good",
-         "$date": "2010",
-         "$list": "white"
+         "Black Sands": "good"
       },
       "Days to Come": {
+         "$date": "2006",
+         "$list": "white",
          "Intro": "short",
          "Days to Come": "good",
          "Between the Lines": "",
@@ -802,11 +804,11 @@
          "If You Stayed Over (instrumental)": "short",
          "If You Stayed Over (reprise)": "short",
          "Walk in the Sky (instrumental)": "good",
-         "Hatoa": "good",
-         "$date": "2006",
-         "$list": "white"
+         "Hatoa": "good"
       },
       "Dial 'M' for Monkey": {
+         "$date": "2003",
+         "$list": "white",
          "Noctuary": "bad",
          "Flutter": "good",
          "D Song": "good",
@@ -815,20 +817,20 @@
          "Pick Up": "good",
          "Something for Windy": "short",
          "Nothing Owed": "good",
-         "Light Pattern": "good",
-         "$date": "2003",
-         "$list": "white"
+         "Light Pattern": "good"
       },
       "One Offs... Remixes & B-Sides": {
+         "$date": "2002",
+         "$list": "white",
          "Dismantling Frank": "good",
          "The Sicilian": "good",
          "The Shark": "good",
          "Magicman": "good",
-         "Scuba": "good",
-         "$date": "2002",
-         "$list": "white"
+         "Scuba": "good"
       },
       "Animal Magic": {
+         "$date": "2000",
+         "$list": "white",
          "Intro": "short",
          "Sleepy Seven": "good",
          "Dinosaurs": "bad",
@@ -838,32 +840,32 @@
          "Shadowtricks": "good",
          "Gypsy": "bad",
          "Sugar Rhyme": "bad",
-         "Silver": "good",
-         "$date": "2000",
-         "$list": "white"
+         "Silver": "good"
       }
    },
    "Boyz II Men": {
       "II": {
+         "$date": "1994",
+         "$list": "black",
          "I’ll Make Love To You": {
             "trend": "12,910,607",
             "link": "https://youtu.be/fV8vB1BB2qc"
          },
-         "On Bended Knee": "",
-         "$date": "1994",
-         "$list": "black"
+         "On Bended Knee": ""
       },
       "Cooleyhighharmony": {
+         "$date": "1991",
+         "$list": "black",
          "End Of The Road": {
             "trend": "13,061,094",
             "link": "https://youtu.be/zDKO6XYXioc"
-         },
-         "$date": "1991",
-         "$list": "black"
+         }
       }
    },
    "Boz Scaggs": {
       "Dig": {
+         "$date": "2001",
+         "$list": "white",
          "Payday": "",
          "Sarah": "",
          "Miss Riddle": "",
@@ -874,11 +876,11 @@
          "King of El Paso": "",
          "You’re Not": "",
          "Vanishing Point": "",
-         "Thanks to You": "good",
-         "$date": "2001",
-         "$list": "white"
+         "Thanks to You": "good"
       },
       "Come On Home": {
+         "$date": "1997",
+         "$list": "white",
          "It All Went Down the Drain": "bad",
          "Ask Me ’Bout Nothin’ (but the Blues)": "good",
          "Don’t Cry No More": "",
@@ -892,11 +894,11 @@
          "T-Bone Shuffle": "short",
          "Sick and Tired": "",
          "After Hours": "",
-         "Goodnight Louise": "",
-         "$date": "1997",
-         "$list": "white"
+         "Goodnight Louise": ""
       },
       "Other Roads": {
+         "$date": "1988",
+         "$list": "white",
          "What’s Number One?": "bad",
          "Claudia": "",
          "Heart of Mine": "",
@@ -907,23 +909,23 @@
          "Crimes of Passion": "",
          "Funny": "",
          "Cool Running": "",
-         "The Night of Van Gogh": "",
-         "$date": "1988",
-         "$list": "white"
+         "The Night of Van Gogh": ""
       }
    },
    "Britney Spears": {
       "Blackout": {
+         "$date": "2007",
+         "$list": "black",
          "Break The Ice": {
             "trend": "6,923,872",
             "link": "https://youtu.be/eQFIKP9rGhQ"
-         },
-         "$date": "2007",
-         "$list": "black"
+         }
       }
    },
    "Bruce Hornsby": {
       "Harbor Lights": {
+         "$date": "1993",
+         "$list": "white",
          "Harbor Lights": "",
          "Talk of the Town": "",
          "Long Tall Cool One": "",
@@ -933,11 +935,11 @@
          "Passing Through": "",
          "The Tide Will Rise": "",
          "What a Time": "",
-         "Pastures of Plenty": "",
-         "$date": "1993",
-         "$list": "white"
+         "Pastures of Plenty": ""
       },
       "The Way It Is": {
+         "$date": "1986",
+         "$list": "white",
          "On the Western Skyline": "",
          "Every Little Kiss": "",
          "Mandolin Rain": "",
@@ -950,23 +952,23 @@
          "Down the Road Tonight": "good",
          "The Wild Frontier": "",
          "The River Runs Low": "",
-         "The Red Plains": "",
-         "$date": "1986",
-         "$list": "white"
+         "The Red Plains": ""
       }
    },
    "Bryan Adams": {
       "18 Til I Die": {
+         "$date": "1996",
+         "$list": "black",
          "Have You Ever Really Loved A Woman?": {
             "trend": "7,291,025",
             "link": "https://youtu.be/hq2KgzKETBw"
-         },
-         "$date": "1996",
-         "$list": "black"
+         }
       }
    },
    "Burial": {
       "Untrue": {
+         "$date": "2007",
+         "$list": "white",
          "Archangel": {
             "rate": "bad",
             "trend": "96,060",
@@ -982,11 +984,11 @@
          "Dog Shelter": "",
          "Homeless": "",
          "UK": "short",
-         "Raver": "",
-         "$date": "2007",
-         "$list": "white"
+         "Raver": ""
       },
       "Burial": {
+         "$date": "2006",
+         "$list": "white",
          "Distant Lights": "bad",
          "Spaceape": "bad",
          "Wounder": "bad",
@@ -997,13 +999,13 @@
          "Forgive": "",
          "Broken Home": "",
          "Prayer": "",
-         "Pirates": "",
-         "$date": "2006",
-         "$list": "white"
+         "Pirates": ""
       }
    },
    "Bush": {
       "The Science of Things": {
+         "$date": "1999",
+         "$list": "white",
          "Warm Machine": "bad",
          "Jesus Online": "bad",
          "The Chemicals Between Us": "good",
@@ -1015,11 +1017,11 @@
          "Altered States": "bad",
          "Dead Meat": "bad",
          "Letting the Cables Sleep": "bad",
-         "Mindchanger": "bad",
-         "$date": "1999",
-         "$list": "white"
+         "Mindchanger": "bad"
       },
       "Razorblade Suitcase": {
+         "$date": "1996",
+         "$list": "white",
          "Personal Holloway": "bad",
          "Greedy Fly": "bad",
          "Swallowed": "bad",
@@ -1032,11 +1034,11 @@
          "Synapse": "",
          "Communicator": "",
          "Bonedriven": "",
-         "Distant Voices": "",
-         "$date": "1996",
-         "$list": "white"
+         "Distant Voices": ""
       },
       "Sixteen Stone": {
+         "$date": "1994",
+         "$list": "white",
          "Everything Zen": "good",
          "Swim": "",
          "Bomb": "",
@@ -1052,9 +1054,7 @@
          },
          "Alien": "",
          "X‐Girlfriend": "short",
-         "Comedown (acoustic)": "",
-         "$date": "1994",
-         "$list": "white"
+         "Comedown (acoustic)": ""
       }
    }
 }
