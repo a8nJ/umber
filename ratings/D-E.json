@@ -228,7 +228,10 @@
    },
    "Depeche Mode": {
       "Spirit": {
-         "Where’s the Revolution": "",
+         "Where’s the Revolution": {
+            "flow": "8,644,886",
+            "link": "https://youtu.be/jsCR05oKROA"
+         },
          "$date": "2017",
          "$list": "black"
       },
@@ -236,7 +239,11 @@
          "Barrel of a Gun": "bad",
          "The Love Thieves": "bad",
          "Home": "bad",
-         "It’s No Good": "bad",
+         "It’s No Good": {
+            "rate": "bad",
+            "flow": "5,866,027",
+            "link": "https://youtu.be/stpaq27-V70"
+         },
          "Uselink": "short",
          "Useless": "bad",
          "Sister of Night": "bad",
@@ -250,12 +257,18 @@
       },
       "Violator": {
          "Enjoy The Silence": "",
-         "Personal Jesus": "",
+         "Personal Jesus": {
+            "flow": "9,479,143",
+            "link": "https://youtu.be/u1xrNaTO1bI"
+         },
          "$date": "1990",
          "$list": "black"
       },
       "Music for the Masses": {
-         "Strangelove": "",
+         "Strangelove": {
+            "flow": "6,532,962",
+            "link": "https://youtu.be/JIrm0dHbCDU"
+         },
          "$date": "1987",
          "$list": "black"
       },
@@ -273,24 +286,6 @@
          "Just Can’t Get Enough": "",
          "$date": "1981",
          "$list": "white"
-      },
-      "=": {
-         "It’s No Good": {
-            "flow": "5,866,027",
-            "link": "https://youtu.be/stpaq27-V70"
-         },
-         "Personal Jesus": {
-            "flow": "9,479,143",
-            "link": "https://youtu.be/u1xrNaTO1bI"
-         },
-         "Strangelove": {
-            "flow": "6,532,962",
-            "link": "https://youtu.be/JIrm0dHbCDU"
-         },
-         "Where’s the Revolution": {
-            "flow": "8,644,886",
-            "link": "https://youtu.be/jsCR05oKROA"
-         }
       }
    },
    "Dirty Projectors": {
@@ -298,7 +293,11 @@
          "Cannibal Resource": "good",
          "Temecula Sunrise": "good",
          "The Bride": "short",
-         "Stillness Is the Move": "good",
+         "Stillness Is The Move": {
+            "rate": "good",
+            "flow": "323,658",
+            "link": "https://youtu.be/YMPF6lpM0XM"
+         },
          "Two Doves": "good",
          "Useful Chamber": "",
          "No Intention": "good",
@@ -306,26 +305,18 @@
          "Fluorescent Half Dome": "",
          "$date": "2009",
          "$list": "white"
-      },
-      "=": {
-         "Stillness Is The Move": {
-            "flow": "323,658",
-            "link": "https://youtu.be/YMPF6lpM0XM"
-         }
       }
    },
    "Dirty Vegas": {
-      "=": {
-         "Days Go By": {
-            "flow": "1,152,039",
-            "link": "https://youtu.be/M51rijkxa_4"
-         }
-      },
       "Dirty Vegas": {
          "I Should Know": "",
          "Ghosts": "",
          "Lost Not Found": "",
-         "Days Go By": "good",
+         "Days Go By": {
+            "rate": "good",
+            "flow": "1,152,039",
+            "link": "https://youtu.be/M51rijkxa_4"
+         },
          "Throwing Shapes": "",
          "Candles": "",
          "All or Nothing": "",
@@ -471,25 +462,16 @@
          "Jumpin’ at the Woodside": "",
          "$date": "1961",
          "$list": "white"
-      },
-      "=": {
-         "It don’t mean a thing": {
-            "flow": "911,897",
-            "link": "https://youtu.be/qDQpZT3GhDg"
-         }
       }
    },
    "Duran Duran": {
       "Duran Duran (The Wedding Album)": {
-         "Come Undone": "",
+         "Come Undone": {
+            "flow": "18,836,105",
+            "link": "https://youtu.be/Epj84QVw2rc"
+         },
          "$date": "1993",
          "$list": "black"
-      },
-      "Liberty": {
-         "$date": "1990"
-      },
-      "Big Thing": {
-         "$date": "1988"
       },
       "Notorious": {
          "Notorious": "bad",
@@ -504,16 +486,6 @@
          "Proposition": "bad",
          "$date": "1986",
          "$list": "white"
-      },
-      "=": {
-         "Come Undone": {
-            "flow": "18,836,105",
-            "link": "https://youtu.be/Epj84QVw2rc"
-         },
-         "Save a Prayer": {
-            "flow": "4,584,790",
-            "link": "https://youtu.be/6Uxc9eFcZyM"
-         }
       }
    },
    "Eddie Money": {
@@ -530,12 +502,6 @@
          "Calm Before the Storm": "",
          "$date": "1985",
          "$list": "white"
-      },
-      "=": {
-         "Shakin’": {
-            "flow": "1,841,303",
-            "link": "https://youtu.be/2tcD_dVcXE4"
-         }
       }
    },
    "Ekkah": {
