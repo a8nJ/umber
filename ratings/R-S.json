@@ -117,6 +117,8 @@
    },
    "Rage Against the Machine": {
       "The Battle of Los Angeles": {
+         "$date": 1999,
+         "$list": "white",
          "Testify": "good",
          "Guerrilla Radio": "good",
          "Calm Like a Bomb": "",
@@ -129,13 +131,17 @@
          "New Millennium Homes": "",
          "Ashes in the Fall": "",
          "War Within a Breath": "",
-         "No Shelter": "",
-         "$date": 1999,
-         "$list": "white"
+         "No Shelter": ""
       },
       "Evil Empire": {
+         "$date": 1996,
+         "$list": "white",
          "People of the Sun": "short",
-         "Bulls on Parade": "good",
+         "Bulls On Parade": {
+            "rate": "good",
+            "flow": "5,727,863",
+            "link": "https://youtu.be/3L4YrGaR8E4"
+         },
          "Vietnow": "",
          "Revolver": "",
          "Snakecharmer": "",
@@ -144,26 +150,17 @@
          "Without a Face": "",
          "Wind Below": "",
          "Roll Right": "",
-         "Year of tha Boomerang": "",
-         "$date": 1996,
-         "$list": "white"
+         "Year of tha Boomerang": ""
       },
       "Rage Against the Machine": {
-         "Killing in the Name": "",
-         "Know Your Enemy": "",
-         "Take the Power Back": "",
          "$date": 1992,
-         "$list": "black"
-      },
-      "=": {
-         "Bulls On Parade": {
-            "flow": "5,727,863",
-            "link": "https://youtu.be/3L4YrGaR8E4"
-         },
+         "$list": "black",
          "Killing In the Name": {
             "flow": "12,597,100",
             "link": "https://youtu.be/bWXazVhlyxQ"
-         }
+         },
+         "Know Your Enemy": "",
+         "Take the Power Back": ""
       }
    },
    "Ratatat": {
@@ -197,43 +194,52 @@
          "Tacobel Canon": "",
          "$date": 2006,
          "$list": "white"
-      },
-      "=": {
-         "CREAM ON CHROME": {
-            "flow": "2,830,289",
-            "link": "https://youtu.be/xlcywgEMuGI"
-         }
       }
    },
    "Red Hot Chili Peppers": {
       "The Getaway": {
-         "Dark Necessities": "",
+         "Dark Necessities": {
+            "flow": "65,117,864",
+            "link": "https://youtu.be/Q0oIoR9mLwc"
+         },
          "$date": 2016,
          "$list": "black"
       },
       "I’m With You": {
-         "The Adventures of Rain Dance Maggie": "",
+         "The Adventures of Rain Dance Maggie": {
+            "flow": "16,717,050",
+            "link": "https://youtu.be/RtBbinpK5XI"
+         },
          "$date": 2011,
          "$list": "black"
       },
       "Stadium Arcadium": {
-         "Dani California": "",
+         "Dani California": {
+            "flow": "20,569,737",
+            "link": "https://youtu.be/Sb5aq5HcS1A"
+         },
          "Snow": "",
          "Tell Me Baby": "",
          "$date": 2006,
          "$list": "black"
       },
       "By the Way": {
-         "By the Way": "",
+         "$date": 2001,
+         "$list": "black",
+         "By The Way": {
+            "flow": "14,275,723",
+            "link": "https://youtu.be/JnfyjwChuNU"
+         },
          "Can’t Stop": "",
          "The Zephyr Song": "",
-         "Venice Queen": "",
-         "$date": 2001,
-         "$list": "black"
+         "Venice Queen": ""
       },
       "Californication": {
          "Around the World": "",
-         "Californication": "",
+         "Californication": {
+            "flow": "60,591,762",
+            "link": "https://youtu.be/YlUKcNNmywk"
+         },
          "Otherside": "",
          "Scar Tissue": "",
          "$date": 1999,
@@ -243,7 +249,10 @@
          "Warped": "",
          "Aeroplane": "good",
          "Deep Kick": "",
-         "My Friends": "",
+         "My Friends": {
+            "flow": "3,704,974",
+            "link": "https://youtu.be/0kT5w27YxyI"
+         },
          "Coffee Shop": "",
          "Pea": "short",
          "One Big Mob": "",
@@ -258,39 +267,12 @@
       },
       "Blood Sugar Sex Magik": {
          "Give It Away": "",
-         "Under the Bridge": "",
-         "$date": 1991,
-         "$list": "black"
-      },
-      "=": {
-         "By The Way": {
-            "flow": "14,275,723",
-            "link": "https://youtu.be/JnfyjwChuNU"
-         },
-         "Californication": {
-            "flow": "60,591,762",
-            "link": "https://youtu.be/YlUKcNNmywk"
-         },
-         "Dani California": {
-            "flow": "20,569,737",
-            "link": "https://youtu.be/Sb5aq5HcS1A"
-         },
-         "Dark Necessities": {
-            "flow": "65,117,864",
-            "link": "https://youtu.be/Q0oIoR9mLwc"
-         },
-         "My Friends": {
-            "flow": "3,704,974",
-            "link": "https://youtu.be/0kT5w27YxyI"
-         },
-         "The Adventures of Rain Dance Maggie": {
-            "flow": "16,717,050",
-            "link": "https://youtu.be/RtBbinpK5XI"
-         },
          "Under The Bridge": {
             "flow": "16,086,687",
             "link": "https://youtu.be/GLvohMXgcBo"
-         }
+         },
+         "$date": 1991,
+         "$list": "black"
       }
    },
    "R.E.M.": {

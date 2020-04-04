@@ -1465,6 +1465,8 @@
    },
    "Thunderball": {
       "Cinescope": {
+         "$date": 2004,
+         "$list": "white",
          "The Road to Benares": "",
          "Electric Shaka (feat. Afrika Bambataaa)": "",
          "Return of the Panther (feat. Mustafa Akbar)": "",
@@ -1476,26 +1478,29 @@
          "Chicachiquita (feat. Miss Johnna M.)": "",
          "To Sir With Dub": "good",
          "Elevated States (feat. Mustafa Akbar)": "",
-         "Last Flight Out": "good",
-         "$date": 2004,
-         "$list": "white"
+         "Last Flight Out": "good"
       },
       "Scorpio Rising": {
+         "$date": 2001,
+         "$list": "white",
          "Heart of the Hustler": "",
          "Domino": "good",
          "Vai Vai": "",
          "Sapphire": "",
          "Angela’s Lament": "",
-         "Scorpio Rising": "",
+         "Scorpio Rising": {
+            "flow": "3,965",
+            "link": "https://youtu.be/uF1-yW79tw4"
+         },
          "Stereo Tonic": "",
          "Vibrations": "",
          "Solar": "good",
          "On the Sly": "",
-         "Golden": "good",
-         "$date": 2001,
-         "$list": "white"
+         "Golden": "good"
       },
       "Ambassadors of Style": {
+         "$date": 2000,
+         "$list": "white",
          "Hijack": "bad",
          "Prime Minister": "bad",
          "This Girl": "",
@@ -1506,15 +1511,7 @@
          "Ambassadors of Style": "",
          "Sirocco": "",
          "The Moon, The Sky": "",
-         "Sid’s Mellow Trip": "",
-         "$date": 2000,
-         "$list": "white"
-      },
-      "=": {
-         "Scorpio Rising": {
-            "flow": "3,965",
-            "link": "https://youtu.be/uF1-yW79tw4"
-         }
+         "Sid’s Mellow Trip": ""
       }
    }
 }
