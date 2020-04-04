@@ -1253,25 +1253,13 @@
    },
    "Portugal. The Man": {
       "Woodstock": {
-         "Feel It Still": "",
+         "Feel It Still": {
+            "flow": "105,372,195",
+            "link": "https://youtu.be/pBkHHoOIIn8"
+         },
          "Live in the Moment": "",
          "$date": "2017",
          "$list": "black"
-      },
-      "Evil Friends": {
-         "$date": "2013"
-      },
-      "In the Mountain in the Cloud": {
-         "$date": "2011"
-      },
-      "American Ghetto": {
-         "$date": "2010"
-      },
-      "The Majestic Majesty": {
-         "$date": "2009"
-      },
-      "The Satanic Satanist": {
-         "$date": "2009"
       },
       "Censored Colors": {
          "Lay Me Back Down": "",
@@ -1291,16 +1279,6 @@
          "Our Way": "short",
          "$date": "2008",
          "$list": "white"
-      },
-      "=": {
-         "Atomic Man": {
-            "flow": "1,263,438",
-            "link": "https://youtu.be/RmUzdNLDLmI"
-         },
-         "Feel It Still": {
-            "flow": "105,372,195",
-            "link": "https://youtu.be/pBkHHoOIIn8"
-         }
       }
    },
    "Prefuse 73": {
@@ -1418,7 +1396,11 @@
          "Female Demands": "short",
          "Why I Love You": "short",
          "Southerners (interlude)": "short",
-         "Perverted Undertone": "good",
+         "Perverted Undertone": {
+            "rate": "good",
+            "flow": "54,237",
+            "link": "https://youtu.be/fJY7BMzx7Iw"
+         },
          "Invigorate (interlude)": "short",
          "Choking You": "good",
          "Storm Returns": "good",
@@ -1447,19 +1429,17 @@
          "7th Message": "",
          "$date": "2001",
          "$list": "white"
-      },
-      "=": {
-         "Perverted Undertone": {
-            "flow": "54,237",
-            "link": "https://youtu.be/fJY7BMzx7Iw"
-         }
       }
    },
    "Primitive Radio Gods": {
       "Rocket": {
          "Women": "",
          "Motherfucker": "",
-         "Standing Outside a Broken Phone Booth With Money in My Hand": "good",
+         "Standing Outside a Broken Phone Booth with Money in My Hand": {
+            "rate": "good",
+            "flow": "604,212",
+            "link": "https://youtu.be/4XJxFAoiWSY"
+         },
          "Who Say": "",
          "The Rise and Fall of Ooo Mau": "",
          "Where the Monkey Meets the Man": "",
@@ -1469,24 +1449,15 @@
          "Rocket": "",
          "$date": "1996",
          "$list": "white"
-      },
-      "=": {
-         "Standing Outside a Broken Phone Booth with Money in My Hand": {
-            "flow": "604,212",
-            "link": "https://youtu.be/4XJxFAoiWSY"
-         }
       }
    },
    "Queen": {
       "The Game": {
-         "Another One Bites the Dust": "",
-         "$list": "black"
-      },
-      "=": {
          "Another One Bites The Dust": {
             "flow": "8,724,293",
             "link": "https://youtu.be/NVIbCvfkO3E"
-         }
+         },
+         "$list": "black"
       }
    }
 }

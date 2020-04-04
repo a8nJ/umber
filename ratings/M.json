@@ -299,22 +299,34 @@
    },
    "Mariah Carey": {
       "Memoirs of an Imperfect Angel": {
-         "I Want To Know What Love Is": "",
+         "I Want To Know What Love Is": {
+            "trend": "13,849,877",
+            "link": "https://youtu.be/gCadlN8fexk"
+         },
          "Obsessed": "",
          "$date": "2009"
       },
       "E=MC²": {
          "Bye Bye": "",
-         "Touch My Body": "",
+         "Touch My Body": {
+            "trend": "17,998,651",
+            "link": "https://youtu.be/9b8erWuBA44"
+         },
          "$date": "2008"
       },
       "The Emancipation of Mimi": {
          "Don’t Forget About Us": "",
-         "We Belong Together": "",
+         "We Belong Together": {
+            "trend": "37,118,971",
+            "link": "https://youtu.be/0habxsuXW4g"
+         },
          "$date": "2005"
       },
       "Butterfly": {
-         "My All": "",
+         "My All": {
+            "trend": "13,670,261",
+            "link": "https://youtu.be/mIhI23gBBPQ"
+         },
          "$date": "1997"
       },
       "Daydream": {
@@ -326,39 +338,19 @@
         "Fantasy": ""
       },
       "Merry Christmas": {
-         "All I Want for Christmas Is You": "",
-         "$date": "1994"
-      },
-      "Music Box": {
-         "Hero": "",
-         "Without You": "",
-         "$date": "1993"
-      },
-      "=": {
          "All I Want For Christmas Is You": {
             "trend": "57,340,677",
             "link": "https://youtu.be/yXQViqx6GMY"
          },
+         "$date": "1994"
+      },
+      "Music Box": {
          "Hero": {
             "trend": "23,152,721",
             "link": "https://youtu.be/0IA3ZvCkRkQ"
          },
-         "I Want To Know What Love Is": {
-            "trend": "13,849,877",
-            "link": "https://youtu.be/gCadlN8fexk"
-         },
-         "My All": {
-            "trend": "13,670,261",
-            "link": "https://youtu.be/mIhI23gBBPQ"
-         },
-         "Touch My Body": {
-            "trend": "17,998,651",
-            "link": "https://youtu.be/9b8erWuBA44"
-         },
-         "We Belong Together": {
-            "trend": "37,118,971",
-            "link": "https://youtu.be/0habxsuXW4g"
-         }
+         "Without You": "",
+         "$date": "1993"
       }
    },
    "Mark Morrison": {
@@ -462,9 +454,6 @@
    },
    "Matchbox Twenty": {
       "Yourself or Someone Like You": {
-         "3AM": ""
-      },
-      "=": {
          "3AM": {
             "trend": "7,795,321",
             "link": "https://youtu.be/C-Naa1HXeDQ"
@@ -494,12 +483,6 @@
          "Rift (Andrew Bayer remix)": "",
          "Rift (Kerry Leva undo)": "",
          "$date": "2011"
-      },
-      "=": {
-         "In Out Of Phase": {
-            "trend": "62,531",
-            "link": "https://youtu.be/7uIEtL8Ui9U"
-         }
       }
    },
    "Mazzy Star": {
@@ -516,12 +499,6 @@
          "Happy": "",
          "Umbilical": "",
          "Look on Down From the Bridge": "good"
-      },
-      "=": {
-         "Fade Into You": {
-            "trend": "1,817,801",
-            "link": "https://youtu.be/-uJ61jgFCMM"
-         }
       }
    },
    "Meramek": {
@@ -530,7 +507,11 @@
          "$date": "2015"
       },
       "Only You EP": {
-         "Only You (original mix)": "good",
+         "Only You": {
+            "rate": "good",
+            "trend": "70,150",
+            "link": "https://youtu.be/E_2NenYDKf8"
+         },
          "Bounce": "",
          "Stepping Stones (original mix)": "",
          "$date": "2014"
@@ -540,12 +521,6 @@
          "Maybe": "",
          "FWD": "",
          "$date": "2013"
-      },
-      "=": {
-         "Only You": {
-            "trend": "70,150",
-            "link": "https://youtu.be/E_2NenYDKf8"
-         }
       }
    },
    "Metallica": {
@@ -553,21 +528,9 @@
          "Hardwired": "",
          "$date": "2016"
       },
-      "Lulu": {
-         "$date": "2011"
-      },
-      "Death Magnetic": {
-         "$date": "2008"
-      },
-      "St. Anger": {
-         "$date": "2003"
-      },
       "Garage Inc.": {
          "Whiskey in the Jar": "",
          "$date": "1998"
-      },
-      "Reload": {
-         "$date": "1997"
       },
       "Load": {
          "Ain’t My Bitch": "",
