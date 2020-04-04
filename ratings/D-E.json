@@ -729,6 +729,8 @@
          "Disenchanted": "short"
       },
       "Acoustic": {
+         "$date": "1992",
+         "$list": "white",
          "Love Is Strange": "",
          "Tougher Than the Rest": "",
          "Time After Time": "",
@@ -739,11 +741,11 @@
          "Apron Strings (live)": "short",
          "Me and Bobby D": "",
          "Come On Home": "",
-         "Fascination (live)": "",
-         "$date": "1992",
-         "$list": "white"
+         "Fascination (live)": ""
       },
       "Worldwide": {
+         "$date": "1991",
+         "$list": "white",
          "Old Friends": "",
          "Understanding": "",
          "You Lift Me Up": "",
@@ -754,11 +756,11 @@
          "One Place": "",
          "Politics Aside": "",
          "Boxing and Pop Music": "",
-         "Feel Alright": "short",
-         "$date": "1991",
-         "$list": "white"
+         "Feel Alright": "short"
       },
       "The Language of Life": {
+         "$date": "1990",
+         "$list": "white",
          "Driving": "good",
          "Get Back Together": "",
          "Meet Me in the Morning": "",
@@ -768,9 +770,7 @@
          "Imagining America": "",
          "Letting Love Go": "",
          "My Baby Don’t Love Me": "",
-         "The Road": "",
-         "$date": "1990",
-         "$list": "white"
+         "The Road": ""
       }
    }
 }
