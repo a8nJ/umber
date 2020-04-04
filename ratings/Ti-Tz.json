@@ -1,7 +1,7 @@
 {
    "Tiësto": {
       "A Town Called Paradise": {
-         "$date": 2014,
+         "$date": "2014",
          "$list": "black",
          "Maximal Crazy": "",
          "Red Lights": "",
@@ -14,7 +14,7 @@
          "Wasted": ""
       },
       "Elements of Life": {
-         "$date": 2007,
+         "$date": "2007",
          "$list": "white",
          "Ten Seconds Before Sunrise": "good",
          "Everything": "",
@@ -33,7 +33,7 @@
          "He’s a Pirate (Tiësto remix)": ""
       },
       "Just Be": {
-         "$date": 2004,
+         "$date": "2004",
          "$list": "black",
          "Adagio For Strings": {
             "flow": "7,863,568",
@@ -80,7 +80,7 @@
    },
    "Tom Waits": {
       "Bad as Me": {
-         "$date": 2011,
+         "$date": "2011",
          "$list": "white",
          "Chicago": "short",
          "Raised Right Men": "",
@@ -97,7 +97,7 @@
          "New Year’s Eve": ""
       },
       "Real Gone": {
-         "$date": 2004,
+         "$date": "2004",
          "$list": "white",
          "Top of the Hill": "",
          "Hoist That Rag": "good",
@@ -117,7 +117,7 @@
          "A-Chick-a-Boom": "short"
       },
       "Bone Machine": {
-         "$date": 1992,
+         "$date": "1992",
          "$list": "white",
          "Earth Died Screaming": "",
          "Dirt in the Ground": "",
@@ -137,7 +137,7 @@
          "That Feel": ""
       },
       "Rain Dogs": {
-         "$date": 1985,
+         "$date": "1985",
          "$list": "white",
          "Singapore": "short",
          "Clap Hands": "good",
@@ -160,7 +160,7 @@
          "Anywhere I Lay My Head": "short"
       },
       "Swordfishtrombones": {
-         "$date": 1983,
+         "$date": "1983",
          "$list": "white",
          "Underground": "short",
          "Shore Leave": "",
@@ -179,7 +179,7 @@
          "Rainbirds": ""
       },
       "Blue Valentine": {
-         "$date": 1978,
+         "$date": "1978",
          "$list": "white",
          "Somewhere (from ’West Side Story’)": "",
          "Red Shoes by the Drugstore": "",
@@ -193,7 +193,7 @@
          "Blue Valentines": "good"
       },
       "Foreign Affairs": {
-         "$date": 1977,
+         "$date": "1977",
          "$list": "white",
          "Cinny’s Waltz": "short",
          "Muriel": "bad",
@@ -206,7 +206,7 @@
          "Foreign Affair": "good"
       },
       "Nighthawks at the Diner": {
-         "$date": 1975,
+         "$date": "1975",
          "$list": "white",
          "Emotional Weather Report": "",
          "On a Foggy Night": "",
@@ -223,7 +223,7 @@
    },
    "Toni Braxton": {
       "Sex & Cigarettes": {
-         "$date": 2018,
+         "$date": "2018",
          "$list": "black",
          "Long As I Live": {
             "flow": "32,213,630",
@@ -231,7 +231,7 @@
          }
       },
       "The Heat": {
-         "$date": 2000,
+         "$date": "2000",
          "$list": "black",
          "Just Be a Man About It": {
             "flow": "8,561,793",
@@ -239,7 +239,7 @@
          }
       },
       "Secrets": {
-         "$date": 1996,
+         "$date": "1996",
          "$list": "black",
          "He Was’t Man Enough": "",
          "Un-Break My Heart": {
@@ -251,7 +251,7 @@
    },
    "Tool": {
       "Lateralus": {
-         "$date": 2001,
+         "$date": "2001",
          "$list": "white",
          "The Grudge": "",
          "Eon Blue Apocalypse": "short",
@@ -294,7 +294,7 @@
    "Tori Amos": {
       "The Beekeeper": {
          "Parasol": "",
-         "$date": 2005,
+         "$date": "2005",
          "$list": "white",
          "Sweet the Sting": "bad",
          "The Power of Orange Knickers": "bad",
@@ -316,7 +316,7 @@
          "Toast": "good"
       },
       "From the Choirgirl Hotel": {
-         "$date": 1998,
+         "$date": "1998",
          "$list": "white",
          "Spark": "bad",
          "Cruel": "good",
@@ -332,7 +332,7 @@
          "Pandora’s Aquarium": ""
       },
       "Boys for Pele": {
-         "$date": 1996,
+         "$date": "1996",
          "$list": "white",
          "Beauty Queen/Horses": "",
          "Blood Roses": "",
@@ -354,7 +354,7 @@
          "Twinkle": ""
       },
       "Under the Pink": {
-         "$date": 1994,
+         "$date": "1994",
          "$list": "white",
          "Pretty Good Year": "bad",
          "God": "bad",
@@ -370,7 +370,7 @@
          "Yes, Anastasia": "bad"
       },
       "Little Earthquakes": {
-         "$date": 1992,
+         "$date": "1992",
          "$list": "white",
          "Crucify": "bad",
          "Girl": "",
@@ -388,7 +388,7 @@
    },
    "Toro y Moi": {
       "Boo Boo": {
-         "$date": 2017,
+         "$date": "2017",
          "$list": "white",
          "Mirage": "good",
          "No Show": "good",
@@ -404,7 +404,7 @@
          "W.I.W.W.T.W.": ""
       },
       "What For?": {
-         "$date": 2015,
+         "$date": "2015",
          "$list": "white",
          "What You Want": "bad",
          "Buffalo": "bad",
@@ -418,7 +418,7 @@
          "Yeah Right": ""
       },
       "Anything in Return": {
-         "$date": 2013,
+         "$date": "2013",
          "$list": "white",
          "Harm in Change": "",
          "Say That": "good",
@@ -435,7 +435,7 @@
          "How’s It Wrong": ""
       },
       "Underneath the Pine": {
-         "$date": 2011,
+         "$date": "2011",
          "$list": "white",
          "Intro / Chi Chi": "short",
          "New Beat": "bad",
@@ -452,7 +452,7 @@
    },
    "Tosca": {
       "Dehli9": {
-         "$date": 2003,
+         "$date": "2003",
          "$list": "white",
          "Oscar": "good",
          "Me & Yoko Ono": "",
@@ -478,7 +478,7 @@
          "Piano 1 (Session 12)": ""
       },
       "Suzuki": {
-         "$date": 2000,
+         "$date": "2000",
          "$list": "white",
          "Pearl In": "short",
          "Suzuki": {
@@ -499,7 +499,7 @@
    },
    "Tricky": {
       "Maxinquaye": {
-         "$date": 1995,
+         "$date": "1995",
          "$list": "white",
          "Overcome": "bad",
          "Ponderosa": "bad",
@@ -537,7 +537,7 @@
    },
    "Tycho": {
       "Epoch": {
-         "$date": 2016,
+         "$date": "2016",
          "$list": "white",
          "Glider": "bad",
          "Horizon": "bad",
@@ -552,7 +552,7 @@
          "Field": "short"
       },
       "Awake": {
-         "$date": 2014,
+         "$date": "2014",
          "$list": "white",
          "Awake": "good",
          "Montana": "",
@@ -564,7 +564,7 @@
          "Plains": ""
       },
       "Dive": {
-         "$date": 2011,
+         "$date": "2011",
          "$list": "white",
          "A Walk": {
             "rate": "bad",
@@ -582,7 +582,7 @@
          "Elegy": "good"
       },
       "Past Is Prologue / Sunrise Projector": {
-         "$date": 2006,
+         "$date": "2006",
          "$list": "white",
          "A Circular Reeducation": "good",
          "Brother": "short",
@@ -600,7 +600,7 @@
          "The Disconnect": "bad"
       },
       "The Science of Patterns": {
-         "$date": 2002,
+         "$date": "2002",
          "$list": "white",
          "Dream as a Memory": "bad",
          "Human Condition": "bad",
