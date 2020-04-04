@@ -277,6 +277,8 @@
    },
    "R.E.M.": {
       "Monster": {
+         "$date": 1994,
+         "$list": "white",
          "What’s the Frequency, Kenneth?": "good",
          "Crush With Eyeliner": "",
          "King of Comedy": "",
@@ -288,22 +290,28 @@
          "I Took Your Name": "",
          "Let Me In": "",
          "Circus Envy": "",
-         "You": "",
-         "$date": 1994,
-         "$list": "white"
+         "You": ""
       },
       "Automatic for the People": {
-         "Man on the Moon": "",
          "$date": 1992,
-         "$list": "black"
+         "$list": "black",
+         "Man On The Moon": {
+            "flow": "8,055,132",
+            "link": "https://youtu.be/dLxpNiF0YKs"
+         }
       },
       "Out of Time": {
-         "Losing My Religion": "",
-         "Shiny Happy People": "",
          "$date": 1991,
-         "$list": "black"
+         "$list": "black",
+         "Losing My Religion": {
+            "flow": "70,617,941",
+            "link": "https://youtu.be/xwtdhWltSIg"
+         },
+         "Shiny Happy People": ""
       },
       "Green": {
+         "$date": 1988,
+         "$list": "white",
          "Pop Song 89": "",
          "Get Up": "short",
          "You Are the Everything": "",
@@ -313,27 +321,13 @@
          "Orange Crush": "good",
          "Turn You Inside‐Out": "",
          "Hairshirt": "",
-         "I Remember California": "",
-         "$date": 1988,
-         "$list": "white"
-      },
-      "=": {
-         "Everybody Hurts": {
-            "flow": "5,622,892",
-            "link": "https://youtu.be/5rOiW_xY-kc"
-         },
-         "Losing My Religion": {
-            "flow": "70,617,941",
-            "link": "https://youtu.be/xwtdhWltSIg"
-         },
-         "Man On The Moon": {
-            "flow": "8,055,132",
-            "link": "https://youtu.be/dLxpNiF0YKs"
-         }
+         "I Remember California": ""
       }
    },
    "Richard D. James": {
       "Syro": {
+         "$date": 2014,
+         "$list": "white",
          "minipops 67 (source field mix)": "bad",
          "XMAS_EVET10 (thanaton3 mix)": "bad",
          "produk 29": "bad",
@@ -345,11 +339,11 @@
          "syro u473t8+e (piezoluminescence mix)": "",
          "PAPAT4 (pineal mix)": "",
          "s950tx16wasr10 (earth portal mix)": "",
-         "aisatsana": "good",
-         "$date": 2014,
-         "$list": "white"
+         "aisatsana": "good"
       },
       "26 Mixes for Cash": {
+         "$date": 2003,
+         "$list": "white",
          "Time to Find Me (AFX Fast mix)": "good",
          "Raising the Titanic (Big Drum mix)": "good",
          "Journey (Aphex Twin Care mix)": "good",
@@ -375,11 +369,11 @@
          "Mindstream (The Aphex Twin remix)": "",
          "You Can’t Hide Your Love (Hidden Love mix)": "",
          "Spotlight (Aphex Twin mix)": "",
-         "Debase (Soft Palate)": "",
-         "$date": 2003,
-         "$list": "white"
+         "Debase (Soft Palate)": ""
       },
       "Drukqs": {
+         "$date": 2001,
+         "$list": "white",
          "Jynweythek": "short",
          "Vordhosbn": "",
          "Kladfvgbung Micshk": "short",
@@ -409,18 +403,22 @@
          "Afx237 V.7": "",
          "Ziggomatic 17": "",
          "Beskhu3epnm": "short",
-         "Nanou 2": "good",
-         "$date": 2001,
-         "$list": "white"
+         "Nanou 2": "good"
       },
       "Windowlicker": {
-         "Windowlicker": "good",
-         "Formula": "",
-         "Nannou": "",
          "$date": 1999,
-         "$list": "white"
+         "$list": "white",
+         "Windowlicker": {
+            "rate": "good",
+            "flow": "480,422",
+            "link": "https://youtu.be/7MBaEEODzU0"
+         },
+         "Formula": "",
+         "Nannou": ""
       },
       "Richard D. James Album": {
+         "$date": 1996,
+         "$list": "white",
          "4": "good",
          "Cornish Acid": "short",
          "Peek 824545201": "",
@@ -430,11 +428,11 @@
          "Goon Gumpas": "short",
          "Yellow Calx": "",
          "Girl/Boy Song": "good",
-         "Logan Rock Witch": "",
-         "$date": 1996,
-         "$list": "white"
+         "Logan Rock Witch": ""
       },
       "I Care Because You Do": {
+         "$date": 1995,
+         "$list": "white",
          "Acrid Avid Jam Shred": "bad",
          "The Waxen Pith": "bad",
          "Wax the Nip": "bad",
@@ -446,11 +444,11 @@
          "Mookid": "",
          "Alberto Balsalm": "",
          "Cow Cud Is a Twin": "",
-         "Next Heap With": "",
-         "$date": 1995,
-         "$list": "white"
+         "Next Heap With": ""
       },
       "Classics": {
+         "$date": "1994-12",
+         "$list": "white",
          "Digeridoo": "",
          "Flaphead": "",
          "Phloam": "",
@@ -463,11 +461,11 @@
          "Metapharstic": "",
          "We Have Arrived (Aphex Twin QQT mix)": "",
          "We Have Arrived (Aphex Twin TTQ mix)": "",
-         "Digeridoo (live in Cornwall, 1990)": "",
-         "$date": "1994-12",
-         "$list": "white"
+         "Digeridoo (live in Cornwall, 1990)": ""
       },
       "Selected Ambient Works, Volume II": {
+         "$date": "1994-03",
+         "$list": "white",
          "[Cliffs]": "good",
          "[Radiator]": "",
          "[Rhubarb]": "good",
@@ -492,27 +490,27 @@
          "[Spots]": "",
          "[Tassels]": "",
          "[White Blur 2]": "",
-         "[Matchsticks]": "",
-         "$date": "1994-03",
-         "$list": "white"
+         "[Matchsticks]": ""
       },
       "On Remixes": {
+         "$date": 1993,
+         "$list": "white",
          "On (D-Scape mix)": "",
          "On (Reload mix)": "good",
          "On (μ-Ziq mix)": "good",
-         "On (28 mix)": "",
-         "$date": 1993,
-         "$list": "white"
+         "On (28 mix)": ""
       },
-      "true": {
+      "On": {
+         "$date": 1993,
+         "$list": "white",
          "true": "good",
          "73-Yips": "",
          "D-Scape": "",
-         "Xepha": "",
-         "$date": 1993,
-         "$list": "white"
+         "Xepha": ""
       },
       "Selected Ambient Works 85–92": {
+         "$date": 1992,
+         "$list": "white",
          "Xtal": "good",
          "Tha": "good",
          "Pulsewidth": "",
@@ -525,15 +523,7 @@
          "Ptolemy": "",
          "Hedphelym": "",
          "Delphium": "",
-         "Actium": "",
-         "$date": 1992,
-         "$list": "white"
-      },
-      "=": {
-         "Windowlicker": {
-            "flow": "480,422",
-            "link": "https://youtu.be/7MBaEEODzU0"
-         }
+         "Actium": ""
       }
    },
    "Robin Guthrie": {
