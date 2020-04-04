@@ -152,14 +152,11 @@
    },
    "Nena": {
       "Nena": {
-         "99 Luftballons": "",
-         "$list": "black"
-      },
-      "=": {
-         "Nena ‎- 99 Luftballons": {
+         "99 Luftballons": {
             "flow": "13,394,632",
             "link": "https://youtu.be/La4Dcd1aUcE"
-         }
+         },
+         "$list": "black"
       }
    },
    "New Order": {
@@ -182,9 +179,6 @@
          "$date": "1987",
          "$list": "white"
       },
-      "Brotherhood": {
-         "$date": "1986"
-      },
       "Low‐Life": {
          "Love Vigilantes": "",
          "The Perfect Kiss": "",
@@ -198,31 +192,21 @@
          "$list": "white"
       },
       "Power, Corruption & Lies": {
-         "Blue Monday": "",
-         "$date": "1983",
-         "$list": "black"
-      },
-      "=": {
          "Blue Monday": {
             "flow": "13,712,895",
             "link": "https://youtu.be/FYH8DsU2WCk"
          },
-         "Substance 1987": {
-            "flow": "1,804,440",
-            "link": "https://youtu.be/9-NFosnfd2c"
-         }
+         "$date": "1983",
+         "$list": "black"
       }
    },
    "New Radicals": {
       "Maybe You’ve Been Brainwashed Too": {
-         "You Get What You Give": "",
-         "$list": "black"
-      },
-      "=": {
          "You Get What You Give": {
             "flow": "7,184,230",
             "link": "https://youtu.be/DL7-CKirWZE"
-         }
+         },
+         "$list": "black"
       }
    },
    "Nicolas Jaar": {
@@ -407,12 +391,18 @@
    },
    "Nirvana": {
       "MTV Unplugged": {
-         "The Man Who Sold the World": "",
+         "The Man Who Sold The World": {
+            "flow": "24,614,437",
+            "link": "https://youtu.be/fregObNcHC8"
+         },
          "$date": "1994",
          "$list": "black"
       },
       "In Utero": {
-         "Heart-Shaped Box": "",
+         "Heart-Shaped Box": {
+            "flow": "16,781,101",
+            "link": "https://youtu.be/n6P0SitRwy8"
+         },
          "$date": "1993",
          "$list": "black"
       },
@@ -420,23 +410,12 @@
          "Come As You Are": "",
          "In Bloom": "",
          "Lithium": "",
-         "Smells Like Teen Spirit": "",
-         "$date": "1991",
-         "$list": "black"
-      },
-      "=": {
-         "Heart-Shaped Box": {
-            "flow": "16,781,101",
-            "link": "https://youtu.be/n6P0SitRwy8"
-         },
          "Smells Like Teen Spirit": {
             "flow": "91,497,950",
             "link": "https://youtu.be/hTWKbfoikeg"
          },
-         "The Man Who Sold The World": {
-            "flow": "24,614,437",
-            "link": "https://youtu.be/fregObNcHC8"
-         }
+         "$date": "1991",
+         "$list": "black"
       }
    },
    "Norah Jones": {
@@ -474,14 +453,12 @@
          "$date": "2006",
          "$list": "white"
       },
-      "Feels Like Home": {
-         "$date": "2004"
-      },
-      "New York City": {
-         "$date": "2003"
-      },
       "Come Away With Me": {
-         "Don’t Know Why": "good",
+         "Don’t Know Why": {
+            "rate": "good",
+            "flow": "4,720,905",
+            "link": "https://youtu.be/tO4dxvguQDk"
+         },
          "Seven Years": "short",
          "Cold Cold Heart": "",
          "Feelin’ the Same Way": "short",
@@ -497,25 +474,6 @@
          "The Nearness of You": "",
          "$date": "2002",
          "$list": "white"
-      },
-      "=": {
-         "Don’t Know Why": {
-            "flow": "4,720,905",
-            "link": "https://youtu.be/tO4dxvguQDk"
-         }
-      }
-   },
-   "Odesza": {
-      "In Return": {
-         "It’s Only": "",
-         "Say My Name": "",
-         "$list": "black"
-      },
-      "=": {
-         "Lyric Video": {
-            "flow": "6,828,377",
-            "link": "https://youtu.be/HdzI-191xhU"
-         }
       }
    },
    "Olive": {
@@ -524,7 +482,11 @@
          "This Time": "",
          "Safer Hands": "",
          "Killing": "",
-         "You’re Not Alone": "good",
+         "You’re Not Alone": {
+            "rate": "good",
+            "flow": "100,723",
+            "link": "https://youtu.be/s4oZdUV-G-Y"
+         },
          "Falling": "",
          "Outlaw": "",
          "Blood Red Tears": "",
@@ -533,12 +495,6 @@
          "Muted": "",
          "$date": "1997",
          "$list": "black"
-      },
-      "=": {
-         "You’re Not Alone": {
-            "flow": "100,723",
-            "link": "https://youtu.be/s4oZdUV-G-Y"
-         }
       }
    },
    "On-the-Go": {
@@ -725,7 +681,11 @@
       "ABYSS": {
          "PRISM": "",
          "EMBRACE": "",
-         "CLOUDS": "good",
+         "CLOUDS": {
+            "rate": "good",
+            "flow": "24,003",
+            "link": "https://youtu.be/qn2L9M7kfHE"
+         },
          "SHADOWS": "",
          "SKELETON": "",
          "DARK BEACH": "",
@@ -734,12 +694,6 @@
          "PULSE": "",
          "ABYSS": "",
          "$list": "white"
-      },
-      "=": {
-         "CLOUDS": {
-            "flow": "24,003",
-            "link": "https://youtu.be/qn2L9M7kfHE"
-         }
       }
    },
    "Paula Abdul": {
@@ -750,17 +704,15 @@
          "State of Attraction": "",
          "I Need You": "",
          "Forever Your Girl": "",
-         "Straight Up": "good",
+         "Straight Up": {
+            "rate": "good",
+            "flow": "2,182,196",
+            "link": "https://youtu.be/El1kgCqD7Xk"
+         },
          "Next to You": "",
          "Cold Hearted": "",
          "One or the Other": "",
          "$list": "white"
-      },
-      "=": {
-         "Straight Up": {
-            "flow": "2,182,196",
-            "link": "https://youtu.be/El1kgCqD7Xk"
-         }
       }
    },
    "Paula Cole": {
@@ -775,15 +727,12 @@
          "ME": "",
          "Feelin’ Love": "",
          "hush, hush, hush.": "",
-         "I Don’t Want to Wait": "",
-         "$date": "1996",
-         "$list": "white"
-      },
-      "=": {
          "I Don’t Want to Wait": {
             "flow": "892,581",
             "link": "https://youtu.be/U0qdaTTS53M"
-         }
+         },
+         "$date": "1996",
+         "$list": "white"
       }
    },
    "Pearl Jam": {
@@ -807,20 +756,13 @@
          "Alive": "",
          "Black": "",
          "Even Flow": "",
-         "Jeremy": "",
-         "Yellow Ledbetter": "",
-         "$date": "1991",
-         "$list": "black"
-      },
-      "=": {
          "Jeremy": {
             "flow": "10,950,506",
             "link": "https://youtu.be/MS91knuzoOA"
          },
-         "Sirens": {
-            "flow": "5,511,197",
-            "link": "https://youtu.be/qQXP6TDtW0w"
-         }
+         "Yellow Ledbetter": "",
+         "$date": "1991",
+         "$list": "black"
       }
    },
    "Pendulum": {
@@ -855,12 +797,6 @@
          "Still Grey": "good",
          "$date": "2005",
          "$list": "white"
-      },
-      "=": {
-         "Witchcraft": {
-            "flow": "4,198,933",
-            "link": "https://youtu.be/ogMNV33AhCY"
-         }
       }
    },
    "Pet Shop Boys": {
@@ -874,23 +810,13 @@
          "$date": "1988",
          "$list": "white"
       },
-      "Actually": {
-         "$date": "1987"
-      },
       "Please": {
-         "West End Girls": "",
-         "$date": "1986",
-         "$list": "black"
-      },
-      "=": {
-         "It’s a Sin": {
-            "flow": "5,763,889",
-            "link": "https://youtu.be/dRHetRTOD1Q"
-         },
          "West End Girls": {
             "flow": "6,469,379",
             "link": "https://youtu.be/p3j2NYZ8FKs"
-         }
+         },
+         "$date": "1986",
+         "$list": "black"
       }
    },
    "Peter Frampton": {
