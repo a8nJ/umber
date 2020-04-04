@@ -138,21 +138,12 @@
    },
    "Heart": {
       "Bad Animals": {
-         "Alone": "",
+         "Alone": {
+            "flow": "17,146,245",
+            "link": "https://youtu.be/1Cw1ng75KP0"
+         },
          "$date": "1987",
          "$list": "black"
-      },
-      "Heart": {
-         "$date": "1985"
-      },
-      "Passionworks": {
-         "$date": "1983"
-      },
-      "Private Audition": {
-         "$date": "1982"
-      },
-      "Bébé le Strange": {
-         "$date": "1980"
       },
       "Dog & Butterfly": {
          "Cook With Fire": "",
@@ -179,16 +170,6 @@
          "Go On Cry": "",
          "$date": "1977",
          "$list": "white"
-      },
-      "=": {
-         "Alone": {
-            "flow": "17,146,245",
-            "link": "https://youtu.be/1Cw1ng75KP0"
-         },
-         "These Dreams": {
-            "flow": "3,627,507",
-            "link": "https://youtu.be/41P8UxneDJE"
-         }
       }
    },
    "Hem": {
@@ -207,12 +188,6 @@
          "Last Call": "",
          "So Long": "short",
          "$list": "white"
-      },
-      "=": {
-         "Redwing": {
-            "flow": "9,519",
-            "link": "https://youtu.be/QFQrH9w8VM4"
-         }
       }
    },
    "Henrik Schwarz": {
@@ -225,12 +200,6 @@
          "In Björndal": "short",
          "I Exist Because Of You Two": "",
          "$list": "white"
-      },
-      "=": {
-         "Feeling You": {
-            "flow": "180,584",
-            "link": "https://youtu.be/Jt1RiNZWnpY"
-         }
       }
    },
    "Hope Sandoval & The Warm Inventions": {
@@ -313,12 +282,6 @@
          "Black n Red": "short",
          "$date": "2009",
          "$list": "white"
-      },
-      "=": {
-         "Higher Ground": {
-            "flow": "1,230,136",
-            "link": "https://youtu.be/6HzyUHxmkg0"
-         }
       }
    },
    "Imogen Heap": {
@@ -363,7 +326,11 @@
          "$list": "black"
       },
       "Details": {
-         "Let Go": "good",
+         "Let Go": {
+            "rate": "good",
+            "flow": "514,850",
+            "link": "https://youtu.be/13WAhlE02ew"
+         },
          "Breathe In": "",
          "It’s Good to Be in Love": "",
          "Must Be Dreaming": "",
@@ -392,16 +359,6 @@
          "Sleep": "",
          "$date": "1998",
          "$list": "white"
-      },
-      "=": {
-         "Hide and Seek": {
-            "flow": "26,675,861",
-            "link": "https://youtu.be/pBI3lc18k8Q"
-         },
-         "Let Go": {
-            "flow": "514,850",
-            "link": "https://youtu.be/13WAhlE02ew"
-         }
       }
    },
    "Incubus": {
@@ -445,7 +402,11 @@
       "Morning View": {
          "Nice to Know You": "good",
          "Circles": "good",
-         "Wish You Were Here": "good",
+         "Wish You Were Here": {
+            "rate": "good",
+            "flow": "5,213,201",
+            "link": "https://youtu.be/8295rOMvtQI"
+         },
          "Just a Phase": "good",
          "11am": "good",
          "Blood on the Ground": "",
@@ -460,24 +421,20 @@
          "$list": "white"
       },
       "Make Yourself": {
-         "Drive": "",
-         "$date": "1999",
-         "$list": "black"
-      },
-      "=": {
          "Drive": {
             "flow": "10,366,778",
             "link": "https://youtu.be/fgT9zGkiLig"
          },
-         "Wish You Were Here": {
-            "flow": "5,213,201",
-            "link": "https://youtu.be/8295rOMvtQI"
-         }
+         "$date": "1999",
+         "$list": "black"
       }
    },
    "Interpol": {
       "Marauder": {
-         "If You Really Love Nothing": "",
+         "If You Really Love Nothing": {
+            "flow": "4,276,392",
+            "link": "https://youtu.be/gLk8i2zw2jU"
+         },
          "The Rover": "",
          "Complications": "",
          "Flight of Fancy": "",
@@ -570,12 +527,6 @@
          "Leif Erikson": "",
          "$date": "2002",
          "$list": "white"
-      },
-      "=": {
-         "If You Really Love Nothing": {
-            "flow": "4,276,392",
-            "link": "https://youtu.be/gLk8i2zw2jU"
-         }
       }
    },
    "INXS": {
@@ -587,19 +538,17 @@
          "Mediate": "short",
          "The Loved One": "",
          "Wild Life": "",
-         "Never Tear Us Apart": "good",
+         "Never Tear Us Apart": {
+            "rate": "good",
+            "flow": "5,341,920",
+            "link": "https://youtu.be/mjvBH48V3Pk"
+         },
          "Mystify": "",
          "Kick": "",
          "Calling All Nations": "",
          "Tiny Daggers": "",
          "$date": "1987",
          "$list": "white"
-      },
-      "=": {
-         "Never Tear Us Apart": {
-            "flow": "5,341,920",
-            "link": "https://youtu.be/mjvBH48V3Pk"
-         }
       }
    },
    "Iron & Wine": {
@@ -618,12 +567,6 @@
          "Passing Afternoon": "",
          "$date": "2004",
          "$list": "white"
-      },
-      "=": {
-         "Flightless Bird, American Mouth": {
-            "flow": "2,249,788",
-            "link": "https://youtu.be/d1BgYTZ4Mxc"
-         }
       }
    },
    "Isan": {
@@ -720,7 +663,10 @@
       "Lunar Lane": {
          "Maze": "short",
          "Fog": "good",
-         "Photomaton": "",
+         "Photomaton": {
+            "flow": "2,034,313",
+            "link": "https://youtu.be/BJWoFagy4Bc"
+         },
          "Alastor": "",
          "Interlude": "short",
          "Holding Up": "",
@@ -731,12 +677,6 @@
          "Jeopardy": "",
          "Quantif": "",
          "$list": "white"
-      },
-      "=": {
-         "Photomaton": {
-            "flow": "2,034,313",
-            "link": "https://youtu.be/BJWoFagy4Bc"
-         }
       }
    },
    "Jackson C. Frank": {
