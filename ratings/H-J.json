@@ -721,7 +721,11 @@
          "Marcy’s Song": "",
          "Maria Spanish Rose": "short",
          "Marlene": "good",
-         "Milk and Honey": "good",
+         "Milk And Honey": {
+            "rate": "good",
+            "flow": "118,918",
+            "link": "https://youtu.be/fO7ih6Nu3MA"
+         },
          "My Name Is Carnival": "",
          "Mystery": "short",
          "Night of the Blues": "",
@@ -739,12 +743,6 @@
          "You Never Wanted Me": "",
          "$date": "2015",
          "$list": "white"
-      },
-      "=": {
-         "Milk And Honey": {
-            "flow": "118,918",
-            "link": "https://youtu.be/fO7ih6Nu3MA"
-         }
       }
    },
    "James Blake": {
@@ -784,7 +782,11 @@
          "I Never Learnt to Share": "",
          "Lindisfarne I": "short",
          "Lindisfarne II": "",
-         "Limit to Your Love": "good",
+         "Limit To Your Love": {
+            "rate": "good",
+            "flow": "2,882,198",
+            "link": "https://youtu.be/oOT2-OTebx0"
+         },
          "Give Me My Month": "short",
          "To Care (Like You)": "",
          "Why Don’t You Call Me": "short",
@@ -792,12 +794,6 @@
          "Measurements": "",
          "$date": "2011",
          "$list": "white"
-      },
-      "=": {
-         "Limit To Your Love": {
-            "flow": "2,882,198",
-            "link": "https://youtu.be/oOT2-OTebx0"
-         }
       }
    },
    "Jamie xx": {
@@ -809,17 +805,14 @@
          "Just Saying": "short",
          "Stranger in a Room": "short",
          "Hold Tight": "",
-         "Loud Places": "",
+         "Loud Places": {
+            "flow": "5,664,607",
+            "link": "https://youtu.be/TP9luRtEqjc"
+         },
          "I Know There’s Gonna Be (Good Times)": "",
          "The Rest Is Noise": "",
          "Girl": "good",
          "$list": "white"
-      },
-      "=": {
-         "Loud Places": {
-            "flow": "5,664,607",
-            "link": "https://youtu.be/TP9luRtEqjc"
-         }
       }
    },
    "Janet Jackson": {
@@ -832,7 +825,11 @@
          "After You Fall": "",
          "Broken Hearts Heal": "",
          "Night": "",
-         "No Sleeep": "bad",
+         "No Sleeep": {
+            "rate": "bad",
+            "flow": "5,860,535",
+            "link": "https://youtu.be/2_t0ffY3JvE"
+         },
          "Dream Maker / Euphoria": "short",
          "2 B Loved": "short",
          "Take Me Away": "",
@@ -844,17 +841,11 @@
          "$date": "2015-10-02",
          "$list": "white"
       },
-      "Discipline": {
-         "$date": "2008"
-      },
-      "20 Y.O.": {
-         "$date": "2006"
-      },
-      "Damita Jo": {
-         "$date": "2004"
-      },
       "All for You": {
-         "Would You Mind": "",
+         "Would You Mind": {
+            "flow": "6,516,984",
+            "link": "https://youtu.be/HGzVFjjfAfw"
+         },
          "$date": "2001",
          "$list": "black"
       },
@@ -938,16 +929,6 @@
          "Interlude Livin’… in Complete Darkness": "short",
          "$date": "1989",
          "$list": "white"
-      },
-      "=": {
-         "No Sleeep": {
-            "flow": "5,860,535",
-            "link": "https://youtu.be/2_t0ffY3JvE"
-         },
-         "Would You Mind": {
-            "flow": "6,516,984",
-            "link": "https://youtu.be/HGzVFjjfAfw"
-         }
       }
    },
    "JAWS": {
@@ -964,12 +945,6 @@
          "A Brief Escape From Life": "",
          "The Invisible Sleep": "",
          "$list": "white"
-      },
-      "=": {
-         "STAY IN": {
-            "flow": "69,440",
-            "link": "https://youtu.be/RQCt3afJCzg"
-         }
       }
    },
    "Jay-Z": {
@@ -981,32 +956,11 @@
          "$date": "2017",
          "$list": "black"
       },
-      "Run the Map": {
-         "$date": "2016"
-      },
-      "Magna Carta… Holy Grail": {
-         "$date": "2013"
-      },
       "Watch the Throne": {
          "Niggas in Paris": "",
          "Otis": "",
          "$date": "2011",
          "$list": "black"
-      },
-      "The Blueprint 3": {
-         "$date": "2009"
-      },
-      "American Gangster": {
-         "$date": "2007"
-      },
-      "Kingdom Come": {
-         "$date": "2006"
-      },
-      "Unfinished Business": {
-         "$date": "2004"
-      },
-      "The Black Album": {
-         "$date": "2003"
       },
       "The Blueprint² The Gift & The Curse": {
          "A Dream": "",

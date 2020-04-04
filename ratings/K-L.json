@@ -776,15 +776,13 @@
          "Waiting for Wednesday": "",
          "Lisa Listen": "",
          "Garden of Delights": "short",
-         "Stay": "good",
-         "$date": "1995",
-         "$list": "white"
-      },
-      "=": {
          "Stay": {
+            "rate": "good",
             "flow": "539,129",
             "link": "https://youtu.be/ka9mCmx9Jhs"
-         }
+         },
+         "$date": "1995",
+         "$list": "white"
       }
    },
    "Lisa Stansfield": {
@@ -793,7 +791,11 @@
          "Mighty Love": "",
          "Sincerity": "",
          "The Love in Me": "",
-         "All Around the World": "good",
+         "All Around the World": {
+            "rate": "good",
+            "flow": "3,954,179",
+            "link": "https://youtu.be/JVuuatjHGnY"
+         },
          "What Did I Do to You?": "",
          "Live Together": "",
          "You Can’t Deny It": "",
@@ -803,12 +805,6 @@
          "Wake Up Baby": "",
          "The Way You Want It": "",
          "$list": "white"
-      },
-      "=": {
-         "All Around the World": {
-            "flow": "3,954,179",
-            "link": "https://youtu.be/JVuuatjHGnY"
-         }
       }
    },
    "Live": {
@@ -817,7 +813,11 @@
          "Selling the Drama": "",
          "I Alone": "good",
          "Iris": "",
-         "Lightning Crashes": "good",
+         "Lightning Crashes": {
+            "rate": "good",
+            "flow": "3,491,937",
+            "link": "https://youtu.be/xsJ4O-nSveg"
+         },
          "Top": "short",
          "All Over You": "",
          "Shit Towne": "",
@@ -828,12 +828,6 @@
          "White, Discussion": "",
          "Horse": "",
          "$list": "white"
-      },
-      "=": {
-         "Lightning Crashes": {
-            "flow": "3,491,937",
-            "link": "https://youtu.be/xsJ4O-nSveg"
-         }
       }
    },
    "Luke Slater (The 7th Plain)": {
@@ -850,12 +844,6 @@
          "Real Life Ceremony": "",
          "Grace": "",
          "$list": "white"
-      },
-      "=": {
-         "Stars And Heroes": {
-            "flow": "13,174",
-            "link": "https://youtu.be/KPc19-o4wEw"
-         }
       }
    },
    "Lykke Li": {
@@ -873,7 +861,10 @@
          "$list": "white"
       },
       "Wounded Rhymes": {
-         "I Follow Rivers": "",
+         "I Follow Rivers": {
+            "flow": "25,587,457",
+            "link": "https://youtu.be/K3JGxj2rvAs"
+         },
          "Sadness Is a Blessing": "",
          "$date": "2011",
          "$list": "black"
@@ -885,7 +876,11 @@
          "Let It Fall": "short",
          "My Love": "bad",
          "Tonight": "",
-         "Little Bit": "good",
+         "Little Bit": {
+            "rate": "good",
+            "flow": "3,350,813",
+            "link": "https://youtu.be/5dT312CDPJI"
+         },
          "Hanging High": "bad",
          "This Trumpet in My Head": "short",
          "Complaint Department": "bad",
@@ -895,16 +890,6 @@
          "Window Blues": "bad",
          "$date": "2008",
          "$list": "white"
-      },
-      "=": {
-         "I Follow Rivers": {
-            "flow": "25,587,457",
-            "link": "https://youtu.be/K3JGxj2rvAs"
-         },
-         "Little Bit": {
-            "flow": "3,350,813",
-            "link": "https://youtu.be/5dT312CDPJI"
-         }
       }
    }
 }
