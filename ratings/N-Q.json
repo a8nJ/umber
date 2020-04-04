@@ -801,26 +801,28 @@
    },
    "Pet Shop Boys": {
       "Introspective": {
+         "$date": "1988",
+         "$list": "white",
          "Left to My Own Devices": "",
          "I Want a Dog": "",
          "Domino Dancing (disco mix)": "good",
          "I’m Not Scared": "",
          "Always on My Mind / In My House": "",
-         "It’s Alright": "",
-         "$date": "1988",
-         "$list": "white"
+         "It’s Alright": ""
       },
       "Please": {
+         "$date": "1986",
+         "$list": "black",
          "West End Girls": {
             "flow": "6,469,379",
             "link": "https://youtu.be/p3j2NYZ8FKs"
-         },
-         "$date": "1986",
-         "$list": "black"
+         }
       }
    },
    "Peter Frampton": {
       "Frampton’s Camel": {
+         "$date": "1973",
+         "$list": "white",
          "I Got My Eyes on You": "",
          "All Night Long": "",
          "Lines on My Face": "",
@@ -833,13 +835,13 @@
             "rate": "good",
             "flow": "1,678,580",
             "link": "https://youtu.be/y7rFYbMhcG8"
-         },
-         "$date": "1973",
-         "$list": "white"
+         }
       }
    },
    "Peter Gabriel": {
       "So": {
+         "$date": "1986-05-19",
+         "$list": "white",
          "Red Rain": "",
          "Sledgehammer": {
             "flow": "3,943,699",
@@ -851,11 +853,11 @@
          "Mercy Street": "",
          "Big Time": "good",
          "We Do What We’re Told (Milgram’s 37)": "",
-         "This Is the Picture (Excellent Birds)": "",
-         "$date": "1986-05-19",
-         "$list": "white"
+         "This Is the Picture (Excellent Birds)": ""
       },
       "Peter Gabriel (Car)": {
+         "$date": "1977-02",
+         "$list": "white",
          "Moribund the Burgermeister": "",
          "Solsbury Hill": "good",
          "Modern Love": "",
@@ -864,9 +866,7 @@
          "Slowburn": "",
          "Waiting for the Big One": "",
          "Down the Dolce Vita": "",
-         "Here Comes the Flood": "",
-         "$date": "1977-02",
-         "$list": "white"
+         "Here Comes the Flood": ""
       }
    },
    "Phil Collins": {
@@ -911,49 +911,51 @@
    },
    "Pink Floyd": {
       "The Division Bell": {
+         "$date": "1994",
+         "$list": "black",
          "High Hopes": {
             "flow": "11,489,269",
             "link": "https://youtu.be/7jMlFXouPk8"
-         },
-         "$date": "1994",
-         "$list": "black"
+         }
       },
       "A Momentary Lapse of Reason": {
+         "$date": "1987",
+         "$list": "black",
          "Learning To Fly": {
             "flow": "13,804,895",
             "link": "https://youtu.be/nVhNCTH8pDs"
-         },
-         "$date": "1987",
-         "$list": "black"
+         }
       },
       "The Wall": {
+         "$date": "1979",
+         "$list": "black",
          "Another Brick In The Wall": {
             "flow": "45,604,600",
             "link": "https://youtu.be/YR5ApYxkU-U"
          },
          "Comfortably Numb": "",
-         "Hey You": "",
-         "$date": "1979",
-         "$list": "black"
+         "Hey You": ""
       },
       "Wish You Were Here": {
+         "$date": "1975",
+         "$list": "black",
          "Shine on You Crazy Diamond": "",
          "Wish You Were Here": {
             "flow": "14,157,030",
             "link": "https://youtu.be/IXdNnw99-Ic"
-         },
-         "$date": "1975",
-         "$list": "black"
+         }
       },
       "The Dark Side of the Moon": {
-         "Any Colour You Like": "",
-         "Speak to Me / Breathe": "",
          "$date": "1973",
-         "$list": "black"
+         "$list": "black",
+         "Any Colour You Like": "",
+         "Speak to Me / Breathe": ""
       }
    },
    "Pixies": {
       "Bossanova": {
+         "$date": "1990",
+         "$list": "white",
          "Cecilia Ann": "short",
          "Rock Music": "short",
          "Velouria": "bad",
@@ -967,11 +969,11 @@
          "Blown Away": "short",
          "Hang Wire": "short",
          "Stormy Weather": "",
-         "Havalina": "short",
-         "$date": "1990",
-         "$list": "white"
+         "Havalina": "short"
       },
       "Doolittle": {
+         "$date": "1989",
+         "$list": "white",
          "Debaser": "short",
          "Tame": "short",
          "Wave of Mutilation": "short",
@@ -989,17 +991,15 @@
          "There Goes My Gun": "short",
          "Hey": "good",
          "Silver": "short",
-         "Gouge Away": "short",
-         "$date": "1989",
-         "$list": "white"
+         "Gouge Away": "short"
       },
       "Surfer Rosa": {
+         "$date": "1988",
+         "$list": "black",
          "Where Is My Mind": {
             "flow": "23,113,992",
             "link": "https://youtu.be/N3oCS85HvpY"
-         },
-         "$date": "1988",
-         "$list": "black"
+         }
       }
    },
    "Pizzicato Five": {
@@ -1124,6 +1124,8 @@
    },
    "Plaid": {
       "Spokes": {
+         "$date": "2003",
+         "$list": "white",
          "Even Spring": "bad",
          "Crumax Rins": "",
          "Upona": "",
@@ -1133,11 +1135,11 @@
          "Marry": "",
          "Get What You Gave": "",
          "Buns": "",
-         "Quick Emix": "",
-         "$date": "2003",
-         "$list": "white"
+         "Quick Emix": ""
       },
       "Double Figure": {
+         "$date": "2001",
+         "$list": "white",
          "Eyen": "bad",
          "Squance": "bad",
          "Assault on Precinct Zero": "bad",
@@ -1156,11 +1158,11 @@
          "Tak 4": "short",
          "Ti Bom": "",
          "Tak 5": "short",
-         "Manyme": "",
-         "$date": "2001",
-         "$list": "white"
+         "Manyme": ""
       },
       "Rest Proof Clockwork": {
+         "$date": "1999",
+         "$list": "white",
          "Shackbu": "",
          "Ralome": "good",
          "Little People": "",
@@ -1175,11 +1177,11 @@
          "Lambs Eye": "short",
          "New Bass Hippo": "",
          "Churn Maiden": "short",
-         "Air Locked / Face Me": "",
-         "$date": "1999",
-         "$list": "white"
+         "Air Locked / Face Me": ""
       },
       "Not for Threes": {
+         "$date": "1997",
+         "$list": "white",
          "Abla Eedio": "bad",
          "Kortisin": "bad",
          "Headspin": "bad",
@@ -1195,13 +1197,13 @@
          "Lilith": "bad",
          "Forever": "short",
          "Getting": "short",
-         "Milh": "good",
-         "$date": "1997",
-         "$list": "white"
+         "Milh": "good"
       }
    },
    "Portishead": {
       "Third": {
+         "$date": "2008",
+         "$list": "white",
          "Silence": "good",
          "Hunter": "good",
          "Nylon Smile": "good",
@@ -1212,11 +1214,11 @@
          "Machine Gun": "good",
          "Small": "",
          "Magic Doors": "",
-         "Threads": "good",
-         "$date": "2008",
-         "$list": "white"
+         "Threads": "good"
       },
       "Portishead": {
+         "$date": "1997",
+         "$list": "white",
          "Cowboys": "good",
          "All Mine": "good",
          "Undenied": "good",
@@ -1227,11 +1229,11 @@
          "Seven Months": "good",
          "Only You": "good",
          "Elysium": "",
-         "Western Eyes": "good",
-         "$date": "1997",
-         "$list": "white"
+         "Western Eyes": "good"
       },
       "Dummy": {
+         "$date": "1994",
+         "$list": "white",
          "Mysterons": "good",
          "Sour Times": "good",
          "Strangers": "good",
@@ -1246,22 +1248,22 @@
          },
          "Pedestal": "",
          "Biscuit": "",
-         "Glory Box": "good",
-         "$date": "1994",
-         "$list": "white"
+         "Glory Box": "good"
       }
    },
    "Portugal. The Man": {
       "Woodstock": {
+         "$date": "2017",
+         "$list": "black",
          "Feel It Still": {
             "flow": "105,372,195",
             "link": "https://youtu.be/pBkHHoOIIn8"
          },
-         "Live in the Moment": "",
-         "$date": "2017",
-         "$list": "black"
+         "Live in the Moment": ""
       },
       "Censored Colors": {
+         "$date": "2008",
+         "$list": "white",
          "Lay Me Back Down": "",
          "Colors": "",
          "And I": "",
@@ -1276,13 +1278,13 @@
          "Our Times": "short",
          "All Mine": "",
          "1989": "",
-         "Our Way": "short",
-         "$date": "2008",
-         "$list": "white"
+         "Our Way": "short"
       }
    },
    "Prefuse 73": {
       "Everything She Touched Turned Ampexian": {
+         "$date": "2009",
+         "$list": "white",
          "Periodic Measurements of Infrequent Smiles": "short",
          "Hairy Faces (Stress)": "short",
          "Parachute Panador": "short",
@@ -1311,11 +1313,11 @@
          "Preparation’s Kids Choir": "short",
          "Pitch Pipe": "short",
          "Periodic Measurements of Infrequent Frowns": "short",
-         "Formal Dedications": "",
-         "$date": "2009",
-         "$list": "white"
+         "Formal Dedications": ""
       },
       "Preparations": {
+         "$date": "2007",
+         "$list": "white",
          "From the East Intro": "short",
          "Beaten Thursdays": "bad",
          "Aborted Hugs": "short",
@@ -1329,11 +1331,11 @@
          "I Knew You Were Gonna Go": "bad",
          "Pomade Suite Version One": "",
          "Spaced + Dissonant": "",
-         "Preparation Outro Version": "",
-         "$date": "2007",
-         "$list": "white"
+         "Preparation Outro Version": ""
       },
       "Security Screenings": {
+         "$date": "2006",
+         "$list": "white",
          "The Letter ‘P’": "short",
          "With Dirt and Two Texts (Afternoon Version)": "bad",
          "Illiterate Interlude": "short",
@@ -1351,11 +1353,11 @@
          "Mud in Your Mouth": "short",
          "Breathe": "short",
          "Matrimonioids..... (For Elivin + Susana Estela)": "",
-         "We Leave You in a Cloud of Thick Smoke and Sleep Outro": "",
-         "$date": "2006",
-         "$list": "white"
+         "We Leave You in a Cloud of Thick Smoke and Sleep Outro": ""
       },
       "Surrounded by Silence": {
+         "$date": "2005",
+         "$list": "white",
          "I’ve Said All I Need to Say About Them Intro": "",
          "Hide Ya Face": "",
          "Bad Memory Interlude One": "short",
@@ -1376,11 +1378,11 @@
          "Morale Crusher": "short",
          "Minutes Away Without You": "",
          "Rain Edit Interlude": "short",
-         "And I’m Gone": "short",
-         "$date": "2005",
-         "$list": "white"
+         "And I’m Gone": "short"
       },
       "One Word Extinguisher": {
+         "$date": "2003",
+         "$list": "white",
          "The Wrong Side of Reflection (intro)": "short",
          "The End of Biters - International": "short",
          "Plastic": "short",
@@ -1407,11 +1409,11 @@
          "Trains on Top of the Game (interlude)": "short",
          "Styles That Fade Away With a Collonade Reprise": "good",
          "Esta": "short",
-         "Pentagram": "good",
-         "$date": "2003",
-         "$list": "white"
+         "Pentagram": "good"
       },
       "Vocal Studies + Uprock Narratives": {
+         "$date": "2001",
+         "$list": "white",
          "Radio Attack": "",
          "Nuno": "",
          "Life Death": "",
@@ -1426,13 +1428,13 @@
          "Hot Winter’s Day": "short",
          "Black List": "",
          "Afternoon Love In": "good",
-         "7th Message": "",
-         "$date": "2001",
-         "$list": "white"
+         "7th Message": ""
       }
    },
    "Primitive Radio Gods": {
       "Rocket": {
+         "$date": "1996",
+         "$list": "white",
          "Women": "",
          "Motherfucker": "",
          "Standing Outside a Broken Phone Booth with Money in My Hand": {
@@ -1446,18 +1448,16 @@
          "Are You Happy": "",
          "Chain Reaction": "",
          "Skin Turns Blue": "",
-         "Rocket": "",
-         "$date": "1996",
-         "$list": "white"
+         "Rocket": ""
       }
    },
    "Queen": {
       "The Game": {
+         "$list": "black",
          "Another One Bites The Dust": {
             "flow": "8,724,293",
             "link": "https://youtu.be/NVIbCvfkO3E"
-         },
-         "$list": "black"
+         }
       }
    }
 }
