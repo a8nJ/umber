@@ -1,7 +1,7 @@
 {
    "Radiohead": {
       "A Moon Shaped Pool": {
-         "$date": 2016,
+         "$date": "2016",
          "$list": "black",
          "Burn the Witch": "",
          "Daydreaming": {
@@ -12,7 +12,7 @@
          "The Numbers": ""
       },
       "The King of Limbs": {
-         "$date": 2011,
+         "$date": "2011",
          "$list": "black",
          "Lotus Flower": {
             "flow": "6,919,866",
@@ -20,7 +20,7 @@
          }
       },
       "In Rainbows": {
-         "$date": 2007,
+         "$date": "2007",
          "$list": "white",
          "15 Step": "",
          "Bodysnatchers": "",
@@ -38,7 +38,7 @@
          "Videotape": ""
       },
       "Hail to the Thief": {
-         "$date": 2003,
+         "$date": "2003",
          "$list": "white",
          "2 + 2 = 5": "",
          "Sit Down. Stand Up.": "",
@@ -56,7 +56,7 @@
          "A Wolf at the Door.": ""
       },
       "Amnesiac": {
-         "$date": 2001,
+         "$date": "2001",
          "$list": "white",
          "Packt Like Sardines in a Crushd Tin Box": "",
          "Pyramid Song": "good",
@@ -71,7 +71,7 @@
          "Life in a Glasshouse": ""
       },
       "Kid A": {
-         "$date": 2000,
+         "$date": "2000",
          "$list": "white",
          "Everything in Its Right Place": "good",
          "Kid A": "",
@@ -85,7 +85,7 @@
          "Motion Picture Soundtrack": ""
       },
       "OK Computer": {
-         "$date": 1997,
+         "$date": "1997",
          "$list": "black",
          "I Promise": "",
          "Karma Police": "",
@@ -97,7 +97,7 @@
          "Paranoid Android": ""
       },
       "The Bends": {
-         "$date": 1995,
+         "$date": "1995",
          "$list": "black",
          "Fake Plastic Trees": {
             "flow": "7,034,238",
@@ -107,7 +107,7 @@
          "Street Spirit": ""
       },
       "Pablo Honey": {
-         "$date": 1993,
+         "$date": "1993",
          "$list": "black",
          "Creep": {
             "flow": "28,719,100",
@@ -117,7 +117,7 @@
    },
    "Rage Against the Machine": {
       "The Battle of Los Angeles": {
-         "$date": 1999,
+         "$date": "1999",
          "$list": "white",
          "Testify": "good",
          "Guerrilla Radio": "good",
@@ -134,7 +134,7 @@
          "No Shelter": ""
       },
       "Evil Empire": {
-         "$date": 1996,
+         "$date": "1996",
          "$list": "white",
          "People of the Sun": "short",
          "Bulls On Parade": {
@@ -153,7 +153,7 @@
          "Year of tha Boomerang": ""
       },
       "Rage Against the Machine": {
-         "$date": 1992,
+         "$date": "1992",
          "$list": "black",
          "Killing In the Name": {
             "flow": "12,597,100",
@@ -178,7 +178,7 @@
          "Mumtaz Khan": "short",
          "Gipsy Threat": "short",
          "Black Heroes": "",
-         "$date": 2008,
+         "$date": "2008",
          "$list": "white"
       },
       "Classics": {
@@ -192,7 +192,7 @@
          "Swisha": "",
          "Nostrand": "",
          "Tacobel Canon": "",
-         "$date": 2006,
+         "$date": "2006",
          "$list": "white"
       }
    },
@@ -202,7 +202,7 @@
             "flow": "65,117,864",
             "link": "https://youtu.be/Q0oIoR9mLwc"
          },
-         "$date": 2016,
+         "$date": "2016",
          "$list": "black"
       },
       "I’m With You": {
@@ -210,7 +210,7 @@
             "flow": "16,717,050",
             "link": "https://youtu.be/RtBbinpK5XI"
          },
-         "$date": 2011,
+         "$date": "2011",
          "$list": "black"
       },
       "Stadium Arcadium": {
@@ -220,11 +220,11 @@
          },
          "Snow": "",
          "Tell Me Baby": "",
-         "$date": 2006,
+         "$date": "2006",
          "$list": "black"
       },
       "By the Way": {
-         "$date": 2001,
+         "$date": "2001",
          "$list": "black",
          "By The Way": {
             "flow": "14,275,723",
@@ -242,7 +242,7 @@
          },
          "Otherside": "",
          "Scar Tissue": "",
-         "$date": 1999,
+         "$date": "1999",
          "$list": "black"
       },
       "One Hot Minute": {
@@ -262,7 +262,7 @@
          "Falling Into Grace": "",
          "Shallow Be Thy Game": "",
          "Transcending": "",
-         "$date": 1995,
+         "$date": "1995",
          "$list": "white"
       },
       "Blood Sugar Sex Magik": {
@@ -271,13 +271,13 @@
             "flow": "16,086,687",
             "link": "https://youtu.be/GLvohMXgcBo"
          },
-         "$date": 1991,
+         "$date": "1991",
          "$list": "black"
       }
    },
    "R.E.M.": {
       "Monster": {
-         "$date": 1994,
+         "$date": "1994",
          "$list": "white",
          "What’s the Frequency, Kenneth?": "good",
          "Crush With Eyeliner": "",
@@ -293,7 +293,7 @@
          "You": ""
       },
       "Automatic for the People": {
-         "$date": 1992,
+         "$date": "1992",
          "$list": "black",
          "Man On The Moon": {
             "flow": "8,055,132",
@@ -301,7 +301,7 @@
          }
       },
       "Out of Time": {
-         "$date": 1991,
+         "$date": "1991",
          "$list": "black",
          "Losing My Religion": {
             "flow": "70,617,941",
@@ -310,7 +310,7 @@
          "Shiny Happy People": ""
       },
       "Green": {
-         "$date": 1988,
+         "$date": "1988",
          "$list": "white",
          "Pop Song 89": "",
          "Get Up": "short",
@@ -326,7 +326,7 @@
    },
    "Richard D. James": {
       "Syro": {
-         "$date": 2014,
+         "$date": "2014",
          "$list": "white",
          "minipops 67 (source field mix)": "bad",
          "XMAS_EVET10 (thanaton3 mix)": "bad",
@@ -342,7 +342,7 @@
          "aisatsana": "good"
       },
       "26 Mixes for Cash": {
-         "$date": 2003,
+         "$date": "2003",
          "$list": "white",
          "Time to Find Me (AFX Fast mix)": "good",
          "Raising the Titanic (Big Drum mix)": "good",
@@ -372,7 +372,7 @@
          "Debase (Soft Palate)": ""
       },
       "Drukqs": {
-         "$date": 2001,
+         "$date": "2001",
          "$list": "white",
          "Jynweythek": "short",
          "Vordhosbn": "",
@@ -406,7 +406,7 @@
          "Nanou 2": "good"
       },
       "Windowlicker": {
-         "$date": 1999,
+         "$date": "1999",
          "$list": "white",
          "Windowlicker": {
             "rate": "good",
@@ -417,7 +417,7 @@
          "Nannou": ""
       },
       "Richard D. James Album": {
-         "$date": 1996,
+         "$date": "1996",
          "$list": "white",
          "4": "good",
          "Cornish Acid": "short",
@@ -431,7 +431,7 @@
          "Logan Rock Witch": ""
       },
       "I Care Because You Do": {
-         "$date": 1995,
+         "$date": "1995",
          "$list": "white",
          "Acrid Avid Jam Shred": "bad",
          "The Waxen Pith": "bad",
@@ -493,7 +493,7 @@
          "[Matchsticks]": ""
       },
       "On Remixes": {
-         "$date": 1993,
+         "$date": "1993",
          "$list": "white",
          "On (D-Scape mix)": "",
          "On (Reload mix)": "good",
@@ -501,7 +501,7 @@
          "On (28 mix)": ""
       },
       "On": {
-         "$date": 1993,
+         "$date": "1993",
          "$list": "white",
          "true": "good",
          "73-Yips": "",
@@ -509,7 +509,7 @@
          "Xepha": ""
       },
       "Selected Ambient Works 85–92": {
-         "$date": 1992,
+         "$date": "1992",
          "$list": "white",
          "Xtal": "good",
          "Tha": "good",
@@ -543,7 +543,7 @@
    },
    "Róisín Murphy": {
       "Overpowered": {
-         "$date": 2007,
+         "$date": "2007",
          "$list": "white",
          "Overpowered": "good",
          "You Know Me Better": "good",
@@ -560,7 +560,7 @@
    },
    "Ronald Jenkees": {
       "Disorganized Fun": {
-         "$date": 2009,
+         "$date": "2009",
          "$list": "white",
          "Disorganized Fun": "",
          "Fifteen Fifty": "",
@@ -593,7 +593,7 @@
          "Last to Know": "",
          "Forgive": "",
          "Getaway": "",
-         "$date": 2018,
+         "$date": "2018",
          "$list": "white"
       },
       "Roosevelt": {
@@ -609,11 +609,11 @@
          "Fever": "good",
          "Hold On": "good",
          "Close": "",
-         "$date": 2016,
+         "$date": "2016",
          "$list": "white"
       },
       "Elliot": {
-         "$date": 2013,
+         "$date": "2013",
          "$list": "white",
          "Elliot": "good",
          "Around You": "",
@@ -626,7 +626,7 @@
    },
    "Röyksopp": {
       "The Inevitable End": {
-         "$date": 2014,
+         "$date": "2014",
          "$list": "black",
          "Here She Comes Again": {
             "flow": "20,864,611",
@@ -635,7 +635,7 @@
          "Monument": ""
       },
       "Melody A.M.": {
-         "$date": 2001,
+         "$date": "2001",
          "$list": "white",
          "So Easy": "",
          "Eple": "good",
@@ -651,7 +651,7 @@
    },
    "Sade": {
       "Soldier of Love": {
-         "$date": 2010,
+         "$date": "2010",
          "$list": "white",
          "The Moon and the Sky": "",
          "Soldier of Love": "good",
@@ -665,7 +665,7 @@
          "The Safest Place": "short"
       },
       "Lovers Rock": {
-         "$date": 1999,
+         "$date": "1999",
          "$list": "black",
          "By Your Side": {
             "flow": "7,100,436",
@@ -673,7 +673,7 @@
          }
       },
       "Love Deluxe": {
-         "$date": 1992,
+         "$date": "1992",
          "$list": "black",
          "Cherish the Day": "",
          "Kiss of Life": "",
@@ -684,7 +684,7 @@
          "Pearls": ""
       },
       "Stronger Than Pride": {
-         "$date": 1988,
+         "$date": "1988",
          "$list": "white",
          "Love Is Stronger Than Pride": "",
          "Paradise": "good",
@@ -698,7 +698,7 @@
          "Siempre Hay Esperanza": ""
       },
       "Promise": {
-         "$date": 1985,
+         "$date": "1985",
          "$list": "white",
          "Is It a Crime": "good",
          "The Sweetest Taboo": {
@@ -717,7 +717,7 @@
          "Maureen": ""
       },
       "Diamond Life": {
-         "$date": 1984,
+         "$date": "1984",
          "$list": "white",
          "Smooth Operator": "good",
          "Your Love Is King": "good",
@@ -732,7 +732,7 @@
    },
    "Saint Etienne": {
       "Tales From Turnpike House": {
-         "$date": 2005,
+         "$date": "2005",
          "$list": "white",
          "Side Streets": "short",
          "A Good Thing": "bad",
@@ -749,7 +749,7 @@
          "Goodnight": "good"
       },
       "Tiger Bay": {
-         "$date": 1994,
+         "$date": "1994",
          "$list": "white",
          "Urban Clearway": "",
          "Former Lover": "good",
@@ -764,7 +764,7 @@
          "The Boy Scouts of America": "short"
       },
       "So Tough": {
-         "$date": 1993,
+         "$date": "1993",
          "$list": "white",
          "Mario’s Cafe": "bad",
          "Railway Jam": "bad",
@@ -785,7 +785,7 @@
          "Join Our Club": ""
       },
       "Foxbase Alpha": {
-         "$date": 1991,
+         "$date": "1991",
          "$list": "white",
          "This Is Radio Etienne": "short",
          "Only Love Can Break Your Heart": "good",
@@ -813,11 +813,11 @@
          "3y3": "",
          "T4ngled": "",
          "In Deep": "good",
-         "$date": 2016,
+         "$date": "2016",
          "$list": "white"
       },
       "Silkidrangar Sessions": {
-         "$date": 2015
+         "$date": "2015"
       },
       "Silkidrangar": {
          "Nótt": "good",
@@ -830,7 +830,7 @@
          "Hafið": "",
          "Hrafnar": "",
          "Vögguljóð": "",
-         "$date": 2014,
+         "$date": "2014",
          "$list": "white"
       },
       "=": {
@@ -873,7 +873,7 @@
          "If I Could": "",
          "I’m Alive": "",
          "Bring It On (reprise)": "short",
-         "$date": 1994,
+         "$date": "1994",
          "$list": "white"
       },
       "Seal": {
@@ -886,7 +886,7 @@
          "Wild": "",
          "Show Me": "",
          "Violet": "",
-         "$date": 1991,
+         "$date": "1991",
          "$list": "white"
       },
       "=": {
@@ -970,14 +970,14 @@
          "The Dream of the Fisherman’s Wife": "",
          "Your Love Ain’t Fair": "",
          "Pareidolia": "",
-         "$date": 2012,
+         "$date": "2012",
          "$list": "white"
       },
       "Delicacies": {
-         "$date": 2010
+         "$date": "2010"
       },
       "Temporary Pleasure": {
-         "$date": 2009
+         "$date": "2009"
       },
       "Attack Decay Sustain Release": {
          "Sleep Deprivation": "",
@@ -996,7 +996,7 @@
          "I Believe (SMD Space dub)": "",
          "Hot Dub": "",
          "Wooden (uncut)": "",
-         "$date": 2007,
+         "$date": "2007",
          "$list": "white"
       },
       "=": {
@@ -1019,7 +1019,7 @@
          "Belfast Child": "",
          "Biko": "",
          "When Spirits Rise": "short",
-         "$date": 1989,
+         "$date": "1989",
          "$list": "white"
       },
       "Once Upon a Time": {
@@ -1043,7 +1043,7 @@
    },
    "Solar Fields": {
       "Mirror’s Edge Catalyst": {
-         "$date": 2016,
+         "$date": "2016",
          "$list": "white",
          "Faith": "",
          "Release": "",
@@ -1170,16 +1170,16 @@
          "Swept": "bad",
          "Snakes and Lovers": "bad",
          "Through the Barricades": "bad",
-         "$date": 1986,
+         "$date": "1986",
          "$list": "white"
       },
       "Parade": {
-         "$date": 1984
+         "$date": "1984"
       },
       "true": {
          "Gold": "",
          "true": "",
-         "$date": 1983,
+         "$date": "1983",
          "$list": "black"
       },
       "=": {
@@ -1221,10 +1221,10 @@
          "$list": "white"
       },
       "Just a Souvenir": {
-         "$date": 2008
+         "$date": "2008"
       },
       "Hello Everything": {
-         "$date": 2006
+         "$date": "2006"
       },
       "Ultravisitor": {
          "Ultravisitor": "",
@@ -1242,20 +1242,20 @@
          "Tetra-Sync": "",
          "Tommib Help Buss": "short",
          "Every Day I Love": "short",
-         "$date": 2004,
+         "$date": "2004",
          "$list": "white"
       },
       "Do You Know Squarepusher": {
-         "$date": 2002
+         "$date": "2002"
       },
       "Go Plastic": {
-         "$date": 2001
+         "$date": "2001"
       },
       "Selection Sixteen": {
-         "$date": 1999
+         "$date": "1999"
       },
       "Music Is Rotted One Note": {
-         "$date": 1998
+         "$date": "1998"
       },
       "Hard Normal Daddy": {
          "Coopers World": "",
@@ -1270,7 +1270,7 @@
          "Male Pill Part 13": "",
          "Rat/P’s and Q’s": "",
          "Rebus": "short",
-         "$date": 1997,
+         "$date": "1997",
          "$list": "white"
       },
       "=": {
@@ -1291,7 +1291,7 @@
          "Pont des Arts": "",
          "La Goutte d’Or": "",
          "What You Think About": "",
-         "$date": 2000,
+         "$date": "2000",
          "$list": "white"
       },
       "Boulevard the Complete Series": {
@@ -1303,7 +1303,7 @@
          "What’s New?": "",
          "Dub Experience II": "",
          "Forget It": "",
-         "$date": 1995,
+         "$date": "1995",
          "$list": "white"
       },
       "=": {
@@ -1371,17 +1371,17 @@
          "Empty Time": "",
          "From the Heart of Darkness": "",
          "Desert Solitaire": "",
-         "$date": 1989,
+         "$date": "1989",
          "$list": "white"
       },
       "Dreamtime Return": {
-         "$date": 1988
+         "$date": "1988"
       },
       "The Leaving Time": {
-         "$date": 1988
+         "$date": "1988"
       },
       "Quiet Music 3": {
-         "$date": 1986
+         "$date": "1986"
       },
       "Quiet Music 2": {
          "See Things": "",
@@ -1389,7 +1389,7 @@
          "Something in Tears": "",
          "A Few More Moments": "good",
          "Air and Light": "",
-         "$date": 1986,
+         "$date": "1986",
          "$list": "white"
       },
       "=": {
@@ -1412,7 +1412,7 @@
          "Unglued": "short",
          "Army Ants": "",
          "Kitchenware & Candybars / My Second Album": "",
-         "$date": 1994,
+         "$date": "1994",
          "$list": "white"
       },
       "Core": {
@@ -1428,7 +1428,7 @@
          "Wet My Bed": "short",
          "Crackerman": "",
          "Where the River Goes": "",
-         "$date": 1992,
+         "$date": "1992",
          "$list": "white"
       },
       "=": {
@@ -1459,7 +1459,7 @@
    },
    "Suzanne Vega": {
       "Days of Open Hand": {
-         "$date": 1990,
+         "$date": "1990",
          "$list": "white",
          "Tired of Sleeping": "bad",
          "Men in a War": "bad",
@@ -1493,7 +1493,7 @@
          "Tom’s Diner (reprise)": "short"
       },
       "Suzanne Vega": {
-         "$date": 1985,
+         "$date": "1985",
          "$list": "white",
          "Cracking": "short",
          "Freeze Tag": "short",
@@ -1509,7 +1509,7 @@
    },
    "System of a Down": {
       "Hypnotize": {
-         "$date": 2005,
+         "$date": "2005",
          "$list": "black",
          "Hypnotize": "",
          "Lonely Day": {
@@ -1518,7 +1518,7 @@
          }
       },
       "Mezmerize": {
-         "$date": 2005,
+         "$date": "2005",
          "$list": "black",
          "B.Y.O.B.": {
             "flow": "30,340,425",
@@ -1527,7 +1527,7 @@
          "Question!": ""
       },
       "Toxicity": {
-         "$date": 2001,
+         "$date": "2001",
          "$list": "black",
          "Aerials": "",
          "Chop Suey!": {
@@ -1537,7 +1537,7 @@
          "Toxicity": ""
       },
       "System of a Down": {
-         "$date": 1998,
+         "$date": "1998",
          "$list": "black",
          "Spiders": "",
          "Sugar": {
