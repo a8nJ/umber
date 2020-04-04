@@ -952,12 +952,18 @@
          "444": "",
          "Bam": "",
          "Family Feud": "",
-         "The Story of O.J.": "",
+         "The Story of O.J.": {
+            "flow": "49,126,672",
+            "link": "https://youtu.be/RM7lw0Ovzq0"
+         },
          "$date": "2017",
          "$list": "black"
       },
       "Watch the Throne": {
-         "Niggas in Paris": "",
+         "Niggas In Paris": {
+            "flow": "34,181,289",
+            "link": "https://youtu.be/gG_dA32oH44"
+         },
          "Otis": "",
          "$date": "2011",
          "$list": "black"
@@ -967,7 +973,10 @@
          "Hovi Baby": "",
          "The Watcher 2": "",
          "’03 Bonnie & Clyde": "good",
-         "Excuse Me Miss": "",
+         "Excuse Me Miss": {
+            "flow": "4,272,958",
+            "link": "https://youtu.be/tnDh0JhmaFw"
+         },
          "What They Gonna Do": "",
          "All Around the World": "",
          "Poppin’ Tags": "",
@@ -990,49 +999,30 @@
          "What They Gonna Do, Part II": "",
          "$date": "2002",
          "$list": "white"
-      },
-      "=": {
-         "Excuse Me Miss": {
-            "flow": "4,272,958",
-            "link": "https://youtu.be/tnDh0JhmaFw"
-         },
-         "Niggas In Paris": {
-            "flow": "34,181,289",
-            "link": "https://youtu.be/gG_dA32oH44"
-         },
-         "The Story of O.J.": {
-            "flow": "49,126,672",
-            "link": "https://youtu.be/RM7lw0Ovzq0"
-         }
       }
    },
    "Jeff Buckley": {
       "Grace": {
-         "Hallelujah": "",
-         "Last Goodbye": "",
-         "$list": "black"
-      },
-      "=": {
          "Hallelujah": {
             "flow": "14,630,197",
             "link": "https://youtu.be/y8AWFf7EAc4"
-         }
+         },
+         "Last Goodbye": "",
+         "$list": "black"
       }
    },
    "Jekka": {
       "City of Night": {
          "Midnight Hour": "bad",
-         "City of Night": "good",
+         "City Of Night": {
+            "rate": "good",
+            "flow": "6,747",
+            "link": "https://youtu.be/tOjrQmVkJp4"
+         },
          "Hero": "bad",
          "On and On": "bad",
          "$date": "2015",
          "$list": "white"
-      },
-      "=": {
-         "City Of Night": {
-            "flow": "6,747",
-            "link": "https://youtu.be/tOjrQmVkJp4"
-         }
       }
    },
    "Jennifer Lopez": {
@@ -1203,7 +1193,10 @@
       "Pull My Hair Back": {
          "Giddy": "",
          "5785021": "",
-         "Kathy Lee": "",
+         "Kathy Lee": {
+            "flow": "112,282",
+            "link": "https://youtu.be/ZF2lZesYZo0"
+         },
          "Fuck Diamond": "",
          "Keep Moving": "",
          "Against the Wall": "",
@@ -1212,17 +1205,14 @@
          "Strange Emotion": "good",
          "$date": "2013",
          "$list": "white"
-      },
-      "=": {
-         "Kathy Lee": {
-            "flow": "112,282",
-            "link": "https://youtu.be/ZF2lZesYZo0"
-         }
       }
    },
    "John Frusciante": {
       "Curtains": {
-         "The Past Recedes": "",
+         "The Past Recedes": {
+            "flow": "820,397",
+            "link": "https://youtu.be/4v9CfE90Sts"
+         },
          "Lever Pulled": "short",
          "Anne": "",
          "The Real": "",
@@ -1234,12 +1224,6 @@
          "Time Tonight": "",
          "Leap Your Bar": "short",
          "$list": "white"
-      },
-      "=": {
-         "The Past Recedes": {
-            "flow": "820,397",
-            "link": "https://youtu.be/4v9CfE90Sts"
-         }
       }
    },
    "John Frusciante & Omar Rodriguez Lopez": {
@@ -1252,12 +1236,6 @@
          "0": "",
          "545 am": "",
          "$list": "white"
-      },
-      "=": {
-         "Omar Rodriguez Lopez & John Frusciante": {
-            "flow": "9,232",
-            "link": "https://youtu.be/2DMhQj17614"
-         }
       }
    },
    "John Powell": {
@@ -1277,12 +1255,6 @@
          "Extreme Ways": "",
          "$date": "2004-07-27",
          "$list": "white"
-      },
-      "=": {
-         "Flying theme": {
-            "flow": "1,194,519",
-            "link": "https://youtu.be/2C4lFUpI_4U"
-         }
       }
    },
    "Joss Stone": {
@@ -1290,17 +1262,14 @@
          "It’s a Man’s Man’s World (live)": "good",
          "Super Duper Love (Are You Diggin’ on Me?), Part 1": "",
          "$list": "white"
-      },
-      "=": {
-         "Put Your Hands On Me": {
-            "flow": "598,261",
-            "link": "https://youtu.be/h__d0RMFOkQ"
-         }
       }
    },
    "Joy Division": {
       "Love Will Tear Us Apart": {
-         "Love Will Tear Us Apart": "",
+         "Love Will Tear Us Apart": {
+            "flow": "9,197,387",
+            "link": "https://youtu.be/zuuObGsB0No"
+         },
          "These Days": "",
          "$date": "1980",
          "$list": "black"
@@ -1318,16 +1287,6 @@
          "I Remember Nothing": "",
          "$date": "1979",
          "$list": "white"
-      },
-      "=": {
-         "Love Will Tear Us Apart": {
-            "flow": "9,197,387",
-            "link": "https://youtu.be/zuuObGsB0No"
-         },
-         "Unknown Pleasures": {
-            "flow": "2,135,456",
-            "link": "https://youtu.be/wVvoQIdD80U"
-         }
       }
    },
    "Julia Holter": {
