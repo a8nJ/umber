@@ -1,7 +1,7 @@
 {
    "M83": {
       "Junk": {
-         "$date": 2016,
+         "$date": "2016",
          "Do It, Try It": "bad",
          "Go!": "bad",
          "Walkway Blues": "bad",
@@ -19,7 +19,7 @@
          "Sunday Night 1987": ""
       },
       "Oblivion Soundtrack": {
-         "$date": 2013,
+         "$date": "2013",
          "Jack’s Dream": "short",
          "Waking Up": "",
          "Tech 49": "",
@@ -43,7 +43,7 @@
          }
       },
       "Hurry Up, We’re Dreaming": {
-         "$date": 2011,
+         "$date": "2011",
          "Midnight City": {
             "trend": "33,682,222",
             "link": "https://youtu.be/dX3k_QDnzHE"
@@ -65,7 +65,7 @@
          "Too Late": "",
          "Dark Moves of Love": "",
          "Midnight Souls Still Remain": "",
-         "$date": 2008
+         "$date": "2008"
       },
       "Digital Shades, Volume 1": {
          "Waves, Waves, Waves": "short",
@@ -78,7 +78,7 @@
          "By the Kiss": "good",
          "Space Fertilizer": "short",
          "The Highest Journey": "good",
-         "$date": 2007
+         "$date": "2007"
       },
       "Before the Dawn Heals Us": {
          "Moon Child": "good",
@@ -96,7 +96,7 @@
          "Slight Night Shiver": "short",
          "A Guitar and a Heart": "",
          "Lower Your Eyelids to Die With the Sun": "",
-         "$date": 2005
+         "$date": "2005"
       },
       "Dead Cities, Red Seas & Lost Ghosts": {
          "Birds": "short",
@@ -116,7 +116,7 @@
          "In Church (Cyann & Ben version)": "good",
          "Gone (live)": "bad",
          "Dead Cities, Red Seas & Lost Ghosts": "",
-         "$date": 2003
+         "$date": "2003"
       },
       "M83": {
          "Last Saturday": "short",
@@ -132,12 +132,12 @@
          "Carresses": "bad",
          "My Face": "short",
          "I’m Happy, She Said": "short",
-         "$date": 2001
+         "$date": "2001"
       }
    },
    "Madonna": {
       "Rebel Heart": {
-         "$date": 2015,
+         "$date": "2015",
          "Bitch I’m Madonna": {
             "trend": "76,830,661",
             "link": "https://youtu.be/7hPMmzKs62w"
@@ -145,7 +145,7 @@
          "Ghosttown": ""
       },
       "MDNA": {
-         "$date": 2012,
+         "$date": "2012",
          "Girl Gone Wild": "",
          "Give Me All Your Luvin’": {
             "trend": "10,108,542",
@@ -153,7 +153,7 @@
          }
       },
       "Hard Candy": {
-         "$date": 2008,
+         "$date": "2008",
          "4 Minutes": {
             "trend": "7,832,501",
             "link": "https://youtu.be/aAQZPBwz2CI"
@@ -161,14 +161,14 @@
          "Give It 2 Me": ""
       },
       "Confessions on a Dance Floor": {
-         "$date": 2005,
+         "$date": "2005",
          "Hung Up": {
             "trend": "19,991,409",
             "link": "https://youtu.be/EDwb9jOVRtU"
          }
       },
       "Music": {
-         "$date": 2000,
+         "$date": "2000",
          "Music": "good",
          "Impressive Instant": "bad",
          "Runaway Lover": "bad",
@@ -183,14 +183,14 @@
          "Cyber-Raga": ""
       },
       "Ray of Light": {
-         "$date": 1998,
+         "$date": "1998",
          "Frozen": {
             "trend": "8,438,434",
             "link": "https://youtu.be/SKEFN9XNlyY"
          }
       },
       "Something to Remember": {
-         "$date": 1995,
+         "$date": "1995",
          "I Want You": "good",
          "I’ll Remember": "",
          "You’ll See": "",
@@ -205,7 +205,7 @@
          "Verás": ""
       },
       "Bedtime Stories": {
-         "$date": 1994,
+         "$date": "1994",
          "Survival": "",
          "Secret": {
             "rate": "good",
@@ -236,14 +236,14 @@
          }
       },
       "Like a Prayer": {
-         "$date": 1989,
+         "$date": "1989",
          "Like a Prayer": {
             "trend": "7,876,757",
             "link": "https://youtu.be/79fzeNUqQbQ"
          }
       },
       "True Blue": {
-         "$date": 1986,
+         "$date": "1986",
          "La Isla Bonita": {
             "trend": "17,047,985",
             "link": "https://youtu.be/zpzdgmqIHOQ"
@@ -252,7 +252,7 @@
          "Papa Don’t Preach": ""
       },
       "Like a Virgin": {
-         "$date": 1984,
+         "$date": "1984",
          "Dress You Up": "",
          "Like a Virgin": "",
          "Material Girl": {
@@ -301,24 +301,24 @@
       "Memoirs of an Imperfect Angel": {
          "I Want To Know What Love Is": "",
          "Obsessed": "",
-         "$date": 2009
+         "$date": "2009"
       },
       "E=MC²": {
          "Bye Bye": "",
          "Touch My Body": "",
-         "$date": 2008
+         "$date": "2008"
       },
       "The Emancipation of Mimi": {
          "Don’t Forget About Us": "",
          "We Belong Together": "",
-         "$date": 2005
+         "$date": "2005"
       },
       "Butterfly": {
          "My All": "",
-         "$date": 1997
+         "$date": "1997"
       },
       "Daydream": {
-         "$date": 1995,
+         "$date": "1995",
          "Always Be My Baby": {
             "trend": "15,209,697",
             "link": "https://youtu.be/LfRNRymrv9k"
@@ -327,12 +327,12 @@
       },
       "Merry Christmas": {
          "All I Want for Christmas Is You": "",
-         "$date": 1994
+         "$date": "1994"
       },
       "Music Box": {
          "Hero": "",
          "Without You": "",
-         "$date": 1993
+         "$date": "1993"
       },
       "=": {
          "All I Want For Christmas Is You": {
@@ -371,7 +371,7 @@
    },
    "Massive Attack": {
       "Heligoland": {
-         "$date": 2010,
+         "$date": "2010",
          "Pray for Rain": "good",
          "Babel": "bad",
          "Splitting the Atom": "bad",
@@ -386,7 +386,7 @@
          "United Snakes": ""
       },
       "Collected": {
-         "$date": 2006,
+         "$date": "2006",
          "Safe From Harm": "reissue",
          "Karmacoma": "reissue",
          "Angel": "reissue",
@@ -413,7 +413,7 @@
          "Danny the Dog": ""
       },
       "100th Window": {
-         "$date": 2002,
+         "$date": "2002",
          "Future Proof": "good",
          "What Your Soul Sings": "bad",
          "Everywhen": "good",
@@ -425,14 +425,14 @@
          "Antistar": "short"
       },
       "Mezzanine": {
-         "$date": 1998,
+         "$date": "1998",
          "Teardrop": {
             "trend": "6,311,699",
             "link": "https://youtu.be/u7K72X4eo_s"
          }
       },
       "Protection": {
-         "$date": 1994,
+         "$date": "1994",
          "Protection": "good",
          "Karmacoma": "good",
          "Three": "good",
@@ -444,7 +444,7 @@
          "Heat Miser": "bad"
       },
       "Blue Lines": {
-         "$date": 1991,
+         "$date": "1991",
          "Safe From Harm": "good",
          "One Love": "bad",
          "Blue Lines": "bad",
@@ -487,13 +487,13 @@
       "Way You Know / Only You": {
          "Way You Know": "good",
          "Only You": "",
-         "$date": 2013
+         "$date": "2013"
       },
       "Rift": {
          "Rift (original mix)": "good",
          "Rift (Andrew Bayer remix)": "",
          "Rift (Kerry Leva undo)": "",
-         "$date": 2011
+         "$date": "2011"
       },
       "=": {
          "In Out Of Phase": {
@@ -527,19 +527,19 @@
    "Meramek": {
       "Know Me": {
          "Know Me (original mix)": "good",
-         "$date": 2015
+         "$date": "2015"
       },
       "Only You EP": {
          "Only You (original mix)": "good",
          "Bounce": "",
          "Stepping Stones (original mix)": "",
-         "$date": 2014
+         "$date": "2014"
       },
       "Feeling / Maybe / FWD": {
          "Feeling": "good",
          "Maybe": "",
          "FWD": "",
-         "$date": 2013
+         "$date": "2013"
       },
       "=": {
          "Only You": {
@@ -551,23 +551,23 @@
    "Metallica": {
       "Hardwired… to Self‐Destruct": {
          "Hardwired": "",
-         "$date": 2016
+         "$date": "2016"
       },
       "Lulu": {
-         "$date": 2011
+         "$date": "2011"
       },
       "Death Magnetic": {
-         "$date": 2008
+         "$date": "2008"
       },
       "St. Anger": {
-         "$date": 2003
+         "$date": "2003"
       },
       "Garage Inc.": {
          "Whiskey in the Jar": "",
-         "$date": 1998
+         "$date": "1998"
       },
       "Reload": {
-         "$date": 1997
+         "$date": "1997"
       },
       "Load": {
          "Ain’t My Bitch": "",
@@ -584,27 +584,27 @@
          "Thorn Within": "",
          "Ronnie": "",
          "The Outlaw Torn": "",
-         "$date": 1996
+         "$date": "1996"
       },
       "Metallica (Black Album)": {
          "Enter Sandman": "",
          "Nothing Else Matters": "",
          "The Unforgiven": "",
          "Wherever I May Roam": "",
-         "$date": 1991
+         "$date": "1991"
       },
       "and Justice for All": {
          "One": "",
-         "$date": 1988
+         "$date": "1988"
       },
       "Master of Puppets": {
          "Master of Puppets": "",
-         "$date": 1986
+         "$date": "1986"
       },
       "Ride the Lightning": {
          "Fade to Black": "",
          "For Whom the Bell Tolls": "",
-         "$date": 1984
+         "$date": "1984"
       },
       "=": {
          "Fade to Black": {
@@ -640,7 +640,7 @@
    "MEUTE": {
       "You & Me": {
          "You & Me": "",
-         "$date": 2018
+         "$date": "2018"
       },
       "Tumult": {
          "The Man With the Red Face": "bad",
@@ -653,7 +653,7 @@
          "Rej": "",
          "Acamar": "",
          "Every Wall Is a Door": "",
-         "$date": 2017
+         "$date": "2017"
       },
       "=": {
          "REJ": {
@@ -680,36 +680,36 @@
    "Michael Jackson": {
       "Xscape": {
          "Slave to the Rhythm": "",
-         "$date": 2014
+         "$date": "2014"
       },
       "Michael": {
          "Hold My Hand": "",
-         "$date": 2010
+         "$date": "2010"
       },
       "Invincible": {
          "You Rock My World": "",
-         "$date": 2001
+         "$date": "2001"
       },
       "HIStory Past, Present and Future, Book I": {
          "Earth Song": "",
-         "$date": 1995
+         "$date": "1995"
       },
       "Dangerous": {
          "Black or White": "",
-         "$date": 1991
+         "$date": "1991"
       },
       "Bad": {
          "Bad": "",
-         "$date": 1987
+         "$date": "1987"
       },
       "Thriller": {
          "Beat It": "",
          "Human Nature": "",
-         "$date": 1982
+         "$date": "1982"
       },
       "Off the Wall": {
          "Don’t Stop ’Til You Get Enough": "",
-         "$date": 1979
+         "$date": "1979"
       },
       "=": {
          "Don’t Stop ’Til You Get Enough": {
@@ -786,7 +786,7 @@
          "Look Back In": "short",
          "The Rafters": "",
          "I’m Not Worried at All": "",
-         "$date": 2002
+         "$date": "2002"
       },
       "Play": {
          "Honey": "",
@@ -807,7 +807,7 @@
          "Guitar Flute & String": "short",
          "The Sky Is Broken": "",
          "My Weakness": "",
-         "$date": 1999
+         "$date": "1999"
       },
       "=": {
          "porcelain": {
@@ -818,7 +818,7 @@
    },
    "Modest Mouse": {
       "We Were Dead Before the Ship Even Sank": {
-         "$date": 2007,
+         "$date": "2007",
          "March Into the Sea": "bad",
          "Dashboard": {
             "rate": "bad",
@@ -839,7 +839,7 @@
          "Invisible": "bad"
       },
       "Good News for People Who Love Bad News": {
-         "$date": 2004,
+         "$date": "2004",
          "Float On": {
             "trend": "7,530,975",
             "link": "https://youtu.be/CTAud5O7Qqk"
@@ -859,7 +859,7 @@
          "The Only Ones": "",
          "I Want You": "",
          "Over & Over": "",
-         "$date": 2003
+         "$date": "2003"
       },
       "Things to Make and Do": {
          "Radio Moscow": "short",
@@ -880,7 +880,7 @@
          "If You Have a Cross to Bear You May as Well Use It as a Crutch": "",
          "Keep Stepping": "short",
          "Sing It Back (Boris Musical mix)": "",
-         "$date": 2000
+         "$date": "2000"
       },
       "=": {
          "The Time Is Now": {
@@ -947,7 +947,7 @@
          "Goodbye Forever": "",
          "Like a Sieve": "",
          "The Diamond": "",
-         "$date": 2008
+         "$date": "2008"
       },
       "Bring Me the Workhorse": {
          "Something of an End": "",
@@ -961,7 +961,7 @@
          "Magic Rabbit": "",
          "The Good & The Bad Guy": "",
          "Workhorse": "",
-         "$date": 2006
+         "$date": "2006"
       },
       "=": {
          "I Have Never Loved Someone": {
