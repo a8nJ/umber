@@ -98,6 +98,8 @@
    },
    "Ulrich Schnauss": {
       "Synthwaves": {
+         "$date": "2017",
+         "$list": "white",
          "Main Theme": "",
          "Rain on Dry Concrete": "",
          "Slow Life": "good",
@@ -105,11 +107,11 @@
          "A Calm but Steady Flow": "",
          "Thirst": "good",
          "Flare": "",
-         "Prism": "",
-         "$date": "2017",
-         "$list": "white"
+         "Prism": ""
       },
       "Passage": {
+         "$date": "2017",
+         "$list": "white",
          "Amaris": "bad",
          "Genau Wie Damals": "bad",
          "Anywhere but Here": "good",
@@ -120,11 +122,11 @@
          "Intervention Stjerner": "short",
          "Caffeine Blues": "bad",
          "Intervention Måne": "short",
-         "Coastal Path": "good",
-         "$date": "2017",
-         "$list": "white"
+         "Coastal Path": "good"
       },
       "Goodbye": {
+         "$date": "2007",
+         "$list": "white",
          "Never Be the Same": "bad",
          "Shine": "bad",
          "Stars": "bad",
@@ -138,11 +140,11 @@
             "flow": "60,659",
             "link": "https://youtu.be/yLNM-rJi1mM"
          },
-         "For Good": "bad",
-         "$date": "2007",
-         "$list": "white"
+         "For Good": "bad"
       },
       "Far Away Trains Passing By": {
+         "$date": "2005",
+         "$list": "white",
          "Knuddelmaus": "bad",
          "Between Us and Them": "bad",
          "Passing By": "bad",
@@ -154,11 +156,11 @@
          "Nothing Happens in June": "",
          "As If You’ve Never Been Away": "",
          "Crazy for You": "",
-         "Wherever You Are": "",
-         "$date": "2005",
-         "$list": "white"
+         "Wherever You Are": ""
       },
       "A Strangely Isolated Place": {
+         "$date": "2003",
+         "$list": "white",
          "Gone Forever": "bad",
          "On My Own": "bad",
          "A Letter From Home": "bad",
@@ -166,9 +168,7 @@
          "Clear Day": "",
          "Blumenthal": "",
          "In All the Wrong Places": "",
-         "A Strangely Isolated Place": "",
-         "$date": "2003",
-         "$list": "white"
+         "A Strangely Isolated Place": ""
       }
    },
    "Underworld": {
@@ -227,6 +227,8 @@
          "M.E.": ""
       },
       "Change the Weather": {
+         "$date": "1988",
+         "$list": "white",
          "Change the Weather": "bad",
          "Stand Up": "bad",
          "Fever": "bad",
@@ -236,13 +238,12 @@
          "Texas": "",
          "Thrash": "",
          "Sole Survivor": "",
-         "Beach": "short",
-         "$date": "1988",
-         "$list": "white"
+         "Beach": "short"
       }
    },
    "Us3": {
       "Hand on the Torch": {
+         "$list": "white",
          "Cantaloop": {
             "rate": "good",
             "flow": "822,480",
@@ -259,8 +260,7 @@
          "Lazy Day": "",
          "Eleven Long Years": "",
          "Make Tracks": "",
-         "The Darkside": "",
-         "$list": "white"
+         "The Darkside": ""
       }
    },
    "Usher": {
@@ -343,12 +343,12 @@
          "Slim Slow Slider": "good"
       },
       "Blowin’ Your Mind!": {
+         "$date": "1967",
+         "$list": "black",
          "Brown Eyed Girl": {
             "flow": "6,776,288",
             "link": "https://youtu.be/UfmkgQRmmeE"
-         },
-         "$date": "1967",
-         "$list": "black"
+         }
       }
    },
    "Warren G": {
@@ -371,6 +371,7 @@
    },
    "Wilco": {
       "The Whole Love": {
+         "$list": "white",
          "Art of Almost": "",
          "I Might": "",
          "Sunloathe": "",
@@ -382,8 +383,7 @@
          "Standing O": "",
          "Rising Red Lung": "",
          "Whole Love": "",
-         "One Sunday Morning": "",
-         "$list": "white"
+         "One Sunday Morning": ""
       }
    },
    "Will Smith": {

@@ -522,7 +522,10 @@
    "Blood Orange": {
       "Negro Swan": {
          "Orlando": "",
-         "Saint": "",
+         "Saint": {
+            "trend": "2,214,523",
+            "link": "https://youtu.be/mVH_wxk9ZtE"
+         },
          "Take Your Time": "short",
          "Hope": "bad",
          "Jewelry": "bad",
@@ -595,12 +598,6 @@
          "Bad Girls": "good",
          "$date": "2010",
          "$list": "white"
-      },
-      "=": {
-         "Saint": {
-            "trend": "2,214,523",
-            "link": "https://youtu.be/mVH_wxk9ZtE"
-         }
       }
    },
    "Boards of Canada": {
@@ -711,7 +708,11 @@
       "Boc Maxima": {
          "Chinook": "bad",
          "Rodox Video": "short",
-         "Everything You Do Is a Balloon": "good",
+         "Everything You Do Is a Balloon": {
+            "rate": "good",
+            "trend": "745,274",
+            "link": "https://youtu.be/dQEmaj9C6ko"
+         },
          "Boc Maxima": "short",
          "Nova Scotia Robots": "short",
          "June 9th": "bad",
@@ -727,12 +728,6 @@
          "Whitewater": "bad",
          "$date": "1996",
          "$list": "white"
-      },
-      "=": {
-         "Everything You Do Is a Balloon": {
-            "trend": "745,274",
-            "link": "https://youtu.be/dQEmaj9C6ko"
-         }
       }
    },
    "Bonobo": {
@@ -771,7 +766,11 @@
       },
       "Black Sands": {
          "Prelude": "short",
-         "Kiara": "good",
+         "Kiara": {
+            "rate": "good",
+            "trend": "1,668,464",
+            "link": "https://youtu.be/N7m86aMNjlQ"
+         },
          "Kong": "bad",
          "Eyesdown": "good",
          "El Toro": "good",
@@ -842,38 +841,25 @@
          "Silver": "good",
          "$date": "2000",
          "$list": "white"
-      },
-      "=": {
-         "Kiara": {
-            "trend": "1,668,464",
-            "link": "https://youtu.be/N7m86aMNjlQ"
-         }
       }
    },
    "Boyz II Men": {
       "II": {
-         "I’ll Make Love To You": "",
+         "I’ll Make Love To You": {
+            "trend": "12,910,607",
+            "link": "https://youtu.be/fV8vB1BB2qc"
+         },
          "On Bended Knee": "",
          "$date": "1994",
          "$list": "black"
       },
-      "Christmas Interpretations": {
-         "$date": "1993"
-      },
       "Cooleyhighharmony": {
-         "End Of The Road": "",
-         "$date": "1991",
-         "$list": "black"
-      },
-      "=": {
          "End Of The Road": {
             "trend": "13,061,094",
             "link": "https://youtu.be/zDKO6XYXioc"
          },
-         "I’ll Make Love To You": {
-            "trend": "12,910,607",
-            "link": "https://youtu.be/fV8vB1BB2qc"
-         }
+         "$date": "1991",
+         "$list": "black"
       }
    },
    "Boz Scaggs": {
@@ -909,12 +895,6 @@
          "Goodnight Louise": "",
          "$date": "1997",
          "$list": "white"
-      },
-      "Fade Into Light": {
-         "$date": "1996"
-      },
-      "Some Change": {
-         "$date": "1994"
       },
       "Other Roads": {
          "What’s Number One?": "bad",
