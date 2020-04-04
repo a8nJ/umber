@@ -1,7 +1,7 @@
 {
    "Cake": {
       "Fashion Nugget": {
-         "$date": 1996,
+         "$date": "1996",
          "$list": "white",
          "Frank Sinatra": "good",
          "The Distance": "",
@@ -21,7 +21,7 @@
    },
    "Can": {
       "Ege Bamyasi": {
-         "$date": 1972,
+         "$date": "1972",
          "$list": "white",
          "Pinch": "",
          "Sing Swan Song": "",
@@ -38,7 +38,7 @@
    },
    "Cassie": {
       "Cassie": {
-         "$date": 2006,
+         "$date": "2006",
          "$list": "black",
          "Long Way 2 Go": "",
          "Me & U": {
@@ -49,7 +49,7 @@
    },
    "Chet Faker": {
       "Built on Glass": {
-         "$date": 2014,
+         "$date": "2014",
          "1998": "",
          "Gold": {
             "trend": "40,403,436",
@@ -59,7 +59,7 @@
    },
    "Chicago": {
       "Chicago 17": {
-         "$date": 1984,
+         "$date": "1984",
          "$list": "black",
          "You’re The Inspiration": {
             "trend": "7,406,342",
@@ -67,7 +67,7 @@
          }
       },
       "Chicago X": {
-         "$date": 1976,
+         "$date": "1976",
          "$list": "white",
          "Once or Twice": "",
          "You Are on My Mind": "",
@@ -86,7 +86,7 @@
          "Hope for Love": ""
       },
       "Chicago V": {
-         "$date": 1972,
+         "$date": "1972",
          "$list": "white",
          "A Hit by Varèse": "",
          "All Is Well": "",
@@ -100,7 +100,7 @@
          "Alma Mater": ""
       },
       "Chicago II": {
-         "$date": 1969,
+         "$date": "1969",
          "$list": "white",
          "Movin’ In": "",
          "The Road": "",
@@ -139,7 +139,7 @@
          "Don’t Give Up": "bad",
          "Saltwater (The Thrillseekers remix)": "good",
          "Andromeda": "bad",
-         "$date": 2000,
+         "$date": "2000",
          "$list": "white"
       },
       "Far From the Maddening Crowds": {
@@ -154,7 +154,7 @@
          "Sunstroke (original mix)": "",
          "Offshore ’97": "good",
          "The Drive Home": "",
-         "$date": 1997,
+         "$date": "1997",
          "$list": "white"
       },
       "=": {
@@ -166,7 +166,7 @@
    },
    "Childish Gambino": {
       "Awaken, My Love!": {
-         "$date": 2016,
+         "$date": "2016",
          "$list": "black",
          "Me and Your Mama": "",
          "Redbone": {
@@ -175,7 +175,7 @@
          }
       },
       "Because the Internet": {
-         "$date": 2013,
+         "$date": "2013",
          "$list": "black",
          "3005": "",
          "Sweatpants": {
@@ -185,7 +185,7 @@
          "Telegraph Ave": ""
       },
       "Camp": {
-         "$date": 2011,
+         "$date": "2011",
          "$list": "white",
          "Outside": "bad",
          "Fire Fly": "bad",
@@ -205,7 +205,7 @@
    "Chris Isaak": {
       "Heart Shaped World": {
          "Wicked Game": "",
-         "$date": 1989,
+         "$date": "1989",
          "$list": "black"
       },
       "Chris Isaak": {
@@ -220,7 +220,7 @@
          "Cryin’": "short",
          "Lovers Game": "short",
          "Waiting for the Rain to Fall": "",
-         "$date": 1986,
+         "$date": "1986",
          "$list": "white"
       },
       "=": {
@@ -237,7 +237,7 @@
    "Ciara": {
       "Basic Instinct": {
          "Ride": "",
-         "$date": 2010,
+         "$date": "2010",
          "$list": "black"
       },
       "=": {
@@ -249,7 +249,7 @@
    },
    "Cocteau Twins": {
       "Milk & Kisses": {
-         "$date": 1996,
+         "$date": "1996",
          "$list": "white",
          "Violaine": "bad",
          "Serpentskirt": "good",
@@ -263,7 +263,7 @@
          "Seekers Who Are Lovers": ""
       },
       "Four-Calendar Café": {
-         "$date": 1993,
+         "$date": "1993",
          "$list": "white",
          "Know Who You Are at Every Age": "",
          "Evangeline": "bad",
@@ -277,7 +277,7 @@
          "Pur": ""
       },
       "Heaven or Las Vegas": {
-         "$date": 1990,
+         "$date": "1990",
          "$list": "white",
          "Cherry-Coloured Funk": "bad",
          "Pitch the Baby": "bad",
@@ -295,7 +295,7 @@
          "Frou-Frou Foxes in Midsummer Fires": ""
       },
       "Blue Bell Knoll": {
-         "$date": 1988,
+         "$date": "1988",
          "$list": "white",
          "Blue Bell Knoll": "",
          "Athol-Brose": "bad",
@@ -309,7 +309,7 @@
          "Ella Megalast Burls Forever": "bad"
       },
       "Victorialand": {
-         "$date": 1986,
+         "$date": "1986",
          "$list": "white",
          "Lazy Calm": "good",
          "Fluffy Tufts": "",
@@ -322,7 +322,7 @@
          "The Thinner the Air": ""
       },
       "Tiny Dynamine": {
-         "$date": 1985,
+         "$date": "1985",
          "$list": "white",
          "Pink Orange Red": "good",
          "Ribbed and Veined": "good",
@@ -330,7 +330,7 @@
          "Sultitan Itan": ""
       },
       "Treasure": {
-         "$date": 1984,
+         "$date": "1984",
          "$list": "white",
          "Ivo": "good",
          "Lorelei": "bad",
@@ -344,7 +344,7 @@
          "Donimo": ""
       },
       "Sunburst and Snowblind": {
-         "$date": 1983,
+         "$date": "1983",
          "$list": "white",
          "Sugar Hiccup": "reissue",
          "From the Flagstones": "",
@@ -352,7 +352,7 @@
          "Because of Whirl-Jack": ""
       },
       "Head Over Heels": {
-         "$date": 1983,
+         "$date": "1983",
          "$list": "white",
          "When Mama Was Moth": "",
          "Five Ten Fiftyfold": "good",
@@ -366,7 +366,7 @@
          "Musette and Drums": "good"
       },
       "Garlands": {
-         "$date": 1982,
+         "$date": "1982",
          "$list": "white",
          "Blood Bitch": "bad",
          "Wax and Wane": "bad",
@@ -381,7 +381,7 @@
    "Coldplay": {
       "A Rush of Blood to the Head": {
          "The Scientist": "",
-         "$date": 2002,
+         "$date": "2002",
          "$list": "black"
       },
       "=": {
@@ -405,7 +405,7 @@
          "Syrthio": "",
          "When Will You Find the Limit": "",
          "Iteration": "",
-         "$date": 2017,
+         "$date": "2017",
          "$list": "white"
       },
       "In Decay": {
@@ -422,7 +422,7 @@
          "Video Arkade": "",
          "Data Kiss": "",
          "Closed": "",
-         "$date": 2012,
+         "$date": "2012",
          "$list": "white"
       },
       "Galactic Melt": {
@@ -437,7 +437,7 @@
          "Ether Drift": "",
          "Futureworld": "",
          "Karova": "",
-         "$date": 2011,
+         "$date": "2011",
          "$list": "white"
       },
       "=": {
@@ -459,7 +459,7 @@
          "Dying Light": "",
          "Forever Lost": "",
          "Into the Escape": "",
-         "$date": 2005,
+         "$date": "2005",
          "$list": "white"
       },
       "Conjure One": {
@@ -474,7 +474,7 @@
          "Pandora": "good",
          "Sleep": "",
          "Premonition (reprise)": "",
-         "$date": 2002,
+         "$date": "2002",
          "$list": "white"
       },
       "=": {
@@ -496,15 +496,15 @@
          "I Wish I Was a Girl": "",
          "Speedway": "",
          "St. Robinson in His Cadillac Dream / Kid Things": "",
-         "$date": 1999,
+         "$date": "1999",
          "$list": "white"
       },
       "Recovering the Satellites": {
-         "$date": 1996
+         "$date": "1996"
       },
       "August and Everything After": {
          "Mr. Jones": "",
-         "$date": 1993,
+         "$date": "1993",
          "$list": "black"
       },
       "=": {
@@ -531,7 +531,7 @@
          "The Way": "",
          "Hear My Song": "",
          "Witch Doctor": "",
-         "$date": 2015,
+         "$date": "2015",
          "$list": "white"
       },
       "When We On": {
@@ -546,7 +546,7 @@
          "Eruption": "",
          "Wecanonlybewhoweare": "",
          "Future Beat": "",
-         "$date": 2011,
+         "$date": "2011",
          "$list": "white"
       },
       "=": {
@@ -568,7 +568,7 @@
          "Left of Mother": "",
          "Sweetest Pie": "",
          "Cuckoo": "",
-         "$date": 1993,
+         "$date": "1993",
          "$list": "white"
       },
       "=": {
