@@ -1,16 +1,18 @@
 {
    "Daft Punk": {
       "Random Access Memories": {
+         "$date": "2013",
+         "$list": "black",
          "Get Lucky": {
             "flow": "74,543,389",
             "link": "https://youtu.be/5NV6Rdv1a3I"
          },
          "Instant Crush": "",
-         "Lose Yourself to Dance": "",
-         "$date": "2013",
-         "$list": "black"
+         "Lose Yourself to Dance": ""
       },
       "TRON Legacy": {
+         "$date": "2010",
+         "$list": "white",
          "Overture": "short",
          "The Grid": "short",
          "The Son of Flynn": "short",
@@ -32,11 +34,11 @@
          "Arrival": "short",
          "Flynn Lives": "",
          "TRON Legacy (End Titles)": "",
-         "Finale": "",
-         "$date": "2010",
-         "$list": "white"
+         "Finale": ""
       },
       "Alive 2007": {
+         "$date": "2007",
+         "$list": "white",
          "Robot Rock / Oh Yeah": "",
          "Touch It / Technologic": "",
          "Television Rules the Nation / Crescendolls": "",
@@ -49,11 +51,11 @@
          "Prime Time of Your Life / Brainwasher / Rollin’ and Scratchin’ / Alive": "",
          "Da Funk / Daftendirekt": "good",
          "Superheroes / Human After All / Rock’n Roll": "",
-         "Human After All/Together/One More Time/Music Sounds Better With You": "good",
-         "$date": "2007",
-         "$list": "white"
+         "Human After All/Together/One More Time/Music Sounds Better With You": "good"
       },
       "Human After All": {
+         "$date": "2005",
+         "$list": "white",
          "Human After All": "bad",
          "The Prime Time of Your Life": "bad",
          "Robot Rock": "bad",
@@ -66,29 +68,29 @@
             "flow": "4,433,751",
             "link": "https://youtu.be/D8K90hX4PrE"
          },
-         "Emotion": "",
-         "$date": "2005",
-         "$list": "white"
+         "Emotion": ""
       },
       "Discovery": {
+         "$date": "2001",
+         "$list": "black",
          "Digital Love": "",
          "Harder Better Faster Stronger": "",
          "One More Time": "",
-         "Something About Us": "",
-         "$date": "2001",
-         "$list": "black"
+         "Something About Us": ""
       },
       "Homework": {
+         "$date": "1997",
+         "$list": "black",
          "Around the World": {
             "flow": "12,883,797",
             "link": "https://youtu.be/yca6UsllwYs"
-         },
-         "$date": "1997",
-         "$list": "black"
+         }
       }
    },
    "Dan Hess": {
       "Pilotwings 64": {
+         "$date": "1996",
+         "$list": "white",
          "Hang Glider": "good",
          "Rocket Belt": "good",
          "Gyrocopter": "",
@@ -97,13 +99,13 @@
             "flow": 78,
             "link": "https://youtu.be/GJWY-mWoiM0"
          },
-         "Bravissimo!": "",
-         "$date": "1996",
-         "$list": "white"
+         "Bravissimo!": ""
       }
    },
    "Daniel Lanois": {
       "Acadie": {
+         "$date": "1989",
+         "$list": "white",
          "Still Water": "",
          "The Maker": "",
          "O Marie": "",
@@ -119,13 +121,13 @@
          "Silium’s Hill": "",
          "Ice": "",
          "St. Ann’s Gold": "",
-         "Amazing Grace": "",
-         "$date": "1989",
-         "$list": "white"
+         "Amazing Grace": ""
       }
    },
    "Dave Matthews Band": {
       "Stand Up": {
+         "$date": "2005",
+         "$list": "white",
          "Dreamgirl": "",
          "Old Dirt Hill (Bring That Beat Back)": "",
          "Stand Up (for It)": "",
@@ -139,11 +141,11 @@
          "Stolen Away on 55th & 3rd": "",
          "You Might Die Trying": "good",
          "Steady as We Go": "",
-         "Hunger for the Great Light": "",
-         "$date": "2005",
-         "$list": "white"
+         "Hunger for the Great Light": ""
       },
       "Busted Stuff": {
+         "$date": "2002",
+         "$list": "white",
          "Busted Stuff": "bad",
          "Grey Street": "good",
          "Where Are You Going?": "",
@@ -154,11 +156,11 @@
          "Kit Kat Jam": "",
          "Digging a Ditch": "",
          "Big Eyed Fish": "",
-         "Bartender": "",
-         "$date": "2002",
-         "$list": "white"
+         "Bartender": ""
       },
       "Everyday": {
+         "$date": "2001",
+         "$list": "white",
          "I Did It": "bad",
          "When the World Ends": "bad",
          "The Space Between": "bad",
@@ -170,9 +172,7 @@
          "Fool to Think": "",
          "Sleep to Dream Her": "",
          "Mother Father": "",
-         "Everyday": "",
-         "$date": "2001",
-         "$list": "white"
+         "Everyday": ""
       },
       "Before These Crowded Streets": {
          "Pantala Naga Pampa": "short",

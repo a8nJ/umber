@@ -960,15 +960,17 @@
          }
       },
       "Watch the Throne": {
+         "$date": "2011",
+         "$list": "black",
          "Niggas In Paris": {
             "flow": "34,181,289",
             "link": "https://youtu.be/gG_dA32oH44"
          },
-         "Otis": "",
-         "$date": "2011",
-         "$list": "black"
+         "Otis": ""
       },
       "The Blueprint² The Gift & The Curse": {
+         "$date": "2002",
+         "$list": "white",
          "A Dream": "",
          "Hovi Baby": "",
          "The Watcher 2": "",
@@ -996,23 +998,23 @@
          "A Ballad for the Fallen Soldier": "",
          "Show You How": "short",
          "Bitches & Sisters": "short",
-         "What They Gonna Do, Part II": "",
-         "$date": "2002",
-         "$list": "white"
+         "What They Gonna Do, Part II": ""
       }
    },
    "Jeff Buckley": {
       "Grace": {
+         "$list": "black",
          "Hallelujah": {
             "flow": "14,630,197",
             "link": "https://youtu.be/y8AWFf7EAc4"
          },
-         "Last Goodbye": "",
-         "$list": "black"
+         "Last Goodbye": ""
       }
    },
    "Jekka": {
       "City of Night": {
+         "$date": "2015",
+         "$list": "white",
          "Midnight Hour": "bad",
          "City Of Night": {
             "rate": "good",
@@ -1020,54 +1022,52 @@
             "link": "https://youtu.be/tOjrQmVkJp4"
          },
          "Hero": "bad",
-         "On and On": "bad",
-         "$date": "2015",
-         "$list": "white"
+         "On and On": "bad"
       }
    },
    "Jennifer Lopez": {
       "A.K.A.": {
+         "$date": "2014",
+         "$list": "black",
          "Booty": {
             "flow": "70,093,191",
             "link": "https://youtu.be/nxtIRArhVD4"
-         },
-         "$date": "2014",
-         "$list": "black"
+         }
       },
       "LOVE?": {
+         "$date": "2011",
+         "$list": "black",
          "On The Floor": {
             "flow": "167,548,257",
             "link": "https://youtu.be/t4H_Zoh7G5A"
          },
-         "Papi": "",
-         "$date": "2011",
-         "$list": "black"
+         "Papi": ""
       },
       "Rebirth": {
+         "$date": "2005",
+         "$list": "black",
          "Get Right": {
             "flow": "11,605,360",
             "link": "https://youtu.be/1WIsnC-h1d0"
-         },
-         "$date": "2005",
-         "$list": "black"
+         }
       },
       "J.Lo": {
+         "$date": "2001",
+         "$list": "black",
          "I’m Gonna Be Alright": "",
          "I’m Real": "",
          "Love Don’t Cost a Thing": {
             "flow": "11,799,361",
             "link": "https://youtu.be/4kGvlESGvbs"
-         },
-         "$date": "2001",
-         "$list": "black"
+         }
       },
       "On the 6": {
+         "$date": "1999",
+         "$list": "black",
          "If You Had My Love": {
             "flow": "10,299,126",
             "link": "https://youtu.be/lYfkl-HXfuU"
-         },
-         "$date": "1999",
-         "$list": "black"
+         }
       }
    },
    "Jeremy Soule": {
@@ -1183,14 +1183,16 @@
    },
    "Jessy Lanza": {
       "You Never Show Your Love": {
+         "$date": "2015",
+         "$list": "white",
          "You Never Show Your Love": "good",
          "You Never Show Your Love (instrumental)": "",
          "You Never Show Your Love (Teklife mix)": "",
-         "Fuck Diamond (Bambounou remix)": "",
-         "$date": "2015",
-         "$list": "white"
+         "Fuck Diamond (Bambounou remix)": ""
       },
       "Pull My Hair Back": {
+         "$date": "2013",
+         "$list": "white",
          "Giddy": "",
          "5785021": "",
          "Kathy Lee": {
@@ -1202,13 +1204,12 @@
          "Against the Wall": "",
          "Pull My Hair Back": "",
          "As If": "",
-         "Strange Emotion": "good",
-         "$date": "2013",
-         "$list": "white"
+         "Strange Emotion": "good"
       }
    },
    "John Frusciante": {
       "Curtains": {
+         "$list": "white",
          "The Past Recedes": {
             "flow": "820,397",
             "link": "https://youtu.be/4v9CfE90Sts"
@@ -1222,24 +1223,25 @@
          "Hope": "short",
          "Ascension": "short",
          "Time Tonight": "",
-         "Leap Your Bar": "short",
-         "$list": "white"
+         "Leap Your Bar": "short"
       }
    },
    "John Frusciante & Omar Rodriguez Lopez": {
       "Omar Rodriguez Lopez & John Frusciante": {
+         "$list": "white",
          "417 am": "",
          "0=2": "good",
          "LOE": "",
          "ZIM": "",
          "VTA": "",
          "0": "",
-         "545 am": "",
-         "$list": "white"
+         "545 am": ""
       }
    },
    "John Powell": {
       "The Bourne Supremacy": {
+         "$date": "2004-07-27",
+         "$list": "white",
          "Goa": "good",
          "The Drop": "",
          "Funeral Pyre": "short",
@@ -1252,29 +1254,29 @@
          "Moscow Wind Up": "",
          "Bim Bam Smash": "",
          "Atonement": "short",
-         "Extreme Ways": "",
-         "$date": "2004-07-27",
-         "$list": "white"
+         "Extreme Ways": ""
       }
    },
    "Joss Stone": {
       "Super Duper Love": {
+         "$list": "white",
          "It’s a Man’s Man’s World (live)": "good",
-         "Super Duper Love (Are You Diggin’ on Me?), Part 1": "",
-         "$list": "white"
+         "Super Duper Love (Are You Diggin’ on Me?), Part 1": ""
       }
    },
    "Joy Division": {
       "Love Will Tear Us Apart": {
+         "$date": "1980",
+         "$list": "black",
          "Love Will Tear Us Apart": {
             "flow": "9,197,387",
             "link": "https://youtu.be/zuuObGsB0No"
          },
-         "These Days": "",
-         "$date": "1980",
-         "$list": "black"
+         "These Days": ""
       },
       "Unknown Pleasures": {
+         "$date": "1979",
+         "$list": "white",
          "Disorder": "good",
          "Day of the Lords": "good",
          "Candidate": "",
@@ -1284,9 +1286,7 @@
          "Shadowplay": "good",
          "Wilderness": "short",
          "Interzone": "short",
-         "I Remember Nothing": "",
-         "$date": "1979",
-         "$list": "white"
+         "I Remember Nothing": ""
       }
    },
    "Julia Holter": {
