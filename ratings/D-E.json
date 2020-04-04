@@ -4,7 +4,7 @@
          "Get Lucky": "",
          "Instant Crush": "",
          "Lose Yourself to Dance": "",
-         "$date": 2013,
+         "$date": "2013",
          "$list": "black"
       },
       "TRON Legacy": {
@@ -30,7 +30,7 @@
          "Flynn Lives": "",
          "TRON Legacy (End Titles)": "",
          "Finale": "",
-         "$date": 2010,
+         "$date": "2010",
          "$list": "white"
       },
       "Alive 2007": {
@@ -47,7 +47,7 @@
          "Da Funk / Daftendirekt": "good",
          "Superheroes / Human After All / Rock’n Roll": "",
          "Human After All/Together/One More Time/Music Sounds Better With You": "good",
-         "$date": 2007,
+         "$date": "2007",
          "$list": "white"
       },
       "Human After All": {
@@ -61,7 +61,7 @@
          "Television Rules the Nation": "",
          "Technologic": "",
          "Emotion": "",
-         "$date": 2005,
+         "$date": "2005",
          "$list": "white"
       },
       "Discovery": {
@@ -69,12 +69,12 @@
          "Harder Better Faster Stronger": "",
          "One More Time": "",
          "Something About Us": "",
-         "$date": 2001,
+         "$date": "2001",
          "$list": "black"
       },
       "Homework": {
          "Around the World": "",
-         "$date": 1997,
+         "$date": "1997",
          "$list": "black"
       },
       "=": {
@@ -104,7 +104,7 @@
          "Jumble Hopper": "",
          "Birdman": "",
          "Bravissimo!": "",
-         "$date": 1996,
+         "$date": "1996",
          "$list": "white"
       },
       "=": {
@@ -128,7 +128,7 @@
          "Ice": "",
          "St. Ann’s Gold": "",
          "Amazing Grace": "",
-         "$date": 1989,
+         "$date": "1989",
          "$list": "white"
       },
       "=": {
@@ -154,7 +154,7 @@
          "You Might Die Trying": "good",
          "Steady as We Go": "",
          "Hunger for the Great Light": "",
-         "$date": 2005,
+         "$date": "2005",
          "$list": "white"
       },
       "Busted Stuff": {
@@ -169,7 +169,7 @@
          "Digging a Ditch": "",
          "Big Eyed Fish": "",
          "Bartender": "",
-         "$date": 2002,
+         "$date": "2002",
          "$list": "white"
       },
       "Everyday": {
@@ -185,7 +185,7 @@
          "Sleep to Dream Her": "",
          "Mother Father": "",
          "Everyday": "",
-         "$date": 2001,
+         "$date": "2001",
          "$list": "white"
       },
       "Before These Crowded Streets": {
@@ -200,7 +200,7 @@
          "The Dreaming Tree": "",
          "Pig": "",
          "Spoon": "",
-         "$date": 1998,
+         "$date": "1998",
          "$list": "white"
       },
       "Crash": {
@@ -216,7 +216,7 @@
          "Cry Freedom": "",
          "Tripping Billies": "",
          "Proudest Monkey": "",
-         "$date": 1996,
+         "$date": "1996",
          "$list": "white"
       },
       "Under the Table and Dreaming": {
@@ -232,7 +232,7 @@
          "Warehouse": "",
          "Pay for What You Get": "",
          "34": "",
-         "$date": 1994,
+         "$date": "1994",
          "$list": "white"
       },
       "=": {
@@ -245,20 +245,20 @@
    "Depeche Mode": {
       "Spirit": {
          "Where’s the Revolution": "",
-         "$date": 2017,
+         "$date": "2017",
          "$list": "black"
       },
       "Delta Machine": {
-         "$date": 2013
+         "$date": "2013"
       },
       "Sounds of the Universe": {
-         "$date": 2009
+         "$date": "2009"
       },
       "Playing the Angel": {
-         "$date": 2005
+         "$date": "2005"
       },
       "Exciter": {
-         "$date": 2001
+         "$date": "2001"
       },
       "Ultra": {
          "Barrel of a Gun": "bad",
@@ -273,34 +273,34 @@
          "The Bottom Line": "bad",
          "Insight": "bad",
          "Junior Painkiller": "short",
-         "$date": 1997,
+         "$date": "1997",
          "$list": "white"
       },
       "Songs of Faith and Devotion": {
-         "$date": 1993
+         "$date": "1993"
       },
       "Violator": {
          "Enjoy The Silence": "",
          "Personal Jesus": "",
-         "$date": 1990,
+         "$date": "1990",
          "$list": "black"
       },
       "Music for the Masses": {
          "Strangelove": "",
-         "$date": 1987,
+         "$date": "1987",
          "$list": "black"
       },
       "Black Celebration": {
-         "$date": 1986
+         "$date": "1986"
       },
       "Some Great Reward": {
-         "$date": 1984
+         "$date": "1984"
       },
       "Construction Time Again": {
-         "$date": 1983
+         "$date": "1983"
       },
       "A Broken Frame": {
-         "$date": 1982
+         "$date": "1982"
       },
       "Speak & Spell": {
          "New Life": "bad",
@@ -314,7 +314,7 @@
          "Big Muff": "",
          "Any Second Now (Voices)": "short",
          "Just Can’t Get Enough": "",
-         "$date": 1981,
+         "$date": "1981",
          "$list": "white"
       },
       "=": {
@@ -347,7 +347,7 @@
          "No Intention": "good",
          "Remade Horizon": "",
          "Fluorescent Half Dome": "",
-         "$date": 2009,
+         "$date": "2009",
          "$list": "white"
       },
       "=": {
@@ -377,13 +377,13 @@
          "The Brazilian": "",
          "Simple Things, Part 2": "",
          "Days Go By (acoustic)": "short",
-         "$date": 2002,
+         "$date": "2002",
          "$list": "white"
       }
    },
    "Disturbed": {
       "Evolution": {
-         "$date": 2018,
+         "$date": "2018",
          "$list": "black",
          "A Reason To Fight": {
             "flow": "16,779,619",
@@ -399,7 +399,7 @@
          "The Vengeful One": ""
       },
       "Immortalized": {
-         "$date": 2015,
+         "$date": "2015",
          "$list": "black",
          "The Sound of Silence": {
             "flow": "153,992,522",
@@ -407,7 +407,7 @@
          }
       },
       "Ten Thousand Fists": {
-         "$date": 2005,
+         "$date": "2005",
          "$list": "black",
          "Stricken": {
             "flow": "6,488,391",
@@ -415,7 +415,7 @@
          }
       },
       "The Sickness": {
-         "$date": 2000,
+         "$date": "2000",
          "$list": "black",
          "Down With the Sickness": {
             "flow": "9,703,017",
@@ -428,7 +428,7 @@
    },
    "Doe Paoro": {
       "After": {
-         "$date": 2015,
+         "$date": "2015",
          "$list": "white",
          "Traveling": "good",
          "Nostalgia": "bad",
@@ -442,7 +442,7 @@
          "Wake Up in Nowhere": ""
       },
       "Slow to Love": {
-         "$date": 2012,
+         "$date": "2012",
          "$list": "white",
          "Intro": "short",
          "Born Whole": "bad",
@@ -457,7 +457,7 @@
    },
    "Dr. Dre": {
       "2001": {
-         "$date": 1999,
+         "$date": "1999",
          "$list": "black",
          "Forgot About Dre": "",
          "Still D.R.E.": {
@@ -467,7 +467,7 @@
          "The Next Episode": ""
       },
       "The Chronic": {
-         "$date": 1992,
+         "$date": "1992",
          "$list": "white",
          "The Chronic (intro)": "short",
          "Fuck Wit Dre Day (And Everybody’s Celebratin’)": "",
@@ -493,7 +493,7 @@
    },
    "Duke Ellington": {
       "Money Jungle": {
-         "$date": 1962,
+         "$date": "1962",
          "$list": "white",
          "Money Jungle": "",
          "Fleurette Africaine": "good",
@@ -512,7 +512,7 @@
          "Segue in C": "",
          "B D B": "",
          "Jumpin’ at the Woodside": "",
-         "$date": 1961,
+         "$date": "1961",
          "$list": "white"
       },
       "=": {
@@ -525,14 +525,14 @@
    "Duran Duran": {
       "Duran Duran (The Wedding Album)": {
          "Come Undone": "",
-         "$date": 1993,
+         "$date": "1993",
          "$list": "black"
       },
       "Liberty": {
-         "$date": 1990
+         "$date": "1990"
       },
       "Big Thing": {
-         "$date": 1988
+         "$date": "1988"
       },
       "Notorious": {
          "Notorious": "bad",
@@ -545,7 +545,7 @@
          "“Meet el Presidente”": "bad",
          "Winter Marches On": "bad",
          "Proposition": "bad",
-         "$date": 1986,
+         "$date": "1986",
          "$list": "white"
       },
       "=": {
@@ -571,7 +571,7 @@
          "I Can’t Hold Back": "",
          "Stranger in a Strange Land": "",
          "Calm Before the Storm": "",
-         "$date": 1985,
+         "$date": "1985",
          "$list": "white"
       },
       "=": {
@@ -585,7 +585,7 @@
       "Can’t Give It Up / Figure It Out (Night Edit)": {
          "Can’t Give It Up": "short",
          "Figure It Out (Night Edit)": "good",
-         "$date": 2016,
+         "$date": "2016",
          "$list": "white"
       },
       "Last Chance to Dance": {
@@ -593,7 +593,7 @@
          "Holiday Blues (demo)": "",
          "Ex-Change (demo)": "short",
          "Only U 4 Me (demo)": "short",
-         "$date": 2014,
+         "$date": "2014",
          "$list": "white"
       },
       "=": {
@@ -606,7 +606,7 @@
    "Eli & Fur": {
       "Illusions": {
          "You’re So High": "",
-         "$date": 2013,
+         "$date": "2013",
          "$list": "black"
       },
       "Night Blooming Jasmine": {
@@ -615,7 +615,7 @@
          "Parfume": "",
          "Honest": "",
          "Parfume (extended mix)": "",
-         "$date": 2018,
+         "$date": "2018",
          "$list": "white"
       },
       "=": {
@@ -632,7 +632,7 @@
    "Elton John": {
       "Madman Across the Water": {
          "Tiny Dancer": "",
-         "$date": 1971,
+         "$date": "1971",
          "$list": "black"
       },
       "=": {
@@ -653,7 +653,7 @@
          "Speed of Dark": "",
          "Blood Red": "",
          "When Fever Breaks": "",
-         "$date": 2013,
+         "$date": "2013",
          "$list": "white"
       },
       "Me and Armini": {
@@ -669,7 +669,7 @@
          "Beggar’s Prayer": "short",
          "Dead Duck": "",
          "Bleeder": "",
-         "$date": 2008,
+         "$date": "2008",
          "$list": "white"
       },
       "Fisherman’s Woman": {
@@ -685,7 +685,7 @@
          "Fisherman’s Woman": "short",
          "Thinking Out Loud": "",
          "Serenade": "",
-         "$date": 2005,
+         "$date": "2005",
          "$list": "white"
       },
       "Love in the Time of Science": {
@@ -700,7 +700,7 @@
          "Tuna Fish": "",
          "Summerbreeze": "",
          "Sea People": "short",
-         "$date": 1999,
+         "$date": "1999",
          "$list": "white"
       },
       "=": {
@@ -722,12 +722,12 @@
          "All for Nothing": "",
          "When I’m With Him": "",
          "Again": "",
-         "$date": 2018,
+         "$date": "2018",
          "$list": "white"
       },
       "Woman Is a Word": {
          "Woman Is a Word": "good",
-         "$date": 2016,
+         "$date": "2016",
          "$list": "white"
       },
       "Me": {
@@ -741,7 +741,7 @@
          "Make Up": "bad",
          "Threat": "bad",
          "Icon": "bad",
-         "$date": 2015,
+         "$date": "2015",
          "$list": "white"
       },
       "Systems": {
@@ -781,7 +781,7 @@
    "Enya": {
       "A Day Without Rain": {
          "Only Time": "",
-         "$date": 2000,
+         "$date": "2000",
          "$list": "black"
       },
       "=": {
@@ -803,11 +803,11 @@
          "Lullaby of Clubland": "",
          "No Difference": "",
          "The Future of the Future (Stay Gold)": "",
-         "$date": 1999,
+         "$date": "1999",
          "$list": "white"
       },
       "Walking Wounded": {
-         "$date": 1996
+         "$date": "1996"
       },
       "Amplified Heart": {
          "Rollercoaster": "",
@@ -820,7 +820,7 @@
          "We Walk the Same Line": "",
          "25th December": "",
          "Disenchanted": "short",
-         "$date": 1994,
+         "$date": "1994",
          "$list": "white"
       },
       "Acoustic": {
@@ -835,7 +835,7 @@
          "Me and Bobby D": "",
          "Come On Home": "",
          "Fascination (live)": "",
-         "$date": 1992,
+         "$date": "1992",
          "$list": "white"
       },
       "Worldwide": {
@@ -850,7 +850,7 @@
          "Politics Aside": "",
          "Boxing and Pop Music": "",
          "Feel Alright": "short",
-         "$date": 1991,
+         "$date": "1991",
          "$list": "white"
       },
       "The Language of Life": {
@@ -864,7 +864,7 @@
          "Letting Love Go": "",
          "My Baby Don’t Love Me": "",
          "The Road": "",
-         "$date": 1990,
+         "$date": "1990",
          "$list": "white"
       },
       "=": {
