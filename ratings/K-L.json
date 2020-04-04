@@ -102,14 +102,21 @@
       "Golden Hour": {
          "Butterflies": "",
          "High Horse": "",
-         "Rainbow": "",
+         "Rainbow": {
+            "flow": "33,574,919",
+            "link": "https://youtu.be/6OFv566mj7s"
+         },
          "Space Cowboy": "",
          "$date": "2018",
          "$list": "black"
       },
       "Pageant Material": {
          "High Time": "short",
-         "Dime Store Cowgirl": "bad",
+         "Dime Store Cowgirl": {
+            "bad": "bad",
+            "flow": "356,715",
+            "link": "https://youtu.be/_eTkY7-vTd8"
+         },
          "Late to the Party": "",
          "Pageant Material": "",
          "This Town": "short",
@@ -139,16 +146,6 @@
          "It Is What It Is": "bad",
          "$date": "2013",
          "$list": "white"
-      },
-      "=": {
-         "Dime Store Cowgirl": {
-            "flow": "356,715",
-            "link": "https://youtu.be/_eTkY7-vTd8"
-         },
-         "Rainbow": {
-            "flow": "33,574,919",
-            "link": "https://youtu.be/6OFv566mj7s"
-         }
       }
    },
    "Kate Bush": {
@@ -285,12 +282,6 @@
          "Still Alive (J.C. mix)": "short",
          "$date": "2011",
          "$list": "white"
-      },
-      "=": {
-         "Half Life 2 Soundtrack": {
-            "flow": "364,513",
-            "link": "https://youtu.be/Xt2sbtvBuk8"
-         }
       }
    },
    "King Crimson": {
@@ -301,18 +292,16 @@
          "Moonchild (including The Dream and The Illusion)": "",
          "The Court of the Crimson King": "",
          "$list": "white"
-      },
-      "=": {
-         "Starless": {
-            "flow": "2,694,106",
-            "link": "https://youtu.be/FhKJgqxNDD8"
-         }
       }
    },
    "Kings of Convenience": {
       "Riot on an Empty Street": {
          "Homesick": "",
-         "Misread": "good",
+         "Misread": {
+            "rate": "good",
+            "flow": "1,766,969",
+            "link": "https://youtu.be/WOxE7IRizjI"
+         },
          "Cayman Islands": "good",
          "Stay Out of Trouble": "",
          "Know-How": "",
@@ -324,12 +313,6 @@
          "Gold in the Air of Summer": "good",
          "The Build-Up": "",
          "$list": "white"
-      },
-      "=": {
-         "Misread": {
-            "flow": "1,766,969",
-            "link": "https://youtu.be/WOxE7IRizjI"
-         }
       }
    },
    "Koda": {

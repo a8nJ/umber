@@ -674,7 +674,11 @@
    "Michael McDonald": {
       "If That’s What It Takes": {
          "Playin’ by the Rules": "",
-         "I Keep Forgettin’ (Every Time You’re Near)": "good",
+         "I Keep Forgettin’": {
+            "rate": "good",
+            "trend": "1,474,782",
+            "link": "https://youtu.be/cjqOsYRQI0o"
+         },
          "Love Lies": "",
          "I Gotta Try": "",
          "I Can Let Go Now": "short",
@@ -683,12 +687,6 @@
          "No Such Luck": "",
          "Losin’ End": "",
          "Believe in It": ""
-      },
-      "=": {
-         "I Keep Forgettin’": {
-            "trend": "1,474,782",
-            "link": "https://youtu.be/cjqOsYRQI0o"
-         }
       }
    },
    "Moby": {
@@ -716,7 +714,11 @@
       "Play": {
          "Honey": "",
          "Find My Baby": "",
-         "Porcelain": "good",
+         "porcelain": {
+            "rate": "good",
+            "trend": "2,541,264",
+            "link": "https://youtu.be/QhZnEagfjTQ"
+         },
          "Why Does My Heart Feel So Bad?": "",
          "South Side": "",
          "Rushing": "",
@@ -733,12 +735,6 @@
          "The Sky Is Broken": "",
          "My Weakness": "",
          "$date": "1999"
-      },
-      "=": {
-         "porcelain": {
-            "trend": "2,541,264",
-            "link": "https://youtu.be/QhZnEagfjTQ"
-         }
       }
    },
    "Modest Mouse": {
@@ -795,7 +791,10 @@
          "Remain the Same": "bad",
          "A Drop in the Ocean": "short",
          "Dumb Inc.": "",
-         "The Time Is Now": "",
+         "The Time Is Now": {
+            "trend": "1,492,925",
+            "link": "https://youtu.be/kl8mpAvTm_Y"
+         },
          "Mother": "",
          "It’s Your Problem": "short",
          "It’s Nothing": "",
@@ -806,19 +805,10 @@
          "Keep Stepping": "short",
          "Sing It Back (Boris Musical mix)": "",
          "$date": "2000"
-      },
-      "=": {
-         "The Time Is Now": {
-            "trend": "1,492,925",
-            "link": "https://youtu.be/kl8mpAvTm_Y"
-         }
       }
    },
    "Montell Jordan": {
       "This Is How We Do It": {
-         "This Is How We Do It": ""
-      },
-      "=": {
          "This Is How We Do It": {
             "trend": "10,267,590",
             "link": "https://youtu.be/0hiUuL5uTKc"
@@ -827,9 +817,6 @@
    },
    "Mr Mister": {
       "Welcome to the Real World": {
-         "Broken Wings": ""
-      },
-      "=": {
          "Broken Wings": {
             "trend": "14,062,770",
             "link": "https://youtu.be/nKhN1t_7PEY"
@@ -838,7 +825,10 @@
    },
    "μ‐Ziq": {
       "Lunatic Harness": {
-         "Brace Yourself Jason": "",
+         "Brace Yourself Jason": {
+            "trend": "27,477",
+            "link": "https://youtu.be/UN_9nB37O_U"
+         },
          "Hasty Boom Alert": "good",
          "Mushroom Compost": "",
          "Blainville": "",
@@ -851,12 +841,6 @@
          "Catkin and Teasel": "",
          "London": "",
          "Midwinter Log": ""
-      },
-      "=": {
-         "Brace Yourself Jason": {
-            "trend": "27,477",
-            "link": "https://youtu.be/UN_9nB37O_U"
-         }
       }
    },
    "My Brightest Diamond": {
@@ -887,12 +871,6 @@
          "The Good & The Bad Guy": "",
          "Workhorse": "",
          "$date": "2006"
-      },
-      "=": {
-         "I Have Never Loved Someone": {
-            "trend": "88,860",
-            "link": "https://youtu.be/u1p9kj-odnU"
-         }
       }
    },
    "My Morning Jacket": {
@@ -907,12 +885,6 @@
          "Lay Low": "",
          "Knot Comes Loose": "",
          "Dondante": ""
-      },
-      "=": {
-         "Touch Me I’m Going to Scream Part II": {
-            "trend": "593,561",
-            "link": "https://youtu.be/Bpdwwa7lsUI"
-         }
       }
    }
 }
