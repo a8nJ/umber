@@ -129,6 +129,8 @@
    },
    "Chicane": {
       "Behind the Sun": {
+         "$date": "2000",
+         "$list": "white",
          "Overture": "good",
          "Low Sun": "good",
          "No Ordinary Morning": "bad",
@@ -142,11 +144,11 @@
          "Overlap": "bad",
          "Don’t Give Up": "bad",
          "Saltwater (The Thrillseekers remix)": "good",
-         "Andromeda": "bad",
-         "$date": "2000",
-         "$list": "white"
+         "Andromeda": "bad"
       },
       "Far From the Maddening Crowds": {
+         "$date": "1997",
+         "$list": "white",
          "Early": "",
          "Already There": "short",
          "Offshore (original mix)": "",
@@ -157,9 +159,7 @@
          "Red Skies": "",
          "Sunstroke (original mix)": "",
          "Offshore ’97": "good",
-         "The Drive Home": "",
-         "$date": "1997",
-         "$list": "white"
+         "The Drive Home": ""
       }
    },
    "Childish Gambino": {
@@ -202,14 +202,16 @@
    },
    "Chris Isaak": {
       "Heart Shaped World": {
+         "$date": "1989",
+         "$list": "black",
          "Wicked Game": {
             "trend": "9,828,608",
             "link": "https://youtu.be/ib6VAJbEBjg"
-         },
-         "$date": "1989",
-         "$list": "black"
+         }
       },
       "Chris Isaak": {
+         "$date": "1986",
+         "$list": "white",
          "You Owe Me Some Kind of Love": "good",
          "Heart Full of Soul": "",
          "Blue Hotel": "",
@@ -220,19 +222,17 @@
          "You Took My Heart": "short",
          "Cryin’": "short",
          "Lovers Game": "short",
-         "Waiting for the Rain to Fall": "",
-         "$date": "1986",
-         "$list": "white"
+         "Waiting for the Rain to Fall": ""
       }
    },
    "Ciara": {
       "Basic Instinct": {
+         "$date": "2010",
+         "$list": "black",
          "Ride": {
             "trend": "19,725,835",
             "link": "https://youtu.be/wl2NCXzg1FQ"
-         },
-         "$date": "2010",
-         "$list": "black"
+         }
       }
    },
    "Cocteau Twins": {
@@ -368,17 +368,19 @@
    },
    "Coldplay": {
       "A Rush of Blood to the Head": {
+         "$date": "2002",
+         "$list": "black",
          "The Scientist": {
             "trend": "80,172,619",
             "link": "https://youtu.be/RB-RcX5DS5A"
-         },
-         "$date": "2002",
-         "$list": "black"
+         }
       }
    },
    "Com Truise": {
       "Iteration": {
          "Of Your Fake Dimension": "bad",
+         "$date": "2017",
+         "$list": "white",
          "Ephemeron": "bad",
          "Dryswch": "",
          "Isostasy": "",
@@ -392,11 +394,11 @@
          "Usurper": "",
          "Syrthio": "",
          "When Will You Find the Limit": "",
-         "Iteration": "",
-         "$date": "2017",
-         "$list": "white"
+         "Iteration": ""
       },
       "In Decay": {
+         "$date": "2012",
+         "$list": "white",
          "Open": "",
          "84’ Dreamin": "",
          "Dreambender": "",
@@ -409,11 +411,11 @@
          "Smily Cyclops": "",
          "Video Arkade": "",
          "Data Kiss": "",
-         "Closed": "",
-         "$date": "2012",
-         "$list": "white"
+         "Closed": ""
       },
       "Galactic Melt": {
+         "$date": "2011",
+         "$list": "white",
          "Terminal": "short",
          "VHS Sex": "bad",
          "Cathode Girls": "bad",
@@ -424,13 +426,13 @@
          "Glawio": "",
          "Ether Drift": "",
          "Futureworld": "",
-         "Karova": "",
-         "$date": "2011",
-         "$list": "white"
+         "Karova": ""
       }
    },
    "Conjure One": {
       "Extraordinary Ways": {
+         "$date": "2005",
+         "$list": "white",
          "Endless Dream": "bad",
          "Face the Music": "bad",
          "Pilgrimage": "bad",
@@ -440,11 +442,11 @@
          "Extraordinary Way": "",
          "Dying Light": "",
          "Forever Lost": "",
-         "Into the Escape": "",
-         "$date": "2005",
-         "$list": "white"
+         "Into the Escape": ""
       },
       "Conjure One": {
+         "$date": "2002",
+         "$list": "white",
          "Damascus": "short",
          "Center of the Sun": "",
          "Tears From the Moon": {
@@ -458,13 +460,13 @@
          "Make a Wish": "",
          "Pandora": "good",
          "Sleep": "",
-         "Premonition (reprise)": "",
-         "$date": "2002",
-         "$list": "white"
+         "Premonition (reprise)": ""
       }
    },
    "Counting Crows": {
       "This Desert Life": {
+         "$date": "1999",
+         "$list": "white",
          "Hanginaround": "",
          "Mrs. Potter’s Lullaby": "",
          "Amy Hit the Atmosphere": "",
@@ -474,21 +476,21 @@
          "Colorblind": "good",
          "I Wish I Was a Girl": "",
          "Speedway": "",
-         "St. Robinson in His Cadillac Dream / Kid Things": "",
-         "$date": "1999",
-         "$list": "white"
+         "St. Robinson in His Cadillac Dream / Kid Things": ""
       },
       "August and Everything After": {
+         "$date": "1993",
+         "$list": "black",
          "Mr. Jones": {
             "trend": "13,704,250",
             "link": "https://youtu.be/-oqAU5VxFWs"
-         },
-         "$date": "1993",
-         "$list": "black"
+         }
       }
    },
    "Crazy P": {
       "Walk Dance Talk Sing": {
+         "$date": "2015",
+         "$list": "white",
          "Like a Fool": "good",
          "The Come On": "",
          "Echo": "",
@@ -499,11 +501,11 @@
          "Scrap the Book": "",
          "The Way": "",
          "Hear My Song": "",
-         "Witch Doctor": "",
-         "$date": "2015",
-         "$list": "white"
+         "Witch Doctor": ""
       },
       "When We On": {
+         "$date": "2011",
+         "$list": "white",
          "Open for Service": "",
          "Changes": "",
          "Beatbox": "",
@@ -518,13 +520,13 @@
          "Your Dark Energy": "",
          "Eruption": "",
          "Wecanonlybewhoweare": "",
-         "Future Beat": "",
-         "$date": "2011",
-         "$list": "white"
+         "Future Beat": ""
       }
    },
    "Curve": {
       "Cuckoo": {
+         "$date": "1993",
+         "$list": "white",
          "Missing Link": "",
          "Crystal": "",
          "Men Are From Mars, Women Are From Venus": "good",
@@ -534,9 +536,7 @@
          "Superblaster": "",
          "Left of Mother": "",
          "Sweetest Pie": "",
-         "Cuckoo": "",
-         "$date": "1993",
-         "$list": "white"
+         "Cuckoo": ""
       }
    }
 }

@@ -74,6 +74,8 @@
    },
    "Flamingosis": {
       "Great Hair": {
+         "$date": "2016",
+         "$list": "white",
          "Hidden Attraction": "short",
          "Frugal Livin’": "short",
          "Riding the L": "",
@@ -86,11 +88,11 @@
          "Sun Whisperer": "",
          "Breakfast Poutine": "short",
          "Snacks on Snacks": "",
-         "Elevator Pass": "short",
-         "$date": "2016",
-         "$list": "white"
+         "Elevator Pass": "short"
       },
       "Pleasure Palette": {
+         "$date": "2015",
+         "$list": "white",
          "Pleasure Palette": "short",
          "Down For The Fifth Time": "good",
          "Finesse (Hey Baby)": "short",
@@ -106,13 +108,13 @@
             "rate": "good",
             "flow": "2,286,983",
             "link": "https://youtu.be/1hJKhiew2O0"
-         },
-         "$date": "2015",
-         "$list": "white"
+         }
       }
    },
    "Fleet Foxes": {
       "Crack‐Up": {
+         "$date": "2017-06-16",
+         "$list": "white",
          "I Am All That I Need / Arroyo Seco / Thumbprint Scar": "",
          "Cassius, -": "",
          "- Naiads, Cassadies": "",
@@ -123,11 +125,11 @@
          "On Another Ocean (January / June)": "",
          "Fool’s Errand": "",
          "I Should See Memphis": "",
-         "Crack‐Up": "",
-         "$date": "2017-06-16",
-         "$list": "white"
+         "Crack‐Up": ""
       },
       "Helplessness Blues": {
+         "$date": "2011",
+         "$list": "white",
          "Montezuma": "good",
          "Bedouin Dress": "",
          "Sim Sala Bim": "",
@@ -139,9 +141,7 @@
          "Someone You’d Admire": "short",
          "The Shrine / An Argument": "",
          "Blue Spotted Tail": "",
-         "Grown Ocean": "",
-         "$date": "2011",
-         "$list": "white"
+         "Grown Ocean": ""
       },
       "Fleet Foxes": {
          "$date": "2008-06-03",
@@ -159,6 +159,8 @@
          "Oliver James": "good"
       },
       "Sun Giant": {
+         "$date": "2008-03-09",
+         "$list": "white",
          "Sun Giant": "short",
          "Drops in the River": "good",
          "English House": "good",
@@ -167,9 +169,7 @@
             "flow": "1,526,713",
             "link": "https://youtu.be/DT-dxG4WWf4"
          },
-         "Innocent Son": "bad",
-         "$date": "2008-03-09",
-         "$list": "white"
+         "Innocent Son": "bad"
       }
    },
    "Fleetwood Mac": {
@@ -269,6 +269,8 @@
    },
    "Foghat": {
       "Fool for the City": {
+         "$date": "1974",
+         "$list": "white",
          "Fool for the City": "",
          "My Babe": "",
          "Slow Ride": {
@@ -279,89 +281,89 @@
          "Terraplane Blues": "",
          "Save Your Loving (for Me)": "",
          "Drive Me Home": "",
-         "Take It or Leave It": "",
-         "$date": "1974",
-         "$list": "white"
+         "Take It or Leave It": ""
       }
    },
    "Foo Fighters": {
       "Concrete and Gold": {
+         "$date": "2017",
+         "$list": "black",
          "Run": "",
          "The Sky Is a Neighborhood": {
             "flow": "28,652,318",
             "link": "https://youtu.be/TRqiFPpw2fY"
-         },
-         "$date": "2017",
-         "$list": "black"
+         }
       },
       "Sonic Highways": {
+         "$date": "2014",
+         "$list": "black",
          "Something From Nothing": {
             "flow": "7,013,168",
             "link": "https://youtu.be/V_YlZ1JdcVk"
-         },
-         "$date": "2014",
-         "$list": "black"
+         }
       },
       "Wasting Light": {
+         "$date": "2011",
+         "$list": "black",
          "These Days": "",
          "Walk": {
             "flow": "11,562,945",
             "link": "https://youtu.be/4PkcfQtibmU"
-         },
-         "$date": "2011",
-         "$list": "black"
+         }
       },
       "Echoes, Silence, Patience & Grace": {
+         "$date": "2007",
+         "$list": "black",
          "The Pretender": {
             "flow": "38,899,344",
             "link": "https://youtu.be/SBjQ9tuuTJQ"
-         },
-         "$date": "2007",
-         "$list": "black"
+         }
       },
       "In Your Honor": {
+         "$date": "2005",
+         "$list": "black",
          "Best Of You": {
             "flow": "16,432,068",
             "link": "https://youtu.be/h_L4Rixya64"
-         },
-         "$date": "2005",
-         "$list": "black"
+         }
       },
       "One by One": {
+         "$date": "2002",
+         "$list": "black",
          "All My Life": {
             "flow": "7,246,410",
             "link": "https://youtu.be/xQ04WbgI9rg"
-         },
-         "$date": "2002",
-         "$list": "black"
+         }
       },
       "There Is Nothing Left to Lose": {
+         "$date": "1999",
+         "$list": "black",
          "Learn To Fly": {
             "flow": "11,766,693",
             "link": "https://youtu.be/1VQ_3sBZEm0"
-         },
-         "$date": "1999",
-         "$list": "black"
+         }
       },
       "The Colour and the Shape": {
+         "$date": "1997",
+         "$list": "black",
          "Everlong": {
             "flow": "15,438,960",
             "link": "https://youtu.be/eBG7P-K-r1Y"
-         },
-         "$date": "1997",
-         "$list": "black"
+         }
       }
    },
    "Foreigner": {
       "Agent Provocateur": {
+         "$date": "1984",
+         "$list": "black",
          "I Want To Know What Love Is": {
             "flow": "17,302,308",
             "link": "https://youtu.be/raNGeq3_DtM"
-         },
-         "$date": "1984",
-         "$list": "black"
+         }
       },
       "4": {
+         "$date": "1981",
+         "$list": "white",
          "Night Life": "",
          "Juke Box Hero": "",
          "Break It Up": "",
@@ -371,9 +373,7 @@
          "I’m Gonna Win": "",
          "Woman in Black": "",
          "Girl on the Moon": "",
-         "Don’t Let Go": "",
-         "$date": "1981",
-         "$list": "white"
+         "Don’t Let Go": ""
       },
       "Foreigner": {
          "Feels Like The First Time": {
