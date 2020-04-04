@@ -256,12 +256,6 @@
          "The Flying Club Cup": "",
          "$date": "2007",
          "$list": "white"
-      },
-      "=": {
-         "Elephant Gun": {
-            "trend": "2,371,023",
-            "link": "https://youtu.be/SWSz_PAfgNc"
-         }
       }
    },
    "Bell Biv DeVoe": {
@@ -271,18 +265,15 @@
          "Let Me Know Something?!": "",
          "Do Me!": "",
          "Ronnie, Bobby, Ricky, Mike, Ralph and Johnny (Word to the Mutha)!": "",
-         "Poison": "",
+         "Poison": {
+            "trend": "1,351,460",
+            "link": "https://youtu.be/sb2np1HGqxg"
+         },
          "Ain’t Nut’in’ Changed!": "",
          "When Will I See You Smile Again?": "",
          "I Do Need You.": "",
          "$date": "1990",
          "$list": "white"
-      },
-      "=": {
-         "Poison": {
-            "trend": "1,351,460",
-            "link": "https://youtu.be/sb2np1HGqxg"
-         }
       }
    },
    "Ben Howard": {
@@ -296,15 +287,13 @@
          "Keep Your Head Up": "",
          "Black Flies": "",
          "Gracious": "",
-         "Promise": "good",
-         "$date": "2011",
-         "$list": "white"
-      },
-      "=": {
          "Promise": {
+            "rate": "good",
             "trend": "5,103,551",
             "link": "https://youtu.be/CVUOTzoVeZA"
-         }
+         },
+         "$date": "2011",
+         "$list": "white"
       }
    },
    "Bibio": {
@@ -322,9 +311,6 @@
          "You Won’t Remember...": "",
          "$date": "2013",
          "$list": "white"
-      },
-      "Mind Bokeh": {
-         "$date": "2011"
       },
       "Ambivalence Avenue": {
          "Ambivalence Avenue": "",
@@ -361,18 +347,16 @@
          "The Garden Shelter": "",
          "$date": "2009-02-03",
          "$list": "white"
-      },
-      "=": {
-         "Light Up the Sky": {
-            "trend": "102,143",
-            "link": "https://youtu.be/jgrgCaSo8e4"
-         }
       }
    },
    "Bicep": {
       "Bicep": {
          "Orca": "",
-         "Glue": "good",
+         "Glue": {
+            "rate": "good",
+            "trend": "5,275,555",
+            "link": "https://youtu.be/A7ZxRs45tTg"
+         },
          "Kites": "",
          "Vespa": "short",
          "Ayaya": "",
@@ -392,23 +376,17 @@
          "Seagulls": "",
          "$date": "2015",
          "$list": "white"
-      },
-      "=": {
-         "Glue": {
-            "trend": "5,275,555",
-            "link": "https://youtu.be/A7ZxRs45tTg"
-         }
       }
    },
    "Big Boi": {
       "Boomiverse": {
-         "All Night": "",
+         "All Night": {
+            "trend": "11,499,682",
+            "link": "https://youtu.be/QxTgr11ncJo"
+         },
          "Kill Jill": "",
          "$date": "2017",
          "$list": "black"
-      },
-      "Vicious Lies and Dangerous Rumors": {
-         "$date": "2012"
       },
       "Sir Lucious Left Foot… The Son of Chico Dusty": {
          "Feel Me (intro)": "short",
@@ -430,10 +408,6 @@
          "$list": "white"
       },
       "=": {
-         "All Night": {
-            "trend": "11,499,682",
-            "link": "https://youtu.be/QxTgr11ncJo"
-         },
          "Shutterbugg": {
             "trend": "1,237,121",
             "link": "https://youtu.be/rWsvkW6rKkQ"
@@ -969,25 +943,16 @@
          "The Night of Van Gogh": "",
          "$date": "1988",
          "$list": "white"
-      },
-      "=": {
-         "Lowdown": {
-            "trend": "1,517,370",
-            "link": "https://youtu.be/I-hKBmTAADo"
-         }
       }
    },
    "Britney Spears": {
       "Blackout": {
-         "Break The Ice": "",
-         "$date": "2007",
-         "$list": "black"
-      },
-      "=": {
          "Break The Ice": {
             "trend": "6,923,872",
             "link": "https://youtu.be/eQFIKP9rGhQ"
-         }
+         },
+         "$date": "2007",
+         "$list": "black"
       }
    },
    "Bruce Hornsby": {
@@ -1004,12 +969,6 @@
          "Pastures of Plenty": "",
          "$date": "1993",
          "$list": "white"
-      },
-      "A Night on the Town": {
-         "$date": "1990"
-      },
-      "Scenes From the Southside": {
-         "$date": "1988"
       },
       "The Way It Is": {
          "On the Western Skyline": "",
