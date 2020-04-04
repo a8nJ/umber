@@ -1,6 +1,8 @@
 {
    "Bad Company": {
       "Bad Company": {
+         "$date": "1974",
+         "$list": "white",
          "Can’t Get Enough": "",
          "Rock Steady": "",
          "Ready for Love": "",
@@ -12,13 +14,13 @@
          },
          "The Way I Choose": "",
          "Movin’ On": "",
-         "Seagull": "",
-         "$date": "1974",
-         "$list": "white"
+         "Seagull": ""
       }
    },
    "Bananarama": {
       "Bananarama": {
+         "$date": "1984",
+         "$list": "white",
          "Cruel Summer": {
             "link": "https://youtu.be/l9ml3nyww80",
             "rate": "good",
@@ -31,9 +33,7 @@
          "Hot Line to Heaven": "",
          "State I’m In": "short",
          "Robert De Niro’s Waiting": "",
-         "Through a Child’s Eye": "",
-         "$date": "1984",
-         "$list": "white"
+         "Through a Child’s Eye": ""
       }
    },
    "Bat for Lashes": {
@@ -114,22 +114,24 @@
    },
    "Beach House": {
       "Depression Cherry": {
+         "$date": "2015",
+         "$list": "black",
          "Space Song": {
             "trend": "6,452,708",
             "link": "https://youtu.be/f9X1C7pTu-M"
-         },
-         "$date": "2015",
-         "$list": "black"
+         }
       },
       "Bloom": {
+         "$date": "2012",
+         "$list": "black",
          "Myth": {
             "trend": "9,745,854",
             "link": "https://youtu.be/3lIyDxfUhxM"
-         },
-         "$date": "2012",
-         "$list": "black"
+         }
       },
       "Teen Dream": {
+         "$date": "2010",
+         "$list": "white",
          "Zebra": "good",
          "Silver Soul": "",
          "Norway": "good",
@@ -139,13 +141,13 @@
          "Better Times": "",
          "10 Mile Stereo": "",
          "Real Love": "good",
-         "Take Care": "good",
-         "$date": "2010",
-         "$list": "white"
+         "Take Care": "good"
       }
    },
    "Beastie Boys": {
       "To the 5 Boroughs": {
+         "$date": "2004",
+         "$list": "white",
          "Ch-Check It Out": "good",
          "Right Right Now Now": "short",
          "3 the Hard Way": "short",
@@ -160,21 +162,21 @@
          "An Open Letter to NYC": "",
          "Crawlspace": "short",
          "The Brouhaha": "short",
-         "We Got The": "short",
-         "$date": "2004",
-         "$list": "white"
+         "We Got The": "short"
       },
       "Ill Communication": {
+         "$date": "1994",
+         "$list": "black",
          "Sabotage": {
             "trend": "6,447,985",
             "link": "https://youtu.be/z5rRZdiu1UE"
-         },
-         "$date": "1994",
-         "$list": "black"
+         }
       }
    },
    "Beck": {
       "Colors": {
+         "$date": "2017",
+         "$list": "white",
          "Colors": {
             "rate": "bad",
             "trend": "4,179,410",
@@ -188,11 +190,11 @@
          "Wow": "bad",
          "Up All Night": "bad",
          "Square One": "short",
-         "Fix Me": "bad",
-         "$date": "2017",
-         "$list": "white"
+         "Fix Me": "bad"
       },
       "Morning Phase": {
+         "$date": "2014",
+         "$list": "white",
          "Cycle": "short",
          "Morning": "",
          "Heart Is a Drum": "",
@@ -205,11 +207,11 @@
          "Phase": "short",
          "Turn Away": "good",
          "Country Down": "",
-         "Waking Light": "",
-         "$date": "2014",
-         "$list": "white"
+         "Waking Light": ""
       },
       "Odelay": {
+         "$date": "1996",
+         "$list": "white",
          "Devil’s Haircut": "bad",
          "Hotwax": "bad",
          "Lord Only Knows": "",
@@ -226,21 +228,21 @@
          "Computer Rock": "short",
          "Deadweight": "",
          "Inferno": "",
-         "Gold Chains": "",
-         "$date": "1996",
-         "$list": "white"
+         "Gold Chains": ""
       },
       "Mellow Gold": {
+         "$date": "1994",
+         "$list": "black",
          "Loser": {
             "trend": "10,576,977",
             "link": "https://youtu.be/YgSPaXgAdzE"
-         },
-         "$date": "1994",
-         "$list": "black"
+         }
       }
    },
    "Beirut": {
       "The Flying Club Cup": {
+         "$date": "2007",
+         "$list": "white",
          "A Call to Arms": "short",
          "Nantes": "",
          "A Sunday Smile": "",
@@ -253,9 +255,7 @@
          "Un dernier verre (pour la route)": "short",
          "Cherbourg": "good",
          "St. Apollonia": "short",
-         "The Flying Club Cup": "",
-         "$date": "2007",
-         "$list": "white"
+         "The Flying Club Cup": ""
       }
    },
    "Bell Biv DeVoe": {

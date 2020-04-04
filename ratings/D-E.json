@@ -175,6 +175,8 @@
          "Everyday": ""
       },
       "Before These Crowded Streets": {
+         "$date": "1998",
+         "$list": "white",
          "Pantala Naga Pampa": "short",
          "Rapunzel": "bad",
          "The Last Stop": "bad",
@@ -185,11 +187,11 @@
          "Crush": "",
          "The Dreaming Tree": "",
          "Pig": "",
-         "Spoon": "",
-         "$date": "1998",
-         "$list": "white"
+         "Spoon": ""
       },
       "Crash": {
+         "$date": "1996",
+         "$list": "white",
          "So Much to Say": "good",
          "Two Step": "",
          "Crash Into Me": {
@@ -205,11 +207,11 @@
          "Lie in Our Graves": "",
          "Cry Freedom": "",
          "Tripping Billies": "",
-         "Proudest Monkey": "",
-         "$date": "1996",
-         "$list": "white"
+         "Proudest Monkey": ""
       },
       "Under the Table and Dreaming": {
+         "$date": "1994",
+         "$list": "white",
          "The Best of What’s Around": "",
          "What Would You Say": "",
          "Satellite": "",
@@ -221,21 +223,21 @@
          "Jimi Thing": "",
          "Warehouse": "",
          "Pay for What You Get": "",
-         "34": "",
-         "$date": "1994",
-         "$list": "white"
+         "34": ""
       }
    },
    "Depeche Mode": {
       "Spirit": {
+         "$date": "2017",
+         "$list": "black",
          "Where’s the Revolution": {
             "flow": "8,644,886",
             "link": "https://youtu.be/jsCR05oKROA"
-         },
-         "$date": "2017",
-         "$list": "black"
+         }
       },
       "Ultra": {
+         "$date": "1997",
+         "$list": "white",
          "Barrel of a Gun": "bad",
          "The Love Thieves": "bad",
          "Home": "bad",
@@ -251,28 +253,28 @@
          "Freestate": "bad",
          "The Bottom Line": "bad",
          "Insight": "bad",
-         "Junior Painkiller": "short",
-         "$date": "1997",
-         "$list": "white"
+         "Junior Painkiller": "short"
       },
       "Violator": {
+         "$date": "1990",
+         "$list": "black",
          "Enjoy The Silence": "",
          "Personal Jesus": {
             "flow": "9,479,143",
             "link": "https://youtu.be/u1xrNaTO1bI"
-         },
-         "$date": "1990",
-         "$list": "black"
+         }
       },
       "Music for the Masses": {
+         "$date": "1987",
+         "$list": "black",
          "Strangelove": {
             "flow": "6,532,962",
             "link": "https://youtu.be/JIrm0dHbCDU"
-         },
-         "$date": "1987",
-         "$list": "black"
+         }
       },
       "Speak & Spell": {
+         "$date": "1981",
+         "$list": "white",
          "New Life": "bad",
          "Puppets": "bad",
          "Dreaming of Me": "bad",
@@ -283,13 +285,13 @@
          "Tora! Tora! Tora!": "",
          "Big Muff": "",
          "Any Second Now (Voices)": "short",
-         "Just Can’t Get Enough": "",
-         "$date": "1981",
-         "$list": "white"
+         "Just Can’t Get Enough": ""
       }
    },
    "Dirty Projectors": {
       "Bitte Orca": {
+         "$date": "2009",
+         "$list": "white",
          "Cannibal Resource": "good",
          "Temecula Sunrise": "good",
          "The Bride": "short",
@@ -302,13 +304,13 @@
          "Useful Chamber": "",
          "No Intention": "good",
          "Remade Horizon": "",
-         "Fluorescent Half Dome": "",
-         "$date": "2009",
-         "$list": "white"
+         "Fluorescent Half Dome": ""
       }
    },
    "Dirty Vegas": {
       "Dirty Vegas": {
+         "$date": "2002",
+         "$list": "white",
          "I Should Know": "",
          "Ghosts": "",
          "Lost Not Found": "",
@@ -324,9 +326,7 @@
          "7AM": "",
          "The Brazilian": "",
          "Simple Things, Part 2": "",
-         "Days Go By (acoustic)": "short",
-         "$date": "2002",
-         "$list": "white"
+         "Days Go By (acoustic)": "short"
       }
    },
    "Disturbed": {
@@ -452,6 +452,8 @@
          "Solitude": "good"
       },
       "First Time! The Count Meets the Duke": {
+         "$date": "1961",
+         "$list": "white",
          "Battle Royal": "",
          "To You": "good",
          "Take the “A” Train": "",
@@ -459,21 +461,21 @@
          "Wild Man": "",
          "Segue in C": "",
          "B D B": "",
-         "Jumpin’ at the Woodside": "",
-         "$date": "1961",
-         "$list": "white"
+         "Jumpin’ at the Woodside": ""
       }
    },
    "Duran Duran": {
       "Duran Duran (The Wedding Album)": {
+         "$date": "1993",
+         "$list": "black",
          "Come Undone": {
             "flow": "18,836,105",
             "link": "https://youtu.be/Epj84QVw2rc"
-         },
-         "$date": "1993",
-         "$list": "black"
+         }
       },
       "Notorious": {
+         "$date": "1986",
+         "$list": "white",
          "Notorious": "bad",
          "American Science": "bad",
          "Skin Trade": "bad",
@@ -483,13 +485,13 @@
          "So Misled": "bad",
          "“Meet el Presidente”": "bad",
          "Winter Marches On": "bad",
-         "Proposition": "bad",
-         "$date": "1986",
-         "$list": "white"
+         "Proposition": "bad"
       }
    },
    "Eddie Money": {
       "Can’t Hold Back": {
+         "$date": "1985",
+         "$list": "white",
          "Take Me Home Tonight": "good",
          "One Love": "",
          "I Wanna Go Back": "",
@@ -499,19 +501,19 @@
          "Bring on the Rain": "",
          "I Can’t Hold Back": "",
          "Stranger in a Strange Land": "",
-         "Calm Before the Storm": "",
-         "$date": "1985",
-         "$list": "white"
+         "Calm Before the Storm": ""
       }
    },
    "Ekkah": {
       "Can’t Give It Up / Figure It Out (Night Edit)": {
-         "Can’t Give It Up": "short",
-         "Figure It Out (Night Edit)": "good",
          "$date": "2016",
-         "$list": "white"
+         "$list": "white",
+         "Can’t Give It Up": "short",
+         "Figure It Out (Night Edit)": "good"
       },
       "Last Chance to Dance": {
+         "$date": "2014",
+         "$list": "white",
          "LAST CHANCE TO DANCE": {
             "rate": "good",
             "flow": "50,372",
@@ -519,42 +521,42 @@
          },
          "Holiday Blues (demo)": "",
          "Ex-Change (demo)": "short",
-         "Only U 4 Me (demo)": "short",
-         "$date": "2014",
-         "$list": "white"
+         "Only U 4 Me (demo)": "short"
       }
    },
    "Eli & Fur": {
       "Illusions": {
+         "$date": "2013",
+         "$list": "black",
          "You’re So High": {
             "flow": "21,490,696",
             "link": "https://youtu.be/3GEqdbh8sFI"
-         },
-        "$date": "2013",
-         "$list": "black"
+         }
       },
       "Night Blooming Jasmine": {
+         "$date": "2018",
+         "$list": "white",
          "Night Blooming Jasmine": "good",
          "Something Was Real": "",
          "Parfume": "",
          "Honest": "",
-         "Parfume (extended mix)": "",
-         "$date": "2018",
-         "$list": "white"
+         "Parfume (extended mix)": ""
       }
    },
    "Elton John": {
       "Madman Across the Water": {
+         "$date": "1971",
+         "$list": "black",
          "Tiny Dancer": {
             "flow": "978,086,517",
             "link": "https://youtu.be/S3vO8E2e6G0"
-         },
-         "$date": "1971",
-         "$list": "black"
+         }
       }
    },
    "Emilíana Torrini": {
       "Tookah": {
+         "$date": "2013",
+         "$list": "white",
          "Tookah": "bad",
          "Caterpillar": "bad",
          "Autumn Sun": "bad",
@@ -563,11 +565,11 @@
          "Animal Games": "short",
          "Speed of Dark": "",
          "Blood Red": "",
-         "When Fever Breaks": "",
-         "$date": "2013",
-         "$list": "white"
+         "When Fever Breaks": ""
       },
       "Me and Armini": {
+         "$date": "2008",
+         "$list": "white",
          "Fireheads": "",
          "Me and Armini": "good",
          "Birds": "",
@@ -583,11 +585,11 @@
          "Gun": "",
          "Beggar’s Prayer": "short",
          "Dead Duck": "",
-         "Bleeder": "",
-         "$date": "2008",
-         "$list": "white"
+         "Bleeder": ""
       },
       "Fisherman’s Woman": {
+         "$date": "2005",
+         "$list": "white",
          "Nothing Brings Me Down": "bad",
          "Sunny Road": "good",
          "Snow": "short",
@@ -599,11 +601,11 @@
          "At Least It Was": "good",
          "Fisherman’s Woman": "short",
          "Thinking Out Loud": "",
-         "Serenade": "",
-         "$date": "2005",
-         "$list": "white"
+         "Serenade": ""
       },
       "Love in the Time of Science": {
+         "$date": "1999",
+         "$list": "white",
          "To Be Free": "",
          "Wednesday’s Child": "good",
          "Baby Blue": "",
@@ -614,13 +616,13 @@
          "Telepathy": "",
          "Tuna Fish": "",
          "Summerbreeze": "",
-         "Sea People": "short",
-         "$date": "1999",
-         "$list": "white"
+         "Sea People": "short"
       }
    },
    "Empress Of": {
       "Us": {
+         "$date": "2018",
+         "$list": "white",
          "Everything to Me": "short",
          "Just the Same": "bad",
          "Trust Me Baby": "",
@@ -630,16 +632,16 @@
          "I’ve Got Love": "",
          "All for Nothing": "",
          "When I’m With Him": "",
-         "Again": "",
-         "$date": "2018",
-         "$list": "white"
+         "Again": ""
       },
       "Woman Is a Word": {
-         "Woman Is a Word": "good",
          "$date": "2016",
-         "$list": "white"
+         "$list": "white",
+         "Woman Is a Word": "good"
       },
       "Me": {
+         "$date": "2015",
+         "$list": "white",
          "Everything Is You": "bad",
          "Water Water": {
             "rate": "bad",
@@ -653,19 +655,19 @@
          "Need Myself": "bad",
          "Make Up": "bad",
          "Threat": "bad",
-         "Icon": "bad",
-         "$date": "2015",
-         "$list": "white"
+         "Icon": "bad"
       },
       "Systems": {
+         "$date": "2013-08-16",
+         "$list": "white",
          "Hat Trick": "bad",
          "No Means No": "bad",
          "Tristeza": "bad",
-         "Camisa Favorita": "bad",
-         "$date": "2013-08-16",
-         "$list": "white"
+         "Camisa Favorita": "bad"
       },
       "Colorminutes": {
+         "$date": "2013-01-11",
+         "$list": "white",
          "1": "short",
          "2": "short",
          "3": "short",
@@ -680,23 +682,23 @@
          "12": "short",
          "13": "short",
          "14": "short",
-         "15": "short",
-         "$date": "2013-01-11",
-         "$list": "white"
+         "15": "short"
       }
    },
    "Enya": {
       "A Day Without Rain": {
+         "$date": "2000",
+         "$list": "black",
          "Only Time": {
             "flow": "12,250,684",
             "link": "https://youtu.be/7wfYIMyS_dI"
-         },
-         "$date": "2000",
-         "$list": "black"
+         }
       }
    },
    "Everything but the Girl": {
       "Temperamental": {
+         "$date": "1999",
+         "$list": "white",
          "Five Fathoms": "good",
          "Low Tide of the Night": "",
          "Blame": "",
@@ -706,11 +708,11 @@
          "Downhill Racer": "",
          "Lullaby of Clubland": "",
          "No Difference": "",
-         "The Future of the Future (Stay Gold)": "",
-         "$date": "1999",
-         "$list": "white"
+         "The Future of the Future (Stay Gold)": ""
       },
       "Amplified Heart": {
+         "$date": "1994",
+         "$list": "white",
          "Rollercoaster": "",
          "Troubled Mind": "",
          "I Don’t Understand Anything": "",
@@ -724,9 +726,7 @@
          "Two Star": "",
          "We Walk the Same Line": "",
          "25th December": "",
-         "Disenchanted": "short",
-         "$date": "1994",
-         "$list": "white"
+         "Disenchanted": "short"
       },
       "Acoustic": {
          "Love Is Strange": "",
