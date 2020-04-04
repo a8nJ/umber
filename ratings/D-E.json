@@ -383,7 +383,12 @@
    },
    "Disturbed": {
       "Evolution": {
-         "A Reason to Fight": "",
+         "$date": 2018,
+         "$list": "black",
+         "A Reason To Fight": {
+            "flow": "16,779,619",
+            "link": "https://youtu.be/t4382UVl0oc"
+         },
          "Are You Ready": "",
          "Hold on to Memories": "",
          "Immortalized": "",
@@ -391,58 +396,40 @@
          "Stronger on Your Own": "",
          "The Best Ones Lie": "",
          "The Light": "",
-         "The Vengeful One": "",
-         "$date": 2018,
-         "$list": "black"
+         "The Vengeful One": ""
       },
       "Immortalized": {
-         "The Sound of Silence": "",
          "$date": 2015,
-         "$list": "black"
-      },
-      "Asylum": {
-         "$date": 2010
-      },
-      "Indestructible": {
-         "$date": 2008
-      },
-      "Ten Thousand Fists": {
-         "Stricken": "",
-         "$date": 2005,
-         "$list": "black"
-      },
-      "Believe": {
-         "$date": 2002
-      },
-      "The Sickness": {
-         "Down With the Sickness": "",
-         "Stupify": "",
-         "The Game": "",
-         "Voices": "",
-         "$date": 2000,
-         "$list": "black"
-      },
-      "=": {
-         "A Reason To Fight": {
-            "flow": "16,779,619",
-            "link": "https://youtu.be/t4382UVl0oc"
-         },
-         "Down With the Sickness": {
-            "flow": "9,703,017",
-            "link": "https://youtu.be/09LTT0xwdfw"
-         },
-         "Stricken": {
-            "flow": "6,488,391",
-            "link": "https://youtu.be/3moLkjvhEu0"
-         },
+         "$list": "black",
          "The Sound of Silence": {
             "flow": "153,992,522",
             "link": "https://youtu.be/u9Dg-g7t2l4"
          }
+      },
+      "Ten Thousand Fists": {
+         "$date": 2005,
+         "$list": "black",
+         "Stricken": {
+            "flow": "6,488,391",
+            "link": "https://youtu.be/3moLkjvhEu0"
+         }
+      },
+      "The Sickness": {
+         "$date": 2000,
+         "$list": "black",
+         "Down With the Sickness": {
+            "flow": "9,703,017",
+            "link": "https://youtu.be/09LTT0xwdfw"
+         },
+         "Stupify": "",
+         "The Game": "",
+         "Voices": ""
       }
    },
    "Doe Paoro": {
       "After": {
+         "$date": 2015,
+         "$list": "white",
          "Traveling": "good",
          "Nostalgia": "bad",
          "Growth/Decay": "good",
@@ -452,11 +439,11 @@
          "Untethered": "",
          "Nobody": "",
          "Regret": "",
-         "Wake Up in Nowhere": "",
-         "$date": 2015,
-         "$list": "white"
+         "Wake Up in Nowhere": ""
       },
       "Slow to Love": {
+         "$date": 2012,
+         "$list": "white",
          "Intro": "short",
          "Born Whole": "bad",
          "I’ll Go Blind": "bad",
@@ -465,31 +452,32 @@
          "Body Games": "short",
          "Slow to Love": "short",
          "Follow You Til": "short",
-         "Soft but Strong": "short",
-         "$date": 2012,
-         "$list": "white"
-      },
-      "=": {
-         "The Wind": {
-            "flow": "40,570",
-            "link": "https://youtu.be/HuRU2v6Moak"
-         }
+         "Soft but Strong": "short"
       }
    },
    "Dr. Dre": {
       "2001": {
-         "Forgot About Dre": "",
-         "Still D.R.E": "",
-         "The Next Episode": "",
          "$date": 1999,
-         "$list": "black"
+         "$list": "black",
+         "Forgot About Dre": "",
+         "Still D.R.E.": {
+            "flow": "82,605,839",
+            "link": "https://youtu.be/_CL6n0FJZpk"
+         },
+         "The Next Episode": ""
       },
       "The Chronic": {
+         "$date": 1992,
+         "$list": "white",
          "The Chronic (intro)": "short",
          "Fuck Wit Dre Day (And Everybody’s Celebratin’)": "",
          "Let Me Ride": "",
          "The Day the Niggaz Took Over": "",
-         "Nuthin’ but a “G” Thang": "good",
+         "Nuthin’ but a G Thang": {
+            "rate": "good",
+            "flow": "4,584,395",
+            "link": "https://youtu.be/0F0CAEoF4XM"
+         },
          "Deeez Nuuuts": "",
          "Lil’ Ghetto Boy": "",
          "A Nigga Witta Gun": "",
@@ -500,19 +488,7 @@
          "The Doctor’s Office": "short",
          "Stranded on Death Row": "",
          "The Roach (The Chronic Outro)": "",
-         "Bitches Ain’t Shit": "",
-         "$date": 1992,
-         "$list": "white"
-      },
-      "=": {
-         "Nuthin’ but a G Thang": {
-            "flow": "4,584,395",
-            "link": "https://youtu.be/0F0CAEoF4XM"
-         },
-         "Still D.R.E.": {
-            "flow": "82,605,839",
-            "link": "https://youtu.be/_CL6n0FJZpk"
-         }
+         "Bitches Ain’t Shit": ""
       }
    },
    "Duke Ellington": {
