@@ -1222,12 +1222,6 @@
          "Forget It": "",
          "$date": "1995",
          "$list": "white"
-      },
-      "=": {
-         "Boulevard": {
-            "flow": "533,107",
-            "link": "https://youtu.be/H_F3FOcnQ3Y"
-         }
       }
    },
    "St. Vincent": {
@@ -1244,17 +1238,15 @@
          "Just the Same but Brand New": "",
          "The Sequel": "short",
          "$list": "white"
-      },
-      "=": {
-         "Digital Witness": {
-            "flow": "1,576,265",
-            "link": "https://youtu.be/mVAxUMuhz98"
-         }
       }
    },
    "Stereo MCs": {
       "Connected": {
-         "Connected": "good",
+         "Connected": {
+            "rate": "good",
+            "flow": "341,807",
+            "link": "https://youtu.be/LMGdRgtblmk"
+         },
          "Ground Level": "",
          "Everything": "",
          "Sketch": "",
@@ -1267,12 +1259,6 @@
          "Creation": "",
          "The End": "",
          "$list": "white"
-      },
-      "=": {
-         "Connected": {
-            "flow": "341,807",
-            "link": "https://youtu.be/LMGdRgtblmk"
-         }
       }
    },
    "Steve Roach": {
@@ -1291,15 +1277,6 @@
          "$date": "1989",
          "$list": "white"
       },
-      "Dreamtime Return": {
-         "$date": "1988"
-      },
-      "The Leaving Time": {
-         "$date": "1988"
-      },
-      "Quiet Music 3": {
-         "$date": "1986"
-      },
       "Quiet Music 2": {
          "See Things": "",
          "Towards the Blue": "",
@@ -1308,12 +1285,6 @@
          "Air and Light": "",
          "$date": "1986",
          "$list": "white"
-      },
-      "=": {
-         "In The Eye Of Noche": {
-            "flow": "23,493",
-            "link": "https://youtu.be/QYJsKMvlujo"
-         }
       }
    },
    "Stone Temple Pilots": {
@@ -1341,18 +1312,16 @@
          "Naked Sunday": "",
          "Creep": "good",
          "Piece of Pie": "",
-         "Plush": "good",
+         "Plush": {
+            "rate": "good",
+            "flow": "3,066,188",
+            "link": "https://youtu.be/V5UOC0C0x8Q"
+         },
          "Wet My Bed": "short",
          "Crackerman": "",
          "Where the River Goes": "",
          "$date": "1992",
          "$list": "white"
-      },
-      "=": {
-         "Plush": {
-            "flow": "3,066,188",
-            "link": "https://youtu.be/V5UOC0C0x8Q"
-         }
       }
    },
    "Stwo": {
@@ -1366,12 +1335,6 @@
          "All Alone": "good",
          "Blue Sky": "",
          "$list": "white"
-      },
-      "=": {
-         "With You": {
-            "flow": "446,908",
-            "link": "https://youtu.be/77-nRiju8CU"
-         }
       }
    },
    "Suzanne Vega": {

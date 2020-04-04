@@ -29,34 +29,24 @@
          "Zen Brain": "bad",
          "$date": "1996",
          "$list": "white"
-      },
-      "=": {
-         "Always Love": {
-            "flow": "517,937",
-            "link": "https://youtu.be/2ulU08Se7Qs"
-         }
       }
    },
    "Nancy Sinatra": {
       "How Does That Grab You?": {
-         "Bang Bang": "",
-         "$date": "1966",
-         "$list": "black"
-      },
-      "Boots": {
-         "These Boots Are Made for Walkin’": "",
-         "$date": "1966",
-         "$list": "black"
-      },
-      "=": {
          "Bang Bang": {
             "flow": "7,231,985",
             "link": "https://youtu.be/Ppz0Yp-lE0g"
          },
+         "$date": "1966",
+         "$list": "black"
+      },
+      "Boots": {
          "These Boots Are Made for Walkin’": {
             "flow": "14,140,176",
             "link": "https://youtu.be/SbyAZQ45uww"
-         }
+         },
+         "$date": "1966",
+         "$list": "black"
       }
    },
    "Natalie Imbruglia": {
@@ -65,7 +55,11 @@
          "Beauty on the Fire": "",
          "Satellite": "",
          "Do You Love?": "",
-         "Wrong Impression": "good",
+         "Wrong Impression": {
+            "rate": "good",
+            "flow": "1,137,889",
+            "link": "https://youtu.be/3Vt0d9YlTC4"
+         },
          "Goodbye": "",
          "Everything Goes": "",
          "Hurricane": "",
@@ -77,19 +71,12 @@
          "$list": "white"
       },
       "Left of the Middle": {
-         "Torn": "",
-         "$date": "1997",
-         "$list": "black"
-      },
-      "=": {
          "Torn": {
             "flow": "17,820,167",
             "link": "https://youtu.be/VV1XWJN3nJo"
          },
-         "Wrong Impression": {
-            "flow": "1,137,889",
-            "link": "https://youtu.be/3Vt0d9YlTC4"
-         }
+         "$date": "1997",
+         "$list": "black"
       }
    },
    "Natalie Merchant": {
@@ -129,7 +116,11 @@
          "Wonder": "good",
          "Beloved Wife": "",
          "River": "",
-         "Carnival": "good",
+         "Carnival": {
+            "rate": "good",
+            "flow": "559,819",
+            "link": "https://youtu.be/VQ_Wqtnlv4U"
+         },
          "I May Know the Word": "",
          "The Letter": "short",
          "Cowboy Romance": "",
@@ -138,37 +129,25 @@
          "Seven Years": "",
          "$date": "1995",
          "$list": "white"
-      },
-      "=": {
-         "Carnival": {
-            "flow": "559,819",
-            "link": "https://youtu.be/VQ_Wqtnlv4U"
-         }
       }
    },
    "Neil Young": {
       "Harvest": {
-         "Heart of Gold": "",
-         "Old Man": "",
-         "$list": "black"
-      },
-      "=": {
          "Heart Of Gold": {
             "flow": "6,449,181",
             "link": "https://youtu.be/Eh44QPT1mPE"
-         }
+         },
+         "Old Man": "",
+         "$list": "black"
       }
    },
    "Nelly Furtado": {
       "Loose": {
-         "Say It Right": "",
-         "$list": "black"
-      },
-      "=": {
          "Say It Right": {
             "flow": "41,217,852",
             "link": "https://youtu.be/6JnGBs88sL0"
-         }
+         },
+         "$list": "black"
       }
    },
    "Nena": {
