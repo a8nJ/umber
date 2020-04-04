@@ -114,12 +114,18 @@
    },
    "Beach House": {
       "Depression Cherry": {
-         "Space Song": "",
+         "Space Song": {
+            "trend": "6,452,708",
+            "link": "https://youtu.be/f9X1C7pTu-M"
+         },
          "$date": "2015",
          "$list": "black"
       },
       "Bloom": {
-         "Myth": "",
+         "Myth": {
+            "trend": "9,745,854",
+            "link": "https://youtu.be/3lIyDxfUhxM"
+         },
          "$date": "2012",
          "$list": "black"
       },
@@ -136,20 +142,6 @@
          "Take Care": "good",
          "$date": "2010",
          "$list": "white"
-      },
-      "=": {
-         "Heart Of Chambers": {
-            "trend": "20,509",
-            "link": "https://youtu.be/XSuViWLfmjM"
-         },
-         "Myth": {
-            "trend": "9,745,854",
-            "link": "https://youtu.be/3lIyDxfUhxM"
-         },
-         "Space Song": {
-            "trend": "6,452,708",
-            "link": "https://youtu.be/f9X1C7pTu-M"
-         }
       }
    },
    "Beastie Boys": {
@@ -172,28 +164,22 @@
          "$date": "2004",
          "$list": "white"
       },
-      "Hello Nasty": {
-         "$date": "1998"
-      },
       "Ill Communication": {
-         "Sabotage": "",
-         "$date": "1994",
-         "$list": "black"
-      },
-      "=": {
-         "Fight For Your Right": {
-            "trend": "4,462,428",
-            "link": "https://youtu.be/eBShN8qT4lk"
-         },
          "Sabotage": {
             "trend": "6,447,985",
             "link": "https://youtu.be/z5rRZdiu1UE"
-         }
+         },
+         "$date": "1994",
+         "$list": "black"
       }
    },
    "Beck": {
       "Colors": {
-         "Colors": "bad",
+         "Colors": {
+            "rate": "bad",
+            "trend": "4,179,410",
+            "link": "https://youtu.be/WRCA_Fo0rWA"
+         },
          "Seventh Heaven": "bad",
          "I’m So Free": "bad",
          "Dear Life": "bad",
@@ -223,24 +209,6 @@
          "$date": "2014",
          "$list": "white"
       },
-      "Modern Guilt": {
-         "$date": "2008"
-      },
-      "The Information": {
-         "$date": "2006"
-      },
-      "Guero": {
-         "$date": "2005"
-      },
-      "Sea Change": {
-         "$date": "2002"
-      },
-      "Midnite Vultures": {
-         "$date": "1999"
-      },
-      "Mutations": {
-         "$date": "1998"
-      },
       "Odelay": {
          "Devil’s Haircut": "bad",
          "Hotwax": "bad",
@@ -262,23 +230,13 @@
          "$date": "1996",
          "$list": "white"
       },
-      "One Foot in the Grave": {
-         "$date": "1994"
-      },
       "Mellow Gold": {
-         "Loser": "",
-         "$date": "1994",
-         "$list": "black"
-      },
-      "=": {
-         "Colors": {
-            "trend": "4,179,410",
-            "link": "https://youtu.be/WRCA_Fo0rWA"
-         },
          "Loser": {
             "trend": "10,576,977",
             "link": "https://youtu.be/YgSPaXgAdzE"
-         }
+         },
+         "$date": "1994",
+         "$list": "black"
       }
    },
    "Beirut": {
