@@ -1,9 +1,7 @@
----
-title: MusicBrainz
-topics: [internet, media]
----
+# MusicBrainz
 
-When adding musicbrainz release, make sure to include:
+If you add a new release, the release group is created at the same time. Be sure
+to include:
 
 - release title
 - artist

@@ -525,14 +525,6 @@
       }
    },
    "Eli & Fur": {
-      "Illusions": {
-         "$date": "2013",
-         "$list": "black",
-         "You’re So High": {
-            "flow": "21,490,696",
-            "link": "https://youtu.be/3GEqdbh8sFI"
-         }
-      },
       "Night Blooming Jasmine": {
          "$date": "2018",
          "$list": "white",
@@ -541,6 +533,22 @@
          "Parfume": "",
          "Honest": "",
          "Parfume (extended mix)": ""
+      },
+      "Chlo / Wendy Legs": {
+          "$date": "2017-03-17",
+          "$list": "white",
+          "Chlo": "",
+          "Wendy Legs": "",
+          "Chlo (extended mix)": "good",
+          "Wendy Legs (extended mix)": ""
+      },
+      "Illusions": {
+         "$date": "2013",
+         "$list": "black",
+         "You’re So High": {
+            "flow": "21,490,696",
+            "link": "https://youtu.be/3GEqdbh8sFI"
+         }
       }
    },
    "Elton John": {
