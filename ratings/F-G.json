@@ -400,7 +400,10 @@
          "$list": "white"
       },
       "There Is Love in You": {
-         "Angel Echoes": "",
+         "Angel Echoes": {
+            "flow": "281,677",
+            "link": "https://youtu.be/Tpe4id7cLnU"
+         },
          "Love Cry": "",
          "Circling": "",
          "Pablo’s Heart": "short",
@@ -467,25 +470,16 @@
          "The Butterfly Effect": "",
          "$date": "1999",
          "$list": "white"
-      },
-      "=": {
-         "Angel Echoes": {
-            "flow": "281,677",
-            "link": "https://youtu.be/Tpe4id7cLnU"
-         }
       }
    },
    "Foy Vance": {
       "Live at Bangor Abbey": {
          "Be the Song": "",
-         "Make It Rain": "",
-         "$list": "black"
-      },
-      "=": {
          "Make it rain": {
             "flow": "8,003,040",
             "link": "https://youtu.be/hD5hIqeKNVE"
-         }
+         },
+         "$list": "black"
       }
    },
    "Frankie Rose": {
@@ -524,25 +518,27 @@
          "Daylight Sky": "short",
          "Pair of Wings": "",
          "Had We Had It": "",
-         "Night Swim": "short",
+         "Night Swim": {
+            "rate": "short",
+            "flow": "31,597",
+            "link": "https://youtu.be/VE56wTNj7J0"
+         },
          "Apples for the Sun": "",
          "Moon in My Mind": "",
          "The Fall": "good",
          "$date": "2012",
          "$list": "white"
-      },
-      "=": {
-         "Night Swim": {
-            "flow": "31,597",
-            "link": "https://youtu.be/VE56wTNj7J0"
-         }
       }
    },
    "Franz Ferdinand": {
       "Franz Ferdinand": {
          "Jacqueline": "",
          "Tell Her Tonight": "short",
-         "Take Me Out": "good",
+         "Take Me Out": {
+            "rate": "good",
+            "flow": "5,885,949",
+            "link": "https://youtu.be/Ijk4j-r7qPA"
+         },
          "The Dark of the Matinée": "",
          "Auf Achse": "",
          "Cheating on You": "short",
@@ -553,31 +549,26 @@
          "40′": "",
          "$date": "2004",
          "$list": "white"
-      },
-      "=": {
-         "Take Me Out": {
-            "flow": "5,885,949",
-            "link": "https://youtu.be/Ijk4j-r7qPA"
-         }
       }
    },
    "Fugees": {
       "The Score": {
          "Fu-Gee-La": "",
          "Killing Me Softly with His Song": "",
-         "Ready or Not": "",
-         "$list": "black"
-      },
-      "=": {
          "Ready or Not": {
             "flow": "14,642,911",
             "link": "https://youtu.be/aIXyKmElvv8"
-         }
+         },
+         "$list": "black"
       }
    },
    "Funkadelic": {
       "Maggot Brain": {
-         "Maggot Brain": "good",
+         "Maggot Brain": {
+            "rate": "good",
+            "flow": "683,197",
+            "link": "https://youtu.be/dh3bleXWaCk"
+         },
          "Can You Get to That": "short",
          "Hit It and Quit It": "",
          "You and Your Folks, Me and My Folks": "",
@@ -585,12 +576,6 @@
          "Back in Our Minds": "short",
          "Wars of Armageddon": "",
          "$list": "white"
-      },
-      "=": {
-         "Maggot Brain": {
-            "flow": "683,197",
-            "link": "https://youtu.be/dh3bleXWaCk"
-         }
       }
    },
    "Funki Porcini": {
@@ -612,7 +597,11 @@
          "$list": "white"
       },
       "Love, Pussycats & Carwrecks": {
-         "Purrfect": "bad",
+         "purrfect": {
+            "rate": "bad",
+            "flow": "27,321",
+            "link": "https://youtu.be/-ebWfAw1eug"
+         },
          "Groover": "bad",
          "The Last Song": "bad",
          "Snip & Lick": "short",
@@ -625,31 +614,23 @@
          "I’m Such a Small Thing": "bad",
          "Going Down": "good",
          "$list": "white"
-      },
-      "=": {
-         "purrfect": {
-            "flow": "27,321",
-            "link": "https://youtu.be/-ebWfAw1eug"
-         }
       }
    },
    "Genesis": {
       "Invisible Touch": {
          "Invisible Touch": "",
          "Tonight, Tonight, Tonight": "",
-         "Land of Confusion": "good",
+         "Land of Confusion": {
+            "rate": "good",
+            "flow": "511,888",
+            "link": "https://youtu.be/QHmH1xQ2Pf4"
+         },
          "In Too Deep": "",
          "Anything She Does": "",
          "Domino Part One In the Glow of the Night - Part Two The Last Domino": "",
          "Throwing It All Away": "",
          "The Brazilian": "",
          "$list": "white"
-      },
-      "=": {
-         "Land of Confusion": {
-            "flow": "511,888",
-            "link": "https://youtu.be/QHmH1xQ2Pf4"
-         }
       }
    },
    "Gin Blossoms": {
@@ -676,7 +657,11 @@
    "Gnarls Barkley": {
       "St. Elsewhere": {
          "Go‐Go Gadget Gospel": "short",
-         "Crazy": "good",
+         "Crazy": {
+            "rate": "good",
+            "flow": "6,888,921",
+            "link": "https://youtu.be/Qe500eIK1oA"
+         },
          "St. Elsewhere": "short",
          "Gone Daddy Gone": "short",
          "Smiley Faces": "",
@@ -706,12 +691,6 @@
          "Neighbors": "",
          "A Little Better": "",
          "$list": "white"
-      },
-      "=": {
-         "Crazy": {
-            "flow": "6,888,921",
-            "link": "https://youtu.be/Qe500eIK1oA"
-         }
       }
    },
    "Goldfrapp": {
@@ -810,7 +789,10 @@
    },
    "Goo Goo Dolls": {
       "Dizzy Up the Girl": {
-         "Iris": "",
+         "Iris": {
+            "flow": "19,820,856",
+            "link": "https://youtu.be/NdYWuo9OFAw"
+         },
          "Slide": "",
          "$date": "1998",
          "$list": "black"
@@ -821,7 +803,11 @@
          "Naked": "",
          "Flat Top": "",
          "Impersonality": "short",
-         "Name": "good",
+         "Name": {
+            "rate": "good",
+            "flow": "1,047,005",
+            "link": "https://youtu.be/LyG3wkwKXro"
+         },
          "Only One": "",
          "Somethin’ Bad": "short",
          "Ain’t That Unusual": "",
@@ -831,16 +817,6 @@
          "Slave Girl": "short",
          "$date": "1995",
          "$list": "white"
-      },
-      "=": {
-         "Iris": {
-            "flow": "19,820,856",
-            "link": "https://youtu.be/NdYWuo9OFAw"
-         },
-         "Name": {
-            "flow": "1,047,005",
-            "link": "https://youtu.be/LyG3wkwKXro"
-         }
       }
    },
    "Gorillaz": {
