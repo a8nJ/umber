@@ -528,6 +528,7 @@
    },
    "Robin Guthrie": {
       "Emeralds": {
+         "$list": "white",
          "Digging for Gold": "",
          "Radiola": "",
          "Wishing": "",
@@ -537,18 +538,13 @@
          "Turn Together, Burn Together": "",
          "Emeralds": "bad",
          "The Blue Book": "",
-         "The Little Light Fades": "short",
-         "$list": "white"
-      },
-      "=": {
-         "Monument": {
-            "flow": "21,487",
-            "link": "https://youtu.be/qngc--zwGxY"
-         }
+         "The Little Light Fades": "short"
       }
    },
    "Róisín Murphy": {
       "Overpowered": {
+         "$date": 2007,
+         "$list": "white",
          "Overpowered": "good",
          "You Know Me Better": "good",
          "Checkin’ on Me": "good",
@@ -559,38 +555,28 @@
          "Dear Miami": "good",
          "Cry Baby": "",
          "Tell Everybody": "",
-         "Scarlet Ribbons": "",
-         "$date": 2007,
-         "$list": "white"
-      },
-      "=": {
-         "The Time Is Now": {
-            "flow": "1,493,016",
-            "link": "https://youtu.be/kl8mpAvTm_Y"
-         }
+         "Scarlet Ribbons": ""
       }
    },
    "Ronald Jenkees": {
       "Disorganized Fun": {
+         "$date": 2009,
+         "$list": "white",
          "Disorganized Fun": "",
          "Fifteen Fifty": "",
          "Guitar Sound": "",
          "Synth One": "",
-         "Throwing Fire": "good",
+         "Throwing Fire": {
+            "rate": "good",
+            "flow": "1,146,444",
+            "link": "https://youtu.be/0O2aH4XLbto"
+         },
          "Minimal MC": "short",
          "Stay Crunchy": "",
          "Inverted Mean": "",
          "Outer Space": "",
          "Let’s Ride (rap)": "",
-         "It’s Gettin Rowdy (rap)": "",
-         "$date": 2009,
-         "$list": "white"
-      },
-      "=": {
-         "Throwing Fire": {
-            "flow": "1,146,444",
-            "link": "https://youtu.be/0O2aH4XLbto"
-         }
+         "It’s Gettin Rowdy (rap)": ""
       }
    },
    "Roosevelt": {
@@ -627,37 +613,30 @@
          "$list": "white"
       },
       "Elliot": {
+         "$date": 2013,
+         "$list": "white",
          "Elliot": "good",
          "Around You": "",
-         "Montreal": "",
-         "Sea": "",
-         "$date": 2013,
-         "$list": "white"
-      },
-      "=": {
          "Montreal": {
             "flow": "1,249,261",
             "link": "https://youtu.be/UBS6MM05KdY"
-         }
+         },
+         "Sea": ""
       }
    },
    "Röyksopp": {
       "The Inevitable End": {
-         "Here She Comes Again": "",
-         "Monument": "",
          "$date": 2014,
-         "$list": "black"
-      },
-      "Senior": {
-         "$date": 2010
-      },
-      "Junior": {
-         "$date": 2009
-      },
-      "The Understanding": {
-         "$date": 2005
+         "$list": "black",
+         "Here She Comes Again": {
+            "flow": "20,864,611",
+            "link": "https://youtu.be/rFI4JfbgOSY"
+         },
+         "Monument": ""
       },
       "Melody A.M.": {
+         "$date": 2001,
+         "$list": "white",
          "So Easy": "",
          "Eple": "good",
          "Sparks": "good",
@@ -667,19 +646,7 @@
          "Röyksopp’s Night Out": "",
          "Remind Me": "",
          "She’s So": "",
-         "40 Years Back\\Come": "",
-         "$date": 2001,
-         "$list": "white"
-      },
-      "=": {
-         "Here She Comes Again": {
-            "flow": "20,864,611",
-            "link": "https://youtu.be/rFI4JfbgOSY"
-         },
-         "What Else Is There?": {
-            "flow": "1,259,765",
-            "link": "https://youtu.be/KLpkXtM-VI8"
-         }
+         "40 Years Back\\Come": ""
       }
    },
    "Sade": {
@@ -765,6 +732,8 @@
    },
    "Saint Etienne": {
       "Tales From Turnpike House": {
+         "$date": 2005,
+         "$list": "white",
          "Side Streets": "short",
          "A Good Thing": "bad",
          "Sun in My Morning": "short",
@@ -777,20 +746,11 @@
          "I’m Falling": "",
          "Stars Above Us": "",
          "Teenage Winter": "",
-         "Goodnight": "good",
-         "$date": 2005,
-         "$list": "white"
-      },
-      "Finisterre": {
-         "$date": 2002
-      },
-      "Sound of Water": {
-         "$date": 2000
-      },
-      "Good Humor": {
-         "$date": 1998
+         "Goodnight": "good"
       },
       "Tiger Bay": {
+         "$date": 1994,
+         "$list": "white",
          "Urban Clearway": "",
          "Former Lover": "good",
          "Hug My Soul": "",
@@ -801,11 +761,11 @@
          "Cool Kids of Death": "",
          "Western Wind": "short",
          "Tankerville": "",
-         "The Boy Scouts of America": "short",
-         "$date": 1994,
-         "$list": "white"
+         "The Boy Scouts of America": "short"
       },
       "So Tough": {
+         "$date": 1993,
+         "$list": "white",
          "Mario’s Cafe": "bad",
          "Railway Jam": "bad",
          "Date With Spelman": "short",
@@ -822,11 +782,11 @@
          "Junk the Morgue": "",
          "Who Do You Think You Are": "",
          "Chicken Soup": "short",
-         "Join Our Club": "",
-         "$date": 1993,
-         "$list": "white"
+         "Join Our Club": ""
       },
       "Foxbase Alpha": {
+         "$date": 1991,
+         "$list": "white",
          "This Is Radio Etienne": "short",
          "Only Love Can Break Your Heart": "good",
          "Wilson": "short",
@@ -839,15 +799,7 @@
          "Etienne Gonna Die": "short",
          "London Belongs to Me": "",
          "Like the Swallow": "",
-         "Dilworth’s Theme": "short",
-         "$date": 1991,
-         "$list": "white"
-      },
-      "=": {
-         "Saint Etienne": {
-            "flow": "418,786",
-            "link": "https://youtu.be/vZAajrxvDs4"
-         }
+         "Dilworth’s Theme": "short"
       }
    },
    "Samaris": {
