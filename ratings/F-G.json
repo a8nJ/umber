@@ -821,14 +821,26 @@
    },
    "Gorillaz": {
       "The Now Now": {
-         "Humility": "",
-         "Tranz": "",
+         "Humility": {
+            "flow": "69,322,117",
+            "link": "https://youtu.be/E5yFcdPAGv0"
+         },
+         "Tranz": {
+            "flow": "49,788,375",
+            "link": "https://youtu.be/E2Q52cVx7Bo"
+         },
          "$date": "2018",
          "$list": "black"
       },
       "Humanz": {
-         "Andromeda": "",
-         "Saturnz Barz": "",
+         "Andromeda": {
+            "flow": "24,213,804",
+            "link": "https://youtu.be/9W44NWYwa1g"
+         },
+         "Saturnz Barz": {
+            "flow": "39,375,302",
+            "link": "https://youtu.be/5qJp6xlKEug"
+         },
          "$date": "2017",
          "$list": "black"
       },
@@ -836,38 +848,18 @@
          "$date": "2010"
       },
       "Plastic Beach": {
-         "On Melancholy Hill": "",
-         "Stylo": "",
+         "On Melancholy Hill": {
+            "flow": "14,525,087",
+            "link": "https://youtu.be/04mfKJWDSzI"
+         },
+         "Stylo": {
+            "flow": "10,408,741",
+            "link": "https://youtu.be/nhPaWIeULKk"
+         },
          "$date": "2010",
          "$list": "black"
       },
       "Demon Days": {
-         "DARE": "",
-         "Dirty Harry": "",
-         "Feel Good Inc": "",
-         "$date": "2005",
-         "$list": "black"
-      },
-      "Gorillaz": {
-         "19-2000": "",
-         "Clint Eastwood": "",
-         "Tomorrow Comes Today": "",
-         "$date": "2001",
-         "$list": "black"
-      },
-      "=": {
-         "19-2000": {
-            "flow": "21,040,483",
-            "link": "https://youtu.be/WXR-bCF5dbM"
-         },
-         "Andromeda": {
-            "flow": "24,213,804",
-            "link": "https://youtu.be/9W44NWYwa1g"
-         },
-         "Clint Eastwood": {
-            "flow": "73,751,523",
-            "link": "https://youtu.be/1V_xRb0x9aw"
-         },
          "DARE": {
             "flow": "15,207,223",
             "link": "https://youtu.be/uAOR6ib95kQ"
@@ -880,30 +872,24 @@
             "flow": "98,994,981",
             "link": "https://youtu.be/HyHNuVaZJ-k"
          },
-         "Humility": {
-            "flow": "69,322,117",
-            "link": "https://youtu.be/E5yFcdPAGv0"
+         "$date": "2005",
+         "$list": "black"
+      },
+      "Gorillaz": {
+         "19-2000": {
+            "flow": "21,040,483",
+            "link": "https://youtu.be/WXR-bCF5dbM"
          },
-         "On Melancholy Hill": {
-            "flow": "14,525,087",
-            "link": "https://youtu.be/04mfKJWDSzI"
-         },
-         "Saturnz Barz": {
-            "flow": "39,375,302",
-            "link": "https://youtu.be/5qJp6xlKEug"
-         },
-         "Stylo": {
-            "flow": "10,408,741",
-            "link": "https://youtu.be/nhPaWIeULKk"
+         "Clint Eastwood": {
+            "flow": "73,751,523",
+            "link": "https://youtu.be/1V_xRb0x9aw"
          },
          "Tomorrow Comes Today": {
             "flow": "6,597,139",
             "link": "https://youtu.be/PiNdcBg3xC8"
          },
-         "Tranz": {
-            "flow": "49,788,375",
-            "link": "https://youtu.be/E2Q52cVx7Bo"
-         }
+         "$date": "2001",
+         "$list": "black"
       }
    },
    "Gotan Project": {
@@ -943,7 +929,10 @@
          "Época": "bad",
          "Chunga’s Revenge": "bad",
          "Tríptico": "bad",
-         "Santa María (del Buen Ayre)": "",
+         "Santa Maria": {
+            "flow": "1,886,601",
+            "link": "https://youtu.be/tqLh6rQqkoA"
+         },
          "Una música brutal": "",
          "El capitalismo foráneo": "good",
          "Last Tango in Paris": "",
@@ -951,22 +940,22 @@
          "Vuelvo al sur": "",
          "$date": "2001",
          "$list": "white"
-      },
-      "=": {
-         "Santa Maria": {
-            "flow": "1,886,601",
-            "link": "https://youtu.be/tqLh6rQqkoA"
-         }
       }
    },
    "Green Day": {
       "21st Century Breakdown": {
-         "21 Guns": "",
+         "21 Guns": {
+            "flow": "24,850,357",
+            "link": "https://youtu.be/r00ikilDxW4"
+         },
          "$date": "2009",
          "$list": "black"
       },
       "American Idiot": {
-         "Boulevard Of Broken Dreams": "",
+         "Boulevard of Broken Dreams": {
+            "flow": "50,307,178",
+            "link": "https://youtu.be/Soa3gO7tL-c"
+         },
          "$date": "2004",
          "$list": "black"
       },
@@ -974,7 +963,10 @@
          "$date": "2000"
       },
       "Nimrod": {
-         "Good Riddance (Time Of Your Life)": "",
+         "Good Riddance": {
+            "flow": "6,048,169",
+            "link": "https://youtu.be/CnQ8N1KacJc"
+         },
          "$date": "1997",
          "$list": "black"
       },
@@ -982,28 +974,13 @@
          "$date": "1995"
       },
       "Dookie": {
-         "Basket Case": "",
-         "When I Come Around": "",
-         "$date": "1994",
-         "$list": "black"
-      },
-      "=": {
-         "21 Guns": {
-            "flow": "24,850,357",
-            "link": "https://youtu.be/r00ikilDxW4"
-         },
          "Basket Case": {
             "flow": "19,510,691",
             "link": "https://youtu.be/NUTGr5t3MoY"
          },
-         "Boulevard of Broken Dreams": {
-            "flow": "50,307,178",
-            "link": "https://youtu.be/Soa3gO7tL-c"
-         },
-         "Good Riddance": {
-            "flow": "6,048,169",
-            "link": "https://youtu.be/CnQ8N1KacJc"
-         }
+         "When I Come Around": "",
+         "$date": "1994",
+         "$list": "black"
       }
    },
    "Grizzly Bear": {
