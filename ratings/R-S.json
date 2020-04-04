@@ -832,12 +832,6 @@
          "Vögguljóð": "",
          "$date": "2014",
          "$list": "white"
-      },
-      "=": {
-         "goda tungl": {
-            "flow": "61,455",
-            "link": "https://youtu.be/_pKuzdMFE8k"
-         }
       }
    },
    "Savath & Savalas": {
@@ -852,12 +846,6 @@
          "Paulo": "",
          "Slabulas": "good",
          "$list": "white"
-      },
-      "=": {
-         "La Llama": {
-            "flow": "3,763",
-            "link": "https://youtu.be/p7WCGiM02KU"
-         }
       }
    },
    "Seal": {
@@ -867,7 +855,11 @@
          "Dreaming in Metaphors": "",
          "Don’t Cry": "",
          "Fast Changes": "",
-         "Kiss From a Rose": "good",
+         "Kiss From a Rose": {
+            "rate": "good",
+            "flow": "3,898,704",
+            "link": "https://youtu.be/AMD2TwRvuoU"
+         },
          "People Asking Why": "",
          "Newborn Friend": "",
          "If I Could": "",
@@ -888,12 +880,6 @@
          "Violet": "",
          "$date": "1991",
          "$list": "white"
-      },
-      "=": {
-         "Kiss From a Rose": {
-            "flow": "3,898,704",
-            "link": "https://youtu.be/AMD2TwRvuoU"
-         }
       }
    },
    "Secret Sun": {

@@ -1481,6 +1481,20 @@
          "This Is a True Heart": "",
          "City Appearing": "bad"
       },
+      "Ekstasis": {
+          "$date": "2012-03-06",
+          "$list": "white",
+          "Marienbad": "",
+          "Our Sorrows": "",
+          "In the Same Room": "bad",
+          "Boy in the Moon": "bad",
+          "Für Felix": "",
+          "Goddess Eyes II": "",
+          "Moni Mon Amie": "",
+          "Four Gardens": "",
+          "Goddess Eyes I": "",
+          "This Is Ekstasis": ""
+      },
       "Tragedy": {
          "$date": "2011",
          "$list": "white",
@@ -1528,64 +1542,57 @@
    },
    "Justin Timberlake": {
       "Man of the Woods": {
+         "$date": "2018",
+         "$list": "black",
          "Filthy": "",
          "Man of the Woods": "",
-         "Say Something": "",
-         "Supplies": "",
-         "$date": "2018",
-         "$list": "black"
-      },
-      "The 20/20 Experience (2 of 2)": {
-         "Not a Bad Thing": "",
-         "Take Back the Night": "",
-         "TKO": "",
-         "$date": "2013-09-27",
-         "$list": "black"
-      },
-      "The 20/20 Experience": {
-         "Mirrors": "",
-         "Suit & Tie": "",
-         "Tunnel Vision": "",
-         "$date": "2013-03-15",
-         "$list": "black"
-      },
-      "FutureSex/LoveSounds": {
-         "Let Me Talk To You/My Love": "",
-         "LoveStoned/I Think She Knows": "",
-         "SexyBack": "",
-         "What Goes Around...Comes Around": "",
-         "$date": "2006",
-         "$list": "black"
-      },
-      "Justified": {
-         "Cry Me a River": "",
-         "Like I Love You": "",
-         "Rock Your Body": "",
-         "Señorita": "",
-         "$date": "2002",
-         "$list": "black"
-      },
-      "=": {
-         "Cry Me a River": {
-            "flow": "31,647,715",
-            "link": "https://youtu.be/DksSPZTZES0"
-         },
-         "Mirrors": {
-            "flow": "90,408,909",
-            "link": "https://youtu.be/uuZE_IRwLNI"
-         },
          "Say Something": {
             "flow": "241,339,295",
             "link": "https://youtu.be/8MPbR6Cbwi4"
          },
+         "Supplies": ""
+      },
+      "The 20/20 Experience (2 of 2)": {
+         "$date": "2013-09-27",
+         "$list": "black",
+         "Not a Bad Thing": "",
+         "Take Back the Night": "",
          "TKO": {
             "flow": "18,355,797",
             "link": "https://youtu.be/FyXtoTLLcDk"
+         }
+      },
+      "The 20/20 Experience": {
+         "$date": "2013-03-15",
+         "$list": "black",
+         "Mirrors": {
+            "flow": "90,408,909",
+            "link": "https://youtu.be/uuZE_IRwLNI"
          },
+         "Suit & Tie": "",
+         "Tunnel Vision": ""
+      },
+      "FutureSex/LoveSounds": {
+         "$date": "2006",
+         "$list": "black",
+         "Let Me Talk To You/My Love": "",
+         "LoveStoned/I Think She Knows": "",
+         "SexyBack": "",
          "What Goes Around...Comes Around": {
             "flow": "30,522,506",
             "link": "https://youtu.be/TOrnUquxtwA"
          }
+      },
+      "Justified": {
+         "$date": "2002",
+         "$list": "black",
+         "Cry Me a River": {
+            "flow": "31,647,715",
+            "link": "https://youtu.be/DksSPZTZES0"
+         },
+         "Like I Love You": "",
+         "Rock Your Body": "",
+         "Señorita": ""
       }
    }
 }
