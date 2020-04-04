@@ -132,7 +132,11 @@
          "Overture": "good",
          "Low Sun": "good",
          "No Ordinary Morning": "bad",
-         "Saltwater (original mix)": "good",
+         "Saltwater (original mix)": {
+            "rate": "good",
+            "trend": "2,624,489",
+            "link": "https://youtu.be/ET1-6Bef9xU"
+         },
          "Halcyon": "bad",
          "Autumn Tactics": "bad",
          "Overlap": "bad",
@@ -156,12 +160,6 @@
          "The Drive Home": "",
          "$date": "1997",
          "$list": "white"
-      },
-      "=": {
-         "Saltwater (original mix)": {
-            "trend": "2,624,489",
-            "link": "https://youtu.be/ET1-6Bef9xU"
-         }
       }
    },
    "Childish Gambino": {
@@ -204,7 +202,10 @@
    },
    "Chris Isaak": {
       "Heart Shaped World": {
-         "Wicked Game": "",
+         "Wicked Game": {
+            "trend": "9,828,608",
+            "link": "https://youtu.be/ib6VAJbEBjg"
+         },
          "$date": "1989",
          "$list": "black"
       },
@@ -222,29 +223,16 @@
          "Waiting for the Rain to Fall": "",
          "$date": "1986",
          "$list": "white"
-      },
-      "=": {
-         "Can’t Help Falling in Love": {
-            "trend": "5,134,048",
-            "link": "https://youtu.be/UJ8RBj_P0KQ"
-         },
-         "Wicked Game": {
-            "trend": "9,828,608",
-            "link": "https://youtu.be/ib6VAJbEBjg"
-         }
       }
    },
    "Ciara": {
       "Basic Instinct": {
-         "Ride": "",
-         "$date": "2010",
-         "$list": "black"
-      },
-      "=": {
          "Ride": {
             "trend": "19,725,835",
             "link": "https://youtu.be/wl2NCXzg1FQ"
-         }
+         },
+         "$date": "2010",
+         "$list": "black"
       }
    },
    "Cocteau Twins": {
@@ -380,15 +368,12 @@
    },
    "Coldplay": {
       "A Rush of Blood to the Head": {
-         "The Scientist": "",
-         "$date": "2002",
-         "$list": "black"
-      },
-      "=": {
          "The Scientist": {
             "trend": "80,172,619",
             "link": "https://youtu.be/RB-RcX5DS5A"
-         }
+         },
+         "$date": "2002",
+         "$list": "black"
       }
    },
    "Com Truise": {
@@ -398,7 +383,10 @@
          "Dryswch": "",
          "Isostasy": "",
          "Memory": "",
-         "Propagation": "",
+         "Propagation": {
+            "trend": "812,858",
+            "link": "https://youtu.be/3uI9Hh26OTs"
+         },
          "Vacuume": "",
          "Ternary": "",
          "Usurper": "",
@@ -439,12 +427,6 @@
          "Karova": "",
          "$date": "2011",
          "$list": "white"
-      },
-      "=": {
-         "Propagation": {
-            "trend": "812,858",
-            "link": "https://youtu.be/3uI9Hh26OTs"
-         }
       }
    },
    "Conjure One": {
@@ -465,7 +447,10 @@
       "Conjure One": {
          "Damascus": "short",
          "Center of the Sun": "",
-         "Tears From the Moon": "",
+         "Tears From the Moon": {
+            "trend": "163,821",
+            "link": "https://youtu.be/4w0hHxrj7do"
+         },
          "Tidal Pool": "good",
          "Manic Star": "",
          "Redemption": "",
@@ -476,12 +461,6 @@
          "Premonition (reprise)": "",
          "$date": "2002",
          "$list": "white"
-      },
-      "=": {
-         "Tears From the Moon": {
-            "trend": "163,821",
-            "link": "https://youtu.be/4w0hHxrj7do"
-         }
       }
    },
    "Counting Crows": {
@@ -499,23 +478,13 @@
          "$date": "1999",
          "$list": "white"
       },
-      "Recovering the Satellites": {
-         "$date": "1996"
-      },
       "August and Everything After": {
-         "Mr. Jones": "",
-         "$date": "1993",
-         "$list": "black"
-      },
-      "=": {
-         "Accidentally in Love": {
-            "trend": "2,933,736",
-            "link": "https://youtu.be/22bK0C2obFc"
-         },
          "Mr. Jones": {
             "trend": "13,704,250",
             "link": "https://youtu.be/-oqAU5VxFWs"
-         }
+         },
+         "$date": "1993",
+         "$list": "black"
       }
    },
    "Crazy P": {
@@ -539,7 +508,11 @@
          "Changes": "",
          "Beatbox": "",
          "The Unbearable Lightness of Being": "",
-         "Heartbreaker": "good",
+         "Heartbreaker": {
+            "rate": "good",
+            "trend": "162,899",
+            "link": "https://youtu.be/Ph5psMQoirU"
+         },
          "Twisted": "",
          "Sonar": "",
          "Your Dark Energy": "",
@@ -548,12 +521,6 @@
          "Future Beat": "",
          "$date": "2011",
          "$list": "white"
-      },
-      "=": {
-         "Heartbreaker": {
-            "trend": "162,899",
-            "link": "https://youtu.be/Ph5psMQoirU"
-         }
       }
    },
    "Curve": {
@@ -570,12 +537,6 @@
          "Cuckoo": "",
          "$date": "1993",
          "$list": "white"
-      },
-      "=": {
-         "Clipped": {
-            "trend": "35,317",
-            "link": "https://youtu.be/moAIaLbcKb0"
-         }
       }
    }
 }
