@@ -376,6 +376,8 @@
          "Don’t Let Go": ""
       },
       "Foreigner": {
+         "$date": "1977",
+         "$list": "white",
          "Feels Like The First Time": {
             "flow": "282,733",
             "link": "https://youtu.be/8Tl-kOcnn1U"
@@ -388,18 +390,18 @@
          "Woman Oh Woman": "",
          "At War With the World": "",
          "Fool for You Anyway": "",
-         "I Need You": "",
-         "$date": "1977",
-         "$list": "white"
+         "I Need You": ""
       }
    },
    "Four Tet": {
       "Nova": {
-         "Nova": "good",
          "$date": "2012",
-         "$list": "white"
+         "$list": "white",
+         "Nova": "good"
       },
       "There Is Love in You": {
+         "$date": "2010",
+         "$list": "white",
          "Angel Echoes": {
             "flow": "281,677",
             "link": "https://youtu.be/Tpe4id7cLnU"
@@ -411,25 +413,25 @@
          "This Unfolds": "",
          "Reversing": "short",
          "Plastic People": "",
-         "She Just Likes to Fight": "good",
-         "$date": "2010",
-         "$list": "white"
+         "She Just Likes to Fight": "good"
       },
       "Moth / Wolf Cub": {
-         "Moth": "good",
-         "Wolf Cub": "good",
          "$date": "2009",
-         "$list": "white"
+         "$list": "white",
+         "Moth": "good",
+         "Wolf Cub": "good"
       },
       "Ringer": {
+         "$date": "2008",
+         "$list": "white",
          "Ringer": "bad",
          "Ribbons": "good",
          "Swimmer": "good",
-         "Wing Body Wing": "bad",
-         "$date": "2008",
-         "$list": "white"
+         "Wing Body Wing": "bad"
       },
       "Rounds": {
+         "$date": "2003",
+         "$list": "white",
          "Hands": "good",
          "She Moves She": "good",
          "First Thing": "short",
@@ -439,11 +441,11 @@
          "Chia": "short",
          "As Serious as Your Life": "bad",
          "And They All Look Broken Hearted": "good",
-         "Slow Jam": "bad",
-         "$date": "2003",
-         "$list": "white"
+         "Slow Jam": "bad"
       },
       "Pause": {
+         "$date": "2001",
+         "$list": "white",
          "Glue of the World": "good",
          "Twenty Three": "bad",
          "Harmony One": "short",
@@ -454,11 +456,11 @@
          "No More Mosquitoes": "bad",
          "Tangle": "bad",
          "You Could Ruin My Day": "good",
-         "Hilarious Movie of the 90’s": "bad",
-         "$date": "2001",
-         "$list": "white"
+         "Hilarious Movie of the 90’s": "bad"
       },
       "Dialogue": {
+         "$date": "1999",
+         "$list": "white",
          "The Space of Two Weeks": "good",
          "Chiron": "bad",
          "Alambradas": "short",
@@ -467,23 +469,23 @@
          "Liquefaction": "bad",
          "She Scanned": "",
          "Calamine": "good",
-         "The Butterfly Effect": "",
-         "$date": "1999",
-         "$list": "white"
+         "The Butterfly Effect": ""
       }
    },
    "Foy Vance": {
       "Live at Bangor Abbey": {
+         "$list": "black",
          "Be the Song": "",
          "Make it rain": {
             "flow": "8,003,040",
             "link": "https://youtu.be/hD5hIqeKNVE"
-         },
-         "$list": "black"
+         }
       }
    },
    "Frankie Rose": {
       "Cage Tropical": {
+         "$date": "2017",
+         "$list": "white",
          "Love in Rockets": "",
          "Dyson Sphere": "",
          "Trouble": "",
@@ -493,11 +495,11 @@
          "Game to Play": "",
          "Red Museum": "",
          "Epic Slack": "short",
-         "Decontrol": "",
-         "$date": "2017",
-         "$list": "white"
+         "Decontrol": ""
       },
       "Herein Wild": {
+         "$date": "2013",
+         "$list": "white",
          "You for Me": "bad",
          "Sorrow": "bad",
          "Into Blue": "bad",
@@ -507,11 +509,11 @@
          "Heaven": "",
          "Question/Reason": "",
          "Street of Dreams": "",
-         "Requiem": "short",
-         "$date": "2013",
-         "$list": "white"
+         "Requiem": "short"
       },
       "Interstellar": {
+         "$date": "2012",
+         "$list": "white",
          "Interstellar": "",
          "Know Me": "short",
          "Gospel/Grace": "",
@@ -525,13 +527,13 @@
          },
          "Apples for the Sun": "",
          "Moon in My Mind": "",
-         "The Fall": "good",
-         "$date": "2012",
-         "$list": "white"
+         "The Fall": "good"
       }
    },
    "Franz Ferdinand": {
       "Franz Ferdinand": {
+         "$date": "2004",
+         "$list": "white",
          "Jacqueline": "",
          "Tell Her Tonight": "short",
          "Take Me Out": {
@@ -546,24 +548,23 @@
          "Darts of Pleasure": "",
          "Michael": "",
          "Come On Home": "",
-         "40′": "",
-         "$date": "2004",
-         "$list": "white"
+         "40′": ""
       }
    },
    "Fugees": {
       "The Score": {
+         "$list": "black",
          "Fu-Gee-La": "",
          "Killing Me Softly with His Song": "",
          "Ready or Not": {
             "flow": "14,642,911",
             "link": "https://youtu.be/aIXyKmElvv8"
-         },
-         "$list": "black"
+         }
       }
    },
    "Funkadelic": {
       "Maggot Brain": {
+         "$list": "white",
          "Maggot Brain": {
             "rate": "good",
             "flow": "683,197",
@@ -574,12 +575,12 @@
          "You and Your Folks, Me and My Folks": "",
          "Super Stupid": "",
          "Back in Our Minds": "short",
-         "Wars of Armageddon": "",
-         "$list": "white"
+         "Wars of Armageddon": ""
       }
    },
    "Funki Porcini": {
       "Fast Asleep": {
+         "$list": "white",
          "What Are You Looking At?": "",
          "The Big Sea": "good",
          "We’re Out of Here": "",
@@ -593,10 +594,10 @@
          "Terminal C3 UK": "short",
          "Weow": "",
          "Offshore Birmingham": "short",
-         "Back Home": "",
-         "$list": "white"
+         "Back Home": ""
       },
       "Love, Pussycats & Carwrecks": {
+         "$list": "white",
          "purrfect": {
             "rate": "bad",
             "flow": "27,321",
@@ -612,12 +613,12 @@
          "Hyde Park": "bad",
          "Theme Music for Nothing": "bad",
          "I’m Such a Small Thing": "bad",
-         "Going Down": "good",
-         "$list": "white"
+         "Going Down": "good"
       }
    },
    "Genesis": {
       "Invisible Touch": {
+         "$list": "white",
          "Invisible Touch": "",
          "Tonight, Tonight, Tonight": "",
          "Land of Confusion": {
@@ -629,8 +630,7 @@
          "Anything She Does": "",
          "Domino Part One In the Glow of the Night - Part Two The Last Domino": "",
          "Throwing It All Away": "",
-         "The Brazilian": "",
-         "$list": "white"
+         "The Brazilian": ""
       }
    },
    "Gin Blossoms": {
@@ -656,6 +656,7 @@
    },
    "Gnarls Barkley": {
       "St. Elsewhere": {
+         "$list": "white",
          "Go‐Go Gadget Gospel": "short",
          "Crazy": {
             "rate": "good",
@@ -673,10 +674,10 @@
          "On Line": "short",
          "Necromancer": "short",
          "Storm Coming": "",
-         "The Last Time": "",
-         "$list": "white"
+         "The Last Time": ""
       },
       "The Odd Couple": {
+         "$list": "white",
          "Charity Case": "",
          "Who’s Gonna Save My Soul": "good",
          "Going On": "short",
@@ -689,8 +690,7 @@
          "She Knows": "short",
          "Blind Mary": "",
          "Neighbors": "",
-         "A Little Better": "",
-         "$list": "white"
+         "A Little Better": ""
       }
    },
    "Goldfrapp": {
@@ -789,15 +789,17 @@
    },
    "Goo Goo Dolls": {
       "Dizzy Up the Girl": {
+         "$date": "1998",
+         "$list": "black",
          "Iris": {
             "flow": "19,820,856",
             "link": "https://youtu.be/NdYWuo9OFAw"
          },
-         "Slide": "",
-         "$date": "1998",
-         "$list": "black"
+         "Slide": ""
       },
       "A Boy Named Goo": {
+         "$date": "1995",
+         "$list": "white",
          "Long Way Down": "good",
          "Burnin’ Up": "short",
          "Naked": "",
@@ -814,13 +816,13 @@
          "So Long": "short",
          "Eyes Wide Open": "",
          "Disconnected": "",
-         "Slave Girl": "short",
-         "$date": "1995",
-         "$list": "white"
+         "Slave Girl": "short"
       }
    },
    "Gorillaz": {
       "The Now Now": {
+         "$date": "2018",
+         "$list": "black",
          "Humility": {
             "flow": "69,322,117",
             "link": "https://youtu.be/E5yFcdPAGv0"
@@ -828,11 +830,11 @@
          "Tranz": {
             "flow": "49,788,375",
             "link": "https://youtu.be/E2Q52cVx7Bo"
-         },
-         "$date": "2018",
-         "$list": "black"
+         }
       },
       "Humanz": {
+         "$date": "2017",
+         "$list": "black",
          "Andromeda": {
             "flow": "24,213,804",
             "link": "https://youtu.be/9W44NWYwa1g"
@@ -840,14 +842,11 @@
          "Saturnz Barz": {
             "flow": "39,375,302",
             "link": "https://youtu.be/5qJp6xlKEug"
-         },
-         "$date": "2017",
-         "$list": "black"
-      },
-      "The Fall": {
-         "$date": "2010"
+         }
       },
       "Plastic Beach": {
+         "$date": "2010",
+         "$list": "black",
          "On Melancholy Hill": {
             "flow": "14,525,087",
             "link": "https://youtu.be/04mfKJWDSzI"
@@ -855,11 +854,11 @@
          "Stylo": {
             "flow": "10,408,741",
             "link": "https://youtu.be/nhPaWIeULKk"
-         },
-         "$date": "2010",
-         "$list": "black"
+         }
       },
       "Demon Days": {
+         "$date": "2005",
+         "$list": "black",
          "DARE": {
             "flow": "15,207,223",
             "link": "https://youtu.be/uAOR6ib95kQ"
@@ -871,11 +870,11 @@
          "Feel Good Inc": {
             "flow": "98,994,981",
             "link": "https://youtu.be/HyHNuVaZJ-k"
-         },
-         "$date": "2005",
-         "$list": "black"
+         }
       },
       "Gorillaz": {
+         "$date": "2001",
+         "$list": "black",
          "19-2000": {
             "flow": "21,040,483",
             "link": "https://youtu.be/WXR-bCF5dbM"
@@ -887,13 +886,13 @@
          "Tomorrow Comes Today": {
             "flow": "6,597,139",
             "link": "https://youtu.be/PiNdcBg3xC8"
-         },
-         "$date": "2001",
-         "$list": "black"
+         }
       }
    },
    "Gotan Project": {
       "Tango 3.0": {
+         "$date": "2010",
+         "$list": "white",
          "Tango Square": "good",
          "Rayuela": "bad",
          "Desilusión": "bad",
@@ -904,11 +903,11 @@
          "De hombre a hombre": "",
          "El mensajero": "short",
          "Panamericana": "",
-         "Érase una vez": "",
-         "$date": "2010",
-         "$list": "white"
+         "Érase una vez": ""
       },
       "Lunático": {
+         "$date": "2006",
+         "$list": "white",
          "Amor Porteño": "",
          "Notas": "",
          "Diferente": "",
@@ -920,11 +919,11 @@
          "Criminal": "",
          "Arrabal": "",
          "Domingo": "",
-         "Paris, Texas": "good",
-         "$date": "2006",
-         "$list": "white"
+         "Paris, Texas": "good"
       },
       "La revancha del tango": {
+         "$date": "2001",
+         "$list": "white",
          "Queremos paz": "good",
          "Época": "bad",
          "Chunga’s Revenge": "bad",
@@ -937,50 +936,42 @@
          "El capitalismo foráneo": "good",
          "Last Tango in Paris": "",
          "La del ruso": "",
-         "Vuelvo al sur": "",
-         "$date": "2001",
-         "$list": "white"
+         "Vuelvo al sur": ""
       }
    },
    "Green Day": {
       "21st Century Breakdown": {
+         "$date": "2009",
+         "$list": "black",
          "21 Guns": {
             "flow": "24,850,357",
             "link": "https://youtu.be/r00ikilDxW4"
-         },
-         "$date": "2009",
-         "$list": "black"
+         }
       },
       "American Idiot": {
+         "$date": "2004",
+         "$list": "black",
          "Boulevard of Broken Dreams": {
             "flow": "50,307,178",
             "link": "https://youtu.be/Soa3gO7tL-c"
-         },
-         "$date": "2004",
-         "$list": "black"
-      },
-      "Warning": {
-         "$date": "2000"
+         }
       },
       "Nimrod": {
+         "$date": "1997",
+         "$list": "black",
          "Good Riddance": {
             "flow": "6,048,169",
             "link": "https://youtu.be/CnQ8N1KacJc"
-         },
-         "$date": "1997",
-         "$list": "black"
-      },
-      "Insomniac": {
-         "$date": "1995"
+         }
       },
       "Dookie": {
+         "$date": "1994",
+         "$list": "black",
          "Basket Case": {
             "flow": "19,510,691",
             "link": "https://youtu.be/NUTGr5t3MoY"
          },
-         "When I Come Around": "",
-         "$date": "1994",
-         "$list": "black"
+         "When I Come Around": ""
       }
    },
    "Grizzly Bear": {
@@ -1073,6 +1064,8 @@
    },
    "Groove Armada": {
       "Black Light": {
+         "$date": "2010",
+         "$list": "white",
          "Look Me in the Eye Sister": "",
          "Fall Silent": "",
          "Just for Tonight": "",
@@ -1083,11 +1076,11 @@
          "Warsaw": "bad",
          "Shameless": "",
          "Time & Space": "",
-         "History": "bad",
-         "$date": "2010",
-         "$list": "white"
+         "History": "bad"
       },
       "Soundboy Rock": {
+         "$date": "2007",
+         "$list": "white",
          "Hasta Luego Mr. Fab (interlude)": "good",
          "Get Down": "",
          "The Things That We Could Share": "",
@@ -1102,11 +1095,11 @@
          "Song 4 Mutya (Out of Control)": "",
          "From the Rooftops": "good",
          "See What You Get": "",
-         "What’s Your Version? (reprise)": "short",
-         "$date": "2007",
-         "$list": "white"
+         "What’s Your Version? (reprise)": "short"
       },
       "Lovebox": {
+         "$date": "2002",
+         "$list": "white",
          "Purple Haze": "",
          "Groove Is On": "",
          "Remember": "",
@@ -1118,11 +1111,11 @@
          "Tuning In (rewritten)": "",
          "Easy": "",
          "Lovebox": "good",
-         "But I Feel Good": "",
-         "$date": "2002",
-         "$list": "white"
+         "But I Feel Good": ""
       },
       "Goodbye Country (Hello Nightclub)": {
+         "$date": "2001",
+         "$list": "white",
          "Suntoucher": "bad",
          "Superstylin’": {
             "rate": "bad",
@@ -1139,11 +1132,11 @@
          "Edge Hill": "",
          "Tuning In (dub mix)": "",
          "Join Hands": "",
-         "Likwid": "",
-         "$date": "2001",
-         "$list": "white"
+         "Likwid": ""
       },
       "Vertigo": {
+         "$date": "1999-05-24",
+         "$list": "white",
          "Chicago": "",
          "Whatever, Whenever": "",
          "Dusk You & Me": "",
@@ -1155,52 +1148,50 @@
          "At the River": "good",
          "In My Bones": "",
          "Your Song": "",
-         "Inside My Mind (Blue Skies)": "",
-         "$date": "1999-05-24",
-         "$list": "white"
+         "Inside My Mind (Blue Skies)": ""
       }
    },
    "Guns N’ Roses": {
       "Use Your Illusion II": {
+         "$date": "1991-09-17",
+         "$list": "black",
          "Yesterdays": {
             "flow": "6,521,419",
             "link": "https://youtu.be/NDOPlpH6NZM"
-         },
-         "$date": "1991-09-17",
-         "$list": "black"
+         }
       },
       "Use Your Illusion I": {
+         "$date": "1991-09-16",
+         "$list": "black",
          "November Rain": {
             "flow": "123,851,131",
             "link": "https://youtu.be/8SbUC-UaAxE"
-         },
-         "$date": "1991-09-16",
-         "$list": "black"
+         }
       },
       "G N’ R Lies": {
+         "$date": "1988",
+         "$list": "black",
          "Patience": {
             "flow": "43,348,720",
             "link": "https://youtu.be/ErvgV4P6Fzc"
-         },
-         "$date": "1988",
-         "$list": "black"
+         }
       },
       "Appetite for Destruction": {
+         "$date": "1987",
+         "$list": "black",
          "Sweet Child O’ Mine": {
             "flow": "98,551,986",
             "link": "https://youtu.be/1w7OgIMMRc4"
-         },
-         "$date": "1987",
-         "$list": "black"
+         }
       }
    },
    "Gwen Stefani": {
       "Love. Angel. Music. Baby.": {
+         "$list": "black",
          "Hollaback Girl": {
             "flow": "19,292,734",
             "link": "https://youtu.be/Kgjkth6BRRY"
-         },
-         "$list": "black"
+         }
       }
    }
 }
