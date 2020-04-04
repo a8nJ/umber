@@ -1247,30 +1247,8 @@
    },
    "The xx": {
       "I See You": {
-         "I Dare You": "",
-         "On Hold": "",
          "$date": 2017,
-         "$list": "black"
-      },
-      "Coexist": {
-         "Angels": "",
-         "$date": 2012,
-         "$list": "black"
-      },
-      "xx": {
-         "Crystalized": "",
-         "$date": 2009,
-         "$list": "black"
-      },
-      "=": {
-         "Angels": {
-            "flow": "9,682,650",
-            "link": "https://youtu.be/_nW5AF0m9Zw"
-         },
-         "Crystalized": {
-            "flow": "6,038,215",
-            "link": "https://youtu.be/Pib8eYDSFEI"
-         },
+         "$list": "black",
          "I Dare You": {
             "flow": "18,250,038",
             "link": "https://youtu.be/qqflFMhkqHM"
@@ -1279,10 +1257,38 @@
             "flow": "10,967,060",
             "link": "https://youtu.be/blJKoXWlqJk"
          }
+      },
+      "Coexist": {
+         "$date": 2012,
+         "$list": "black",
+         "Angels": {
+            "flow": "9,682,650",
+            "link": "https://youtu.be/_nW5AF0m9Zw"
+         }
+      },
+      "xx": {
+          "$date": "2009-08-14",
+          "$list": "white",
+          "Intro": "good",
+          "VCR": "short",
+         "Crystalized": {
+            "VPY": "5,853,922",
+            "URL": "https://youtu.be/Pib8eYDSFEI"
+         },
+          "Islands": "short",
+          "Heart Skipped a Beat": "",
+          "Fantasy": "short",
+          "Shelter": "",
+          "Basic Space": "",
+          "Infinity": "",
+          "Night Time": "",
+          "Stars": ""
       }
    },
    "Thievery Corporation": {
       "Culture of Fear": {
+         "$date": 2011,
+         "$list": "white",
          "Web of Deception": "",
          "Culture of Fear": "",
          "Take My Soul": "",
@@ -1295,11 +1301,11 @@
          "Safar (The Journey)": "short",
          "Fragments": "good",
          "Overstand": "",
-         "Free": "",
-         "$date": 2011,
-         "$list": "white"
+         "Free": ""
       },
       "Radio Retaliation": {
+         "$date": 2008,
+         "$list": "white",
          "Sound the Alarm": "",
          "Mandala": "",
          "Radio Retaliation": "",
@@ -1314,11 +1320,11 @@
          "The Numbers Game": "",
          "The Shining Path": "good",
          "Blasting Through the City": "",
-         "Sweet Tides": "",
-         "$date": 2008,
-         "$list": "white"
+         "Sweet Tides": ""
       },
       "The Cosmic Game": {
+         "$date": 2005,
+         "$list": "white",
          "Marching the Hate Machines (Into the Sun)": "good",
          "Warning Shots": "",
          "Revolution Solution": "",
@@ -1334,11 +1340,11 @@
          "Wires and Watchtowers": "",
          "The Supreme Illusion": "",
          "The Time We Lost Our Way": "good",
-         "A Gentle Dissolve": "short",
-         "$date": 2005,
-         "$list": "white"
+         "A Gentle Dissolve": "short"
       },
       "The Richest Man in Babylon": {
+         "$date": 2002,
+         "$list": "white",
          "Heaven’s Gonna Burn Your Eyes": "",
          "Facing East": "",
          "The Outernationalist": "",
@@ -1349,15 +1355,19 @@
          "Meu destino (My Destiny)": "good",
          "Exilio (Exile)": "good",
          "From Creation": "",
-         "The Richest Man in Babylon": "good",
+         "The Richest Man in Babylon": {
+            "rate": "good",
+            "flow": "2,667,045",
+            "link": "https://youtu.be/uN9tulBHr8Y"
+         },
          "Liberation Front": "good",
          "The State of the Union": "",
          "Until the Morning": "good",
-         "Resolution": "good",
-         "$date": 2002,
-         "$list": "white"
+         "Resolution": "good"
       },
       "The Mirror Conspiracy": {
+         "$date": 2000,
+         "$list": "white",
          "Treasures": "short",
          "Le Monde": "good",
          "Indra": "good",
@@ -1370,11 +1380,11 @@
          "The Hong Kong Triad": "good",
          "Illumination": "",
          "The Mirror Conspiracy": "",
-         "Tomorrow": "good",
-         "$date": 2000,
-         "$list": "white"
+         "Tomorrow": "good"
       },
       "Sounds From the Thievery Hi‐Fi": {
+         "$date": 1997,
+         "$list": "white",
          "A Warning (Dub)": "short",
          "2001 Spliff Odyssey": "bad",
          "Shaolin Satellite": "bad",
@@ -1390,40 +1400,32 @@
          "The Oscillator": "",
          "Assault on Babylon": "",
          ".38.45 (A Thievery Number)": "",
-         "One": "",
-         "$date": 1997,
-         "$list": "white"
-      },
-      "=": {
-         "The Richest Man in Babylon": {
-            "flow": "2,667,045",
-            "link": "https://youtu.be/uN9tulBHr8Y"
-         }
+         "One": ""
       }
    },
    "Thin Lizzy": {
       "Jailbreak": {
+         "$date": 1975,
+         "$list": "white",
          "Jailbreak": "",
          "Angel From the Coast": "",
          "Running Back": "",
          "Romeo and the Lonely Girl": "",
          "Warriors": "",
-         "The Boys Are Back in Town": "good",
-         "Fight or Fall": "",
-         "Cowboy Song": "",
-         "Emerald": "",
-         "$date": 1975,
-         "$list": "white"
-      },
-      "=": {
          "Boys Are Back In Town": {
+            "rate": "good",
             "flow": "1,205,480",
             "link": "https://youtu.be/hQo1HIcSVtg"
-         }
+         },
+         "Fight or Fall": "",
+         "Cowboy Song": "",
+         "Emerald": ""
       }
    },
    "Third Eye Blind": {
       "Blue": {
+         "$date": 1999,
+         "$list": "white",
          "Anything": "short",
          "Wounded": "bad",
          "10 Days Late": "bad",
@@ -1436,15 +1438,17 @@
          "Farther": "",
          "Slow Motion": "",
          "Darkness": "",
-         "Darwin / The Red Summer Sun (extended coda)": "",
-         "$date": 1999,
-         "$list": "white"
+         "Darwin / The Red Summer Sun (extended coda)": ""
       },
       "Third Eye Blind": {
          "Losing a Whole Year": "",
          "Narcolepsy": "",
          "Semi‐Charmed Life": "",
-         "Jumper": "good",
+         "Jumper": {
+            "rate": "good",
+            "flow": "2,994,182",
+            "link": "https://youtu.be/QdgCajndgNw"
+         },
          "Graduate": "",
          "How’s It Going to Be": "good",
          "Thanks a Lot": "",
@@ -1457,12 +1461,6 @@
          "God of Wine": "",
          "$date": 1997,
          "$list": "white"
-      },
-      "=": {
-         "Jumper": {
-            "flow": "2,994,182",
-            "link": "https://youtu.be/QdgCajndgNw"
-         }
       }
    },
    "Thunderball": {
