@@ -1,6 +1,8 @@
 {
    "Nada Surf": {
       "Let Go": {
+         "$date": "2002",
+         "$list": "white",
          "Blizzard of ’77": "short",
          "The Way You Wear Your Head": "bad",
          "Fruit Fly": "bad",
@@ -12,11 +14,11 @@
          "Là pour ça": "bad",
          "Happy Kid": "bad",
          "Treading Water": "bad",
-         "Paper Boats": "bad",
-         "$date": "2002",
-         "$list": "white"
+         "Paper Boats": "bad"
       },
       "High/Low": {
+         "$date": "1996",
+         "$list": "white",
          "Deeper Well": "bad",
          "The Plan": "bad",
          "Popular": "good",
@@ -26,31 +28,31 @@
          "Icebox": "bad",
          "Psychic Caramel": "bad",
          "Hollywood": "short",
-         "Zen Brain": "bad",
-         "$date": "1996",
-         "$list": "white"
+         "Zen Brain": "bad"
       }
    },
    "Nancy Sinatra": {
       "How Does That Grab You?": {
+         "$date": "1966",
+         "$list": "black",
          "Bang Bang": {
             "flow": "7,231,985",
             "link": "https://youtu.be/Ppz0Yp-lE0g"
-         },
-         "$date": "1966",
-         "$list": "black"
+         }
       },
       "Boots": {
+         "$date": "1966",
+         "$list": "black",
          "These Boots Are Made for Walkin’": {
             "flow": "14,140,176",
             "link": "https://youtu.be/SbyAZQ45uww"
-         },
-         "$date": "1966",
-         "$list": "black"
+         }
       }
    },
    "Natalie Imbruglia": {
       "White Lilies Island": {
+         "$date": "2001",
+         "$list": "white",
          "That Day": "",
          "Beauty on the Fire": "",
          "Satellite": "",
@@ -66,21 +68,21 @@
          "Sunlight": "",
          "Talk in Tongues": "",
          "Butterflies": "",
-         "Come September": "",
-         "$date": "2001",
-         "$list": "white"
+         "Come September": ""
       },
       "Left of the Middle": {
+         "$date": "1997",
+         "$list": "black",
          "Torn": {
             "flow": "17,820,167",
             "link": "https://youtu.be/VV1XWJN3nJo"
-         },
-         "$date": "1997",
-         "$list": "black"
+         }
       }
    },
    "Natalie Merchant": {
       "Motherland": {
+         "$date": "2001",
+         "$list": "white",
          "This House Is on Fire": "bad",
          "Motherland": "bad",
          "Saint Judas": "bad",
@@ -92,11 +94,11 @@
          "Tell Yourself": "",
          "Just Can’t Last": "",
          "Not in This Life": "",
-         "I’m Not Gonna Beg": "",
-         "$date": "2001",
-         "$list": "white"
+         "I’m Not Gonna Beg": ""
       },
       "Ophelia": {
+         "$date": "1998",
+         "$list": "white",
          "Ophelia": "",
          "Life Is Sweet": "",
          "Kind & Generous": "good",
@@ -107,11 +109,11 @@
          "Thick as Thieves": "",
          "Effigy": "short",
          "The Living": "",
-         "When They Ring the Golden Bells": "",
-         "$date": "1998",
-         "$list": "white"
+         "When They Ring the Golden Bells": ""
       },
       "Tigerlily": {
+         "$date": "1995",
+         "$list": "white",
          "San Andreas Fault": "",
          "Wonder": "good",
          "Beloved Wife": "",
@@ -126,41 +128,41 @@
          "Cowboy Romance": "",
          "Jealousy": "short",
          "Where I Go": "",
-         "Seven Years": "",
-         "$date": "1995",
-         "$list": "white"
+         "Seven Years": ""
       }
    },
    "Neil Young": {
       "Harvest": {
+         "$list": "black",
          "Heart Of Gold": {
             "flow": "6,449,181",
             "link": "https://youtu.be/Eh44QPT1mPE"
          },
-         "Old Man": "",
-         "$list": "black"
+         "Old Man": ""
       }
    },
    "Nelly Furtado": {
       "Loose": {
+         "$list": "black",
          "Say It Right": {
             "flow": "41,217,852",
             "link": "https://youtu.be/6JnGBs88sL0"
-         },
-         "$list": "black"
+         }
       }
    },
    "Nena": {
       "Nena": {
+         "$list": "black",
          "99 Luftballons": {
             "flow": "13,394,632",
             "link": "https://youtu.be/La4Dcd1aUcE"
-         },
-         "$list": "black"
+         }
       }
    },
    "New Order": {
       "Technique": {
+         "$date": "1989",
+         "$list": "white",
          "Fine Time": "",
          "All the Way": "",
          "Love Less": "",
@@ -169,17 +171,17 @@
          "Run": "",
          "Mr. Disco": "",
          "Vanishing Point": "",
-         "Dream Attack": "",
-         "$date": "1989",
-         "$list": "white"
+         "Dream Attack": ""
       },
       "True Faith": {
-         "True Faith": "good",
-         "1963": "",
          "$date": "1987",
-         "$list": "white"
+         "$list": "white",
+         "True Faith": "good",
+         "1963": ""
       },
       "Low‐Life": {
+         "$date": "1985",
+         "$list": "white",
          "Love Vigilantes": "",
          "The Perfect Kiss": "",
          "This Time of Night": "",
@@ -187,26 +189,24 @@
          "Elegia": "good",
          "Sooner Than You Think": "",
          "Sub‐Culture": "",
-         "Face Up": "",
-         "$date": "1985",
-         "$list": "white"
+         "Face Up": ""
       },
       "Power, Corruption & Lies": {
+         "$date": "1983",
+         "$list": "black",
          "Blue Monday": {
             "flow": "13,712,895",
             "link": "https://youtu.be/FYH8DsU2WCk"
-         },
-         "$date": "1983",
-         "$list": "black"
+         }
       }
    },
    "New Radicals": {
       "Maybe You’ve Been Brainwashed Too": {
+         "$list": "black",
          "You Get What You Give": {
             "flow": "7,184,230",
             "link": "https://youtu.be/DL7-CKirWZE"
-         },
-         "$list": "black"
+         }
       }
    },
    "Nicolas Jaar": {
@@ -391,35 +391,37 @@
    },
    "Nirvana": {
       "MTV Unplugged": {
+         "$date": "1994",
+         "$list": "black",
          "The Man Who Sold The World": {
             "flow": "24,614,437",
             "link": "https://youtu.be/fregObNcHC8"
-         },
-         "$date": "1994",
-         "$list": "black"
+         }
       },
       "In Utero": {
+         "$date": "1993",
+         "$list": "black",
          "Heart-Shaped Box": {
             "flow": "16,781,101",
             "link": "https://youtu.be/n6P0SitRwy8"
-         },
-         "$date": "1993",
-         "$list": "black"
+         }
       },
       "Nevermind": {
+         "$date": "1991",
+         "$list": "black",
          "Come As You Are": "",
          "In Bloom": "",
          "Lithium": "",
          "Smells Like Teen Spirit": {
             "flow": "91,497,950",
             "link": "https://youtu.be/hTWKbfoikeg"
-         },
-         "$date": "1991",
-         "$list": "black"
+         }
       }
    },
    "Norah Jones": {
       "The Fall": {
+         "$date": "2009",
+         "$list": "white",
          "Chasing Pirates": "good",
          "Even Though": "",
          "Light as a Feather": "",
@@ -432,11 +434,11 @@
          "Stuck": "",
          "December": "",
          "Tell Yer Mama": "",
-         "Man of the Hour": "short",
-         "$date": "2009",
-         "$list": "white"
+         "Man of the Hour": "short"
       },
       "Not Too Late": {
+         "$date": "2006",
+         "$list": "white",
          "Wish I Could": "bad",
          "Sinkin’ Soon": "bad",
          "The Sun Doesn’t Like You": "short",
@@ -449,11 +451,11 @@
          "Be My Somebody": "bad",
          "Little Room": "short",
          "Rosie’s Lullaby": "bad",
-         "Not Too Late": "bad",
-         "$date": "2006",
-         "$list": "white"
+         "Not Too Late": "bad"
       },
       "Come Away With Me": {
+         "$date": "2002",
+         "$list": "white",
          "Don’t Know Why": {
             "rate": "good",
             "flow": "4,720,905",
@@ -471,13 +473,13 @@
          "One Flight Down": "",
          "Nightingale": "",
          "The Long Day Is Over": "short",
-         "The Nearness of You": "",
-         "$date": "2002",
-         "$list": "white"
+         "The Nearness of You": ""
       }
    },
    "Olive": {
       "Extra Virgin": {
+         "$date": "1997",
+         "$list": "black",
          "Miracle": "good",
          "This Time": "",
          "Safer Hands": "",
@@ -492,9 +494,7 @@
          "Blood Red Tears": "",
          "Curious": "",
          "You Are Nothing": "",
-         "Muted": "",
-         "$date": "1997",
-         "$list": "black"
+         "Muted": ""
       }
    },
    "On-the-Go": {
@@ -607,14 +607,14 @@
          "Zones Without People": "reissue"
       },
       "Russian Mind": {
+         "$date": "2009-10",
+         "$list": "white",
          "Months": "bad",
          "Physical Memory": "bad",
          "Grief and Repetition": "short",
          "Russian Mind": "bad",
          "Time Decanted": "good",
-         "Immanence": "",
-         "$date": "2009-10",
-         "$list": "white"
+         "Immanence": ""
       },
       "Zones Without People": {
           "$date": "2009-08-11",
@@ -679,6 +679,7 @@
    },
    "Pastel Ghost": {
       "ABYSS": {
+         "$list": "white",
          "PRISM": "",
          "EMBRACE": "",
          "CLOUDS": {
@@ -692,12 +693,12 @@
          "TRANSLUCID": "",
          "LILACS": "",
          "PULSE": "",
-         "ABYSS": "",
-         "$list": "white"
+         "ABYSS": ""
       }
    },
    "Paula Abdul": {
       "Forever Your Girl": {
+         "$list": "white",
          "The Way That You Love Me": "",
          "Knocked Out": "",
          "Opposites Attract": "good",
@@ -711,12 +712,13 @@
          },
          "Next to You": "",
          "Cold Hearted": "",
-         "One or the Other": "",
-         "$list": "white"
+         "One or the Other": ""
       }
    },
    "Paula Cole": {
       "This Fire": {
+         "$date": "1996",
+         "$list": "white",
          "Tiger": "",
          "Where Have All the Cowboys Gone?": "good",
          "Throwing Stones": "",
@@ -730,13 +732,13 @@
          "I Don’t Want to Wait": {
             "flow": "892,581",
             "link": "https://youtu.be/U0qdaTTS53M"
-         },
-         "$date": "1996",
-         "$list": "white"
+         }
       }
    },
    "Pearl Jam": {
       "Vs": {
+         "$date": "1993",
+         "$list": "white",
          "Go": "",
          "Animal": "short",
          "Daughter": "good",
@@ -748,11 +750,11 @@
          "Rats": "",
          "Elderly Woman Behind the Counter in a Small Town": "",
          "Leash": "",
-         "Indifference": "",
-         "$date": "1993",
-         "$list": "white"
+         "Indifference": ""
       },
       "Ten": {
+         "$date": "1991",
+         "$list": "black",
          "Alive": "",
          "Black": "",
          "Even Flow": "",
@@ -760,13 +762,13 @@
             "flow": "10,950,506",
             "link": "https://youtu.be/MS91knuzoOA"
          },
-         "Yellow Ledbetter": "",
-         "$date": "1991",
-         "$list": "black"
+         "Yellow Ledbetter": ""
       }
    },
    "Pendulum": {
       "In Silico": {
+         "$date": "2008",
+         "$list": "white",
          "Showdown": "bad",
          "Different": "bad",
          "Propane Nightmares": "bad",
@@ -776,11 +778,11 @@
          "Mutiny": "",
          "9,000 Miles": "",
          "Granite": "",
-         "The Tempest": "",
-         "$date": "2008",
-         "$list": "white"
+         "The Tempest": ""
       },
       "Hold Your Colour": {
+         "$date": "2005",
+         "$list": "white",
          "Prelude": "short",
          "Slam": "good",
          "Plasticworld": "good",
@@ -794,9 +796,7 @@
          "The Terminal": "",
          "Streamline": "good",
          "Another Planet": "",
-         "Still Grey": "good",
-         "$date": "2005",
-         "$list": "white"
+         "Still Grey": "good"
       }
    },
    "Pet Shop Boys": {
