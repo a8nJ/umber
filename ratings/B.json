@@ -14,7 +14,7 @@
          "Movin’ On": "",
          "Seagull": "",
          "=": {
-            "$date": "1974",
+         "$date": "1974",
             "$list": "white"
          }
       }
@@ -35,7 +35,7 @@
          "Robert De Niro’s Waiting": "",
          "Through a Child’s Eye": "",
          "=": {
-            "$date": "1984",
+         "$date": "1984",
             "$list": "white"
          }
       }
@@ -120,14 +120,14 @@
       "Depression Cherry": {
          "Space Song": "",
          "=": {
-            "$date": "2015",
+         "$date": "2015",
             "$list": "black"
          }
       },
       "Bloom": {
          "Myth": "",
          "=": {
-            "$date": "2012",
+         "$date": "2012",
             "$list": "black"
          }
       },
@@ -143,7 +143,7 @@
          "Real Love": "good",
          "Take Care": "good",
          "=": {
-            "$date": "2010",
+         "$date": "2010",
             "$list": "white"
          }
       },
@@ -180,7 +180,7 @@
          "The Brouhaha": "short",
          "We Got The": "short",
          "=": {
-            "$date": "2004",
+         "$date": "2004",
             "$list": "white"
          }
       },
@@ -190,7 +190,7 @@
       "Ill Communication": {
          "Sabotage": "",
          "=": {
-            "$date": "1994",
+         "$date": "1994",
             "$list": "black"
          }
       },
@@ -218,7 +218,7 @@
          "Square One": "short",
          "Fix Me": "bad",
          "=": {
-            "$date": "2017",
+         "$date": "2017",
             "$list": "white"
          }
       },
@@ -237,7 +237,7 @@
          "Country Down": "",
          "Waking Light": "",
          "=": {
-            "$date": "2014",
+         "$date": "2014",
             "$list": "white"
          }
       },
@@ -278,7 +278,7 @@
          "Inferno": "",
          "Gold Chains": "",
          "=": {
-            "$date": "1996",
+         "$date": "1996",
             "$list": "white"
          }
       },
@@ -288,7 +288,7 @@
       "Mellow Gold": {
          "Loser": "",
          "=": {
-            "$date": "1994",
+         "$date": "1994",
             "$list": "black"
          }
       },
@@ -319,7 +319,7 @@
          "St. Apollonia": "short",
          "The Flying Club Cup": "",
          "=": {
-            "$date": "2007",
+         "$date": "2007",
             "$list": "white"
          }
       },
@@ -342,7 +342,7 @@
          "When Will I See You Smile Again?": "",
          "I Do Need You.": "",
          "=": {
-            "$date": "1990",
+         "$date": "1990",
             "$list": "white"
          }
       },
@@ -366,7 +366,7 @@
          "Gracious": "",
          "Promise": "good",
          "=": {
-            "$date": "2011",
+         "$date": "2011",
             "$list": "white"
          }
       },
@@ -391,7 +391,7 @@
          "Business Park": "",
          "You Won’t Remember...": "",
          "=": {
-            "$date": "2013",
+         "$date": "2013",
             "$list": "white"
          }
       },
@@ -412,7 +412,7 @@
          "Cry! Baby!": "",
          "Dwrcan": "",
          "=": {
-            "$date": "2009-06-22",
+         "$date": "2009-06-22",
             "$list": "white"
          }
       },
@@ -434,7 +434,7 @@
          "Thatched": "",
          "The Garden Shelter": "",
          "=": {
-            "$date": "2009-02-03",
+         "$date": "2009-02-03",
             "$list": "white"
          }
       },
@@ -460,7 +460,7 @@
          "Vale": "",
          "Aura": "",
          "=": {
-            "$date": "2017",
+         "$date": "2017",
             "$list": "white"
          }
       },
@@ -469,7 +469,7 @@
          "Rays": "",
          "Seagulls": "",
          "=": {
-            "$date": "2015",
+         "$date": "2015",
             "$list": "white"
          }
       },
@@ -485,7 +485,7 @@
          "All Night": "",
          "Kill Jill": "",
          "=": {
-            "$date": "2017",
+         "$date": "2017",
             "$list": "black"
          }
       },
@@ -509,7 +509,7 @@
          "The Train, Part 2 (Sir Lucious Left Foot Saves the Day)": "",
          "Back Up Plan": "",
          "=": {
-            "$date": "2010",
+         "$date": "2010",
             "$list": "white"
          }
       },
@@ -539,7 +539,7 @@
          "Harm of Will": "",
          "Unison": "",
          "=": {
-            "$date": "2001",
+         "$date": "2001",
             "$list": "white"
          }
       },
@@ -555,7 +555,7 @@
          "Pluto": "bad",
          "All Is Full of Love": "good",
          "=": {
-            "$date": "1997",
+         "$date": "1997",
             "$list": "white"
          }
       },
@@ -572,7 +572,7 @@
          "Cover Me": "short",
          "Headphones": "bad",
          "=": {
-            "$date": "1995",
+         "$date": "1995",
             "$list": "white"
          }
       },
@@ -590,7 +590,7 @@
          "The Anchor Song": "good",
          "Play Dead": "good",
          "=": {
-            "$date": "1993",
+         "$date": "1993",
             "$list": "white"
          }
       },
@@ -606,7 +606,7 @@
          "Bored to Death": "",
          "She’s Out Of Her Mind": "",
          "=": {
-            "$date": "2016",
+         "$date": "2016",
             "$list": "black"
          }
       },
@@ -617,7 +617,7 @@
          "Always": "",
          "I Miss You": "",
          "=": {
-            "$date": "2003",
+         "$date": "2003",
             "$list": "black"
          }
       },
@@ -626,7 +626,7 @@
          "Stay Together for the Kids": "",
          "The Rock Show": "",
          "=": {
-            "$date": "2001",
+         "$date": "2001",
             "$list": "black"
          }
       },
@@ -635,7 +635,7 @@
          "All the Small Things": "",
          "What’s My Age Again?": "",
          "=": {
-            "$date": "1999",
+         "$date": "1999",
             "$list": "black"
          }
       },
@@ -677,7 +677,7 @@
          "Minetta Creek": "short",
          "Smoke": "bad",
          "=": {
-            "$date": "2018",
+         "$date": "2018",
             "$list": "white"
          }
       },
@@ -700,7 +700,7 @@
          "I Know": "",
          "Better Numb": "",
          "=": {
-            "$date": "2016",
+         "$date": "2016",
             "$list": "white"
          }
       },
@@ -717,7 +717,7 @@
          "High Street": "short",
          "Time Will Tell": "",
          "=": {
-            "$date": "2013",
+         "$date": "2013",
             "$list": "white"
          }
       },
@@ -733,7 +733,7 @@
          "Are You Sure You’re Really Busy?": "",
          "Champagne Coast": "",
          "=": {
-            "$date": "2011",
+         "$date": "2011",
             "$list": "white"
          }
       },
@@ -741,7 +741,7 @@
          "Dinner": "good",
          "Bad Girls": "good",
          "=": {
-            "$date": "2010",
+         "$date": "2010",
             "$list": "white"
          }
       },
@@ -772,7 +772,7 @@
          "Come to Dust": "",
          "Semena Mertvykh": "",
          "=": {
-            "$date": "2013",
+         "$date": "2013",
             "$list": "white"
          }
       },
@@ -782,7 +782,7 @@
          "Skyliner": "bad",
          "Under the Coke Sign": "short",
          "=": {
-            "$date": "2006",
+         "$date": "2006",
             "$list": "white"
          }
       },
@@ -803,7 +803,7 @@
          "Tears From the Compound Eye": "good",
          "Farewell Fire": "bad",
          "=": {
-            "$date": "2005",
+         "$date": "2005",
             "$list": "white"
          }
       },
@@ -832,7 +832,7 @@
          "Corsair": "short",
          "Magic Window": "short",
          "=": {
-            "$date": "2002",
+         "$date": "2002",
             "$list": "white"
          }
       },
@@ -842,7 +842,7 @@
          "In a Beautiful Place Out in the Country": "good",
          "Zoetrope": "bad",
          "=": {
-            "$date": "2000",
+         "$date": "2000",
             "$list": "white"
          }
       },
@@ -865,7 +865,7 @@
          "Open the Light": "good",
          "One Very Important Thought": "short",
          "=": {
-            "$date": "1998",
+         "$date": "1998",
             "$list": "white"
          }
       },
@@ -887,7 +887,7 @@
          "Original Nlogax": "short",
          "Whitewater": "bad",
          "=": {
-            "$date": "1996",
+         "$date": "1996",
             "$list": "white"
          }
       },
@@ -913,7 +913,7 @@
          "7th Sevens": "",
          "Figures": "",
          "=": {
-            "$date": "2017",
+         "$date": "2017",
             "$list": "white"
          }
       },
@@ -932,7 +932,7 @@
          "Transits": "",
          "Pieces": "",
          "=": {
-            "$date": "2013",
+         "$date": "2013",
             "$list": "white"
          }
       },
@@ -950,7 +950,7 @@
          "Animals": "good",
          "Black Sands": "good",
          "=": {
-            "$date": "2010",
+         "$date": "2010",
             "$list": "white"
          }
       },
@@ -974,7 +974,7 @@
          "Walk in the Sky (instrumental)": "good",
          "Hatoa": "good",
          "=": {
-            "$date": "2006",
+         "$date": "2006",
             "$list": "white"
          }
       },
@@ -989,7 +989,7 @@
          "Nothing Owed": "good",
          "Light Pattern": "good",
          "=": {
-            "$date": "2003",
+         "$date": "2003",
             "$list": "white"
          }
       },
@@ -1000,7 +1000,7 @@
          "Magicman": "good",
          "Scuba": "good",
          "=": {
-            "$date": "2002",
+         "$date": "2002",
             "$list": "white"
          }
       },
@@ -1016,7 +1016,7 @@
          "Sugar Rhyme": "bad",
          "Silver": "good",
          "=": {
-            "$date": "2000",
+         "$date": "2000",
             "$list": "white"
          }
       },
@@ -1032,7 +1032,7 @@
          "I’ll Make Love To You": "",
          "On Bended Knee": "",
          "=": {
-            "$date": "1994",
+         "$date": "1994",
             "$list": "black"
          }
       },
@@ -1042,7 +1042,7 @@
       "Cooleyhighharmony": {
          "End Of The Road": "",
          "=": {
-            "$date": "1991",
+         "$date": "1991",
             "$list": "black"
          }
       },
@@ -1071,7 +1071,7 @@
          "Vanishing Point": "",
          "Thanks to You": "good",
          "=": {
-            "$date": "2001",
+         "$date": "2001",
             "$list": "white"
          }
       },
@@ -1091,7 +1091,7 @@
          "After Hours": "",
          "Goodnight Louise": "",
          "=": {
-            "$date": "1997",
+         "$date": "1997",
             "$list": "white"
          }
       },
@@ -1114,7 +1114,7 @@
          "Cool Running": "",
          "The Night of Van Gogh": "",
          "=": {
-            "$date": "1988",
+         "$date": "1988",
             "$list": "white"
          }
       },
@@ -1129,7 +1129,7 @@
       "Blackout": {
          "Break The Ice": "",
          "=": {
-            "$date": "2007",
+         "$date": "2007",
             "$list": "black"
          }
       },
@@ -1153,7 +1153,7 @@
          "What a Time": "",
          "Pastures of Plenty": "",
          "=": {
-            "$date": "1993",
+         "$date": "1993",
             "$list": "white"
          }
       },
@@ -1174,7 +1174,7 @@
          "The River Runs Low": "",
          "The Red Plains": "",
          "=": {
-            "$date": "1986",
+         "$date": "1986",
             "$list": "white"
          }
       },
@@ -1189,7 +1189,7 @@
       "18 Til I Die": {
          "Have You Ever Really Loved A Woman?": "",
          "=": {
-            "$date": "1996",
+         "$date": "1996",
             "$list": "black"
          }
       },
@@ -1215,7 +1215,7 @@
          "UK": "short",
          "Raver": "",
          "=": {
-            "$date": "2007",
+         "$date": "2007",
             "$list": "white"
          }
       },
@@ -1232,7 +1232,7 @@
          "Prayer": "",
          "Pirates": "",
          "=": {
-            "$date": "2006",
+         "$date": "2006",
             "$list": "white"
          }
       },
@@ -1258,7 +1258,7 @@
          "Letting the Cables Sleep": "bad",
          "Mindchanger": "bad",
          "=": {
-            "$date": "1999",
+         "$date": "1999",
             "$list": "white"
          }
       },
@@ -1277,7 +1277,7 @@
          "Bonedriven": "",
          "Distant Voices": "",
          "=": {
-            "$date": "1996",
+         "$date": "1996",
             "$list": "white"
          }
       },
@@ -1296,7 +1296,7 @@
          "X‐Girlfriend": "short",
          "Comedown (acoustic)": "",
          "=": {
-            "$date": "1994",
+         "$date": "1994",
             "$list": "white"
          }
       },
