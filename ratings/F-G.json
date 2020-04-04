@@ -1124,7 +1124,11 @@
       },
       "Goodbye Country (Hello Nightclub)": {
          "Suntoucher": "bad",
-         "Superstylin’": "bad",
+         "Superstylin’": {
+            "rate": "bad",
+            "flow": "2,594,261",
+            "link": "https://youtu.be/_kE0pxRkMtQ"
+         },
          "Drifted": "bad",
          "Little by Little": "bad",
          "Fogma": "bad",
@@ -1154,64 +1158,49 @@
          "Inside My Mind (Blue Skies)": "",
          "$date": "1999-05-24",
          "$list": "white"
-      },
-      "=": {
-         "Superstylin’": {
-            "flow": "2,594,261",
-            "link": "https://youtu.be/_kE0pxRkMtQ"
-         }
       }
    },
    "Guns N’ Roses": {
       "Use Your Illusion II": {
-         "Yesterdays": "",
+         "Yesterdays": {
+            "flow": "6,521,419",
+            "link": "https://youtu.be/NDOPlpH6NZM"
+         },
          "$date": "1991-09-17",
          "$list": "black"
       },
       "Use Your Illusion I": {
-         "November Rain": "",
-         "$date": "1991-09-16",
-         "$list": "black"
-      },
-      "G N’ R Lies": {
-         "Patience": "",
-         "$date": "1988",
-         "$list": "black"
-      },
-      "Appetite for Destruction": {
-         "Sweet Child O’ Mine": "",
-         "$date": "1987",
-         "$list": "black"
-      },
-      "=": {
          "November Rain": {
             "flow": "123,851,131",
             "link": "https://youtu.be/8SbUC-UaAxE"
          },
+         "$date": "1991-09-16",
+         "$list": "black"
+      },
+      "G N’ R Lies": {
          "Patience": {
             "flow": "43,348,720",
             "link": "https://youtu.be/ErvgV4P6Fzc"
          },
+         "$date": "1988",
+         "$list": "black"
+      },
+      "Appetite for Destruction": {
          "Sweet Child O’ Mine": {
             "flow": "98,551,986",
             "link": "https://youtu.be/1w7OgIMMRc4"
          },
-         "Yesterdays": {
-            "flow": "6,521,419",
-            "link": "https://youtu.be/NDOPlpH6NZM"
-         }
+         "$date": "1987",
+         "$list": "black"
       }
    },
    "Gwen Stefani": {
       "Love. Angel. Music. Baby.": {
-         "Hollaback Girl": "",
-         "$list": "black"
-      },
-      "=": {
          "Hollaback Girl": {
             "flow": "19,292,734",
             "link": "https://youtu.be/Kgjkth6BRRY"
-         }
+         },
+         "$list": "black"
       }
    }
 }

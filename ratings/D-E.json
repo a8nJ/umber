@@ -512,24 +512,25 @@
          "$list": "white"
       },
       "Last Chance to Dance": {
-         "Last Chance to Dance": "good",
+         "LAST CHANCE TO DANCE": {
+            "rate": "good",
+            "flow": "50,372",
+            "link": "https://youtu.be/gvM1a72Dcqw"
+         },
          "Holiday Blues (demo)": "",
          "Ex-Change (demo)": "short",
          "Only U 4 Me (demo)": "short",
          "$date": "2014",
          "$list": "white"
-      },
-      "=": {
-         "LAST CHANCE TO DANCE": {
-            "flow": "50,372",
-            "link": "https://youtu.be/gvM1a72Dcqw"
-         }
       }
    },
    "Eli & Fur": {
       "Illusions": {
-         "You’re So High": "",
-         "$date": "2013",
+         "You’re So High": {
+            "flow": "21,490,696",
+            "link": "https://youtu.be/3GEqdbh8sFI"
+         },
+        "$date": "2013",
          "$list": "black"
       },
       "Night Blooming Jasmine": {
@@ -540,29 +541,16 @@
          "Parfume (extended mix)": "",
          "$date": "2018",
          "$list": "white"
-      },
-      "=": {
-         "Seeing Is Believing": {
-            "flow": "339,935",
-            "link": "https://youtu.be/13_3zV3_DJ0"
-         },
-         "You’re So High": {
-            "flow": "21,490,696",
-            "link": "https://youtu.be/3GEqdbh8sFI"
-         }
       }
    },
    "Elton John": {
       "Madman Across the Water": {
-         "Tiny Dancer": "",
-         "$date": "1971",
-         "$list": "black"
-      },
-      "=": {
          "Tiny Dancer": {
             "flow": "978,086,517",
             "link": "https://youtu.be/S3vO8E2e6G0"
-         }
+         },
+         "$date": "1971",
+         "$list": "black"
       }
    },
    "Emilíana Torrini": {
@@ -586,7 +574,11 @@
          "Heard It All Before": "",
          "Ha Ha": "",
          "Big Jumps": "",
-         "Jungle Drum": "short",
+         "Jungle Drum": {
+            "rate": "short",
+            "flow": "2,065,864",
+            "link": "https://youtu.be/iZ9vkd7Rp-g"
+         },
          "Hold Heart": "short",
          "Gun": "",
          "Beggar’s Prayer": "short",
@@ -625,12 +617,6 @@
          "Sea People": "short",
          "$date": "1999",
          "$list": "white"
-      },
-      "=": {
-         "Jungle Drum": {
-            "flow": "2,065,864",
-            "link": "https://youtu.be/iZ9vkd7Rp-g"
-         }
       }
    },
    "Empress Of": {
