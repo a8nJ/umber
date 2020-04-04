@@ -1,7 +1,10 @@
 {
    "Daft Punk": {
       "Random Access Memories": {
-         "Get Lucky": "",
+         "Get Lucky": {
+            "flow": "74,543,389",
+            "link": "https://youtu.be/5NV6Rdv1a3I"
+         },
          "Instant Crush": "",
          "Lose Yourself to Dance": "",
          "$date": "2013",
@@ -59,7 +62,10 @@
          "The Brainwasher": "bad",
          "On/Off": "short",
          "Television Rules the Nation": "",
-         "Technologic": "",
+         "Technologic": {
+            "flow": "4,433,751",
+            "link": "https://youtu.be/D8K90hX4PrE"
+         },
          "Emotion": "",
          "$date": "2005",
          "$list": "white"
@@ -73,27 +79,12 @@
          "$list": "black"
       },
       "Homework": {
-         "Around the World": "",
-         "$date": "1997",
-         "$list": "black"
-      },
-      "=": {
          "Around the World": {
             "flow": "12,883,797",
             "link": "https://youtu.be/yca6UsllwYs"
          },
-         "Get Lucky": {
-            "flow": "74,543,389",
-            "link": "https://youtu.be/5NV6Rdv1a3I"
-         },
-         "Stronger": {
-            "flow": "32,146,607",
-            "link": "https://youtu.be/PsO6ZnUZI0g"
-         },
-         "Technologic": {
-            "flow": "4,433,751",
-            "link": "https://youtu.be/D8K90hX4PrE"
-         }
+         "$date": "1997",
+         "$list": "black"
       }
    },
    "Dan Hess": {
@@ -102,16 +93,13 @@
          "Rocket Belt": "good",
          "Gyrocopter": "",
          "Jumble Hopper": "",
-         "Birdman": "",
-         "Bravissimo!": "",
-         "$date": "1996",
-         "$list": "white"
-      },
-      "=": {
          "Birdman": {
             "flow": 78,
             "link": "https://youtu.be/GJWY-mWoiM0"
-         }
+         },
+         "Bravissimo!": "",
+         "$date": "1996",
+         "$list": "white"
       }
    },
    "Daniel Lanois": {
@@ -119,7 +107,11 @@
          "Still Water": "",
          "The Maker": "",
          "O Marie": "",
-         "Jolie Louise": "short",
+         "Jolie Louise": {
+            "rate": "short",
+            "flow": "99,561",
+            "link": "https://youtu.be/mt0LDopjNbg"
+         },
          "Fisherman’s Daughter": "short",
          "White Mustang II": "good",
          "Under a Stormy Sky": "short",
@@ -130,12 +122,6 @@
          "Amazing Grace": "",
          "$date": "1989",
          "$list": "white"
-      },
-      "=": {
-         "Jolie Louise": {
-            "flow": "99,561",
-            "link": "https://youtu.be/mt0LDopjNbg"
-         }
       }
    },
    "Dave Matthews Band": {
@@ -206,7 +192,11 @@
       "Crash": {
          "So Much to Say": "good",
          "Two Step": "",
-         "Crash Into Me": "good",
+         "Crash Into Me": {
+            "rate": "good",
+            "flow": "1,747,085",
+            "link": "https://youtu.be/k7in-9E3ImQ"
+         },
          "Too Much": "",
          "41": "",
          "Say Goodbye": "",
@@ -234,12 +224,6 @@
          "34": "",
          "$date": "1994",
          "$list": "white"
-      },
-      "=": {
-         "Crash Into Me": {
-            "flow": "1,747,085",
-            "link": "https://youtu.be/k7in-9E3ImQ"
-         }
       }
    },
    "Depeche Mode": {
@@ -247,18 +231,6 @@
          "Where’s the Revolution": "",
          "$date": "2017",
          "$list": "black"
-      },
-      "Delta Machine": {
-         "$date": "2013"
-      },
-      "Sounds of the Universe": {
-         "$date": "2009"
-      },
-      "Playing the Angel": {
-         "$date": "2005"
-      },
-      "Exciter": {
-         "$date": "2001"
       },
       "Ultra": {
          "Barrel of a Gun": "bad",
@@ -276,9 +248,6 @@
          "$date": "1997",
          "$list": "white"
       },
-      "Songs of Faith and Devotion": {
-         "$date": "1993"
-      },
       "Violator": {
          "Enjoy The Silence": "",
          "Personal Jesus": "",
@@ -289,18 +258,6 @@
          "Strangelove": "",
          "$date": "1987",
          "$list": "black"
-      },
-      "Black Celebration": {
-         "$date": "1986"
-      },
-      "Some Great Reward": {
-         "$date": "1984"
-      },
-      "Construction Time Again": {
-         "$date": "1983"
-      },
-      "A Broken Frame": {
-         "$date": "1982"
       },
       "Speak & Spell": {
          "New Life": "bad",
