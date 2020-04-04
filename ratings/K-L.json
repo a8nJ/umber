@@ -100,17 +100,19 @@
    },
    "Kacey Musgraves": {
       "Golden Hour": {
+         "$date": "2018",
+         "$list": "black",
          "Butterflies": "",
          "High Horse": "",
          "Rainbow": {
             "flow": "33,574,919",
             "link": "https://youtu.be/6OFv566mj7s"
          },
-         "Space Cowboy": "",
-         "$date": "2018",
-         "$list": "black"
+         "Space Cowboy": ""
       },
       "Pageant Material": {
+         "$date": "2015",
+         "$list": "white",
          "High Time": "short",
          "Dime Store Cowgirl": {
             "bad": "bad",
@@ -127,11 +129,11 @@
          "Family Is Family": "short",
          "Good Ol’ Boys Club": "",
          "Cup of Tea": "short",
-         "Fine": "",
-         "$date": "2015",
-         "$list": "white"
+         "Fine": ""
       },
       "Same Trailer Different Park": {
+         "$date": "2013",
+         "$list": "white",
          "Silver Lining": "bad",
          "My House": "short",
          "Merry Go ’Round": "bad",
@@ -143,9 +145,7 @@
          "Keep It to Yourself": "bad",
          "Stupid": "short",
          "Follow Your Arrow": "bad",
-         "It Is What It Is": "bad",
-         "$date": "2013",
-         "$list": "white"
+         "It Is What It Is": "bad"
       }
    },
    "Kate Bush": {
@@ -203,6 +203,8 @@
    },
    "Kelly Bailey": {
       "Portal 2": {
+         "$date": "2011",
+         "$list": "white",
          "Science Is Fun": "short",
          "Concentration Enhancing Menu Initialiser": "short",
          "9999999": "",
@@ -279,23 +281,22 @@
          "You’re Not a Good Person": "short",
          "You Can’t Escape, You Know": "",
          "Still Alive": "short",
-         "Still Alive (J.C. mix)": "short",
-         "$date": "2011",
-         "$list": "white"
+         "Still Alive (J.C. mix)": "short"
       }
    },
    "King Crimson": {
       "In the Court of the Crimson King": {
+         "$list": "white",
          "21st Century Schizoid Man (including Mirrors)": "",
          "I Talk to the Wind": "",
          "Epitaph (including March for No Reason and Tomorrow and Tomorrow)": "good",
          "Moonchild (including The Dream and The Illusion)": "",
-         "The Court of the Crimson King": "",
-         "$list": "white"
+         "The Court of the Crimson King": ""
       }
    },
    "Kings of Convenience": {
       "Riot on an Empty Street": {
+         "$list": "white",
          "Homesick": "",
          "Misread": {
             "rate": "good",
@@ -311,14 +312,13 @@
          "Live Long": "short",
          "Surprise Ice": "",
          "Gold in the Air of Summer": "good",
-         "The Build-Up": "",
-         "$list": "white"
+         "The Build-Up": ""
       }
    },
    "Koda": {
       "Waking": {
-         "Waking": "good",
-         "$list": "white"
+         "$list": "white",
+         "Waking": "good"
       }
    },
    "Koji Kondo": {
@@ -377,6 +377,8 @@
          "Epilogue": "short"
       },
       "The Legend of Zelda Ocarina of Time": {
+         "$date": "1998",
+         "$list": "white",
          "Title Theme": "short",
          "Deku Tree": "short",
          "Fairy Flying": "short",
@@ -415,89 +417,89 @@
          "Serenade of Water": "short",
          "Nocturne of Shadow": "short",
          "Prelude of Light": "short",
-         "Requiem of Spirit": "short",
-         "$date": "1998",
-         "$list": "white"
+         "Requiem of Spirit": "short"
       }
    },
    "Korn": {
       "The Serenity of Suffering": {
+         "$date": "2016",
+         "$list": "black",
          "Black Is the Soul": "",
          "Insane": "",
          "Rotting In Vain": {
             "flow": "8,645,316",
             "link": "https://youtu.be/nq9j1qkj2Vc"
-         },
-         "$date": "2016",
-         "$list": "black"
+         }
       },
       "See You on the Other Side": {
+         "$date": "2005",
+         "$list": "black",
          "Coming Undone": {
             "flow": "7,180,498",
             "link": "https://youtu.be/CSJXle3LP_Q"
-         },
-         "$date": "2005",
-         "$list": "black"
+         }
       },
       "Issues": {
+         "$date": "1999",
+         "$list": "black",
          "Falling Away from Me": {
             "flow": "8,648,063",
             "link": "https://youtu.be/2s3iGpDqQpQ"
          },
-         "Somebody Someone": "",
-         "$date": "1999",
-         "$list": "black"
+         "Somebody Someone": ""
       },
       "Follow the Leader": {
+         "$date": "1998",
+         "$list": "black",
          "Freak On a Leash": {
             "flow": "16,280,786",
             "link": "https://youtu.be/jRGrNDV2mKc"
          },
-         "Got the Life": "",
-         "$date": "1998",
-         "$list": "black"
+         "Got the Life": ""
       }
    },
    "Kruder & Dorfmeister": {
       "G-Stoned": {
+         "$list": "white",
          "Definition": "bad",
          "Deep Shit, Parts 1 & 2": "bad",
          "High Noon": "bad",
-         "Original Bedroom Rockers": "bad",
-         "$list": "white"
+         "Original Bedroom Rockers": "bad"
       }
    },
    "Laraaji": {
       "Ambient 3 Day of Radiance": {
+         "$list": "white",
          "The Dance 1": "bad",
          "The Dance 2": "bad",
          "The Dance 3": "bad",
          "Meditation 1": "bad",
-         "Meditation 2": "good",
-         "$list": "white"
+         "Meditation 2": "good"
       }
    },
    "Led Zeppelin": {
       "In Through the Out Door": {
+         "$date": "1979",
+         "$list": "white",
          "In the Evening": "",
          "South Bound Saurez": "",
          "Fool in the Rain": "good",
          "Hot Dog": "",
          "Carouselambra": "",
          "All My Love": "",
-         "I’m Gonna Crawl": "",
-         "$date": "1979",
-         "$list": "white"
+         "I’m Gonna Crawl": ""
       },
       "Physical Graffiti": {
+         "$date": "1975",
+         "$list": "black",
          "Kashmir": {
             "flow": "7,698,273",
             "link": "https://youtu.be/PD-MdiUm1_Y"
-         },
-         "$date": "1975",
-         "$list": "black"
+         }
       },
       "Houses of the Holy": {
+         "$date": "1973",
+         "$list": "white",
          "The Song Remains the Same": "",
          "The Rain Song": "",
          "Over the Hills and Far Away": "good",
@@ -508,40 +510,38 @@
             "flow": "3,784,523",
             "link": "https://youtu.be/RlNhD0oS5pk"
          },
-         "The Ocean": "",
-         "$date": "1973",
-         "$list": "white"
+         "The Ocean": ""
       },
       "[Led Zeppelin IV]": {
+         "$date": "1971",
+         "$list": "black",
          "Black Dog": "",
          "Rock and Roll": "",
          "Stairway To Heaven": {
             "flow": "81,614,873",
             "link": "https://youtu.be/D9ioyEvdggk"
          },
-         "When the Levee Breaks": "",
-         "$date": "1971",
-         "$list": "black"
+         "When the Levee Breaks": ""
       },
       "Led Zeppelin III": {
+         "$date": "1970",
+         "$list": "black",
          "Celebration Day": "",
          "Immigrant Song": {
             "flow": "6,992,557",
             "link": "https://youtu.be/RlNhD0oS5pk"
          },
-         "Since I’ve Been Loving You": "",
-         "$date": "1970",
-         "$list": "black"
+         "Since I’ve Been Loving You": ""
       },
       "Led Zeppelin II": {
+         "$date": "1969",
+         "$list": "black",
          "Ramble On": "",
          "Thank You": "",
          "Whole Lotta Love": {
             "flow": "7,585,196",
             "link": "https://youtu.be/HQmmM_qwG4k"
-         },
-         "$date": "1969",
-         "$list": "black"
+         }
       }
    },
    "Lenny Kravitz": {
@@ -732,6 +732,8 @@
    },
    "Lisa Loeb": {
       "Hello Lisa": {
+         "$date": "2002",
+         "$list": "white",
          "Did That": "bad",
          "Underdog": "bad",
          "You Don’t Know Me": "bad",
@@ -743,11 +745,11 @@
          "Someone You Should Know": "",
          "Payback": "",
          "Take Me Back": "",
-         "What Am I Supposed to Say (acoustic)": "",
-         "$date": "2002",
-         "$list": "white"
+         "What Am I Supposed to Say (acoustic)": ""
       },
       "Firecracker": {
+         "$date": "1997",
+         "$list": "white",
          "I Do": "good",
          "Falling in Love": "",
          "Truthfully": "short",
@@ -759,11 +761,11 @@
          "Jake": "",
          "This": "",
          "Split Second": "short",
-         "Firecracker": "",
-         "$date": "1997",
-         "$list": "white"
+         "Firecracker": ""
       },
       "Tails": {
+         "$date": "1995",
+         "$list": "white",
          "It’s Over": "",
          "Snow Day": "good",
          "Taffy": "",
@@ -780,13 +782,12 @@
             "rate": "good",
             "flow": "539,129",
             "link": "https://youtu.be/ka9mCmx9Jhs"
-         },
-         "$date": "1995",
-         "$list": "white"
+         }
       }
    },
    "Lisa Stansfield": {
       "Affection": {
+         "$list": "white",
          "This Is the Right Time": "",
          "Mighty Love": "",
          "Sincerity": "",
@@ -803,12 +804,12 @@
          "When Are You Coming Back?": "",
          "Affection": "",
          "Wake Up Baby": "",
-         "The Way You Want It": "",
-         "$list": "white"
+         "The Way You Want It": ""
       }
    },
    "Live": {
       "Throwing Copper": {
+         "$list": "white",
          "The Dam at Otter Creek": "",
          "Selling the Drama": "",
          "I Alone": "good",
@@ -826,12 +827,12 @@
          "Waitress": "short",
          "Pillar of Davidson": "",
          "White, Discussion": "",
-         "Horse": "",
-         "$list": "white"
+         "Horse": ""
       }
    },
    "Luke Slater (The 7th Plain)": {
       "The 4 Cornered Room": {
+         "$list": "white",
          "Time Melts": "",
          "Reality of Space": "",
          "Surface Bound": "good",
@@ -842,12 +843,13 @@
          "Trite": "",
          "Seeing Sense": "",
          "Real Life Ceremony": "",
-         "Grace": "",
-         "$list": "white"
+         "Grace": ""
       }
    },
    "Lykke Li": {
       "I Never Learn": {
+         "$date": "2014",
+         "$list": "white",
          "I Never Learn": "bad",
          "No Rest for the Wicked": "bad",
          "Just Like a Dream": "bad",
@@ -856,20 +858,20 @@
          "Love Me Like I’m Not Made of Stone": "bad",
          "Never Gonna Love Again": "bad",
          "Heart of Steel": "bad",
-         "Sleeping Alone": "short",
-         "$date": "2014",
-         "$list": "white"
+         "Sleeping Alone": "short"
       },
       "Wounded Rhymes": {
+         "$date": "2011",
+         "$list": "black",
          "I Follow Rivers": {
             "flow": "25,587,457",
             "link": "https://youtu.be/K3JGxj2rvAs"
          },
-         "Sadness Is a Blessing": "",
-         "$date": "2011",
-         "$list": "black"
+         "Sadness Is a Blessing": ""
       },
       "Youth Novels": {
+         "$date": "2008",
+         "$list": "white",
          "Melodies & Desires": "good",
          "Dance, Dance, Dance": "bad",
          "I’m Good, I’m Gone": "bad",
@@ -887,9 +889,7 @@
          "Breaking It Up": "bad",
          "Everybody but Me": "bad",
          "Time Flies": "bad",
-         "Window Blues": "bad",
-         "$date": "2008",
-         "$list": "white"
+         "Window Blues": "bad"
       }
    }
 }
