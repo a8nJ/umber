@@ -829,21 +829,22 @@
          "White Sugar": "",
          "Don’t Fade Away": "",
          "Just the Time of Year": "",
-         "Do You Feel Like We Do": "good",
-         "$date": "1973",
-         "$list": "white"
-      },
-      "=": {
          "Do You Feel Like We Do": {
+            "rate": "good",
             "flow": "1,678,580",
             "link": "https://youtu.be/y7rFYbMhcG8"
-         }
+         },
+         "$date": "1973",
+         "$list": "white"
       }
    },
    "Peter Gabriel": {
       "So": {
          "Red Rain": "",
-         "Sledgehammer": "",
+         "Sledgehammer": {
+            "flow": "3,943,699",
+            "link": "https://youtu.be/OJWJE0x7T4Q"
+         },
          "Don’t Give Up": "",
          "That Voice Again": "",
          "In Your Eyes": "",
@@ -853,15 +854,6 @@
          "This Is the Picture (Excellent Birds)": "",
          "$date": "1986-05-19",
          "$list": "white"
-      },
-      "Peter Gabriel (Security)": {
-         "$date": "1982"
-      },
-      "Peter Gabriel (Melt)": {
-         "$date": "1980"
-      },
-      "Peter Gabriel (Scratch)": {
-         "$date": "1978"
       },
       "Peter Gabriel (Car)": {
          "Moribund the Burgermeister": "",
@@ -875,12 +867,6 @@
          "Here Comes the Flood": "",
          "$date": "1977-02",
          "$list": "white"
-      },
-      "=": {
-         "Sledgehammer": {
-            "flow": "3,943,699",
-            "link": "https://youtu.be/OJWJE0x7T4Q"
-         }
       }
    },
    "Phil Collins": {
@@ -925,31 +911,37 @@
    },
    "Pink Floyd": {
       "The Division Bell": {
-         "High Hopes": "",
+         "High Hopes": {
+            "flow": "11,489,269",
+            "link": "https://youtu.be/7jMlFXouPk8"
+         },
          "$date": "1994",
          "$list": "black"
       },
       "A Momentary Lapse of Reason": {
-         "Learning to Fly": "",
+         "Learning To Fly": {
+            "flow": "13,804,895",
+            "link": "https://youtu.be/nVhNCTH8pDs"
+         },
          "$date": "1987",
          "$list": "black"
       },
-      "The Final Cut": {
-         "$date": "1983"
-      },
       "The Wall": {
-         "Another Brick in the Wall": "",
+         "Another Brick In The Wall": {
+            "flow": "45,604,600",
+            "link": "https://youtu.be/YR5ApYxkU-U"
+         },
          "Comfortably Numb": "",
          "Hey You": "",
          "$date": "1979",
          "$list": "black"
       },
-      "Animals": {
-         "$date": "1977"
-      },
       "Wish You Were Here": {
          "Shine on You Crazy Diamond": "",
-         "Wish You Were Here": "",
+         "Wish You Were Here": {
+            "flow": "14,157,030",
+            "link": "https://youtu.be/IXdNnw99-Ic"
+         },
          "$date": "1975",
          "$list": "black"
       },
@@ -958,28 +950,6 @@
          "Speak to Me / Breathe": "",
          "$date": "1973",
          "$list": "black"
-      },
-      "=": {
-         "Another Brick In The Wall": {
-            "flow": "45,604,600",
-            "link": "https://youtu.be/YR5ApYxkU-U"
-         },
-         "Dark Side Of The Moon": {
-            "flow": "5,965,197",
-            "link": "https://youtu.be/DLOth-BuCNY"
-         },
-         "High Hopes": {
-            "flow": "11,489,269",
-            "link": "https://youtu.be/7jMlFXouPk8"
-         },
-         "Learning To Fly": {
-            "flow": "13,804,895",
-            "link": "https://youtu.be/nVhNCTH8pDs"
-         },
-         "Wish You Were Here": {
-            "flow": "14,157,030",
-            "link": "https://youtu.be/IXdNnw99-Ic"
-         }
       }
    },
    "Pixies": {
@@ -1006,7 +976,10 @@
          "Tame": "short",
          "Wave of Mutilation": "short",
          "I Bleed": "short",
-         "Here Comes Your Man": "",
+         "Here Comes Your Man": {
+            "flow": "2,044,572",
+            "link": "https://youtu.be/tPgf_btTFlc"
+         },
          "Dead": "short",
          "Monkey Gone to Heaven": "short",
          "Mr. Grieves": "short",
@@ -1021,19 +994,12 @@
          "$list": "white"
       },
       "Surfer Rosa": {
-         "Where Is My Mind": "",
-         "$date": "1988",
-         "$list": "black"
-      },
-      "=": {
-         "Here Comes Your Man": {
-            "flow": "2,044,572",
-            "link": "https://youtu.be/tPgf_btTFlc"
-         },
          "Where Is My Mind": {
             "flow": "23,113,992",
             "link": "https://youtu.be/N3oCS85HvpY"
-         }
+         },
+         "$date": "1988",
+         "$list": "black"
       }
    },
    "Pizzicato Five": {
@@ -1232,12 +1198,6 @@
          "Milh": "good",
          "$date": "1997",
          "$list": "white"
-      },
-      "=": {
-         "The Digging Remedy": {
-            "flow": "52,234",
-            "link": "https://youtu.be/eH1IMB8KJok"
-         }
       }
    },
    "Portishead": {
@@ -1279,18 +1239,16 @@
          "Wandering Star": "",
          "It’s a Fire": "",
          "Numb": "good",
-         "Roads": "good",
+         "Roads": {
+            "rate": "good",
+            "flow": "3,641,359",
+            "link": "https://youtu.be/Vg1jyL3cr60"
+         },
          "Pedestal": "",
          "Biscuit": "",
          "Glory Box": "good",
          "$date": "1994",
          "$list": "white"
-      },
-      "=": {
-         "Roads": {
-            "flow": "3,641,359",
-            "link": "https://youtu.be/Vg1jyL3cr60"
-         }
       }
    },
    "Portugal. The Man": {
