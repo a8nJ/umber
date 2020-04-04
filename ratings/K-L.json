@@ -1,7 +1,7 @@
 {
    "Kammerflimmer Kollektief": {
       "There Are Actions Which We Have Neglected and Which Never Cease to Call Us": {
-         "$date": 2018,
+         "$date": "2018",
          "$list": "white",
          "Action 1 Lucid, Imperial Beach": "bad",
          "Action 2 Discharged, Quauhnáhuac": "bad",
@@ -12,7 +12,7 @@
          "Action 7 Blessed, Ermenonville": ""
       },
       "Désarroi": {
-         "$date": 2015,
+         "$date": "2015",
          "$list": "white",
          "Mayhem!": "bad",
          "grundstürzend": "good",
@@ -25,7 +25,7 @@
          "Mayhem! (reprise)": "bad"
       },
       "Teufelskamin": {
-         "$date": 2011,
+         "$date": "2011",
          "$list": "white",
          "Coricidin Boogie": "good",
          "Never Collapse, Always Dazzle!": "",
@@ -39,7 +39,7 @@
          "The People United Will Never Be Defeated": "short"
       },
       "Wildling": {
-         "$date": 2010,
+         "$date": "2010",
          "$list": "white",
          "Move Right In": "good",
          "Silver Chords": "good",
@@ -55,7 +55,7 @@
          "Milte Hi Ankhen (aka Bird in Hand)": "short"
       },
       "Cicadidae": {
-         "$date": 2003,
+         "$date": "2003",
          "$list": "white",
          "Neumond inselhin": "good",
          "Sie tranken Regen": "short",
@@ -69,7 +69,7 @@
          "There’s a Weight on You, but You Can’t Feel It.": "good"
       },
       "Hysteria": {
-         "$date": 2001,
+         "$date": "2001",
          "$list": "white",
          "Hysteria": "bad",
          "Seen (not seen)": "bad",
@@ -79,7 +79,7 @@
          "Zikaden, vielleicht": "",
          "Mohn!": "",
          "Du siehst hoch; du siehst ‘Wolken’ (version)": ""
-      }
+      },
       "Mäander": {
           "$date": "1999",
           "$list": "white",
@@ -104,7 +104,7 @@
          "High Horse": "",
          "Rainbow": "",
          "Space Cowboy": "",
-         "$date": 2018,
+         "$date": "2018",
          "$list": "black"
       },
       "Pageant Material": {
@@ -121,7 +121,7 @@
          "Good Ol’ Boys Club": "",
          "Cup of Tea": "short",
          "Fine": "",
-         "$date": 2015,
+         "$date": "2015",
          "$list": "white"
       },
       "Same Trailer Different Park": {
@@ -137,7 +137,7 @@
          "Stupid": "short",
          "Follow Your Arrow": "bad",
          "It Is What It Is": "bad",
-         "$date": 2013,
+         "$date": "2013",
          "$list": "white"
       },
       "=": {
@@ -153,7 +153,7 @@
    },
    "Kate Bush": {
       "Hounds of Love": {
-         "$date": 1985,
+         "$date": "1985",
          "$list": "white",
          "Running Up That Hill": "good",
          "Hounds of Love": "bad",
@@ -169,7 +169,7 @@
          "The Morning Fog": "short"
       },
       "The Dreaming": {
-         "$date": 1982,
+         "$date": "1982",
          "$list": "white",
          "Sat in Your Lap": "bad",
          "There Goes a Tenner": "bad",
@@ -183,7 +183,7 @@
          "Get Out of My House": ""
       },
       "The Kick Inside": {
-         "$date": 1978,
+         "$date": "1978",
          "$list": "white",
          "Moving": "bad",
          "The Saxophone Song": "bad",
@@ -283,7 +283,7 @@
          "You Can’t Escape, You Know": "",
          "Still Alive": "short",
          "Still Alive (J.C. mix)": "short",
-         "$date": 2011,
+         "$date": "2011",
          "$list": "white"
       },
       "=": {
@@ -346,7 +346,7 @@
    },
    "Koji Kondo": {
       "The Legend of Zelda The Wind Waker": {
-         "$date": 2002,
+         "$date": "2002",
          "$list": "white",
          "Title": "short",
          "Menu Select": "short",
@@ -435,7 +435,7 @@
          "Nocturne of Shadow": "short",
          "Prelude of Light": "short",
          "Requiem of Spirit": "short",
-         "$date": 1998,
+         "$date": "1998",
          "$list": "white"
       },
       "=": {
@@ -450,42 +450,42 @@
          "Black Is the Soul": "",
          "Insane": "",
          "Rotting in Vain": "",
-         "$date": 2016,
+         "$date": "2016",
          "$list": "black"
       },
       "The Paradigm Shift": {
-         "$date": 2013
+         "$date": "2013"
       },
       "The Path of Totality": {
-         "$date": 2011
+         "$date": "2011"
       },
       "Korn III Remember Who You Are": {
-         "$date": 2010
+         "$date": "2010"
       },
       "[untitled]": {
-         "$date": 2007
+         "$date": "2007"
       },
       "See You on the Other Side": {
          "Coming Undone": "",
-         "$date": 2005,
+         "$date": "2005",
          "$list": "black"
       },
       "Take a Look in the Mirror": {
-         "$date": 2003
+         "$date": "2003"
       },
       "Untouchables": {
-         "$date": 2002
+         "$date": "2002"
       },
       "Issues": {
          "Falling Away From Me": "",
          "Somebody Someone": "",
-         "$date": 1999,
+         "$date": "1999",
          "$list": "black"
       },
       "Follow the Leader": {
          "Freak on a Leash": "",
          "Got the Life": "",
-         "$date": 1998,
+         "$date": "1998",
          "$list": "black"
       },
       "=": {
@@ -547,15 +547,15 @@
          "Carouselambra": "",
          "All My Love": "",
          "I’m Gonna Crawl": "",
-         "$date": 1979,
+         "$date": "1979",
          "$list": "white"
       },
       "Presence": {
-         "$date": 1976
+         "$date": "1976"
       },
       "Physical Graffiti": {
          "Kashmir": "",
-         "$date": 1975,
+         "$date": "1975",
          "$list": "black"
       },
       "Houses of the Holy": {
@@ -567,7 +567,7 @@
          "D’yer Mak’er": "",
          "No Quarter": "",
          "The Ocean": "",
-         "$date": 1973,
+         "$date": "1973",
          "$list": "white"
       },
       "[Led Zeppelin IV]": {
@@ -575,21 +575,21 @@
          "Rock and Roll": "",
          "Stairway to Heaven": "",
          "When the Levee Breaks": "",
-         "$date": 1971,
+         "$date": "1971",
          "$list": "black"
       },
       "Led Zeppelin III": {
          "Celebration Day": "",
          "Immigrant Song": "",
          "Since I’ve Been Loving You": "",
-         "$date": 1970,
+         "$date": "1970",
          "$list": "black"
       },
       "Led Zeppelin II": {
          "Ramble On": "",
          "Thank You": "",
          "Whole Lotta Love": "",
-         "$date": 1969,
+         "$date": "1969",
          "$list": "black"
       },
       "=": {
@@ -617,7 +617,7 @@
    },
    "Lenny Kravitz": {
       "Raise Vibration": {
-         "$date": 2018,
+         "$date": "2018",
          "$list": "black",
          "Low": {
             "flow": "38,900,177",
@@ -625,7 +625,7 @@
          }
       },
       "Strut": {
-         "$date": 2014,
+         "$date": "2014",
          "$list": "black",
          "The Chamber": {
             "flow": "6,443,630",
@@ -655,7 +655,7 @@
          "Without You": ""
       },
       "Are You Gonna Go My Way": {
-         "$date": 1993,
+         "$date": "1993",
          "$list": "white",
          "Are You Gonna Go My Way": "good",
          "Believe": "",
@@ -672,7 +672,7 @@
    },
    "Leon Vynehall": {
       "Nothing Is Still": {
-         "$date": 2018,
+         "$date": "2018",
          "$list": "white",
          "From the Sea/It Looms (Chapters I & II)": "good",
          "Movements (Chapter III)": "good",
@@ -704,7 +704,7 @@
          "Midnight on Rainbow Road": "good"
       },
       "Music for the Uninvited": {
-         "$date": 2014,
+         "$date": "2014",
          "$list": "white",
          "Inside the Deku Tree": "good",
          "Goodthing": "",
@@ -720,7 +720,7 @@
    },
    "Linkin Park": {
       "One More Light": {
-         "$date": 2017,
+         "$date": "2017",
          "$list": "black",
          "Battle Symphony": "",
          "Good Goodbye": "",
@@ -735,7 +735,7 @@
          "Talking to Myself": ""
       },
       "The Hunting Party": {
-         "$date": 2014,
+         "$date": "2014",
          "$list": "black",
          "Final Masquerade": {
             "flow": "16,666,261",
@@ -744,7 +744,7 @@
          "Until It’s Gone": ""
       },
       "Living Things": {
-         "$date": 2012,
+         "$date": "2012",
          "$list": "black",
          "Burn It Down": "",
          "Castle of Glass": {
@@ -754,7 +754,7 @@
          "Lost in the Echo": ""
       },
       "A Thousand Suns": {
-         "$date": 2010,
+         "$date": "2010",
          "$list": "black",
          "Burning in the Skies": "",
          "Iridescent": "",
@@ -766,7 +766,7 @@
          "Waiting for the End": ""
       },
       "Minutes to Midnight": {
-         "$date": 2007,
+         "$date": "2007",
          "$list": "black",
          "Bleed It Out": "",
          "Given Up": "",
@@ -777,7 +777,7 @@
          }
       },
       "Meteora": {
-         "$date": 2003,
+         "$date": "2003",
          "$list": "black",
          "Breaking the Habit": "",
          "Faint": "",
@@ -789,7 +789,7 @@
          "Somewhere I Belong": ""
       },
       "Hybrid Theory": {
-         "$date": 2000,
+         "$date": "2000",
          "$list": "black",
          "Crawling": "",
          "In the End": {
@@ -815,7 +815,7 @@
          "Payback": "",
          "Take Me Back": "",
          "What Am I Supposed to Say (acoustic)": "",
-         "$date": 2002,
+         "$date": "2002",
          "$list": "white"
       },
       "Firecracker": {
@@ -831,7 +831,7 @@
          "This": "",
          "Split Second": "short",
          "Firecracker": "",
-         "$date": 1997,
+         "$date": "1997",
          "$list": "white"
       },
       "Tails": {
@@ -848,7 +848,7 @@
          "Lisa Listen": "",
          "Garden of Delights": "short",
          "Stay": "good",
-         "$date": 1995,
+         "$date": "1995",
          "$list": "white"
       },
       "=": {
@@ -940,13 +940,13 @@
          "Never Gonna Love Again": "bad",
          "Heart of Steel": "bad",
          "Sleeping Alone": "short",
-         "$date": 2014,
+         "$date": "2014",
          "$list": "white"
       },
       "Wounded Rhymes": {
          "I Follow Rivers": "",
          "Sadness Is a Blessing": "",
-         "$date": 2011,
+         "$date": "2011",
          "$list": "black"
       },
       "Youth Novels": {
@@ -964,7 +964,7 @@
          "Everybody but Me": "bad",
          "Time Flies": "bad",
          "Window Blues": "bad",
-         "$date": 2008,
+         "$date": "2008",
          "$list": "white"
       },
       "=": {
