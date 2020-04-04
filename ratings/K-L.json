@@ -319,12 +319,6 @@
       "Waking": {
          "Waking": "good",
          "$list": "white"
-      },
-      "=": {
-         "The Last Stand": {
-            "flow": "632,773",
-            "link": "https://youtu.be/cIzM9p3dUm8"
-         }
       }
    },
    "Koji Kondo": {
@@ -399,7 +393,11 @@
          "Ocarina of Time": "short",
          "Lon Lon Ranch": "",
          "Kakariko Village": "good",
-         "Lost Woods": "short",
+         "Lost Woods": {
+            "rate": "short",
+            "flow": "880,778",
+            "link": "https://youtu.be/-uInmFU6JkU"
+         },
          "Zora’s Domain": "good",
          "Great Fairy’s Fountain": "good",
          "Temple of Time": "short",
@@ -420,74 +418,44 @@
          "Requiem of Spirit": "short",
          "$date": "1998",
          "$list": "white"
-      },
-      "=": {
-         "Lost Woods": {
-            "flow": "880,778",
-            "link": "https://youtu.be/-uInmFU6JkU"
-         }
       }
    },
    "Korn": {
       "The Serenity of Suffering": {
          "Black Is the Soul": "",
          "Insane": "",
-         "Rotting in Vain": "",
+         "Rotting In Vain": {
+            "flow": "8,645,316",
+            "link": "https://youtu.be/nq9j1qkj2Vc"
+         },
          "$date": "2016",
          "$list": "black"
       },
-      "The Paradigm Shift": {
-         "$date": "2013"
-      },
-      "The Path of Totality": {
-         "$date": "2011"
-      },
-      "Korn III Remember Who You Are": {
-         "$date": "2010"
-      },
-      "[untitled]": {
-         "$date": "2007"
-      },
       "See You on the Other Side": {
-         "Coming Undone": "",
+         "Coming Undone": {
+            "flow": "7,180,498",
+            "link": "https://youtu.be/CSJXle3LP_Q"
+         },
          "$date": "2005",
          "$list": "black"
       },
-      "Take a Look in the Mirror": {
-         "$date": "2003"
-      },
-      "Untouchables": {
-         "$date": "2002"
-      },
       "Issues": {
-         "Falling Away From Me": "",
+         "Falling Away from Me": {
+            "flow": "8,648,063",
+            "link": "https://youtu.be/2s3iGpDqQpQ"
+         },
          "Somebody Someone": "",
          "$date": "1999",
          "$list": "black"
       },
       "Follow the Leader": {
-         "Freak on a Leash": "",
-         "Got the Life": "",
-         "$date": "1998",
-         "$list": "black"
-      },
-      "=": {
-         "Coming Undone": {
-            "flow": "7,180,498",
-            "link": "https://youtu.be/CSJXle3LP_Q"
-         },
-         "Falling Away from Me": {
-            "flow": "8,648,063",
-            "link": "https://youtu.be/2s3iGpDqQpQ"
-         },
          "Freak On a Leash": {
             "flow": "16,280,786",
             "link": "https://youtu.be/jRGrNDV2mKc"
          },
-         "Rotting In Vain": {
-            "flow": "8,645,316",
-            "link": "https://youtu.be/nq9j1qkj2Vc"
-         }
+         "Got the Life": "",
+         "$date": "1998",
+         "$list": "black"
       }
    },
    "Kruder & Dorfmeister": {
@@ -497,12 +465,6 @@
          "High Noon": "bad",
          "Original Bedroom Rockers": "bad",
          "$list": "white"
-      },
-      "=": {
-         "Sofa Rockers": {
-            "flow": "148,610",
-            "link": "https://youtu.be/rU789_SJ6Is"
-         }
       }
    },
    "Laraaji": {
@@ -513,12 +475,6 @@
          "Meditation 1": "bad",
          "Meditation 2": "good",
          "$list": "white"
-      },
-      "=": {
-         "Universe": {
-            "flow": "27,388",
-            "link": "https://youtu.be/87E2ZRy21V8"
-         }
       }
    },
    "Led Zeppelin": {
@@ -533,11 +489,11 @@
          "$date": "1979",
          "$list": "white"
       },
-      "Presence": {
-         "$date": "1976"
-      },
       "Physical Graffiti": {
-         "Kashmir": "",
+         "Kashmir": {
+            "flow": "7,698,273",
+            "link": "https://youtu.be/PD-MdiUm1_Y"
+         },
          "$date": "1975",
          "$list": "black"
       },
@@ -548,7 +504,10 @@
          "The Crunge": "",
          "Dancing Days": "",
          "D’yer Mak’er": "",
-         "No Quarter": "",
+         "No Quarter": {
+            "flow": "3,784,523",
+            "link": "https://youtu.be/RlNhD0oS5pk"
+         },
          "The Ocean": "",
          "$date": "1973",
          "$list": "white"
@@ -556,14 +515,20 @@
       "[Led Zeppelin IV]": {
          "Black Dog": "",
          "Rock and Roll": "",
-         "Stairway to Heaven": "",
+         "Stairway To Heaven": {
+            "flow": "81,614,873",
+            "link": "https://youtu.be/D9ioyEvdggk"
+         },
          "When the Levee Breaks": "",
          "$date": "1971",
          "$list": "black"
       },
       "Led Zeppelin III": {
          "Celebration Day": "",
-         "Immigrant Song": "",
+         "Immigrant Song": {
+            "flow": "6,992,557",
+            "link": "https://youtu.be/RlNhD0oS5pk"
+         },
          "Since I’ve Been Loving You": "",
          "$date": "1970",
          "$list": "black"
@@ -571,31 +536,12 @@
       "Led Zeppelin II": {
          "Ramble On": "",
          "Thank You": "",
-         "Whole Lotta Love": "",
-         "$date": "1969",
-         "$list": "black"
-      },
-      "=": {
-         "Immigrant Song": {
-            "flow": "6,992,557",
-            "link": "https://youtu.be/RlNhD0oS5pk"
-         },
-         "Kashmir": {
-            "flow": "7,698,273",
-            "link": "https://youtu.be/PD-MdiUm1_Y"
-         },
-         "No Quarter": {
-            "flow": "3,784,523",
-            "link": "https://youtu.be/RlNhD0oS5pk"
-         },
-         "Stairway To Heaven": {
-            "flow": "81,614,873",
-            "link": "https://youtu.be/D9ioyEvdggk"
-         },
          "Whole Lotta Love": {
             "flow": "7,585,196",
             "link": "https://youtu.be/HQmmM_qwG4k"
-         }
+         },
+         "$date": "1969",
+         "$list": "black"
       }
    },
    "Lenny Kravitz": {
