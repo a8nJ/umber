@@ -930,6 +930,7 @@
    },
    "The Range": {
       "Nonfiction": {
+         "$list": "white",
          "Loftmane": "good",
          "Everything But": "",
          "The One": "",
@@ -940,8 +941,7 @@
          "Postie": "good",
          "Sad Song": "",
          "Telescope": "",
-         "Metal Swing": "",
-         "$list": "white"
+         "Metal Swing": ""
       }
    },
    "The Rolling Stones": {
@@ -1441,6 +1441,8 @@
          "Darwin / The Red Summer Sun (extended coda)": ""
       },
       "Third Eye Blind": {
+         "$date": "1997",
+         "$list": "white",
          "Losing a Whole Year": "",
          "Narcolepsy": "",
          "Semi‐Charmed Life": "",
@@ -1458,9 +1460,7 @@
          "I Want You": "",
          "The Background": "",
          "Motorcycle Drive By": "",
-         "God of Wine": "",
-         "$date": "1997",
-         "$list": "white"
+         "God of Wine": ""
       }
    },
    "Thunderball": {

@@ -165,6 +165,8 @@
    },
    "Ratatat": {
       "LP3": {
+         "$date": "2008",
+         "$list": "white",
          "Shiller": "good",
          "Falcon Jab": "good",
          "Mi Viejo": "short",
@@ -177,11 +179,11 @@
          "Bruleé": "",
          "Mumtaz Khan": "short",
          "Gipsy Threat": "short",
-         "Black Heroes": "",
-         "$date": "2008",
-         "$list": "white"
+         "Black Heroes": ""
       },
       "Classics": {
+         "$date": "2006",
+         "$list": "white",
          "Montanita": "bad",
          "Lex": "good",
          "Gettysburg": "bad",
@@ -191,37 +193,35 @@
          "Kennedy": "good",
          "Swisha": "",
          "Nostrand": "",
-         "Tacobel Canon": "",
-         "$date": "2006",
-         "$list": "white"
+         "Tacobel Canon": ""
       }
    },
    "Red Hot Chili Peppers": {
       "The Getaway": {
+         "$date": "2016",
+         "$list": "black",
          "Dark Necessities": {
             "flow": "65,117,864",
             "link": "https://youtu.be/Q0oIoR9mLwc"
-         },
-         "$date": "2016",
-         "$list": "black"
+         }
       },
       "I’m With You": {
+         "$date": "2011",
+         "$list": "black",
          "The Adventures of Rain Dance Maggie": {
             "flow": "16,717,050",
             "link": "https://youtu.be/RtBbinpK5XI"
-         },
-         "$date": "2011",
-         "$list": "black"
+         }
       },
       "Stadium Arcadium": {
+         "$date": "2006",
+         "$list": "black",
          "Dani California": {
             "flow": "20,569,737",
             "link": "https://youtu.be/Sb5aq5HcS1A"
          },
          "Snow": "",
-         "Tell Me Baby": "",
-         "$date": "2006",
-         "$list": "black"
+         "Tell Me Baby": ""
       },
       "By the Way": {
          "$date": "2001",
@@ -235,17 +235,19 @@
          "Venice Queen": ""
       },
       "Californication": {
+         "$date": "1999",
+         "$list": "black",
          "Around the World": "",
          "Californication": {
             "flow": "60,591,762",
             "link": "https://youtu.be/YlUKcNNmywk"
          },
          "Otherside": "",
-         "Scar Tissue": "",
-         "$date": "1999",
-         "$list": "black"
+         "Scar Tissue": ""
       },
       "One Hot Minute": {
+         "$date": "1995",
+         "$list": "white",
          "Warped": "",
          "Aeroplane": "good",
          "Deep Kick": "",
@@ -261,18 +263,16 @@
          "One Hot Minute": "",
          "Falling Into Grace": "",
          "Shallow Be Thy Game": "",
-         "Transcending": "",
-         "$date": "1995",
-         "$list": "white"
+         "Transcending": ""
       },
       "Blood Sugar Sex Magik": {
+         "$date": "1991",
+         "$list": "black",
          "Give It Away": "",
          "Under The Bridge": {
             "flow": "16,086,687",
             "link": "https://youtu.be/GLvohMXgcBo"
-         },
-         "$date": "1991",
-         "$list": "black"
+         }
       }
    },
    "R.E.M.": {
@@ -581,6 +581,8 @@
    },
    "Roosevelt": {
       "Young Romance": {
+         "$date": "2018",
+         "$list": "white",
          "Take Me Back": "short",
          "Under the Sun": "bad",
          "Yr Love": "bad",
@@ -592,11 +594,11 @@
          "Shadows": "",
          "Last to Know": "",
          "Forgive": "",
-         "Getaway": "",
-         "$date": "2018",
-         "$list": "white"
+         "Getaway": ""
       },
       "Roosevelt": {
+         "$date": "2016",
+         "$list": "white",
          "Intro": "short",
          "Wait Up": "",
          "Night Moves": "good",
@@ -608,9 +610,7 @@
          "Daytona": "short",
          "Fever": "good",
          "Hold On": "good",
-         "Close": "",
-         "$date": "2016",
-         "$list": "white"
+         "Close": ""
       },
       "Elliot": {
          "$date": "2013",
@@ -804,6 +804,8 @@
    },
    "Samaris": {
       "Black Lights": {
+         "$date": "2016",
+         "$list": "white",
          "Wanted 2 Say": "",
          "Black Lights": "",
          "Gradient Sky": "short",
@@ -812,14 +814,14 @@
          "R4vin": "",
          "3y3": "",
          "T4ngled": "",
-         "In Deep": "good",
-         "$date": "2016",
-         "$list": "white"
+         "In Deep": "good"
       },
       "Silkidrangar Sessions": {
          "$date": "2015"
       },
       "Silkidrangar": {
+         "$date": "2014",
+         "$list": "white",
          "Nótt": "good",
          "Ég vildi fegin verða": "",
          "Lífsins ólgusjór": "",
@@ -829,13 +831,12 @@
          "Þótt hann rigni": "",
          "Hafið": "",
          "Hrafnar": "",
-         "Vögguljóð": "",
-         "$date": "2014",
-         "$list": "white"
+         "Vögguljóð": ""
       }
    },
    "Savath & Savalas": {
       "Folk Songs for Trains, Trees and Honey": {
+         "$list": "white",
          "Beginning": "short",
          "Transportation Theme": "good",
          "Binoculars": "good",
@@ -844,12 +845,13 @@
          "F Ride + Blues": "good",
          "Journey’s Homes": "good",
          "Paulo": "",
-         "Slabulas": "good",
-         "$list": "white"
+         "Slabulas": "good"
       }
    },
    "Seal": {
       "Seal (II)": {
+         "$date": "1994",
+         "$list": "white",
          "Bring It On": "",
          "Prayer for the Dying": "",
          "Dreaming in Metaphors": "",
@@ -864,11 +866,11 @@
          "Newborn Friend": "",
          "If I Could": "",
          "I’m Alive": "",
-         "Bring It On (reprise)": "short",
-         "$date": "1994",
-         "$list": "white"
+         "Bring It On (reprise)": "short"
       },
       "Seal": {
+         "$date": "1991",
+         "$list": "white",
          "The Beginning": "",
          "Deep Water": "",
          "Crazy": "good",
@@ -877,13 +879,12 @@
          "Future Love Paradise": "",
          "Wild": "",
          "Show Me": "",
-         "Violet": "",
-         "$date": "1991",
-         "$list": "white"
+         "Violet": ""
       }
    },
    "Secret Sun": {
       "Cold Coast": {
+         "$list": "white",
          "Passing Cars": {
             "flow": "3,686",
             "link": "https://youtu.be/WRLlc36hsoU"
@@ -896,12 +897,12 @@
          "Don’t Behave": "",
          "City": "",
          "Stay Still": "",
-         "Crashing Waves": "",
-         "$list": "white"
+         "Crashing Waves": ""
       }
    },
    "She Keeps Bees": {
       "Minisink Hotel": {
+         "$list": "white",
          "Stand Where I Can See You": "short",
          "CageMatch": "short",
          "Lucille": "short",
@@ -911,12 +912,12 @@
          "The Flies": "short",
          "Mercury": "short",
          "Two Thousand Lights": "short",
-         "Revival": "short",
-         "$list": "white"
+         "Revival": "short"
       }
    },
    "Sigur Rós": {
       "Ágætis byrjun": {
+         "$list": "white",
          "Intro": "short",
          "Svefn-g-englar": "good",
          "Starálfur": "good",
@@ -930,12 +931,13 @@
             "link": "https://youtu.be/8LeQN249Jqw"
          },
          "Ágætis byrjun": "good",
-         "Avalon": "",
-         "$list": "white"
+         "Avalon": ""
       }
    },
    "Simian Mobile Disco": {
       "Unpatterns": {
+         "$date": "2012",
+         "$list": "white",
          "I Waited for You": "",
          "Cerulean": "",
          "Seraphim": "good",
@@ -944,11 +946,11 @@
          "Put Your Hands Together": "",
          "The Dream of the Fisherman’s Wife": "",
          "Your Love Ain’t Fair": "",
-         "Pareidolia": "",
-         "$date": "2012",
-         "$list": "white"
+         "Pareidolia": ""
       },
       "Attack Decay Sustain Release": {
+         "$date": "2007",
+         "$list": "white",
          "Sleep Deprivation": "",
          "I Got This Down": "",
          "It’s the Beat": "",
@@ -967,13 +969,13 @@
          "Hustler (club version)": "",
          "I Believe (SMD Space dub)": "",
          "Hot Dub": "",
-         "Wooden (uncut)": "",
-         "$date": "2007",
-         "$list": "white"
+         "Wooden (uncut)": ""
       }
    },
    "Simple Minds": {
       "Street Fighting Years": {
+         "$date": "1989",
+         "$list": "white",
          "Street Fighting Years": "",
          "Soul Crying Out": "bad",
          "Wall of Love": "bad",
@@ -987,17 +989,15 @@
             "link": "https://youtu.be/7vhhTvcLoRw"
          },
          "Biko": "",
-         "When Spirits Rise": "short",
-         "$date": "1989",
-         "$list": "white"
+         "When Spirits Rise": "short"
       },
       "Don’t You (Forget About Me)": {
+         "$date": "1985-03-19",
+         "$list": "black",
          "Don’t You": {
             "flow": "15,707,580",
             "link": "https://youtu.be/CdqoNKCCt7A"
-         },
-         "$date": "1985-03-19",
-         "$list": "black"
+         }
       }
    },
    "Solar Fields": {
@@ -1082,28 +1082,28 @@
    },
    "Soul for Real": {
       "Candy Rain": {
+         "$list": "black",
          "Candy Rain": {
             "flow": "6,047,543",
             "link": "https://youtu.be/Cx0xzO73Amo"
          },
-         "Every Little Thing I Do": "",
-         "$list": "black"
+         "Every Little Thing I Do": ""
       }
    },
    "Soul II Soul": {
       "Keep on Movin’": {
-         "Back to Life": "",
-         "$list": "black"
+         "$list": "black",
+         "Back to Life": ""
       }
    },
    "Soundgarden": {
       "Superunknown": {
+         "$list": "black",
          "Black Hole Sun": {
             "flow": "15,187,988",
             "link": "https://youtu.be/3mbBbFH9fAg"
          },
-         "Fell On Black Days": "",
-         "$list": "black"
+         "Fell On Black Days": ""
       }
    },
    "Spandau Ballet": {
@@ -1136,6 +1136,8 @@
    },
    "Squarepusher": {
       "Solo Electric Bass 1": {
+         "$date": "2009-08-17",
+         "$list": "white",
          "SEB-1.01": "short",
          "SEB-1.09": "good",
          "SEB-1.10": "short",
@@ -1147,21 +1149,21 @@
          "SEB-1.07": "short",
          "SEB-1.08": "",
          "SEB-1.11": "short",
-         "SEB-1.12": "",
-         "$date": "2009-08-17",
-         "$list": "white"
+         "SEB-1.12": ""
       },
       "Numbers Lucent": {
+         "$date": "2009-01-19",
+         "$list": "white",
          "Zounds Perspex": "bad",
          "Paradise Garage": "bad",
          "Heliacal Torch": "bad",
          "Star Time 1": "bad",
          "Arterial Fantasy": "bad",
-         "Illegal Dustbin": "bad",
-         "$date": "2009-01-19",
-         "$list": "white"
+         "Illegal Dustbin": "bad"
       },
       "Ultravisitor": {
+         "$date": "2004",
+         "$list": "white",
          "Ultravisitor": "",
          "I Fulcrum": "",
          "Iambic 9 Poetry": "good",
@@ -1176,11 +1178,11 @@
          "Circlewave": "",
          "Tetra-Sync": "",
          "Tommib Help Buss": "short",
-         "Every Day I Love": "short",
-         "$date": "2004",
-         "$list": "white"
+         "Every Day I Love": "short"
       },
       "Hard Normal Daddy": {
+         "$date": "1997",
+         "$list": "white",
          "Coopers World": "",
          "Beep Street": "good",
          "Rustic Raver": "",
@@ -1192,13 +1194,13 @@
          "Vic Acid": "",
          "Male Pill Part 13": "",
          "Rat/P’s and Q’s": "",
-         "Rebus": "short",
-         "$date": "1997",
-         "$list": "white"
+         "Rebus": "short"
       }
    },
    "St. Germain": {
       "Tourist": {
+         "$date": "2000",
+         "$list": "white",
          "Rose Rouge": "good",
          "Montego Bay Spleen": "",
          "So Flute": "",
@@ -1207,11 +1209,11 @@
          "Sure Thing": "",
          "Pont des Arts": "",
          "La Goutte d’Or": "",
-         "What You Think About": "",
-         "$date": "2000",
-         "$list": "white"
+         "What You Think About": ""
       },
       "Boulevard the Complete Series": {
+         "$date": "1995",
+         "$list": "white",
          "Deep in It": "",
          "Thank U Mum (4 Everything You Did)": "good",
          "Street Scene (4 Shazz)": "",
@@ -1219,13 +1221,12 @@
          "Sentimental Mood": "",
          "What’s New?": "",
          "Dub Experience II": "",
-         "Forget It": "",
-         "$date": "1995",
-         "$list": "white"
+         "Forget It": ""
       }
    },
    "St. Vincent": {
       "Actor": {
+         "$list": "white",
          "The Strangers": "",
          "Save Me From What I Want": "",
          "The Neighbors": "",
@@ -1236,12 +1237,12 @@
          "The Bed": "",
          "The Party": "good",
          "Just the Same but Brand New": "",
-         "The Sequel": "short",
-         "$list": "white"
+         "The Sequel": "short"
       }
    },
    "Stereo MCs": {
       "Connected": {
+         "$list": "white",
          "Connected": {
             "rate": "good",
             "flow": "341,807",
@@ -1257,12 +1258,13 @@
          "Pressure": "",
          "Chicken Shake": "",
          "Creation": "",
-         "The End": "",
-         "$list": "white"
+         "The End": ""
       }
    },
    "Steve Roach": {
       "Desert Solitaire": {
+         "$date": "1989",
+         "$list": "white",
          "Flatlands": "bad",
          "Labyrinth": "bad",
          "Specter": "",
@@ -1273,22 +1275,22 @@
          "Highnoon": "",
          "Empty Time": "",
          "From the Heart of Darkness": "",
-         "Desert Solitaire": "",
-         "$date": "1989",
-         "$list": "white"
+         "Desert Solitaire": ""
       },
       "Quiet Music 2": {
+         "$date": "1986",
+         "$list": "white",
          "See Things": "",
          "Towards the Blue": "",
          "Something in Tears": "",
          "A Few More Moments": "good",
-         "Air and Light": "",
-         "$date": "1986",
-         "$list": "white"
+         "Air and Light": ""
       }
    },
    "Stone Temple Pilots": {
       "Purple": {
+         "$date": "1994",
+         "$list": "white",
          "Meatplow": "",
          "Vasoline": "short",
          "Lounge Fly": "",
@@ -1299,11 +1301,11 @@
          "Big Empty": "good",
          "Unglued": "short",
          "Army Ants": "",
-         "Kitchenware & Candybars / My Second Album": "",
-         "$date": "1994",
-         "$list": "white"
+         "Kitchenware & Candybars / My Second Album": ""
       },
       "Core": {
+         "$date": "1992",
+         "$list": "white",
          "Dead & Bloated": "",
          "Sex Type Thing": "",
          "Wicked Garden": "",
@@ -1319,13 +1321,12 @@
          },
          "Wet My Bed": "short",
          "Crackerman": "",
-         "Where the River Goes": "",
-         "$date": "1992",
-         "$list": "white"
+         "Where the River Goes": ""
       }
    },
    "Stwo": {
       "D.T.S.N.T.": {
+         "$list": "white",
          "Far from Home": "short",
          "Haunted": "good",
          "Insecure": "",
@@ -1333,8 +1334,7 @@
          "Angeles": "",
          "Out At Night": "",
          "All Alone": "good",
-         "Blue Sky": "",
-         "$list": "white"
+         "Blue Sky": ""
       }
    },
    "Suzanne Vega": {
