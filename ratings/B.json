@@ -393,7 +393,11 @@
          "Daddy Fat Sax": "short",
          "Turns Me On": "",
          "Follow Us": "",
-         "Shutterbugg": "good",
+         "Shutterbugg": {
+            "rate": "good",
+            "trend": "1,237,121",
+            "link": "https://youtu.be/rWsvkW6rKkQ"
+         },
          "General Patton": "",
          "Tangerine": "",
          "You Ain’t No DJ": "",
@@ -406,12 +410,6 @@
          "Back Up Plan": "",
          "$date": "2010",
          "$list": "white"
-      },
-      "=": {
-         "Shutterbugg": {
-            "trend": "1,237,121",
-            "link": "https://youtu.be/rWsvkW6rKkQ"
-         }
       }
    },
    "Björk": {
@@ -449,7 +447,11 @@
          "Army of Me": "good",
          "Hyper‐Ballad": "bad",
          "The Modern Things": "bad",
-         "It’s Oh So Quiet": "good",
+         "It’s Oh So Quiet": {
+            "rate": "good",
+            "trend": "1,040,474",
+            "link": "https://youtu.be/htobTBlCvUU"
+         },
          "Enjoy": "bad",
          "You’ve Been Flirting Again": "short",
          "Isobel": "good",
@@ -475,32 +477,32 @@
          "Play Dead": "good",
          "$date": "1993",
          "$list": "white"
-      },
-      "=": {
-         "It’s Oh So Quiet": {
-            "trend": "1,040,474",
-            "link": "https://youtu.be/htobTBlCvUU"
-         }
       }
    },
    "Blink 182": {
       "California": {
          "Bored to Death": "",
-         "She’s Out Of Her Mind": "",
+         "She’s Out of Her Mind": {
+            "trend": "7,762,070",
+            "link": "https://youtu.be/krpm0v_486k"
+         },
          "$date": "2016",
          "$list": "black"
       },
-      "Neighborhoods": {
-         "$date": "2011"
-      },
       "blink-182": {
          "Always": "",
-         "I Miss You": "",
+         "I Miss You": {
+            "trend": "21,749,165",
+            "link": "https://youtu.be/s1tAYmMjLdY"
+         },
          "$date": "2003",
          "$list": "black"
       },
       "Take Off Your Pants and Jacket": {
-         "First Date": "",
+         "First Date": {
+            "trend": "13,177,324",
+            "link": "https://youtu.be/vVy9Lgpg1m8"
+         },
          "Stay Together for the Kids": "",
          "The Rock Show": "",
          "$date": "2001",
@@ -508,28 +510,13 @@
       },
       "Enema of the State": {
          "Adam’s Song": "",
-         "All the Small Things": "",
-         "What’s My Age Again?": "",
-         "$date": "1999",
-         "$list": "black"
-      },
-      "=": {
          "All The Small Things": {
             "trend": "21,774,492",
             "link": "https://youtu.be/9Ht5RZpzPqw"
          },
-         "First Date": {
-            "trend": "13,177,324",
-            "link": "https://youtu.be/vVy9Lgpg1m8"
-         },
-         "I Miss You": {
-            "trend": "21,749,165",
-            "link": "https://youtu.be/s1tAYmMjLdY"
-         },
-         "She’s Out of Her Mind": {
-            "trend": "7,762,070",
-            "link": "https://youtu.be/krpm0v_486k"
-         }
+         "What’s My Age Again?": "",
+         "$date": "1999",
+         "$list": "black"
       }
    },
    "Blood Orange": {
@@ -975,37 +962,36 @@
          "Every Little Kiss": "",
          "Mandolin Rain": "",
          "The Long Race": "",
-         "The Way It Is": "good",
+         "The Way It Is": {
+            "rate": "good",
+            "trend": "3,449,438",
+            "link": "https://youtu.be/cOeKidp-iWo"
+         },
          "Down the Road Tonight": "good",
          "The Wild Frontier": "",
          "The River Runs Low": "",
          "The Red Plains": "",
          "$date": "1986",
          "$list": "white"
-      },
-      "=": {
-         "The Way It Is": {
-            "trend": "3,449,438",
-            "link": "https://youtu.be/cOeKidp-iWo"
-         }
       }
    },
    "Bryan Adams": {
       "18 Til I Die": {
-         "Have You Ever Really Loved A Woman?": "",
-         "$date": "1996",
-         "$list": "black"
-      },
-      "=": {
          "Have You Ever Really Loved A Woman?": {
             "trend": "7,291,025",
             "link": "https://youtu.be/hq2KgzKETBw"
-         }
+         },
+         "$date": "1996",
+         "$list": "black"
       }
    },
    "Burial": {
       "Untrue": {
-         "Archangel": "bad",
+         "Archangel": {
+            "rate": "bad",
+            "trend": "96,060",
+            "link": "https://youtu.be/E2qLD9c3Gq4"
+         },
          "Near Dark": "",
          "Ghost Hardware": "good",
          "Endorphin": "",
@@ -1034,12 +1020,6 @@
          "Pirates": "",
          "$date": "2006",
          "$list": "white"
-      },
-      "=": {
-         "Archangel": {
-            "trend": "96,060",
-            "link": "https://youtu.be/E2qLD9c3Gq4"
-         }
       }
    },
    "Bush": {
@@ -1086,18 +1066,15 @@
          "Machinehead": "good",
          "Testosterone": "",
          "Monkey": "",
-         "Glycerine": "",
+         "Glycerine": {
+            "trend": "3,384,979",
+            "link": "https://youtu.be/hOllF3TgAsM"
+         },
          "Alien": "",
          "X‐Girlfriend": "short",
          "Comedown (acoustic)": "",
          "$date": "1994",
          "$list": "white"
-      },
-      "=": {
-         "Glycerine": {
-            "trend": "3,384,979",
-            "link": "https://youtu.be/hOllF3TgAsM"
-         }
       }
    }
 }
