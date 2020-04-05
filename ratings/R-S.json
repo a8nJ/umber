@@ -493,20 +493,32 @@
          "[Matchsticks]": ""
       },
       "On Remixes": {
-         "$date": "1993",
-         "$list": "white",
-         "On (D-Scape mix)": "",
-         "On (Reload mix)": "good",
-         "On (μ-Ziq mix)": "good",
-         "On (28 mix)": ""
+          "$date": "1993-11-15",
+          "$list": "white",
+          "On (D-Scape mix)": "",
+          "On (Reload mix)": "good",
+          "On (μ-Ziq mix)": "good",
+          "On (28 mix)": ""
       },
       "On": {
-         "$date": "1993",
-         "$list": "white",
-         "true": "good",
-         "73-Yips": "",
-         "D-Scape": "",
-         "Xepha": ""
+          "$date": "1993-11-15",
+          "$list": "white",
+          "On": "good",
+          "73-Yips": "",
+          "D-Scape": "",
+          "Xepha": ""
+      },
+      "Analogue Bubblebath 3": {
+          "$date": "1993-05",
+          "$list": "white",
+          ".215061": "",
+          ".000890569": "good",
+          ".38": "short",
+          ".0180871": "",
+          ".55278097732581": "",
+          ".942937": "",
+          ".1993841": "",
+          "AFX 6/B": "short"
       },
       "Selected Ambient Works 85–92": {
          "$date": "1992",
