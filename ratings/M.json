@@ -487,18 +487,34 @@
    },
    "Mazzy Star": {
       "Among My Swan": {
-         "Disappear": "",
-         "Flowers in December": "",
-         "Rhymes of an Hour": "",
-         "Cry, Cry": "",
-         "Take Everything": "",
-         "Still Cold": "",
-         "All Your Sisters": "",
-         "I’ve Been Let Down": "",
-         "Roseblood": "",
-         "Happy": "",
-         "Umbilical": "",
-         "Look on Down From the Bridge": "good"
+          "$date": "1996-10-17",
+          "$list": "white",
+          "Disappear": "",
+          "Flowers in December": "",
+          "Rhymes of an Hour": "",
+          "Cry, Cry": "",
+          "Take Everything": "",
+          "Still Cold": "",
+          "All Your Sisters": "",
+          "I've Been Let Down": "",
+          "Roseblood": "",
+          "Happy": "",
+          "Umbilical": "",
+          "Look on Down From the Bridge": "good"
+      },
+      "So Tonight That I Might See": {
+          "$date": "1993-09-27",
+          "$list": "white",
+          "Fade Into You": "good",
+          "Bells Ring": "",
+          "Mary of Silence": "",
+          "Five String Serenade": "",
+          "Blue Light": "",
+          "She’s My Baby": "",
+          "Unreflected": "",
+          "Wasted": "",
+          "Into Dust": "",
+          "So Tonight That I Might See": ""
       }
    },
    "Meramek": {
