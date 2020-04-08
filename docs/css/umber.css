@@ -1,10 +1,10 @@
 @font-face {
    font-family: "Miller Display Italic";
-   src: url("/umber/link/miller-display-italic.woff2");
+   src: url("/umber/fonts/miller-display-italic.woff2");
 }
 @font-face {
    font-family: "Overpass";
-   src: url("/umber/link/overpass.woff2");
+   src: url("/umber/fonts/overpass.woff2");
 }
 #newer, #older, .repo {
    color: #c82121;

@@ -1139,8 +1139,8 @@
          "Medicine": "",
          "Wild Horses": {
             "rate": "good",
-            "flow": "598,193",
-            "link": "https://youtu.be/BiyCkSOF1pc"
+            "URL": "https://youtu.be/BiyCkSOF1pc",
+            "VPY": "598,193"
          }
       },
       "Reading, Writing and Arithmetic": {
@@ -1149,9 +1149,9 @@
          "Skin & Bones": "bad",
          "Here’s Where the Story Ends": "good",
          "Can’t Be Sure": "good",
-         "I Won": "",
-         "Hideous Towns": "",
-         "You’re Not the Only One I Know": "",
+         "I Won": "bad",
+         "Hideous Towns": "bad",
+         "You’re Not the Only One I Know": "good",
          "A Certain Someone": "",
          "I Kicked a Boy": "short",
          "My Finest Hour": "",

@@ -766,22 +766,22 @@
       "Tails": {
          "$date": "1995",
          "$list": "white",
-         "It’s Over": "",
+         "It’s Over": "bad",
          "Snow Day": "good",
-         "Taffy": "",
+         "Taffy": "bad",
          "When All the Stars Were Falling": "short",
          "Do You Sleep?": "good",
-         "Hurricane": "",
-         "Rose-Colored Times": "",
+         "Hurricane": "bad",
+         "Rose-Colored Times": "bad",
          "Sandalwood": "short",
          "Alone": "short",
-         "Waiting for Wednesday": "",
+         "Waiting for Wednesday": "bad",
          "Lisa Listen": "",
          "Garden of Delights": "short",
          "Stay": {
             "rate": "good",
-            "flow": "539,129",
-            "link": "https://youtu.be/ka9mCmx9Jhs"
+            "URL": "https://youtu.be/ka9mCmx9Jhs",
+            "VPY": "539,129"
          }
       }
    },

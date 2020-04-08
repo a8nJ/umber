@@ -29,6 +29,24 @@
          "Jane 10": "",
          "Jane 11": ""
       },
+      "Bandits of Stature": {
+          "$date": "2012-11-27",
+          "$list": "white",
+          "Merry-Go-Round: The Dream of the Girl at the Lonely Desert ": "short",
+          "Merry-Go-Round: Claude Lorrain Avoids the Cinder Block Mote": "short",
+          "Merry-Go-Round: Nicolas Poussin Near 29 Palms": "short",
+          "Merry-Go-Round: Perfume Doesn't Dance": "bad",
+          "Merry-Go-Round: Shout (for Jane Maru)": "bad",
+          "Merry-Go-Round: The Moss of Imagination": "bad",
+          "Merry-Go-Round: Purvis Startled by Joy": "short",
+          "Merry-Go-Round: Seven Colonnades": "",
+          "Merry-Go-Round: Veil of Orpheus (Cy Twombly's)": "",
+          "String Quartet 2003: Haru Spring": "short",
+          "String Quartet 2003: From the Sea of Changes": "",
+          "String Quartet 2003: Bandits of Stature": "short",
+          "String Quartet 2003: Llano": "short",
+          "String Quartet 2003: Babylon Balboa": "short"
+      },
       "Bordeaux": {
          "$date": "2011",
          "$list": "white",
