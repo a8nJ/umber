@@ -39,18 +39,18 @@
          "Oblivion": {
             "rate": "good",
             "trend": "2,746,085",
-            "link": "https://youtu.be/1mkUp1V3ys0"
+            "URL": "https://youtu.be/1mkUp1V3ys0"
          }
       },
       "Hurry Up, We’re Dreaming": {
          "$date": "2011",
          "Midnight City": {
             "trend": "33,682,222",
-            "link": "https://youtu.be/dX3k_QDnzHE"
+            "URL": "https://youtu.be/dX3k_QDnzHE"
          },
          "Wait": {
             "trend": "11,009,599",
-            "link": "https://youtu.be/lAwYodrBr2Q"
+            "URL": "https://youtu.be/lAwYodrBr2Q"
          }
       },
       "Saturdays = Youth": {
@@ -140,7 +140,7 @@
          "$date": "2015",
          "Bitch I’m Madonna": {
             "trend": "76,830,661",
-            "link": "https://youtu.be/7hPMmzKs62w"
+            "URL": "https://youtu.be/7hPMmzKs62w"
          },
          "Ghosttown": ""
       },
@@ -149,14 +149,14 @@
          "Girl Gone Wild": "",
          "Give Me All Your Luvin’": {
             "trend": "10,108,542",
-            "link": "https://youtu.be/cItHOl5LRWg"
+            "URL": "https://youtu.be/cItHOl5LRWg"
          }
       },
       "Hard Candy": {
          "$date": "2008",
          "4 Minutes": {
             "trend": "7,832,501",
-            "link": "https://youtu.be/aAQZPBwz2CI"
+            "URL": "https://youtu.be/aAQZPBwz2CI"
          },
          "Give It 2 Me": ""
       },
@@ -164,7 +164,7 @@
          "$date": "2005",
          "Hung Up": {
             "trend": "19,991,409",
-            "link": "https://youtu.be/EDwb9jOVRtU"
+            "URL": "https://youtu.be/EDwb9jOVRtU"
          }
       },
       "Music": {
@@ -186,7 +186,7 @@
          "$date": "1998",
          "Frozen": {
             "trend": "8,438,434",
-            "link": "https://youtu.be/SKEFN9XNlyY"
+            "URL": "https://youtu.be/SKEFN9XNlyY"
          }
       },
       "Something to Remember": {
@@ -210,7 +210,7 @@
          "Secret": {
             "rate": "good",
             "trend": "1,638,276",
-            "link": "https://youtu.be/EPHUZenprKc"
+            "URL": "https://youtu.be/EPHUZenprKc"
          },
          "I’d Rather Be Your Lover": "",
          "Don’t Stop": "",
@@ -232,21 +232,21 @@
          "$date": "1990-05-21",
          "Vogue": {
             "trend": "9,981,092",
-            "link": "https://youtu.be/GuJQSAiODqI"
+            "URL": "https://youtu.be/GuJQSAiODqI"
          }
       },
       "Like a Prayer": {
          "$date": "1989",
          "Like a Prayer": {
             "trend": "7,876,757",
-            "link": "https://youtu.be/79fzeNUqQbQ"
+            "URL": "https://youtu.be/79fzeNUqQbQ"
          }
       },
       "True Blue": {
          "$date": "1986",
          "La Isla Bonita": {
             "trend": "17,047,985",
-            "link": "https://youtu.be/zpzdgmqIHOQ"
+            "URL": "https://youtu.be/zpzdgmqIHOQ"
          },
          "Live to Tell": "",
          "Papa Don’t Preach": ""
@@ -257,7 +257,7 @@
          "Like a Virgin": "",
          "Material Girl": {
             "trend": "18,223,354",
-            "link": "https://youtu.be/6p-lDYPR2P8"
+            "URL": "https://youtu.be/6p-lDYPR2P8"
          }
       }
    },
@@ -292,7 +292,7 @@
          "Beautiful": {
             "rate": "bad",
             "trend": "55,963",
-            "link": "https://youtu.be/ie-0hEReVfU"
+            "URL": "https://youtu.be/ie-0hEReVfU"
          },
          "About You": "bad"
       }
@@ -301,7 +301,7 @@
       "Memoirs of an Imperfect Angel": {
          "I Want To Know What Love Is": {
             "trend": "13,849,877",
-            "link": "https://youtu.be/gCadlN8fexk"
+            "URL": "https://youtu.be/gCadlN8fexk"
          },
          "Obsessed": "",
          "$date": "2009"
@@ -310,7 +310,7 @@
          "Bye Bye": "",
          "Touch My Body": {
             "trend": "17,998,651",
-            "link": "https://youtu.be/9b8erWuBA44"
+            "URL": "https://youtu.be/9b8erWuBA44"
          },
          "$date": "2008"
       },
@@ -318,14 +318,14 @@
          "Don’t Forget About Us": "",
          "We Belong Together": {
             "trend": "37,118,971",
-            "link": "https://youtu.be/0habxsuXW4g"
+            "URL": "https://youtu.be/0habxsuXW4g"
          },
          "$date": "2005"
       },
       "Butterfly": {
          "My All": {
             "trend": "13,670,261",
-            "link": "https://youtu.be/mIhI23gBBPQ"
+            "URL": "https://youtu.be/mIhI23gBBPQ"
          },
          "$date": "1997"
       },
@@ -333,21 +333,21 @@
          "$date": "1995",
          "Always Be My Baby": {
             "trend": "15,209,697",
-            "link": "https://youtu.be/LfRNRymrv9k"
+            "URL": "https://youtu.be/LfRNRymrv9k"
          },
         "Fantasy": ""
       },
       "Merry Christmas": {
          "All I Want For Christmas Is You": {
             "trend": "57,340,677",
-            "link": "https://youtu.be/yXQViqx6GMY"
+            "URL": "https://youtu.be/yXQViqx6GMY"
          },
          "$date": "1994"
       },
       "Music Box": {
          "Hero": {
             "trend": "23,152,721",
-            "link": "https://youtu.be/0IA3ZvCkRkQ"
+            "URL": "https://youtu.be/0IA3ZvCkRkQ"
          },
          "Without You": "",
          "$date": "1993"
@@ -357,7 +357,7 @@
       "Return of the Mack": {
          "Return Of The Mack": {
             "trend": "6,664,680",
-            "link": "https://youtu.be/uB1D9wWxd2w"
+            "URL": "https://youtu.be/uB1D9wWxd2w"
          }
       }
    },
@@ -420,7 +420,7 @@
          "$date": "1998",
          "Teardrop": {
             "trend": "6,311,699",
-            "link": "https://youtu.be/u7K72X4eo_s"
+            "URL": "https://youtu.be/u7K72X4eo_s"
          }
       },
       "Protection": {
@@ -445,7 +445,7 @@
          "Unfinished Sympathy": {
             "rate": "good",
             "trend": "4,638,845",
-            "link": "https://youtu.be/ZWmrfgj0MZI"
+            "URL": "https://youtu.be/ZWmrfgj0MZI"
          },
          "Daydreaming": "bad",
          "Lately": "good",
@@ -456,7 +456,7 @@
       "Yourself or Someone Like You": {
          "3AM": {
             "trend": "7,795,321",
-            "link": "https://youtu.be/C-Naa1HXeDQ"
+            "URL": "https://youtu.be/C-Naa1HXeDQ"
          }
       }
    },
@@ -526,7 +526,7 @@
          "Only You": {
             "rate": "good",
             "trend": "70,150",
-            "link": "https://youtu.be/E_2NenYDKf8"
+            "URL": "https://youtu.be/E_2NenYDKf8"
          },
          "Bounce": "",
          "Stepping Stones (original mix)": "",
@@ -543,14 +543,14 @@
       "Hardwired… to Self‐Destruct": {
          "Hardwired": {
             "trend": "16,477,818",
-            "link": "https://youtu.be/uhBHL3v4d3I"
+            "URL": "https://youtu.be/uhBHL3v4d3I"
          },
          "$date": "2016"
       },
       "Garage Inc.": {
          "Whiskey In The Jar": {
             "trend": "8,977,938",
-            "link": "https://youtu.be/boanuwUMNNQ"
+            "URL": "https://youtu.be/boanuwUMNNQ"
          },
          "$date": "1998"
       },
@@ -567,7 +567,7 @@
          "Wasting My Hate": "",
          "Mama Said": {
             "trend": "4,496,692",
-            "link": "https://youtu.be/4FKYsUEuvIo"
+            "URL": "https://youtu.be/4FKYsUEuvIo"
          },
          "Thorn Within": "",
          "Ronnie": "",
@@ -578,7 +578,7 @@
          "Enter Sandman": "",
          "Nothing Else Matters": {
             "trend": "62,983,387",
-            "link": "https://youtu.be/tAGnKpE4NCI"
+            "URL": "https://youtu.be/tAGnKpE4NCI"
          },
          "The Unforgiven": "",
          "Wherever I May Roam": "",
@@ -587,21 +587,21 @@
       "and Justice for All": {
          "One": {
             "trend": "13,564,332",
-            "link": "https://youtu.be/EzgGTTtR0kc"
+            "URL": "https://youtu.be/EzgGTTtR0kc"
          },
          "$date": "1988"
       },
       "Master of Puppets": {
          "Master Of Puppets": {
             "trend": "13,322,313",
-            "link": "https://youtu.be/xnKhsTXoKCI"
+            "URL": "https://youtu.be/xnKhsTXoKCI"
          },
          "$date": "1986"
       },
       "Ride the Lightning": {
          "Fade to Black": {
             "trend": "9,485,401",
-            "link": "https://youtu.be/WEQnzs8wl6E"
+            "URL": "https://youtu.be/WEQnzs8wl6E"
          },
          "For Whom the Bell Tolls": "",
          "$date": "1984"
@@ -611,7 +611,7 @@
       "You & Me": {
          "You & Me": {
             "trend": "21,209,713",
-            "link": "https://youtu.be/fKFbnhcNnjE"
+            "URL": "https://youtu.be/fKFbnhcNnjE"
          },
          "$date": "2018"
       },
@@ -625,7 +625,7 @@
          "Mental Help": "",
          "REJ": {
             "trend": "814,388",
-            "link": "https://youtu.be/DtKdqwRC07A"
+            "URL": "https://youtu.be/DtKdqwRC07A"
          },
          "Acamar": "",
          "Every Wall Is a Door": "",
@@ -636,7 +636,7 @@
       "It’s Time": {
          "Feeling Good": {
             "trend": "11,271,894",
-            "link": "https://youtu.be/Edwsf-8F3sI"
+            "URL": "https://youtu.be/Edwsf-8F3sI"
          }
       }
    },
@@ -644,21 +644,21 @@
       "Xscape": {
          "Slave To The Rhythm": {
             "trend": "13,740,849",
-            "link": "https://youtu.be/jDRTghGZ7XU"
+            "URL": "https://youtu.be/jDRTghGZ7XU"
          },
          "$date": "2014"
       },
       "Michael": {
          "Hold My Hand": {
             "trend": "11,633,050",
-            "link": "https://youtu.be/-oCCnxBos10"
+            "URL": "https://youtu.be/-oCCnxBos10"
          },
          "$date": "2010"
       },
       "Invincible": {
          "You Rock My World": {
             "trend": "15,017,917",
-            "link": "https://youtu.be/1-7ABIM2qjU"
+            "URL": "https://youtu.be/1-7ABIM2qjU"
          },
          "$date": "2001"
       },
@@ -682,7 +682,7 @@
       "Off the Wall": {
          "Don’t Stop ’Til You Get Enough": {
             "trend": "21,897,798",
-            "link": "https://youtu.be/yURRmWtbTbo"
+            "URL": "https://youtu.be/yURRmWtbTbo"
          },
          "$date": "1979"
       }
@@ -693,7 +693,7 @@
          "I Keep Forgettin’": {
             "rate": "good",
             "trend": "1,474,782",
-            "link": "https://youtu.be/cjqOsYRQI0o"
+            "URL": "https://youtu.be/cjqOsYRQI0o"
          },
          "Love Lies": "",
          "I Gotta Try": "",
@@ -733,7 +733,7 @@
          "porcelain": {
             "rate": "good",
             "trend": "2,541,264",
-            "link": "https://youtu.be/QhZnEagfjTQ"
+            "URL": "https://youtu.be/QhZnEagfjTQ"
          },
          "Why Does My Heart Feel So Bad?": "",
          "South Side": "",
@@ -760,7 +760,7 @@
          "Dashboard": {
             "rate": "bad",
             "trend": "1,579,646",
-            "link": "https://youtu.be/penvn9VL32Y"
+            "URL": "https://youtu.be/penvn9VL32Y"
          },
          "Fire It Up": "bad",
          "Florida": "short",
@@ -779,7 +779,7 @@
          "$date": "2004",
          "Float On": {
             "trend": "7,530,975",
-            "link": "https://youtu.be/CTAud5O7Qqk"
+            "URL": "https://youtu.be/CTAud5O7Qqk"
          },
          "Ocean Breathes Salty": ""
       }
@@ -809,7 +809,7 @@
          "Dumb Inc.": "",
          "The Time Is Now": {
             "trend": "1,492,925",
-            "link": "https://youtu.be/kl8mpAvTm_Y"
+            "URL": "https://youtu.be/kl8mpAvTm_Y"
          },
          "Mother": "",
          "It’s Your Problem": "short",
@@ -827,7 +827,7 @@
       "This Is How We Do It": {
          "This Is How We Do It": {
             "trend": "10,267,590",
-            "link": "https://youtu.be/0hiUuL5uTKc"
+            "URL": "https://youtu.be/0hiUuL5uTKc"
          }
       }
    },
@@ -835,7 +835,7 @@
       "Welcome to the Real World": {
          "Broken Wings": {
             "trend": "14,062,770",
-            "link": "https://youtu.be/nKhN1t_7PEY"
+            "URL": "https://youtu.be/nKhN1t_7PEY"
          }
       }
    },
@@ -843,7 +843,7 @@
       "Lunatic Harness": {
          "Brace Yourself Jason": {
             "trend": "27,477",
-            "link": "https://youtu.be/UN_9nB37O_U"
+            "URL": "https://youtu.be/UN_9nB37O_U"
          },
          "Hasty Boom Alert": "good",
          "Mushroom Compost": "",
