@@ -19,7 +19,7 @@
          "$date": "1998",
          "$list": "white",
          "Right Here, Right Now": {
-            "flow": "5,592,444",
+            "VPY": "5,592,444",
             "link": "https://youtu.be/l7ZlSHGFfdc",
             "rate": "good"
          },
@@ -62,7 +62,7 @@
          "The Best Things": "good",
          "Take a Picture": {
             "rate": "good",
-            "flow": "619,133",
+            "VPY": "619,133",
             "link": "https://youtu.be/Jhx0o3GifpI"
          },
          "Skinny": "",
@@ -106,7 +106,7 @@
          "Little Fling": "short",
          "Football Head": {
             "rate": "good",
-            "flow": "2,286,983",
+            "VPY": "2,286,983",
             "link": "https://youtu.be/1hJKhiew2O0"
          }
       }
@@ -166,7 +166,7 @@
          "English House": "good",
          "Mykonos": {
             "rate": "good",
-            "flow": "1,526,713",
+            "VPY": "1,526,713",
             "link": "https://youtu.be/DT-dxG4WWf4"
          },
          "Innocent Son": "bad"
@@ -184,7 +184,7 @@
          "Mystified": "",
          "Little Lies": {
             "rate": "good",
-            "flow": "2,190,958",
+            "VPY": "2,190,958",
             "link": "https://youtu.be/Xr9Oubxw1gA"
          },
          "Family Man": "",
@@ -214,7 +214,7 @@
          "$list": "black",
          "Dreams": "",
          "Go Your Own Way": {
-            "flow": "12,697,708",
+            "VPY": "12,697,708",
             "link": "https://youtu.be/6ul-cZyuYq4"
          },
          "The Chain": ""
@@ -223,7 +223,7 @@
          "$date": "1975",
          "$list": "black",
          "Landslide": {
-            "flow": "6,540,267",
+            "VPY": "6,540,267",
             "link": "https://youtu.be/x--yddOolRQ"
          },
          "Rhiannon": ""
@@ -275,7 +275,7 @@
          "My Babe": "",
          "Slow Ride": {
             "rate": "good",
-            "flow": "3,467,643",
+            "VPY": "3,467,643",
             "link": "https://youtu.be/GcCNcgoyG_0"
          },
          "Terraplane Blues": "",
@@ -290,7 +290,7 @@
          "$list": "black",
          "Run": "",
          "The Sky Is a Neighborhood": {
-            "flow": "28,652,318",
+            "VPY": "28,652,318",
             "link": "https://youtu.be/TRqiFPpw2fY"
          }
       },
@@ -298,7 +298,7 @@
          "$date": "2014",
          "$list": "black",
          "Something From Nothing": {
-            "flow": "7,013,168",
+            "VPY": "7,013,168",
             "link": "https://youtu.be/V_YlZ1JdcVk"
          }
       },
@@ -307,7 +307,7 @@
          "$list": "black",
          "These Days": "",
          "Walk": {
-            "flow": "11,562,945",
+            "VPY": "11,562,945",
             "link": "https://youtu.be/4PkcfQtibmU"
          }
       },
@@ -315,7 +315,7 @@
          "$date": "2007",
          "$list": "black",
          "The Pretender": {
-            "flow": "38,899,344",
+            "VPY": "38,899,344",
             "link": "https://youtu.be/SBjQ9tuuTJQ"
          }
       },
@@ -323,7 +323,7 @@
          "$date": "2005",
          "$list": "black",
          "Best Of You": {
-            "flow": "16,432,068",
+            "VPY": "16,432,068",
             "link": "https://youtu.be/h_L4Rixya64"
          }
       },
@@ -331,7 +331,7 @@
          "$date": "2002",
          "$list": "black",
          "All My Life": {
-            "flow": "7,246,410",
+            "VPY": "7,246,410",
             "link": "https://youtu.be/xQ04WbgI9rg"
          }
       },
@@ -339,7 +339,7 @@
          "$date": "1999",
          "$list": "black",
          "Learn To Fly": {
-            "flow": "11,766,693",
+            "VPY": "11,766,693",
             "link": "https://youtu.be/1VQ_3sBZEm0"
          }
       },
@@ -347,7 +347,7 @@
          "$date": "1997",
          "$list": "black",
          "Everlong": {
-            "flow": "15,438,960",
+            "VPY": "15,438,960",
             "link": "https://youtu.be/eBG7P-K-r1Y"
          }
       }
@@ -379,7 +379,7 @@
          "$date": "1977",
          "$list": "white",
          "Feels Like The First Time": {
-            "flow": "282,733",
+            "VPY": "282,733",
             "link": "https://youtu.be/8Tl-kOcnn1U"
          },
          "Cold as Ice": "good",
@@ -403,7 +403,7 @@
          "$date": "2010",
          "$list": "white",
          "Angel Echoes": {
-            "flow": "281,677",
+            "VPY": "281,677",
             "link": "https://youtu.be/Tpe4id7cLnU"
          },
          "Love Cry": "",
@@ -477,7 +477,7 @@
          "$list": "black",
          "Be the Song": "",
          "Make it rain": {
-            "flow": "8,003,040",
+            "VPY": "8,003,040",
             "link": "https://youtu.be/hD5hIqeKNVE"
          }
       }
@@ -522,7 +522,7 @@
          "Had We Had It": "",
          "Night Swim": {
             "rate": "short",
-            "flow": "31,597",
+            "VPY": "31,597",
             "link": "https://youtu.be/VE56wTNj7J0"
          },
          "Apples for the Sun": "",
@@ -538,7 +538,7 @@
          "Tell Her Tonight": "short",
          "Take Me Out": {
             "rate": "good",
-            "flow": "5,885,949",
+            "VPY": "5,885,949",
             "link": "https://youtu.be/Ijk4j-r7qPA"
          },
          "The Dark of the Matinée": "",
@@ -574,7 +574,7 @@
          "Fu-Gee-La": "",
          "Killing Me Softly with His Song": "",
          "Ready or Not": {
-            "flow": "14,642,911",
+            "VPY": "14,642,911",
             "link": "https://youtu.be/aIXyKmElvv8"
          }
       }
@@ -584,7 +584,7 @@
          "$list": "white",
          "Maggot Brain": {
             "rate": "good",
-            "flow": "683,197",
+            "VPY": "683,197",
             "link": "https://youtu.be/dh3bleXWaCk"
          },
          "Can You Get to That": "short",
@@ -617,7 +617,7 @@
          "$list": "white",
          "purrfect": {
             "rate": "bad",
-            "flow": "27,321",
+            "VPY": "27,321",
             "link": "https://youtu.be/-ebWfAw1eug"
          },
          "Groover": "bad",
@@ -640,7 +640,7 @@
          "Tonight, Tonight, Tonight": "",
          "Land of Confusion": {
             "rate": "good",
-            "flow": "511,888",
+            "VPY": "511,888",
             "link": "https://youtu.be/QHmH1xQ2Pf4"
          },
          "In Too Deep": "",
@@ -677,7 +677,7 @@
          "Go‐Go Gadget Gospel": "short",
          "Crazy": {
             "rate": "good",
-            "flow": "6,888,921",
+            "VPY": "6,888,921",
             "link": "https://youtu.be/Qe500eIK1oA"
          },
          "St. Elsewhere": "short",
@@ -759,7 +759,7 @@
          "$list": "white",
          "Ooh La La": {
             "rate": "good",
-            "flow": "1,063,979",
+            "VPY": "1,063,979",
             "link": "https://youtu.be/uco-2V4ytYQ"
          },
          "Lovely 2 C U": "good",
@@ -809,7 +809,7 @@
          "$date": "1998",
          "$list": "black",
          "Iris": {
-            "flow": "19,820,856",
+            "VPY": "19,820,856",
             "link": "https://youtu.be/NdYWuo9OFAw"
          },
          "Slide": ""
@@ -824,7 +824,7 @@
          "Impersonality": "short",
          "Name": {
             "rate": "good",
-            "flow": "1,047,005",
+            "VPY": "1,047,005",
             "link": "https://youtu.be/LyG3wkwKXro"
          },
          "Only One": "",
@@ -841,11 +841,11 @@
          "$date": "2018",
          "$list": "black",
          "Humility": {
-            "flow": "69,322,117",
+            "VPY": "69,322,117",
             "link": "https://youtu.be/E5yFcdPAGv0"
          },
          "Tranz": {
-            "flow": "49,788,375",
+            "VPY": "49,788,375",
             "link": "https://youtu.be/E2Q52cVx7Bo"
          }
       },
@@ -853,11 +853,11 @@
          "$date": "2017",
          "$list": "black",
          "Andromeda": {
-            "flow": "24,213,804",
+            "VPY": "24,213,804",
             "link": "https://youtu.be/9W44NWYwa1g"
          },
          "Saturnz Barz": {
-            "flow": "39,375,302",
+            "VPY": "39,375,302",
             "link": "https://youtu.be/5qJp6xlKEug"
          }
       },
@@ -865,11 +865,11 @@
          "$date": "2010",
          "$list": "black",
          "On Melancholy Hill": {
-            "flow": "14,525,087",
+            "VPY": "14,525,087",
             "link": "https://youtu.be/04mfKJWDSzI"
          },
          "Stylo": {
-            "flow": "10,408,741",
+            "VPY": "10,408,741",
             "link": "https://youtu.be/nhPaWIeULKk"
          }
       },
@@ -877,15 +877,15 @@
          "$date": "2005",
          "$list": "black",
          "DARE": {
-            "flow": "15,207,223",
+            "VPY": "15,207,223",
             "link": "https://youtu.be/uAOR6ib95kQ"
          },
          "Dirty Harry": {
-            "flow": "9,680,827",
+            "VPY": "9,680,827",
             "link": "https://youtu.be/cLnkQAeMbIM"
          },
          "Feel Good Inc": {
-            "flow": "98,994,981",
+            "VPY": "98,994,981",
             "link": "https://youtu.be/HyHNuVaZJ-k"
          }
       },
@@ -893,15 +893,15 @@
          "$date": "2001",
          "$list": "black",
          "19-2000": {
-            "flow": "21,040,483",
+            "VPY": "21,040,483",
             "link": "https://youtu.be/WXR-bCF5dbM"
          },
          "Clint Eastwood": {
-            "flow": "73,751,523",
+            "VPY": "73,751,523",
             "link": "https://youtu.be/1V_xRb0x9aw"
          },
          "Tomorrow Comes Today": {
-            "flow": "6,597,139",
+            "VPY": "6,597,139",
             "link": "https://youtu.be/PiNdcBg3xC8"
          }
       }
@@ -946,7 +946,7 @@
          "Chunga’s Revenge": "bad",
          "Tríptico": "bad",
          "Santa Maria": {
-            "flow": "1,886,601",
+            "VPY": "1,886,601",
             "link": "https://youtu.be/tqLh6rQqkoA"
          },
          "Una música brutal": "",
@@ -961,7 +961,7 @@
          "$date": "2009",
          "$list": "black",
          "21 Guns": {
-            "flow": "24,850,357",
+            "VPY": "24,850,357",
             "link": "https://youtu.be/r00ikilDxW4"
          }
       },
@@ -969,7 +969,7 @@
          "$date": "2004",
          "$list": "black",
          "Boulevard of Broken Dreams": {
-            "flow": "50,307,178",
+            "VPY": "50,307,178",
             "link": "https://youtu.be/Soa3gO7tL-c"
          }
       },
@@ -977,7 +977,7 @@
          "$date": "1997",
          "$list": "black",
          "Good Riddance": {
-            "flow": "6,048,169",
+            "VPY": "6,048,169",
             "link": "https://youtu.be/CnQ8N1KacJc"
          }
       },
@@ -985,7 +985,7 @@
          "$date": "1994",
          "$list": "black",
          "Basket Case": {
-            "flow": "19,510,691",
+            "VPY": "19,510,691",
             "link": "https://youtu.be/NUTGr5t3MoY"
          },
          "When I Come Around": ""
@@ -1032,7 +1032,7 @@
          "Southern Point": "good",
          "Two Weeks": {
             "rate": "good",
-            "flow": "1,349,230",
+            "VPY": "1,349,230",
             "link": "https://youtu.be/tjecYugTbIQ"
          },
          "All We Ask": "bad",
@@ -1136,7 +1136,7 @@
          "Suntoucher": "bad",
          "Superstylin’": {
             "rate": "bad",
-            "flow": "2,594,261",
+            "VPY": "2,594,261",
             "link": "https://youtu.be/_kE0pxRkMtQ"
          },
          "Drifted": "bad",
@@ -1173,7 +1173,7 @@
          "$date": "1991-09-17",
          "$list": "black",
          "Yesterdays": {
-            "flow": "6,521,419",
+            "VPY": "6,521,419",
             "link": "https://youtu.be/NDOPlpH6NZM"
          }
       },
@@ -1181,7 +1181,7 @@
          "$date": "1991-09-16",
          "$list": "black",
          "November Rain": {
-            "flow": "123,851,131",
+            "VPY": "123,851,131",
             "link": "https://youtu.be/8SbUC-UaAxE"
          }
       },
@@ -1189,7 +1189,7 @@
          "$date": "1988",
          "$list": "black",
          "Patience": {
-            "flow": "43,348,720",
+            "VPY": "43,348,720",
             "link": "https://youtu.be/ErvgV4P6Fzc"
          }
       },
@@ -1197,7 +1197,7 @@
          "$date": "1987",
          "$list": "black",
          "Sweet Child O’ Mine": {
-            "flow": "98,551,986",
+            "VPY": "98,551,986",
             "link": "https://youtu.be/1w7OgIMMRc4"
          }
       }
@@ -1206,7 +1206,7 @@
       "Love. Angel. Music. Baby.": {
          "$list": "black",
          "Hollaback Girl": {
-            "flow": "19,292,734",
+            "VPY": "19,292,734",
             "link": "https://youtu.be/Kgjkth6BRRY"
          }
       }
