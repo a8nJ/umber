@@ -296,18 +296,26 @@
          "A Kissed Out Red Floatboat": "",
          "Ella Megalast Burls Forever": "bad"
       },
+      "Love’s Easy Tears": {
+          "$date": "1986-09-01",
+          "$list": "white",
+          "Love’s Easy Tears": "good",
+          "Orange Appled": "short",
+          "Sigh’s Smell of Farewell": "",
+          "Those Eyes, That Mouth": ""
+      },
       "Victorialand": {
-         "$date": "1986",
-         "$list": "white",
-         "Lazy Calm": "good",
-         "Fluffy Tufts": "",
-         "Throughout the Dark Months of April and May": "good",
-         "Whales Tails": "good",
-         "Oomingmak": "short",
-         "Little Spacey": "",
-         "Feet-Like Fins": "",
-         "How to Bring a Blush to the Snow": "",
-         "The Thinner the Air": ""
+          "$date": "1986-02",
+          "$list": "white",
+          "Lazy Calm": "good",
+          "Fluffy Tufts": "",
+          "Throughout the Dark Months of April and May": "good",
+          "Whales Tails": "good",
+          "Oomingmak": "short",
+          "Little Spacey": "",
+          "Feet-Like Fins": "",
+          "How to Bring a Blush to the Snow": "",
+          "The Thinner the Air": ""
       },
       "Tiny Dynamine": {
          "$date": "1985",
@@ -332,26 +340,26 @@
          "Donimo": ""
       },
       "Sunburst and Snowblind": {
-         "$date": "1983",
-         "$list": "white",
-         "Sugar Hiccup": "reissue",
-         "From the Flagstones": "",
-         "Hitherto": "good",
-         "Because of Whirl-Jack": ""
+          "$date": "1983-11-07",
+          "$list": "white",
+          "Sugar Hiccup": "reissue",
+          "From the Flagstones": "",
+          "Hitherto": "good",
+          "Because of Whirl-Jack": ""
       },
       "Head Over Heels": {
-         "$date": "1983",
-         "$list": "white",
-         "When Mama Was Moth": "",
-         "Five Ten Fiftyfold": "good",
-         "Sugar Hiccup": "bad",
-         "In Our Angelhood": "good",
-         "Glass Candle Grenades": "short",
-         "In the Gold Dust Rush": "",
-         "The Tinderbox (of a Heart)": "good",
-         "Multifoiled": "short",
-         "My Love Paramour": "",
-         "Musette and Drums": "good"
+          "$date": "1983-10-31",
+          "$list": "white",
+          "When Mama Was Moth": "",
+          "Five Ten Fiftyfold": "good",
+          "Sugar Hiccup": "bad",
+          "In Our Angelhood": "good",
+          "Glass Candle Grenades": "short",
+          "In the Gold Dust Rush": "",
+          "The Tinderbox (of a Heart)": "good",
+          "Multifoiled": "short",
+          "My Love Paramour": "",
+          "Musette and Drums": "good"
       },
       "Garlands": {
          "$date": "1982",

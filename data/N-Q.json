@@ -1190,6 +1190,23 @@
       }
    },
    "Plaid": {
+      "Polymer": {
+          "$date": "2019-06-07",
+          "$list": "white",
+          "Meds Fade": "bad",
+          "Los": "",
+          "Maru": "",
+          "Ops": "",
+          "Drowned Sea": "",
+          "The Pale Moth": "",
+          "Dancers": "",
+          "Nurula": "",
+          "Recall": "",
+          "All to Get Her": "",
+          "Dust": "short",
+          "Crown Shy": "",
+          "Praze": ""
+      },
       "Spokes": {
          "$date": "2003",
          "$list": "white",
