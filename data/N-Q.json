@@ -542,6 +542,22 @@
          "Still Stuff That Doesn’t Happen": "",
          "Last Known Image of a Song": ""
       },
+      "Garden of Delete": {
+          "$date": "2015-11-13",
+          "$list": "white",
+          "Intro": "short",
+          "Ezra": "bad",
+          "ECCOJAMC1": "short",
+          "Sticky Drama": "bad",
+          "SDFK": "short",
+          "Mutant Standard": "bad",
+          "Child of Rage": "good",
+          "Animals": "",
+          "I Bite Through It": "",
+          "Freaky Eyes": "",
+          "Lift": "",
+          "No Good": ""
+      },
       "R Plus Seven": {
          "$date": "2013",
          "$list": "white",
