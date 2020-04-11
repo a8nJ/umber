@@ -267,9 +267,9 @@
       "Music for the Masses": {
          "$date": "1987",
          "$list": "black",
-         "Strangelove": {
-            "VPY": "6,532,962",
-            "link": "https://youtu.be/JIrm0dHbCDU"
+         "Depeche Mode - Strangelove (Official Video)": {
+             "URL": "https://youtu.be/JIrm0dHbCDU",
+             "VPY": "7,162,504"
          }
       },
       "Speak & Spell": {
@@ -357,9 +357,9 @@
       "Ten Thousand Fists": {
          "$date": "2005",
          "$list": "black",
-         "Stricken": {
-            "VPY": "6,488,391",
-            "link": "https://youtu.be/3moLkjvhEu0"
+         "Disturbed - Stricken [Official Music Video]": {
+             "URL": "https://youtu.be/3moLkjvhEu0",
+             "VPY": "6,201,684"
          }
       },
       "The Sickness": {

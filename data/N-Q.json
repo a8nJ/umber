@@ -134,9 +134,9 @@
    "Neil Young": {
       "Harvest": {
          "$list": "black",
-         "Heart Of Gold": {
-            "VPY": "6,449,181",
-            "URL": "https://youtu.be/Eh44QPT1mPE"
+         "Neil Young - Heart Of Gold": {
+             "URL": "https://youtu.be/Eh44QPT1mPE",
+             "VPY": "6,433,460"
          },
          "Old Man": ""
       }
@@ -880,9 +880,9 @@
       "Please": {
          "$date": "1986",
          "$list": "black",
-         "West End Girls": {
-            "VPY": "6,469,379",
-            "URL": "https://youtu.be/p3j2NYZ8FKs"
+         "Pet Shop Boys - West End Girls": {
+             "URL": "https://youtu.be/p3j2NYZ8FKs",
+             "VPY": "7,350,730"
          }
       }
    },
@@ -948,9 +948,9 @@
       "No Jacket Required": {
          "$date": "1985",
          "$list": "black",
-         "One More Night": {
-            "VPY": "6,375,300",
-            "URL": "https://youtu.be/zKVq-P3z5Vg"
+         "Phil Collins - One More Night (Official Music Video)": {
+             "URL": "https://youtu.be/zKVq-P3z5Vg",
+             "VPY": "6,475,657"
          }
       },
       "Hello, I Must Be Going!": {

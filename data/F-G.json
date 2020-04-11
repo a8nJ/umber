@@ -222,9 +222,9 @@
       "Fleetwood Mac": {
          "$date": "1975",
          "$list": "black",
-         "Landslide": {
-            "VPY": "6,540,267",
-            "link": "https://youtu.be/x--yddOolRQ"
+         "Subway performer stuns crowd with Fleetwood Mac's \"Landslide\"- Chica": {
+             "URL": "https://youtu.be/x--yddOolRQ",
+             "VPY": "6,391,722"
          },
          "Rhiannon": ""
       }
@@ -675,10 +675,9 @@
       "St. Elsewhere": {
          "$list": "white",
          "Go‐Go Gadget Gospel": "short",
-         "Crazy": {
-            "rate": "good",
-            "VPY": "6,888,921",
-            "link": "https://youtu.be/Qe500eIK1oA"
+         "Gnarls Barkley - Crazy": {
+             "URL": "https://youtu.be/Qe500eIK1oA",
+             "VPY": "10,738,279"
          },
          "St. Elsewhere": "short",
          "Gone Daddy Gone": "short",
@@ -739,6 +738,19 @@
          "Laurel": "",
          "Clay": "",
          "Lee": "good"
+      },
+      "Head First": {
+          "$date": "2010-03-19",
+          "$list": "white",
+          "Rocket": "bad",
+          "Believer": "bad",
+          "Alive": "",
+          "Dreaming": "",
+          "Head First": "",
+          "Hunt": "",
+          "Shiny and Warm": "",
+          "I Wanna Life": "",
+          "Voicething": ""
       },
       "Seventh Tree": {
          "$date": "2008",
@@ -899,10 +911,6 @@
          "Clint Eastwood": {
             "VPY": "73,751,523",
             "link": "https://youtu.be/1V_xRb0x9aw"
-         },
-         "Tomorrow Comes Today": {
-            "VPY": "6,597,139",
-            "link": "https://youtu.be/PiNdcBg3xC8"
          }
       }
    },
@@ -976,9 +984,9 @@
       "Nimrod": {
          "$date": "1997",
          "$list": "black",
-         "Good Riddance": {
-            "VPY": "6,048,169",
-            "link": "https://youtu.be/CnQ8N1KacJc"
+         "Good Riddance (Time Of Your Life) [Official Music Video]": {
+             "URL": "https://youtu.be/CnQ8N1KacJc",
+             "VPY": "6,169,586"
          }
       },
       "Dookie": {
@@ -1169,14 +1177,6 @@
       }
    },
    "Guns N’ Roses": {
-      "Use Your Illusion II": {
-         "$date": "1991-09-17",
-         "$list": "black",
-         "Yesterdays": {
-            "VPY": "6,521,419",
-            "link": "https://youtu.be/NDOPlpH6NZM"
-         }
-      },
       "Use Your Illusion I": {
          "$date": "1991-09-16",
          "$list": "black",

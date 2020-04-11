@@ -124,6 +124,20 @@
          "Intervention Måne": "short",
          "Coastal Path": "good"
       },
+      "A Long Way to Fall": {
+          "$date": "2013-01-18",
+          "$list": "white",
+          "Her and the Sea": "bad",
+          "Broken Homes": "bad",
+          "Like a Ghost in Your Own Life": "bad",
+          "A Long Way to Fall": "bad",
+          "I Take Comfort in Your Ignorance": "bad",
+          "A Forgotten Birthday": "",
+          "The Weight of Darkening Skies": "",
+          "Borrowed Time": "",
+          "Ten Years": "",
+          "A Ritual in Time and Death": ""
+      },
       "Goodbye": {
          "$date": "2007",
          "$list": "white",
@@ -345,9 +359,9 @@
       "Blowin’ Your Mind!": {
          "$date": "1967",
          "$list": "black",
-         "Brown Eyed Girl": {
-            "VPY": "6,776,288",
-            "URL": "https://youtu.be/UfmkgQRmmeE"
+         "Van Morrison - Brown Eyed Girl (Audio)": {
+             "URL": "https://youtu.be/UfmkgQRmmeE",
+             "VPY": "8,782,500"
          }
       }
    },
@@ -390,9 +404,9 @@
       "Big Willie Style": {
          "$date": "1997",
          "$list": "black",
-         "Gettin’ Jiggy Wit It": {
-            "VPY": "6,326,024",
-            "URL": "https://youtu.be/3JcmQONgXJM"
+         "Will Smith - Gettin' Jiggy Wit It (Official Video)": {
+             "URL": "https://youtu.be/3JcmQONgXJM",
+             "VPY": "7,473,372"
          }
       }
    },

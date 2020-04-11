@@ -437,9 +437,9 @@
       "Bury the Hatchet": {
          "$date": "1999",
          "$list": "black",
-         "Animal Instinct": {
-            "VPY": "6,073,015",
-            "URL": "https://youtu.be/ky4CdN0x58A"
+         "The Cranberries - Animal Instinct (Official Music Video)": {
+             "URL": "https://youtu.be/ky4CdN0x58A",
+             "VPY": "6,341,544"
          }
       },
       "To the Faithful Departed": {
@@ -626,15 +626,6 @@
          "Queen of the Highway": "short",
          "Indian Summer": "short",
          "Maggie M’Gill": "bad"
-      },
-      "The Doors": {
-         "$date": "1967",
-         "$list": "black",
-         "Light My Fire": "",
-         "The End": {
-            "VPY": "6,616,040",
-            "URL": "https://youtu.be/JSUIQgEVDM4"
-         }
       }
    },
    "The Handsome Family": {
@@ -837,9 +828,9 @@
       "Life After Death": {
          "$date": "1997",
          "$list": "black",
-         "Mo Money Mo Problems": {
-            "VPY": "6,564,343",
-            "URL": "https://youtu.be/gUhRKVIjJtw"
+         "The Notorious B.I.G. - Mo Money Mo Problems": {
+             "URL": "https://youtu.be/gUhRKVIjJtw",
+             "VPY": "6,807,845"
          }
       }
    },
