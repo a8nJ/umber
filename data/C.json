@@ -28,7 +28,7 @@
          "One More Night": "",
          "Vitamin C": {
             "rate": "good",
-            "link": "https://youtu.be/9a1NhRbNJ_Y",
+            "URL": "https://youtu.be/9a1NhRbNJ_Y",
             "trend": "183,424"
          },
          "Soup": "",
@@ -43,7 +43,7 @@
          "Long Way 2 Go": "",
          "Me & U": {
             "trend": "13,636,105",
-            "link": "https://youtu.be/zVJ5gsLeCSM"
+            "URL": "https://youtu.be/zVJ5gsLeCSM"
          }
       }
    },
@@ -53,7 +53,7 @@
          "1998": "",
          "Gold": {
             "trend": "40,403,436",
-            "link": "https://youtu.be/hi4pzKvuEQM"
+            "URL": "https://youtu.be/hi4pzKvuEQM"
          }
       }
    },
@@ -63,7 +63,7 @@
          "$list": "black",
          "You’re The Inspiration": {
             "trend": "7,406,342",
-            "link": "https://youtu.be/wM-XhQeFzW4"
+            "URL": "https://youtu.be/wM-XhQeFzW4"
          }
       },
       "Chicago X": {
@@ -75,7 +75,7 @@
          "If You Leave Me Now": {
             "rate": "good",
             "trend": "1,030,105",
-            "link": "https://youtu.be/j1ykMNtzMT8"
+            "URL": "https://youtu.be/j1ykMNtzMT8"
          },
          "Together Again": "",
          "Another Rainy Day in New York City": "",
@@ -137,7 +137,7 @@
          "Saltwater (original mix)": {
             "rate": "good",
             "trend": "2,624,489",
-            "link": "https://youtu.be/ET1-6Bef9xU"
+            "URL": "https://youtu.be/ET1-6Bef9xU"
          },
          "Halcyon": "bad",
          "Autumn Tactics": "bad",
@@ -169,7 +169,7 @@
          "Me and Your Mama": "",
          "Redbone": {
             "trend": "130,783,298",
-            "link": "https://youtu.be/Kp7eSUU9oy8"
+            "URL": "https://youtu.be/Kp7eSUU9oy8"
          }
       },
       "Because the Internet": {
@@ -178,7 +178,7 @@
          "3005": "",
          "Sweatpants": {
             "trend": "25,128,289",
-            "link": "https://youtu.be/ExVtrghW5Y4"
+            "URL": "https://youtu.be/ExVtrghW5Y4"
          },
          "Telegraph Ave": ""
       },
@@ -206,7 +206,7 @@
          "$list": "black",
          "Wicked Game": {
             "trend": "9,828,608",
-            "link": "https://youtu.be/ib6VAJbEBjg"
+            "URL": "https://youtu.be/ib6VAJbEBjg"
          }
       },
       "Chris Isaak": {
@@ -231,7 +231,7 @@
          "$list": "black",
          "Ride": {
             "trend": "19,725,835",
-            "link": "https://youtu.be/wl2NCXzg1FQ"
+            "URL": "https://youtu.be/wl2NCXzg1FQ"
          }
       }
    },
@@ -274,7 +274,7 @@
          "Heaven or Las Vegas": {
             "rate": "bad",
             "trend": "202,206",
-            "link": "https://youtu.be/6KnYw4EwYGc"
+            "URL": "https://youtu.be/6KnYw4EwYGc"
          },
          "I Wear Your Ring": "",
          "Fotzepolitic": "",
@@ -372,7 +372,7 @@
          "$list": "black",
          "The Scientist": {
             "trend": "80,172,619",
-            "link": "https://youtu.be/RB-RcX5DS5A"
+            "URL": "https://youtu.be/RB-RcX5DS5A"
          }
       }
    },
@@ -387,7 +387,7 @@
          "Memory": "",
          "Propagation": {
             "trend": "812,858",
-            "link": "https://youtu.be/3uI9Hh26OTs"
+            "URL": "https://youtu.be/3uI9Hh26OTs"
          },
          "Vacuume": "",
          "Ternary": "",
@@ -451,7 +451,7 @@
          "Center of the Sun": "",
          "Tears From the Moon": {
             "trend": "163,821",
-            "link": "https://youtu.be/4w0hHxrj7do"
+            "URL": "https://youtu.be/4w0hHxrj7do"
          },
          "Tidal Pool": "good",
          "Manic Star": "",
@@ -483,7 +483,7 @@
          "$list": "black",
          "Mr. Jones": {
             "trend": "13,704,250",
-            "link": "https://youtu.be/-oqAU5VxFWs"
+            "URL": "https://youtu.be/-oqAU5VxFWs"
          }
       }
    },
@@ -513,7 +513,7 @@
          "Heartbreaker": {
             "rate": "good",
             "trend": "162,899",
-            "link": "https://youtu.be/Ph5psMQoirU"
+            "URL": "https://youtu.be/Ph5psMQoirU"
          },
          "Twisted": "",
          "Sonar": "",

@@ -106,7 +106,7 @@
          "High Horse": "",
          "Rainbow": {
             "VPY": "33,574,919",
-            "link": "https://youtu.be/6OFv566mj7s"
+            "URL": "https://youtu.be/6OFv566mj7s"
          },
          "Space Cowboy": ""
       },
@@ -117,7 +117,7 @@
          "Dime Store Cowgirl": {
             "bad": "bad",
             "VPY": "356,715",
-            "link": "https://youtu.be/_eTkY7-vTd8"
+            "URL": "https://youtu.be/_eTkY7-vTd8"
          },
          "Late to the Party": "",
          "Pageant Material": "",
@@ -190,7 +190,7 @@
          "Wuthering Heights": {
             "rate": "bad",
             "VPY": "3,384,228",
-            "link": "https://youtu.be/BW3gKKiTvjs"
+            "URL": "https://youtu.be/BW3gKKiTvjs"
          },
          "James and the Cold Gun": "bad",
          "Feel It": "bad",
@@ -301,7 +301,7 @@
          "Misread": {
             "rate": "good",
             "VPY": "1,766,969",
-            "link": "https://youtu.be/WOxE7IRizjI"
+            "URL": "https://youtu.be/WOxE7IRizjI"
          },
          "Cayman Islands": "good",
          "Stay Out of Trouble": "",
@@ -398,7 +398,7 @@
          "Lost Woods": {
             "rate": "short",
             "VPY": "880,778",
-            "link": "https://youtu.be/-uInmFU6JkU"
+            "URL": "https://youtu.be/-uInmFU6JkU"
          },
          "Zora’s Domain": "good",
          "Great Fairy’s Fountain": "good",
@@ -428,7 +428,7 @@
          "Insane": "",
          "Rotting In Vain": {
             "VPY": "8,645,316",
-            "link": "https://youtu.be/nq9j1qkj2Vc"
+            "URL": "https://youtu.be/nq9j1qkj2Vc"
          }
       },
       "See You on the Other Side": {
@@ -436,7 +436,7 @@
          "$list": "black",
          "Coming Undone": {
             "VPY": "7,180,498",
-            "link": "https://youtu.be/CSJXle3LP_Q"
+            "URL": "https://youtu.be/CSJXle3LP_Q"
          }
       },
       "Issues": {
@@ -444,7 +444,7 @@
          "$list": "black",
          "Falling Away from Me": {
             "VPY": "8,648,063",
-            "link": "https://youtu.be/2s3iGpDqQpQ"
+            "URL": "https://youtu.be/2s3iGpDqQpQ"
          },
          "Somebody Someone": ""
       },
@@ -453,7 +453,7 @@
          "$list": "black",
          "Freak On a Leash": {
             "VPY": "16,280,786",
-            "link": "https://youtu.be/jRGrNDV2mKc"
+            "URL": "https://youtu.be/jRGrNDV2mKc"
          },
          "Got the Life": ""
       }
@@ -494,7 +494,7 @@
          "$list": "black",
          "Kashmir": {
             "VPY": "7,698,273",
-            "link": "https://youtu.be/PD-MdiUm1_Y"
+            "URL": "https://youtu.be/PD-MdiUm1_Y"
          }
       },
       "Houses of the Holy": {
@@ -508,7 +508,7 @@
          "D’yer Mak’er": "",
          "No Quarter": {
             "VPY": "3,784,523",
-            "link": "https://youtu.be/RlNhD0oS5pk"
+            "URL": "https://youtu.be/RlNhD0oS5pk"
          },
          "The Ocean": ""
       },
@@ -519,7 +519,7 @@
          "Rock and Roll": "",
          "Stairway To Heaven": {
             "VPY": "81,614,873",
-            "link": "https://youtu.be/D9ioyEvdggk"
+            "URL": "https://youtu.be/D9ioyEvdggk"
          },
          "When the Levee Breaks": ""
       },
@@ -529,7 +529,7 @@
          "Celebration Day": "",
          "Immigrant Song": {
             "VPY": "6,992,557",
-            "link": "https://youtu.be/RlNhD0oS5pk"
+            "URL": "https://youtu.be/RlNhD0oS5pk"
          },
          "Since I’ve Been Loving You": ""
       },
@@ -540,7 +540,7 @@
          "Thank You": "",
          "Whole Lotta Love": {
             "VPY": "7,585,196",
-            "link": "https://youtu.be/HQmmM_qwG4k"
+            "URL": "https://youtu.be/HQmmM_qwG4k"
          }
       }
    },
@@ -550,7 +550,7 @@
          "$list": "black",
          "Low": {
             "VPY": "38,900,177",
-            "link": "https://youtu.be/BilaShsQphM"
+            "URL": "https://youtu.be/BilaShsQphM"
          }
       },
       "Strut": {
@@ -558,7 +558,7 @@
          "$list": "black",
          "The Chamber": {
             "VPY": "6,443,630",
-            "link": "https://youtu.be/jAHlQ77lm10"
+            "URL": "https://youtu.be/jAHlQ77lm10"
          }
       },
       "5": {
@@ -573,7 +573,7 @@
          "Take Time": "",
          "Fly Away": {
             "VPY": "5,872,138",
-            "link": "https://youtu.be/EvuL5jyCHOw"
+            "URL": "https://youtu.be/EvuL5jyCHOw"
          },
          "It’s Your Life": "",
          "Straight Cold Player": "",
@@ -641,7 +641,7 @@
          "Pier Children": "",
          "It’s Just": {
             "VPY": "605,308",
-            "link": "https://youtu.be/XpIrFglZfQU"
+            "URL": "https://youtu.be/XpIrFglZfQU"
          },
          "Christ Air": "",
          "St. Sinclair": ""
@@ -655,7 +655,7 @@
          "Good Goodbye": "",
          "Heavy": {
             "VPY": "64,311,891",
-            "link": "https://youtu.be/5dmQ3QWpy1Q"
+            "URL": "https://youtu.be/5dmQ3QWpy1Q"
          },
          "Invisible": "",
          "Nobody Can Save Me": "",
@@ -668,7 +668,7 @@
          "$list": "black",
          "Final Masquerade": {
             "VPY": "16,666,261",
-            "link": "https://youtu.be/i8q8fFs3kTM"
+            "URL": "https://youtu.be/i8q8fFs3kTM"
          },
          "Until It’s Gone": ""
       },
@@ -678,7 +678,7 @@
          "Burn It Down": "",
          "Castle of Glass": {
             "VPY": "58,573,035",
-            "link": "https://youtu.be/ScNNfyq3d_w"
+            "URL": "https://youtu.be/ScNNfyq3d_w"
          },
          "Lost in the Echo": ""
       },
@@ -689,7 +689,7 @@
          "Iridescent": "",
          "New Divide": {
             "VPY": "39,329,565",
-            "link": "https://youtu.be/ysSxxIqKNN0"
+            "URL": "https://youtu.be/ysSxxIqKNN0"
          },
          "The Catalyst": "",
          "Waiting for the End": ""
@@ -702,7 +702,7 @@
          "Leave Out All the Rest": "",
          "What I’ve Done": {
             "VPY": "32,414,709",
-            "link": "https://youtu.be/8sgycukafqQ"
+            "URL": "https://youtu.be/8sgycukafqQ"
          }
       },
       "Meteora": {
@@ -713,7 +713,7 @@
          "From the Inside": "",
          "Numb": {
             "VPY": "94,590,761",
-            "link": "https://youtu.be/kXYiU_JCYtU"
+            "URL": "https://youtu.be/kXYiU_JCYtU"
          },
          "Somewhere I Belong": ""
       },
@@ -723,7 +723,7 @@
          "Crawling": "",
          "In the End": {
             "VPY": "81,909,752",
-            "link": "https://youtu.be/eVTXPUF4Oz4"
+            "URL": "https://youtu.be/eVTXPUF4Oz4"
          },
          "One Step Closer": "",
          "Papercut": "",
@@ -795,7 +795,7 @@
          "All Around the World": {
             "rate": "good",
             "VPY": "3,954,179",
-            "link": "https://youtu.be/JVuuatjHGnY"
+            "URL": "https://youtu.be/JVuuatjHGnY"
          },
          "What Did I Do to You?": "",
          "Live Together": "",
@@ -817,7 +817,7 @@
          "Lightning Crashes": {
             "rate": "good",
             "VPY": "3,491,937",
-            "link": "https://youtu.be/xsJ4O-nSveg"
+            "URL": "https://youtu.be/xsJ4O-nSveg"
          },
          "Top": "short",
          "All Over You": "",
@@ -865,7 +865,7 @@
          "$list": "black",
          "I Follow Rivers": {
             "VPY": "25,587,457",
-            "link": "https://youtu.be/K3JGxj2rvAs"
+            "URL": "https://youtu.be/K3JGxj2rvAs"
          },
          "Sadness Is a Blessing": ""
       },
@@ -881,7 +881,7 @@
          "Little Bit": {
             "rate": "good",
             "VPY": "3,350,813",
-            "link": "https://youtu.be/5dT312CDPJI"
+            "URL": "https://youtu.be/5dT312CDPJI"
          },
          "Hanging High": "bad",
          "This Trumpet in My Head": "short",
