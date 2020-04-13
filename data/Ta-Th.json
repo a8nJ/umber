@@ -1122,8 +1122,8 @@
          "Life & Soul": "short",
          "More": "short",
          "On Earth": "short",
-         "God Made Me": "",
-         "Love": "",
+         "God Made Me": "bad",
+         "Love": "bad",
          "What Do You Think?": "",
          "24 Hours": "",
          "Blood on My Hands": "",
@@ -1143,10 +1143,10 @@
          "I Won": "bad",
          "Hideous Towns": "bad",
          "You’re Not the Only One I Know": "good",
-         "A Certain Someone": "",
+         "A Certain Someone": "bad",
          "I Kicked a Boy": "short",
-         "My Finest Hour": "",
-         "Joy": ""
+         "My Finest Hour": "bad",
+         "Joy": "bad"
       }
    },
    "The Wallflowers": {

@@ -339,9 +339,20 @@
          "Half Life": ""
       },
       "Speak for Yourself": {
-         "$date": "2005",
-         "$list": "black",
-         "Hide and Seek": ""
+          "$date": "2005-07-18",
+          "$list": "white",
+          "Headlock": "",
+          "Goodnight and Go": "",
+          "Have You Got It in You?": "good",
+          "Loose Ends": "",
+          "Hide and Seek": "",
+          "Clear the Area": "",
+          "Daylight Robbery": "",
+          "The Walk": "",
+          "Just for Now": "",
+          "I Am in Love With You": "",
+          "Closing In": "",
+          "The Moment I Said It": ""
       },
       "i Megaphone": {
          "$date": "1998",
