@@ -679,9 +679,9 @@
       "Lovers Rock": {
          "$date": "1999",
          "$list": "black",
-         "By Your Side": {
-            "VPY": "7,100,436",
-            "URL": "https://youtu.be/C8QJmI_V3j4"
+         "Sade - By Your Side (Official Music Video)": {
+             "URL": "https://youtu.be/C8QJmI_V3j4",
+             "VPY": "7,333,356"
          }
       },
       "Love Deluxe": {
@@ -689,9 +689,9 @@
          "$list": "black",
          "Cherish the Day": "",
          "Kiss of Life": "",
-         "No Ordinary Love": {
-            "VPY": "9,001,862",
-            "URL": "https://youtu.be/_WcWHZc8s2I"
+         "Sade - No Ordinary Love (Official Music Video)": {
+             "URL": "https://youtu.be/_WcWHZc8s2I",
+             "VPY": "9,799,769"
          },
          "Pearls": ""
       },
