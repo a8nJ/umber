@@ -1201,13 +1201,22 @@
          }
       },
       "Devotion": {
-         "$date": "2012",
-         "$list": "black",
-         "Running": "",
+          "$date": "2012-08-16",
+          "$list": "white",
+          "Devotion": "",
          "Jessie Ware - Wildest Moments": {
              "URL": "https://youtu.be/bMJkddvJ4L4",
              "VPY": "6,803,168"
-         }
+         },
+          "Running": "good",
+          "Still Love Me": "",
+          "No to Love": "",
+          "Night Light": "",
+          "Swan Song": "",
+          "Sweet Talk": "",
+          "110%": "",
+          "Taking in Water": "",
+          "Something Inside": ""
       }
    },
    "Jessy Lanza": {
