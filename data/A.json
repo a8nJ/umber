@@ -346,17 +346,17 @@
          "Down in a Hole": "",
          "Rooster": "",
          "Them Bones": "",
-         "Would?": {
-            "trend": "7,027,889",
-            "URL": "https://youtu.be/Nco_kh8xJDs"
+         "Alice In Chains - Would? (Official Video)": {
+             "URL": "https://youtu.be/Nco_kh8xJDs",
+             "VPY": "8,304,434"
          }
       },
       "Facelift": {
          "$date": "1990",
          "$list": "black",
-         "Man in the Box": {
-            "trend": "8,302,402",
-            "URL": "https://youtu.be/TAqZb52sgpU"
+         "Alice In Chains - Man in the Box (Official Video)": {
+             "URL": "https://youtu.be/TAqZb52sgpU",
+             "VPY": "9,204,115"
          }
       }
    },
