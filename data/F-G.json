@@ -1088,20 +1088,33 @@
       }
    },
    "Groove Armada": {
+      "White Light": {
+          "$date": "2010-10-18",
+          "$list": "white",
+          "Warsaw": "bad",
+          "Time & Space": "",
+          "History": "",
+          "Not Forgotten": "",
+          "I Won’t Kneel": "",
+          "Look Me in the Eye Sister": "",
+          "Paper Romance": "",
+          "1980": "",
+          "History (Love mix)": ""
+      },
       "Black Light": {
-         "$date": "2010",
-         "$list": "white",
-         "Look Me in the Eye Sister": "",
-         "Fall Silent": "",
-         "Just for Tonight": "",
-         "Not Forgotten": "",
-         "I Won’t Kneel": "",
-         "Cards to Your Heart": "",
-         "Paper Romance": "",
-         "Warsaw": "bad",
-         "Shameless": "",
-         "Time & Space": "",
-         "History": "bad"
+          "$date": "2010-01-29",
+          "$list": "white",
+          "Look Me in the Eye Sister": "",
+          "Fall Silent": "",
+          "Just for Tonight": "",
+          "Not Forgotten": "",
+          "I Won't Kneel": "",
+          "Cards to Your Heart": "",
+          "Paper Romance": "",
+          "Warsaw": "bad",
+          "Shameless": "",
+          "Time & Space": "",
+          "History": "bad"
       },
       "Soundboy Rock": {
          "$date": "2007",
