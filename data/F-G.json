@@ -1091,8 +1091,8 @@
       "White Light": {
           "$date": "2010-10-18",
           "$list": "white",
-          "Warsaw": "bad",
-          "Time & Space": "",
+          "Warsaw": "",
+          "Time & Space": "bad",
           "History": "",
           "Not Forgotten": "",
           "I Won’t Kneel": "",
