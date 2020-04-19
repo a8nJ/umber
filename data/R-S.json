@@ -1082,6 +1082,26 @@
          "Air and Light": ""
       }
    },
+   "Sting": {
+      "Ten Summoner's Tales": {
+          "$date": "1993-03-09",
+          "$list": "black",
+          "If I Ever Lose My Faith in You": "",
+          "Love Is Stronger Than Justice (The Munificent Seven)": "",
+          "Fields of Gold": "",
+          "Heavy Cloud No Rain": "",
+          "She's Too Good for Me": "short",
+          "Seven Days": "",
+          "Saint Augustine in Hell": "",
+          "It's Probably Me": "",
+         "Sting - Shape of My Heart (Leon)": {
+             "URL": "https://youtu.be/QK-Z1K67uaA",
+             "VPY": "70,636,126"
+         },
+          "Something the Boy Said": "",
+          "Epilogue (Nothing 'Bout Me)": ""
+      }
+   },
    "Stone Temple Pilots": {
       "Purple": {
          "$date": "1994",
@@ -1133,6 +1153,22 @@
       }
    },
    "Suzanne Vega": {
+      "99.9 F°": {
+          "$date": "1992-09-08",
+          "$list": "white",
+          "Rock in This Pocket (Song of David)": "bad",
+          "Blood Makes Noise": "short",
+          "In Liverpool": "bad",
+          "99.9 F°": "bad",
+          "Blood Sings": "bad",
+          "Fat Man & Dancing Girl": "short",
+          "(If You Were) In My Movie": "bad",
+          "As a Child": "short",
+          "Bad Wisdom": "",
+          "When Heroes Go Down": "short",
+          "As Girls Go": "",
+          "Song of Sand": ""
+      },
       "Days of Open Hand": {
          "$date": "1990",
          "$list": "white",
@@ -1152,11 +1188,7 @@
          "$date": "1987-04",
          "$list": "white",
          "Tom’s Diner": "good",
-         "Luka": {
-            "rate": "",
-            "VPY": "4,659,374",
-            "URL": "https://youtu.be/VZt7J0iaUD0"
-         },
+         "Luka": "",
          "Ironbound / Fancy Poultry": "",
          "In the Eye": "",
          "Night Vision": "short",

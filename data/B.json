@@ -8,7 +8,7 @@
          "Ready for Love": "",
          "Don’t Let Me Down": "",
          "Bad Company": {
-            "link": "https://youtu.be/ww5GXbk58R0",
+            "URL": "https://youtu.be/ww5GXbk58R0",
             "rate": "good",
             "VPY": "3,524,989"
          },
@@ -22,14 +22,14 @@
          "$date": "1984",
          "$list": "white",
          "Cruel Summer": {
-            "link": "https://youtu.be/l9ml3nyww80",
+            "URL": "https://youtu.be/l9ml3nyww80",
             "rate": "good",
             "VPY": "5,505,081"
          },
          "Rough Justice": "",
          "King of the Jungle": "",
          "Dream Baby": "",
-         "Link": "short",
+         "URL": "short",
          "Hot Line to Heaven": "",
          "State I’m In": "short",
          "Robert De Niro’s Waiting": "",
@@ -63,7 +63,7 @@
          "Laura": {
             "rate": "bad",
             "VPY": "927,413",
-            "link": "https://youtu.be/UznHTBZIa8E"
+            "URL": "https://youtu.be/UznHTBZIa8E"
          },
          "Winter Fields": "",
          "The Haunted Man": "",
@@ -126,7 +126,7 @@
          "$list": "black",
          "Myth": {
             "VPY": "9,745,854",
-            "link": "https://youtu.be/3lIyDxfUhxM"
+            "URL": "https://youtu.be/3lIyDxfUhxM"
          }
       },
       "Teen Dream": {
@@ -180,7 +180,7 @@
          "Colors": {
             "rate": "bad",
             "VPY": "4,179,410",
-            "link": "https://youtu.be/WRCA_Fo0rWA"
+            "URL": "https://youtu.be/WRCA_Fo0rWA"
          },
          "Seventh Heaven": "bad",
          "I’m So Free": "bad",
@@ -235,7 +235,7 @@
          "$list": "black",
          "Loser": {
             "VPY": "10,576,977",
-            "link": "https://youtu.be/YgSPaXgAdzE"
+            "URL": "https://youtu.be/YgSPaXgAdzE"
          }
       }
    },
@@ -269,7 +269,7 @@
          "Ronnie, Bobby, Ricky, Mike, Ralph and Johnny (Word to the Mutha)!": "",
          "Poison": {
             "VPY": "1,351,460",
-            "link": "https://youtu.be/sb2np1HGqxg"
+            "URL": "https://youtu.be/sb2np1HGqxg"
          },
          "Ain’t Nut’in’ Changed!": "",
          "When Will I See You Smile Again?": "",
@@ -292,7 +292,7 @@
          "Promise": {
             "rate": "good",
             "VPY": "5,103,551",
-            "link": "https://youtu.be/CVUOTzoVeZA"
+            "URL": "https://youtu.be/CVUOTzoVeZA"
          }
       }
    },
@@ -357,7 +357,7 @@
          "Glue": {
             "rate": "good",
             "VPY": "5,275,555",
-            "link": "https://youtu.be/A7ZxRs45tTg"
+            "URL": "https://youtu.be/A7ZxRs45tTg"
          },
          "Kites": "",
          "Vespa": "short",
@@ -384,7 +384,7 @@
          "$list": "black",
          "All Night": {
             "VPY": "11,499,682",
-            "link": "https://youtu.be/QxTgr11ncJo"
+            "URL": "https://youtu.be/QxTgr11ncJo"
          },
          "Kill Jill": ""
       },
@@ -398,7 +398,7 @@
          "Shutterbugg": {
             "rate": "good",
             "VPY": "1,237,121",
-            "link": "https://youtu.be/rWsvkW6rKkQ"
+            "URL": "https://youtu.be/rWsvkW6rKkQ"
          },
          "General Patton": "",
          "Tangerine": "",
@@ -452,7 +452,7 @@
          "It’s Oh So Quiet": {
             "rate": "good",
             "VPY": "1,040,474",
-            "link": "https://youtu.be/htobTBlCvUU"
+            "URL": "https://youtu.be/htobTBlCvUU"
          },
          "Enjoy": "bad",
          "You’ve Been Flirting Again": "short",
@@ -486,7 +486,7 @@
          "Bored to Death": "",
          "She’s Out of Her Mind": {
             "VPY": "7,762,070",
-            "link": "https://youtu.be/krpm0v_486k"
+            "URL": "https://youtu.be/krpm0v_486k"
          }
       },
       "blink-182": {
@@ -495,7 +495,7 @@
          "Always": "",
          "I Miss You": {
             "VPY": "21,749,165",
-            "link": "https://youtu.be/s1tAYmMjLdY"
+            "URL": "https://youtu.be/s1tAYmMjLdY"
          }
       },
       "Take Off Your Pants and Jacket": {
@@ -503,7 +503,7 @@
          "$list": "black",
          "First Date": {
             "VPY": "13,177,324",
-            "link": "https://youtu.be/vVy9Lgpg1m8"
+            "URL": "https://youtu.be/vVy9Lgpg1m8"
          },
          "Stay Together for the Kids": "",
          "The Rock Show": ""
@@ -514,7 +514,7 @@
          "Adam’s Song": "",
          "All The Small Things": {
             "VPY": "21,774,492",
-            "link": "https://youtu.be/9Ht5RZpzPqw"
+            "URL": "https://youtu.be/9Ht5RZpzPqw"
          },
          "What’s My Age Again?": ""
       }
@@ -526,7 +526,7 @@
          "Orlando": "",
          "Saint": {
             "VPY": "2,214,523",
-            "link": "https://youtu.be/mVH_wxk9ZtE"
+            "URL": "https://youtu.be/mVH_wxk9ZtE"
          },
          "Take Your Time": "short",
          "Hope": "bad",
@@ -713,7 +713,7 @@
          "Everything You Do Is a Balloon": {
             "rate": "good",
             "VPY": "745,274",
-            "link": "https://youtu.be/dQEmaj9C6ko"
+            "URL": "https://youtu.be/dQEmaj9C6ko"
          },
          "Boc Maxima": "short",
          "Nova Scotia Robots": "short",
@@ -771,7 +771,7 @@
          "Kiara": {
             "rate": "good",
             "VPY": "1,668,464",
-            "link": "https://youtu.be/N7m86aMNjlQ"
+            "URL": "https://youtu.be/N7m86aMNjlQ"
          },
          "Kong": "bad",
          "Eyesdown": "good",
@@ -849,7 +849,7 @@
          "$list": "black",
          "I’ll Make Love To You": {
             "VPY": "12,910,607",
-            "link": "https://youtu.be/fV8vB1BB2qc"
+            "URL": "https://youtu.be/fV8vB1BB2qc"
          },
          "On Bended Knee": ""
       },
@@ -858,7 +858,7 @@
          "$list": "black",
          "End Of The Road": {
             "VPY": "13,061,094",
-            "link": "https://youtu.be/zDKO6XYXioc"
+            "URL": "https://youtu.be/zDKO6XYXioc"
          }
       }
    },
@@ -947,7 +947,7 @@
          "The Way It Is": {
             "rate": "good",
             "VPY": "3,449,438",
-            "link": "https://youtu.be/cOeKidp-iWo"
+            "URL": "https://youtu.be/cOeKidp-iWo"
          },
          "Down the Road Tonight": "good",
          "The Wild Frontier": "",
@@ -959,9 +959,9 @@
       "18 Til I Die": {
          "$date": "1996",
          "$list": "black",
-         "Have You Ever Really Loved A Woman?": {
-            "VPY": "7,291,025",
-            "link": "https://youtu.be/hq2KgzKETBw"
+         "Bryan Adams - Have You Ever Really Loved A Woman?": {
+             "URL": "https://youtu.be/hq2KgzKETBw",
+             "VPY": "7,472,945"
          }
       }
    },
@@ -972,7 +972,7 @@
          "Archangel": {
             "rate": "bad",
             "VPY": "96,060",
-            "link": "https://youtu.be/E2qLD9c3Gq4"
+            "URL": "https://youtu.be/E2qLD9c3Gq4"
          },
          "Near Dark": "",
          "Ghost Hardware": "good",
@@ -1050,7 +1050,7 @@
          "Monkey": "",
          "Glycerine": {
             "VPY": "3,384,979",
-            "link": "https://youtu.be/hOllF3TgAsM"
+            "URL": "https://youtu.be/hOllF3TgAsM"
          },
          "Alien": "",
          "X‐Girlfriend": "short",
