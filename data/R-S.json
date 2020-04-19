@@ -404,7 +404,7 @@
          "Moving On": "",
          "Heart": "",
          "Colours": "",
-         "Sea": "",
+         "Sea": "reissue",
          "Daytona": "short",
          "Fever": "good",
          "Hold On": "good",
@@ -415,10 +415,7 @@
          "$list": "white",
          "Elliot": "good",
          "Around You": "",
-         "Montreal": {
-            "VPY": "1,249,261",
-            "URL": "https://youtu.be/UBS6MM05KdY"
-         },
+         "Montreal": "good",
          "Sea": ""
       }
    },
