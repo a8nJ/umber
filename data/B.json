@@ -10,7 +10,7 @@
          "Bad Company": {
             "link": "https://youtu.be/ww5GXbk58R0",
             "rate": "good",
-            "trend": "3,524,989"
+            "VPY": "3,524,989"
          },
          "The Way I Choose": "",
          "Movin’ On": "",
@@ -24,7 +24,7 @@
          "Cruel Summer": {
             "link": "https://youtu.be/l9ml3nyww80",
             "rate": "good",
-            "trend": "5,505,081"
+            "VPY": "5,505,081"
          },
          "Rough Justice": "",
          "King of the Jungle": "",
@@ -62,7 +62,7 @@
          "Oh Yeah": "bad",
          "Laura": {
             "rate": "bad",
-            "trend": "927,413",
+            "VPY": "927,413",
             "link": "https://youtu.be/UznHTBZIa8E"
          },
          "Winter Fields": "",
@@ -125,7 +125,7 @@
          "$date": "2012",
          "$list": "black",
          "Myth": {
-            "trend": "9,745,854",
+            "VPY": "9,745,854",
             "link": "https://youtu.be/3lIyDxfUhxM"
          }
       },
@@ -179,7 +179,7 @@
          "$list": "white",
          "Colors": {
             "rate": "bad",
-            "trend": "4,179,410",
+            "VPY": "4,179,410",
             "link": "https://youtu.be/WRCA_Fo0rWA"
          },
          "Seventh Heaven": "bad",
@@ -234,7 +234,7 @@
          "$date": "1994",
          "$list": "black",
          "Loser": {
-            "trend": "10,576,977",
+            "VPY": "10,576,977",
             "link": "https://youtu.be/YgSPaXgAdzE"
          }
       }
@@ -268,7 +268,7 @@
          "Do Me!": "",
          "Ronnie, Bobby, Ricky, Mike, Ralph and Johnny (Word to the Mutha)!": "",
          "Poison": {
-            "trend": "1,351,460",
+            "VPY": "1,351,460",
             "link": "https://youtu.be/sb2np1HGqxg"
          },
          "Ain’t Nut’in’ Changed!": "",
@@ -291,7 +291,7 @@
          "Gracious": "",
          "Promise": {
             "rate": "good",
-            "trend": "5,103,551",
+            "VPY": "5,103,551",
             "link": "https://youtu.be/CVUOTzoVeZA"
          }
       }
@@ -356,7 +356,7 @@
          "Orca": "",
          "Glue": {
             "rate": "good",
-            "trend": "5,275,555",
+            "VPY": "5,275,555",
             "link": "https://youtu.be/A7ZxRs45tTg"
          },
          "Kites": "",
@@ -383,7 +383,7 @@
          "$date": "2017",
          "$list": "black",
          "All Night": {
-            "trend": "11,499,682",
+            "VPY": "11,499,682",
             "link": "https://youtu.be/QxTgr11ncJo"
          },
          "Kill Jill": ""
@@ -397,7 +397,7 @@
          "Follow Us": "",
          "Shutterbugg": {
             "rate": "good",
-            "trend": "1,237,121",
+            "VPY": "1,237,121",
             "link": "https://youtu.be/rWsvkW6rKkQ"
          },
          "General Patton": "",
@@ -451,7 +451,7 @@
          "The Modern Things": "bad",
          "It’s Oh So Quiet": {
             "rate": "good",
-            "trend": "1,040,474",
+            "VPY": "1,040,474",
             "link": "https://youtu.be/htobTBlCvUU"
          },
          "Enjoy": "bad",
@@ -485,7 +485,7 @@
          "$list": "black",
          "Bored to Death": "",
          "She’s Out of Her Mind": {
-            "trend": "7,762,070",
+            "VPY": "7,762,070",
             "link": "https://youtu.be/krpm0v_486k"
          }
       },
@@ -494,7 +494,7 @@
          "$list": "black",
          "Always": "",
          "I Miss You": {
-            "trend": "21,749,165",
+            "VPY": "21,749,165",
             "link": "https://youtu.be/s1tAYmMjLdY"
          }
       },
@@ -502,7 +502,7 @@
          "$date": "2001",
          "$list": "black",
          "First Date": {
-            "trend": "13,177,324",
+            "VPY": "13,177,324",
             "link": "https://youtu.be/vVy9Lgpg1m8"
          },
          "Stay Together for the Kids": "",
@@ -513,7 +513,7 @@
          "$list": "black",
          "Adam’s Song": "",
          "All The Small Things": {
-            "trend": "21,774,492",
+            "VPY": "21,774,492",
             "link": "https://youtu.be/9Ht5RZpzPqw"
          },
          "What’s My Age Again?": ""
@@ -525,7 +525,7 @@
          "$list": "white",
          "Orlando": "",
          "Saint": {
-            "trend": "2,214,523",
+            "VPY": "2,214,523",
             "link": "https://youtu.be/mVH_wxk9ZtE"
          },
          "Take Your Time": "short",
@@ -712,7 +712,7 @@
          "Rodox Video": "short",
          "Everything You Do Is a Balloon": {
             "rate": "good",
-            "trend": "745,274",
+            "VPY": "745,274",
             "link": "https://youtu.be/dQEmaj9C6ko"
          },
          "Boc Maxima": "short",
@@ -770,7 +770,7 @@
          "Prelude": "short",
          "Kiara": {
             "rate": "good",
-            "trend": "1,668,464",
+            "VPY": "1,668,464",
             "link": "https://youtu.be/N7m86aMNjlQ"
          },
          "Kong": "bad",
@@ -848,7 +848,7 @@
          "$date": "1994",
          "$list": "black",
          "I’ll Make Love To You": {
-            "trend": "12,910,607",
+            "VPY": "12,910,607",
             "link": "https://youtu.be/fV8vB1BB2qc"
          },
          "On Bended Knee": ""
@@ -857,7 +857,7 @@
          "$date": "1991",
          "$list": "black",
          "End Of The Road": {
-            "trend": "13,061,094",
+            "VPY": "13,061,094",
             "link": "https://youtu.be/zDKO6XYXioc"
          }
       }
@@ -946,7 +946,7 @@
          "The Long Race": "",
          "The Way It Is": {
             "rate": "good",
-            "trend": "3,449,438",
+            "VPY": "3,449,438",
             "link": "https://youtu.be/cOeKidp-iWo"
          },
          "Down the Road Tonight": "good",
@@ -960,7 +960,7 @@
          "$date": "1996",
          "$list": "black",
          "Have You Ever Really Loved A Woman?": {
-            "trend": "7,291,025",
+            "VPY": "7,291,025",
             "link": "https://youtu.be/hq2KgzKETBw"
          }
       }
@@ -971,7 +971,7 @@
          "$list": "white",
          "Archangel": {
             "rate": "bad",
-            "trend": "96,060",
+            "VPY": "96,060",
             "link": "https://youtu.be/E2qLD9c3Gq4"
          },
          "Near Dark": "",
@@ -1049,7 +1049,7 @@
          "Testosterone": "",
          "Monkey": "",
          "Glycerine": {
-            "trend": "3,384,979",
+            "VPY": "3,384,979",
             "link": "https://youtu.be/hOllF3TgAsM"
          },
          "Alien": "",

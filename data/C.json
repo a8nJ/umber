@@ -29,7 +29,7 @@
          "Vitamin C": {
             "rate": "good",
             "URL": "https://youtu.be/9a1NhRbNJ_Y",
-            "trend": "183,424"
+            "VPY": "183,424"
          },
          "Soup": "",
          "I’m So Green": "",
@@ -42,7 +42,7 @@
          "$list": "black",
          "Long Way 2 Go": "",
          "Me & U": {
-            "trend": "13,636,105",
+            "VPY": "13,636,105",
             "URL": "https://youtu.be/zVJ5gsLeCSM"
          }
       }
@@ -52,7 +52,7 @@
          "$date": "2014",
          "1998": "",
          "Gold": {
-            "trend": "40,403,436",
+            "VPY": "40,403,436",
             "URL": "https://youtu.be/hi4pzKvuEQM"
          }
       }
@@ -62,7 +62,7 @@
          "$date": "1984",
          "$list": "black",
          "You’re The Inspiration": {
-            "trend": "7,406,342",
+            "VPY": "7,406,342",
             "URL": "https://youtu.be/wM-XhQeFzW4"
          }
       },
@@ -74,7 +74,7 @@
          "Skin Tight": "",
          "If You Leave Me Now": {
             "rate": "good",
-            "trend": "1,030,105",
+            "VPY": "1,030,105",
             "URL": "https://youtu.be/j1ykMNtzMT8"
          },
          "Together Again": "",
@@ -136,7 +136,7 @@
          "No Ordinary Morning": "bad",
          "Saltwater (original mix)": {
             "rate": "good",
-            "trend": "2,624,489",
+            "VPY": "2,624,489",
             "URL": "https://youtu.be/ET1-6Bef9xU"
          },
          "Halcyon": "bad",
@@ -168,7 +168,7 @@
          "$list": "black",
          "Me and Your Mama": "",
          "Redbone": {
-            "trend": "130,783,298",
+            "VPY": "130,783,298",
             "URL": "https://youtu.be/Kp7eSUU9oy8"
          }
       },
@@ -177,7 +177,7 @@
          "$list": "black",
          "3005": "",
          "Sweatpants": {
-            "trend": "25,128,289",
+            "VPY": "25,128,289",
             "URL": "https://youtu.be/ExVtrghW5Y4"
          },
          "Telegraph Ave": ""
@@ -205,7 +205,7 @@
          "$date": "1989",
          "$list": "black",
          "Wicked Game": {
-            "trend": "9,828,608",
+            "VPY": "9,828,608",
             "URL": "https://youtu.be/ib6VAJbEBjg"
          }
       },
@@ -230,7 +230,7 @@
          "$date": "2010",
          "$list": "black",
          "Ride": {
-            "trend": "19,725,835",
+            "VPY": "19,725,835",
             "URL": "https://youtu.be/wl2NCXzg1FQ"
          }
       }
@@ -273,7 +273,7 @@
          "Fifty-Fifty Clown": "bad",
          "Heaven or Las Vegas": {
             "rate": "bad",
-            "trend": "202,206",
+            "VPY": "202,206",
             "URL": "https://youtu.be/6KnYw4EwYGc"
          },
          "I Wear Your Ring": "",
@@ -379,7 +379,7 @@
          "$date": "2002",
          "$list": "black",
          "The Scientist": {
-            "trend": "80,172,619",
+            "VPY": "80,172,619",
             "URL": "https://youtu.be/RB-RcX5DS5A"
          }
       }
@@ -394,7 +394,7 @@
          "Isostasy": "",
          "Memory": "",
          "Propagation": {
-            "trend": "812,858",
+            "VPY": "812,858",
             "URL": "https://youtu.be/3uI9Hh26OTs"
          },
          "Vacuume": "",
@@ -458,7 +458,7 @@
          "Damascus": "short",
          "Center of the Sun": "",
          "Tears From the Moon": {
-            "trend": "163,821",
+            "VPY": "163,821",
             "URL": "https://youtu.be/4w0hHxrj7do"
          },
          "Tidal Pool": "good",
@@ -490,7 +490,7 @@
          "$date": "1993",
          "$list": "black",
          "Mr. Jones": {
-            "trend": "13,704,250",
+            "VPY": "13,704,250",
             "URL": "https://youtu.be/-oqAU5VxFWs"
          }
       }
@@ -520,7 +520,7 @@
          "The Unbearable Lightness of Being": "",
          "Heartbreaker": {
             "rate": "good",
-            "trend": "162,899",
+            "VPY": "162,899",
             "URL": "https://youtu.be/Ph5psMQoirU"
          },
          "Twisted": "",

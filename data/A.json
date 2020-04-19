@@ -82,7 +82,7 @@
          "Edit": "short",
          "Black Jesus": {
             "rate": "bad",
-            "trend": "10,137",
+            "VPY": "10,137",
             "URL": "https://youtu.be/A6S_vJ7G0R0"
          },
          "All Aboard": "bad",
@@ -124,7 +124,7 @@
          "$date": "1997",
          "$list": "black",
          "Hole in My Soul": {
-            "trend": "7,324,282",
+            "VPY": "7,324,282",
             "URL": "https://youtu.be/HaC0s-FP-r4"
          }
       },
@@ -133,7 +133,7 @@
          "$list": "black",
          "Amazing": "",
          "Crazy": {
-            "trend": "50,729,923",
+            "VPY": "50,729,923",
             "URL": "https://youtu.be/NMNgbISmF4I"
          },
          "Livin’ on the Edge": ""
@@ -142,7 +142,7 @@
          "$date": "1989",
          "$list": "black",
          "Cryin’": {
-            "trend": "23,633,799",
+            "VPY": "23,633,799",
             "URL": "https://youtu.be/qfNmyxV2Ncw"
          },
          "Janie’s Got a Gun": "",
@@ -152,7 +152,7 @@
          "$date": "1987",
          "$list": "black",
          "Angel": {
-            "trend": "10,621,283",
+            "VPY": "10,621,283",
             "URL": "https://youtu.be/CBTOGVb_cQg"
          },
          "Dude": "",
@@ -162,7 +162,7 @@
          "$date": "1975",
          "$list": "black",
          "Walk This Way": {
-            "trend": "7,394,905",
+            "VPY": "7,394,905",
             "URL": "https://youtu.be/4B_UYYPb-Gk"
          }
       },
@@ -170,7 +170,7 @@
          "$date": "1973",
          "$list": "black",
          "Dream On": {
-            "trend": "8,369,719",
+            "VPY": "8,369,719",
             "URL": "https://youtu.be/O0oQCmnvvl0"
          }
       }
@@ -250,7 +250,7 @@
          "Biological": "",
          "Alone in Kyoto": {
             "rate": "good",
-            "trend": "1,402,647",
+            "VPY": "1,402,647",
             "URL": "https://youtu.be/XUjAtYQkFm8"
          },
          "Easy Going Woman": ""
@@ -301,7 +301,7 @@
          "$date": "1989",
          "$list": "black",
          "Black Velvet": {
-            "trend": "9,350,914",
+            "VPY": "9,350,914",
             "URL": "https://youtu.be/tT4d1LQy4es"
          }
       }
@@ -379,7 +379,7 @@
          "$date": "2001",
          "$list": "black",
          "Fallin’": {
-            "trend": "17,037,786",
+            "VPY": "17,037,786",
             "URL": "https://youtu.be/Urdlvw0SSEc"
          }
       }
@@ -408,7 +408,7 @@
          "Children": "",
          "A Horse With No Name": {
             "rate": "good",
-            "trend": "4,145,926",
+            "VPY": "4,145,926",
             "URL": "https://youtu.be/zSAJ0l4OBHM"
          },
          "Here": "",
@@ -529,7 +529,7 @@
          "Good for Me": "",
          "Baby Baby": {
             "rate": "good",
-            "trend": "857,822",
+            "VPY": "857,822",
             "URL": "https://youtu.be/vMXuuYnoRdI"
          },
          "Every Heartbeat": "",
@@ -750,7 +750,7 @@
          "$date": "2005",
          "$list": "black",
          "Be Yourself": {
-            "trend": "13,995,809",
+            "VPY": "13,995,809",
             "URL": "https://youtu.be/WC5FdFlUcl0"
          },
          "Yesterday to Tomorrow": ""
@@ -760,7 +760,7 @@
          "$list": "black",
          "Cochise": "",
          "Like a Stone": {
-            "trend": "47,408,565",
+            "VPY": "47,408,565",
             "URL": "https://youtu.be/7QU1nvuxaMA"
          },
          "Show Me How to Live": "",
@@ -903,7 +903,7 @@
          "Outpt": "",
          "Dropp": {
             "rate": "good",
-            "trend": "111,359",
+            "VPY": "111,359",
             "URL": "https://youtu.be/hWGUnrIiOoI"
          },
          "Liccflii": "",
