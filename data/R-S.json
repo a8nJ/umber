@@ -136,11 +136,11 @@
       "Evil Empire": {
          "$date": "1996",
          "$list": "white",
-         "People of the Sun": "short",
-         "Bulls On Parade": {
+         "People of the Sun": "good",
+         "Rage Against The Machine - Bulls On Parade (Official Music Video)": {
             "rate": "good",
-            "VPY": "5,727,863",
-            "URL": "https://youtu.be/3L4YrGaR8E4"
+            "URL": "https://youtu.be/3L4YrGaR8E4",
+            "VPY": "6,106,169"
          },
          "Vietnow": "",
          "Revolver": "",
@@ -155,9 +155,9 @@
       "Rage Against the Machine": {
          "$date": "1992",
          "$list": "black",
-         "Killing In the Name": {
-            "VPY": "12,597,100",
-            "URL": "https://youtu.be/bWXazVhlyxQ"
+         "Rage Against The Machine - Killing In the Name": {
+             "URL": "https://youtu.be/bWXazVhlyxQ",
+             "VPY": "13,750,808"
          },
          "Know Your Enemy": "",
          "Take the Power Back": ""

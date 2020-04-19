@@ -732,7 +732,7 @@
          "$list": "white",
          "Xtal": "good",
          "Tha": "good",
-         "Pulsewidth": "",
+         "Pulsewidth": "good",
          "Ageispolis": "good",
          "i": "short",
          "Green Calx": "",
@@ -744,7 +744,7 @@
          "Delphium": "",
          "Actium": ""
       }
-   }
+   },
    "Audioslave": {
       "Out of Exile": {
          "$date": "2005",

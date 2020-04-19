@@ -38,18 +38,18 @@
          "Undimmed by Time, Unbound by Death": "short",
          "Oblivion": {
             "rate": "good",
-            "trend": "2,746,085",
+            "VPY": "2,746,085",
             "URL": "https://youtu.be/1mkUp1V3ys0"
          }
       },
       "Hurry Up, We’re Dreaming": {
          "$date": "2011",
          "Midnight City": {
-            "trend": "33,682,222",
+            "VPY": "33,682,222",
             "URL": "https://youtu.be/dX3k_QDnzHE"
          },
          "Wait": {
-            "trend": "11,009,599",
+            "VPY": "11,009,599",
             "URL": "https://youtu.be/lAwYodrBr2Q"
          }
       },
@@ -139,7 +139,7 @@
       "Rebel Heart": {
          "$date": "2015",
          "Bitch I’m Madonna": {
-            "trend": "76,830,661",
+            "VPY": "76,830,661",
             "URL": "https://youtu.be/7hPMmzKs62w"
          },
          "Ghosttown": ""
@@ -148,14 +148,14 @@
          "$date": "2012",
          "Girl Gone Wild": "",
          "Give Me All Your Luvin’": {
-            "trend": "10,108,542",
+            "VPY": "10,108,542",
             "URL": "https://youtu.be/cItHOl5LRWg"
          }
       },
       "Hard Candy": {
          "$date": "2008",
          "4 Minutes": {
-            "trend": "7,832,501",
+            "VPY": "7,832,501",
             "URL": "https://youtu.be/aAQZPBwz2CI"
          },
          "Give It 2 Me": ""
@@ -163,7 +163,7 @@
       "Confessions on a Dance Floor": {
          "$date": "2005",
          "Hung Up": {
-            "trend": "19,991,409",
+            "VPY": "19,991,409",
             "URL": "https://youtu.be/EDwb9jOVRtU"
          }
       },
@@ -185,7 +185,7 @@
       "Ray of Light": {
          "$date": "1998",
          "Frozen": {
-            "trend": "8,438,434",
+            "VPY": "8,438,434",
             "URL": "https://youtu.be/SKEFN9XNlyY"
          }
       },
@@ -209,7 +209,7 @@
          "Survival": "",
          "Secret": {
             "rate": "good",
-            "trend": "1,638,276",
+            "VPY": "1,638,276",
             "URL": "https://youtu.be/EPHUZenprKc"
          },
          "I’d Rather Be Your Lover": "",
@@ -231,21 +231,21 @@
       "I’m Breathless": {
          "$date": "1990-05-21",
          "Vogue": {
-            "trend": "9,981,092",
+            "VPY": "9,981,092",
             "URL": "https://youtu.be/GuJQSAiODqI"
          }
       },
       "Like a Prayer": {
          "$date": "1989",
          "Like a Prayer": {
-            "trend": "7,876,757",
+            "VPY": "7,876,757",
             "URL": "https://youtu.be/79fzeNUqQbQ"
          }
       },
       "True Blue": {
          "$date": "1986",
          "La Isla Bonita": {
-            "trend": "17,047,985",
+            "VPY": "17,047,985",
             "URL": "https://youtu.be/zpzdgmqIHOQ"
          },
          "Live to Tell": "",
@@ -256,7 +256,7 @@
          "Dress You Up": "",
          "Like a Virgin": "",
          "Material Girl": {
-            "trend": "18,223,354",
+            "VPY": "18,223,354",
             "URL": "https://youtu.be/6p-lDYPR2P8"
          }
       }
@@ -291,7 +291,7 @@
          "Kissing the Day": "bad",
          "Beautiful": {
             "rate": "bad",
-            "trend": "55,963",
+            "VPY": "55,963",
             "URL": "https://youtu.be/ie-0hEReVfU"
          },
          "About You": "bad"
@@ -300,7 +300,7 @@
    "Mariah Carey": {
       "Memoirs of an Imperfect Angel": {
          "I Want To Know What Love Is": {
-            "trend": "13,849,877",
+            "VPY": "13,849,877",
             "URL": "https://youtu.be/gCadlN8fexk"
          },
          "Obsessed": "",
@@ -309,7 +309,7 @@
       "E=MC²": {
          "Bye Bye": "",
          "Touch My Body": {
-            "trend": "17,998,651",
+            "VPY": "17,998,651",
             "URL": "https://youtu.be/9b8erWuBA44"
          },
          "$date": "2008"
@@ -317,14 +317,14 @@
       "The Emancipation of Mimi": {
          "Don’t Forget About Us": "",
          "We Belong Together": {
-            "trend": "37,118,971",
+            "VPY": "37,118,971",
             "URL": "https://youtu.be/0habxsuXW4g"
          },
          "$date": "2005"
       },
       "Butterfly": {
          "My All": {
-            "trend": "13,670,261",
+            "VPY": "13,670,261",
             "URL": "https://youtu.be/mIhI23gBBPQ"
          },
          "$date": "1997"
@@ -332,21 +332,21 @@
       "Daydream": {
          "$date": "1995",
          "Always Be My Baby": {
-            "trend": "15,209,697",
+            "VPY": "15,209,697",
             "URL": "https://youtu.be/LfRNRymrv9k"
          },
         "Fantasy": ""
       },
       "Merry Christmas": {
          "All I Want For Christmas Is You": {
-            "trend": "57,340,677",
+            "VPY": "57,340,677",
             "URL": "https://youtu.be/yXQViqx6GMY"
          },
          "$date": "1994"
       },
       "Music Box": {
          "Hero": {
-            "trend": "23,152,721",
+            "VPY": "23,152,721",
             "URL": "https://youtu.be/0IA3ZvCkRkQ"
          },
          "Without You": "",
@@ -444,7 +444,7 @@
          "Five Man Army": "good",
          "Unfinished Sympathy": {
             "rate": "good",
-            "trend": "4,638,845",
+            "VPY": "4,638,845",
             "URL": "https://youtu.be/ZWmrfgj0MZI"
          },
          "Daydreaming": "bad",
@@ -455,7 +455,7 @@
    "Matchbox Twenty": {
       "Yourself or Someone Like You": {
          "3AM": {
-            "trend": "7,795,321",
+            "VPY": "7,795,321",
             "URL": "https://youtu.be/C-Naa1HXeDQ"
          }
       }
@@ -525,7 +525,7 @@
       "Only You EP": {
          "Only You": {
             "rate": "good",
-            "trend": "70,150",
+            "VPY": "70,150",
             "URL": "https://youtu.be/E_2NenYDKf8"
          },
          "Bounce": "",
@@ -542,14 +542,14 @@
    "Metallica": {
       "Hardwired… to Self‐Destruct": {
          "Hardwired": {
-            "trend": "16,477,818",
+            "VPY": "16,477,818",
             "URL": "https://youtu.be/uhBHL3v4d3I"
          },
          "$date": "2016"
       },
       "Garage Inc.": {
          "Whiskey In The Jar": {
-            "trend": "8,977,938",
+            "VPY": "8,977,938",
             "URL": "https://youtu.be/boanuwUMNNQ"
          },
          "$date": "1998"
@@ -566,7 +566,7 @@
          "Poor Twisted Me": "",
          "Wasting My Hate": "",
          "Mama Said": {
-            "trend": "4,496,692",
+            "VPY": "4,496,692",
             "URL": "https://youtu.be/4FKYsUEuvIo"
          },
          "Thorn Within": "",
@@ -577,7 +577,7 @@
       "Metallica (Black Album)": {
          "Enter Sandman": "",
          "Nothing Else Matters": {
-            "trend": "62,983,387",
+            "VPY": "62,983,387",
             "URL": "https://youtu.be/tAGnKpE4NCI"
          },
          "The Unforgiven": "",
@@ -586,21 +586,21 @@
       },
       "and Justice for All": {
          "One": {
-            "trend": "13,564,332",
+            "VPY": "13,564,332",
             "URL": "https://youtu.be/EzgGTTtR0kc"
          },
          "$date": "1988"
       },
       "Master of Puppets": {
          "Master Of Puppets": {
-            "trend": "13,322,313",
+            "VPY": "13,322,313",
             "URL": "https://youtu.be/xnKhsTXoKCI"
          },
          "$date": "1986"
       },
       "Ride the Lightning": {
          "Fade to Black": {
-            "trend": "9,485,401",
+            "VPY": "9,485,401",
             "URL": "https://youtu.be/WEQnzs8wl6E"
          },
          "For Whom the Bell Tolls": "",
@@ -610,7 +610,7 @@
    "MEUTE": {
       "You & Me": {
          "You & Me": {
-            "trend": "21,209,713",
+            "VPY": "21,209,713",
             "URL": "https://youtu.be/fKFbnhcNnjE"
          },
          "$date": "2018"
@@ -624,7 +624,7 @@
          "Kerberos": "",
          "Mental Help": "",
          "REJ": {
-            "trend": "814,388",
+            "VPY": "814,388",
             "URL": "https://youtu.be/DtKdqwRC07A"
          },
          "Acamar": "",
@@ -635,7 +635,7 @@
    "Michael Bublé": {
       "It’s Time": {
          "Feeling Good": {
-            "trend": "11,271,894",
+            "VPY": "11,271,894",
             "URL": "https://youtu.be/Edwsf-8F3sI"
          }
       }
@@ -643,21 +643,21 @@
    "Michael Jackson": {
       "Xscape": {
          "Slave To The Rhythm": {
-            "trend": "13,740,849",
+            "VPY": "13,740,849",
             "URL": "https://youtu.be/jDRTghGZ7XU"
          },
          "$date": "2014"
       },
       "Michael": {
          "Hold My Hand": {
-            "trend": "11,633,050",
+            "VPY": "11,633,050",
             "URL": "https://youtu.be/-oCCnxBos10"
          },
          "$date": "2010"
       },
       "Invincible": {
          "You Rock My World": {
-            "trend": "15,017,917",
+            "VPY": "15,017,917",
             "URL": "https://youtu.be/1-7ABIM2qjU"
          },
          "$date": "2001"
@@ -681,7 +681,7 @@
       },
       "Off the Wall": {
          "Don’t Stop ’Til You Get Enough": {
-            "trend": "21,897,798",
+            "VPY": "21,897,798",
             "URL": "https://youtu.be/yURRmWtbTbo"
          },
          "$date": "1979"
@@ -692,7 +692,7 @@
          "Playin’ by the Rules": "",
          "I Keep Forgettin’": {
             "rate": "good",
-            "trend": "1,474,782",
+            "VPY": "1,474,782",
             "URL": "https://youtu.be/cjqOsYRQI0o"
          },
          "Love Lies": "",
@@ -732,7 +732,7 @@
          "Find My Baby": "",
          "porcelain": {
             "rate": "good",
-            "trend": "2,541,264",
+            "VPY": "2,541,264",
             "URL": "https://youtu.be/QhZnEagfjTQ"
          },
          "Why Does My Heart Feel So Bad?": "",
@@ -759,7 +759,7 @@
          "March Into the Sea": "bad",
          "Dashboard": {
             "rate": "bad",
-            "trend": "1,579,646",
+            "VPY": "1,579,646",
             "URL": "https://youtu.be/penvn9VL32Y"
          },
          "Fire It Up": "bad",
@@ -778,7 +778,7 @@
       "Good News for People Who Love Bad News": {
          "$date": "2004",
          "Float On": {
-            "trend": "7,530,975",
+            "VPY": "7,530,975",
             "URL": "https://youtu.be/CTAud5O7Qqk"
          },
          "Ocean Breathes Salty": ""
@@ -822,7 +822,7 @@
          "A Drop in the Ocean": "short",
          "Dumb Inc.": "",
          "The Time Is Now": {
-            "trend": "1,492,925",
+            "VPY": "1,492,925",
             "URL": "https://youtu.be/kl8mpAvTm_Y"
          },
          "Mother": "",
@@ -840,7 +840,7 @@
    "Montell Jordan": {
       "This Is How We Do It": {
          "This Is How We Do It": {
-            "trend": "10,267,590",
+            "VPY": "10,267,590",
             "URL": "https://youtu.be/0hiUuL5uTKc"
          }
       }
@@ -848,7 +848,7 @@
    "Mr Mister": {
       "Welcome to the Real World": {
          "Broken Wings": {
-            "trend": "14,062,770",
+            "VPY": "14,062,770",
             "URL": "https://youtu.be/nKhN1t_7PEY"
          }
       }
@@ -856,7 +856,7 @@
    "μ‐Ziq": {
       "Lunatic Harness": {
          "Brace Yourself Jason": {
-            "trend": "27,477",
+            "VPY": "27,477",
             "URL": "https://youtu.be/UN_9nB37O_U"
          },
          "Hasty Boom Alert": "good",
