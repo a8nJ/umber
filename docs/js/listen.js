@@ -1,7 +1,7 @@
 'use strict';
 const gei = s1 => document.getElementById(s1);
 const path = 'https://github.com/muv1/umber/releases/download';
-const s_json = '/umber/umber.json';
+const s_json = '../umber.json';
 
 fetch(s_json).
 then(resp => resp.json()).
