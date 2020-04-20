@@ -1246,6 +1246,20 @@
       }
    },
    "Jessy Lanza": {
+      "Oh No": {
+          "$date": "2016-05-13",
+          "$list": "white",
+          "New Ogi": "short",
+          "VV Violence": "bad",
+          "Never Enough": "bad",
+          "I Talk BB": "good",
+          "Going Somewhere": "",
+          "It Means I Love You": "",
+          "Vivica": "",
+          "Oh No": "",
+          "Begins": "",
+          "Could Be U": ""
+      },
       "You Never Show Your Love": {
          "$date": "2015",
          "$list": "white",
@@ -1259,10 +1273,7 @@
          "$list": "white",
          "Giddy": "",
          "5785021": "",
-         "Kathy Lee": {
-            "VPY": "112,282",
-            "URL": "https://youtu.be/ZF2lZesYZo0"
-         },
+         "Kathy Lee": "",
          "Fuck Diamond": "",
          "Keep Moving": "",
          "Against the Wall": "",
