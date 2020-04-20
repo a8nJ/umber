@@ -1,6 +1,6 @@
 'use strict';
 
-export const u_soundcloud = function (song) {
+export const f_soundcloud = function (song) {
    const aurl = new URL('https://w.soundcloud.com');
    aurl.pathname = 'player';
    aurl.hash = song.title;

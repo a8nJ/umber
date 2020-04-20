@@ -1,6 +1,6 @@
 'use strict';
 
-export const u_bandcamp = function (song) {
+export const f_bandcamp = function (song) {
    const o_a = new URL('https://bandcamp.com');
    // case sensitive
    o_a.pathname = 'EmbeddedPlayer';

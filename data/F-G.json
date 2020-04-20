@@ -402,10 +402,7 @@
       "There Is Love in You": {
          "$date": "2010",
          "$list": "white",
-         "Angel Echoes": {
-            "VPY": "281,677",
-            "URL": "https://youtu.be/Tpe4id7cLnU"
-         },
+         "Angel Echoes": "",
          "Love Cry": "",
          "Circling": "",
          "Pablo’s Heart": "short",
@@ -428,6 +425,20 @@
          "Ribbons": "good",
          "Swimmer": "good",
          "Wing Body Wing": "bad"
+      },
+      "Everything Ecstatic": {
+          "$date": "2005-05-23",
+          "$list": "white",
+          "A Joy": "bad",
+          "Smile Around the Face": "bad",
+          "Fuji Check": "short",
+          "Sun Drums and Soil": "bad",
+          "Clouding": "short",
+          "And Then Patterns": "bad",
+          "High Fives": "bad",
+          "Turtle Turtle Up": "short",
+          "Sleep, Eat Food, Have Visions": "",
+          "You Were There With Me": ""
       },
       "Rounds": {
          "$date": "2003",

@@ -1,10 +1,10 @@
 'use strict';
-import {u_bandcamp} from './bandcamp.js';
+import {f_bandcamp} from './bandcamp.js';
 import {f_github} from './github.js';
-import {u_soundcloud} from './soundcloud.js';
+import {f_soundcloud} from './soundcloud.js';
 import {f_youtube} from './youtube.js';
 
-function u_figu(a_song) {
+function f_figu(a_song) {
    const e_a = document.createElement('a');
    const e_figc = document.createElement('figcaption');
    const e_figu = document.createElement('figure');
@@ -19,9 +19,9 @@ function u_figu(a_song) {
    m_song.url2 = a_host[2];
    m_song.title = a_song[3];
    const a_link = {
-      b: u_bandcamp(m_song),
+      b: f_bandcamp(m_song),
       g: f_github(m_song),
-      s: u_soundcloud(m_song),
+      s: f_soundcloud(m_song),
       y: f_youtube(m_song)
    }[m_song.site];
    e_a.href = a_link[0];
@@ -42,19 +42,19 @@ const n_step = 12;
 // level 1
 const n_begin = (n_page - 1) * n_step;
 const n_end = n_begin + n_step - 1;
-const s_json = '../umber.json';
+const s_json = 'umber.json';
 const s_query = o_par.has('q') ? o_par.get('q') : '';
-const u_elem = s1 => document.getElementById(s1);
+const f_elem = s1 => document.getElementById(s1);
 
 // "p" could be "1" implicitly or explicitly
 if (n_page == 1) {
-   u_elem('newer').remove();
+   f_elem('newer').remove();
 } else {
    o_par.set('p', n_page - 1);
-   u_elem('newer').href = '?' + o_par;
+   f_elem('newer').href = '?' + o_par;
 }
 
-function u_in(s1, s2) {
+function f_in(s1, s2) {
    // both sides of the test can contain uppercase on mobile
    return s1.toLowerCase().includes(s2.toLowerCase());
 }
@@ -63,10 +63,10 @@ fetch(s_json).then(o_resp => o_resp.json()).then(a_data => {
    let n_cur = 0;
    for (const a_rec of a_data) {
       // value match - move the cursor
-      if (u_in(a_rec[1] + a_rec[3], s_query)) {
+      if (f_in(a_rec[1] + a_rec[3], s_query)) {
          // index match - add to DOM
          if (n_cur >= n_begin && n_cur <= n_end) {
-            u_elem('figures').append(u_figu(a_rec));
+            f_elem('figures').append(f_figu(a_rec));
          }
          n_cur++;
       }
@@ -76,8 +76,8 @@ fetch(s_json).then(o_resp => o_resp.json()).then(a_data => {
    }
    if (n_cur > n_end) {
       o_par.set('p', n_page + 1);
-      u_elem('older').href = '?' + o_par;
+      f_elem('older').href = '?' + o_par;
    } else {
-      u_elem('older').remove();
+      f_elem('older').remove();
    }
 });
