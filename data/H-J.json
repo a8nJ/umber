@@ -366,7 +366,7 @@
           "The Walk": "",
           "Just for Now": "",
           "I Am in Love With You": "",
-          "Closing In": "",
+          "Closing In": "good",
           "The Moment I Said It": ""
       },
       "i Megaphone": {
@@ -379,8 +379,8 @@
          "Whatever": "bad",
          "Angry Angel": "bad",
          "Candlelight": "good",
-         "Rake It In": "",
-         "Come Here Boy": "",
+         "Rake It In": "bad",
+         "Come Here Boy": "bad",
          "Useless": "",
          "Sleep": ""
       }
