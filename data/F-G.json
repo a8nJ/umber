@@ -783,7 +783,7 @@
          "$date": "2008",
          "$list": "white",
          "Clowns": "good",
-         "Little Bird": "",
+         "Little Bird": "good",
          "Happiness": "",
          "Road to Somewhere": "",
          "Eat Yourself": "",
@@ -796,11 +796,7 @@
       "Supernature": {
          "$date": "2005",
          "$list": "white",
-         "Ooh La La": {
-            "rate": "good",
-            "VPY": "1,063,979",
-            "URL": "https://youtu.be/uco-2V4ytYQ"
-         },
+         "Ooh La La": "good",
          "Lovely 2 C U": "good",
          "Ride a White Horse": "good",
          "You Never Know": "bad",
@@ -1052,8 +1048,8 @@
          "The Hunt": "bad",
          "A Simple Answer": "bad",
          "What’s Wrong?": "bad",
-         "Gun-Shy": "",
-         "Half Gate": "",
+         "Gun-Shy": "bad",
+         "Half Gate": "bad",
          "Sun in Your Eyes": "",
          "Smothering Green": "",
          "Taken Down (Marfa demo)": "",
@@ -1065,11 +1061,7 @@
          "$date": "2009",
          "$list": "white",
          "Southern Point": "good",
-         "Two Weeks": {
-            "rate": "good",
-            "VPY": "1,349,230",
-            "URL": "https://youtu.be/tjecYugTbIQ"
-         },
+         "Two Weeks": "good",
          "All We Ask": "bad",
          "Fine for Now": "good",
          "Cheerleader": "bad",
