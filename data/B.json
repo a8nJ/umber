@@ -37,6 +37,20 @@
       }
    },
    "Bat for Lashes": {
+      "Lost Girls": {
+          "$date": "2019-09-06",
+          "$list": "white",
+          "Kids in the Dark": "good",
+          "The Hunger": "",
+          "Feel for You": "",
+          "Desert Man": "",
+          "Jasmine": "short",
+          "Vampires": "",
+          "So Good": "",
+          "Safe Tonight": "",
+          "Peach Sky": "",
+          "Mountains": ""
+      },
       "The Bride": {
          "$date": "2016",
          "$list": "white",
@@ -60,11 +74,7 @@
          "All Your Gold": "bad",
          "Horses of the Sun": "bad",
          "Oh Yeah": "bad",
-         "Laura": {
-            "rate": "bad",
-            "VPY": "927,413",
-            "URL": "https://youtu.be/UznHTBZIa8E"
-         },
+         "Laura": "bad",
          "Winter Fields": "",
          "The Haunted Man": "",
          "Marilyn": "",
@@ -570,10 +580,10 @@
          "Chamakay": "good",
          "You’re Not Good Enough": "good",
          "Uncle ACE": "good",
-         "No Right Thing": "",
+         "No Right Thing": "bad",
          "It Is What It Is": "good",
          "Chosen": "good",
-         "Clipped On": "",
+         "Clipped On": "bad",
          "Always Let U Down": "good",
          "On the Line": "good",
          "High Street": "short",
@@ -589,9 +599,9 @@
          "S’cooled": "good",
          "Complete Failure": "bad",
          "Instantly Blank (The Goodness)": "short",
-         "The Complete Knock": "",
-         "Are You Sure You’re Really Busy?": "",
-         "Champagne Coast": ""
+         "The Complete Knock": "bad",
+         "Are You Sure You’re Really Busy?": "bad",
+         "Champagne Coast": "bad"
       },
       "Blood Orange": {
          "$date": "2010",

@@ -49,8 +49,8 @@
          "Cosa": "good",
          "Tumbleweed": "good",
          "Carborante": "good",
-         "The Flying Nun": "",
-         "The Last of the West": ""
+         "The Flying Nun": "bad",
+         "The Last of the West": "good"
       },
       "Electric Lazyland": {
          "$date": "1994",

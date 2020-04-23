@@ -988,18 +988,34 @@
    },
    "JAWS": {
       "Simplicity": {
-         "$list": "white",
-         "Just a Boy": "bad",
-         "What We Haven’t Got Yet": "good",
-         "Right in Front of Me": "good",
-         "17": "good",
-         "Cast": "good",
-         "Interlude": "short",
-         "On the Sunshine": "",
-         "Work It Out": "",
-         "In the Morning": "",
-         "A Brief Escape From Life": "",
-         "The Invisible Sleep": ""
+          "$date": "2016-11-04",
+          "$list": "white",
+          "Just a Boy": "bad",
+          "What We Haven't Got Yet": "good",
+          "Right in Front of Me": "good",
+          "17": "good",
+          "Cast": "good",
+          "Interlude": "short",
+          "On the Sunshine": "",
+          "Work It Out": "",
+          "In the Morning": "",
+          "A Brief Escape From Life": "",
+          "The Invisible Sleep": ""
+      },
+      "Be Slowly": {
+          "$date": "2014-09-15",
+          "$list": "white",
+          "Time": "bad",
+          "Cameron": "",
+          "Gold": "",
+          "Swim": "",
+          "Home": "",
+          "Be Slowly": "short",
+          "Think Too Much, Feel Too Little": "",
+          "Filth": "",
+          "Sunset State": "",
+          "Surround You": "",
+          "NYE": ""
       }
    },
    "Jay-Z": {

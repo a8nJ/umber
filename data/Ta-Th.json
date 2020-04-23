@@ -1296,6 +1296,23 @@
       }
    },
    "Thievery Corporation": {
+      "Saudade": {
+          "$date": "2014-04-01",
+          "$list": "white",
+          "Décollage": "good",
+          "Meu Nêgo": "",
+          "Quem Me Leva": "",
+          "Firelight": "",
+          "Sola in Citta": "short",
+          "No More Disguise": "",
+          "Saudade": "short",
+          "Claridad": "",
+          "Nós Dois": "",
+          "Le Coeur": "",
+          "Para Sempre": "short",
+          "Bateau Rouge": "",
+          "Depth of My Soul": ""
+      },
       "Culture of Fear": {
          "$date": "2011",
          "$list": "white",
