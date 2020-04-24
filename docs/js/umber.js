@@ -18,12 +18,14 @@ function f_figu(a_song) {
    m_song.url1 = a_host[1];
    m_song.url2 = a_host[2];
    m_song.title = a_song[3];
+
    const a_link = {
       b: f_bandcamp(m_song),
       g: f_github(m_song),
       s: f_soundcloud(m_song),
       y: f_youtube(m_song)
    }[m_song.site];
+
    e_a.href = a_link[0];
    e_img.src = a_link[1];
    e_figc.textContent = m_song.title;
@@ -56,14 +58,17 @@ if (n_page == 1) {
 
 function f_in(s1, s2) {
    // both sides of the test can contain uppercase on mobile
-   return s1.toLowerCase().includes(s2.toLowerCase());
+   const s_find = s2.toLowerCase();
+   return s1.toLowerCase().includes(s_find);
 }
 
 fetch(s_json).then(o_resp => o_resp.json()).then(a_data => {
    let n_cur = 0;
    for (const a_rec of a_data) {
+      const n_year = a_rec[1];
+      const s_song = a_rec[3];
       // value match - move the cursor
-      if (f_in(a_rec[1] + a_rec[3], s_query)) {
+      if (f_in(n_year + s_song, s_query)) {
          // index match - add to DOM
          if (n_cur >= n_begin && n_cur <= n_end) {
             f_elem('figures').append(f_figu(a_rec));
