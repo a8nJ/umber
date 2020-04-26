@@ -544,6 +544,7 @@
       }
    },
    "Aphex Twin": {
+      "$check": "2020-04-26",
       "Syro": {
          "$date": "2014",
          "$list": "white",
@@ -735,8 +736,8 @@
          "Pulsewidth": "good",
          "Ageispolis": "good",
          "i": "short",
-         "Green Calx": "",
-         "Heliosphan": "",
+         "Green Calx": "bad",
+         "Heliosphan": "good",
          "We Are the Music Makers": "",
          "Schottkey 7th Path": "",
          "Ptolemy": "",

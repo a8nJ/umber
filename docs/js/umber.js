@@ -44,7 +44,7 @@ const n_step = 12;
 // level 1
 const n_begin = (n_page - 1) * n_step;
 const n_end = n_begin + n_step - 1;
-const s_json = '/umber.json';
+const s_json = '/umber/umber.json';
 const s_query = o_par.has('q') ? o_par.get('q') : '';
 const f_elem = s1 => document.getElementById(s1);
 

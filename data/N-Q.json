@@ -826,11 +826,11 @@
          "Propane Nightmares": "bad",
          "Visions": "bad",
          "Midnight Runner": "bad",
-         "The Other Side": "",
-         "Mutiny": "",
-         "9,000 Miles": "",
-         "Granite": "",
-         "The Tempest": ""
+         "The Other Side": "bad",
+         "Mutiny": "bad",
+         "9,000 Miles": "bad",
+         "Granite": "bad",
+         "The Tempest": "bad"
       },
       "Hold Your Colour": {
          "$date": "2005",

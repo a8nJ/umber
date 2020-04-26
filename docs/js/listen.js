@@ -29,7 +29,7 @@ function f_track(a_track) {
 const s_v = new URLSearchParams(location.search).get('v');
 const n_v = +(s_v);
 const s_path = 'https://github.com/muv1/umber/releases/download';
-const s_json = '/umber.json';
+const s_json = '/umber/umber.json';
 const o_fetch = fetch(s_json);
 const o_json = o_fetch.then(f_json);
 o_json.then(f_listen);
