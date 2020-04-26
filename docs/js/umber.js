@@ -1,8 +1,8 @@
 'use strict';
-import {f_bandcamp} from './bandcamp.js';
-import {f_github} from './github.js';
-import {f_soundcloud} from './soundcloud.js';
-import {f_youtube} from './youtube.js';
+import {f_bandcamp} from '/umber/js/bandcamp.js';
+import {f_github} from '/umber/js/github.js';
+import {f_soundcloud} from '/umber/js/soundcloud.js';
+import {f_youtube} from '/umber/js/youtube.js';
 
 function f_figu(a_song) {
    const e_a = document.createElement('a');
@@ -44,7 +44,7 @@ const n_step = 12;
 // level 1
 const n_begin = (n_page - 1) * n_step;
 const n_end = n_begin + n_step - 1;
-const s_json = 'umber.json';
+const s_json = '/umber.json';
 const s_query = o_par.has('q') ? o_par.get('q') : '';
 const f_elem = s1 => document.getElementById(s1);
 
