@@ -741,6 +741,7 @@
       }
    },
    "Bonobo": {
+      "$check": "2020-04-26",
       "Migration": {
          "$date": "2017",
          "$list": "white",
@@ -778,11 +779,7 @@
          "$date": "2010",
          "$list": "white",
          "Prelude": "short",
-         "Kiara": {
-            "rate": "good",
-            "VPY": "1,668,464",
-            "URL": "https://youtu.be/N7m86aMNjlQ"
-         },
+         "Kiara": "good",
          "Kong": "bad",
          "Eyesdown": "good",
          "El Toro": "good",
@@ -799,12 +796,12 @@
          "$list": "white",
          "Intro": "short",
          "Days to Come": "good",
-         "Between the Lines": "",
+         "Between the Lines": "bad",
          "The Fever": "good",
          "Ketto": "good",
          "Nightlite": "good",
          "Transmission 94, Parts 1 & 2": "good",
-         "On Your Marks": "",
+         "On Your Marks": "good",
          "If You Stayed Over": "",
          "Walk in the Sky": "",
          "Recurring": "good",

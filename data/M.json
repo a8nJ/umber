@@ -362,6 +362,7 @@
       }
    },
    "Massive Attack": {
+      "$check": "2020-04-26",
       "Heligoland": {
          "$date": "2010",
          "Pray for Rain": "good",
@@ -417,11 +418,22 @@
          "Antistar": "short"
       },
       "Mezzanine": {
-         "$date": "1998",
+          "$date": "1998-04-17",
+          "$list": "white",
+          "Angel": "good",
+          "Risingson": "",
          "Massive Attack - Teardrop": {
              "URL": "https://youtu.be/u7K72X4eo_s",
              "VPY": "6,279,586"
-         }
+         },
+          "Inertia Creeps": "",
+          "Exchange": "",
+          "Dissolved Girl": "",
+          "Man Next Door": "",
+          "Black Milk": "",
+          "Mezzanine": "",
+          "Group Four": "",
+          "(Exchange)": ""
       },
       "Protection": {
          "$date": "1994",
@@ -442,11 +454,7 @@
          "Blue Lines": "bad",
          "Be Thankful for What You’ve Got": "good",
          "Five Man Army": "good",
-         "Unfinished Sympathy": {
-            "rate": "good",
-            "VPY": "4,638,845",
-            "URL": "https://youtu.be/ZWmrfgj0MZI"
-         },
+         "Unfinished Sympathy": "good",
          "Daydreaming": "bad",
          "Lately": "good",
          "Hymn of the Big Wheel": "bad"

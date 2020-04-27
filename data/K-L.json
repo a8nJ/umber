@@ -161,6 +161,20 @@
       }
    },
    "Kate Bush": {
+      "The Sensual World": {
+          "$date": "1989-10-17",
+          "$list": "white",
+          "The Sensual World": "yes",
+          "Love and Anger": "",
+          "The Fog": "",
+          "Reaching Out": "",
+          "Heads We’re Dancing": "",
+          "Deeper Understanding": "",
+          "Between a Man and a Woman": "",
+          "Never Be Mine": "",
+          "Rocket’s Tail": "",
+          "This Woman’s Work": ""
+      },
       "Hounds of Love": {
          "$date": "1985",
          "$list": "white",
@@ -199,11 +213,7 @@
          "Strange Phenomena": "short",
          "Kite": "short",
          "The Man With the Child in His Eyes": "short",
-         "Wuthering Heights": {
-            "rate": "bad",
-            "VPY": "3,384,228",
-            "URL": "https://youtu.be/BW3gKKiTvjs"
-         },
+         "Wuthering Heights": "bad",
          "James and the Cold Gun": "bad",
          "Feel It": "bad",
          "Oh to Be in Love": "bad",
