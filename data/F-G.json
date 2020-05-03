@@ -737,6 +737,7 @@
       }
    },
    "Goldfrapp": {
+      "$check": "2020-05-03",
       "Silver Eye": {
          "$date": "2017",
          "$list": "white",
