@@ -421,6 +421,20 @@
       }
    },
    "Amon Tobin": {
+      "Fear in a Handful of Dust": {
+          "$date": "2019-04-26",
+          "$list": "white",
+          "On a Hilltop Sat the Moon": "good",
+          "Vipers Follow You": "",
+          "Freeformed": "",
+          "Pale Forms Run By": "",
+          "Heart of the Sun": "",
+          "Velvet Owl": "",
+          "Fooling Alright": "",
+          "Milk Millionaire": "short",
+          "Three Different Hat Sizes": "",
+          "Dark as Dogs": ""
+      },
       "ISAM": {
          "$date": "2011",
          "$list": "white",
@@ -433,9 +447,9 @@
          "Mass & Spring": "bad",
          "Calculate": "short",
          "Kitty Cat": "bad",
-         "Bedtime Stories": "",
-         "Night Swim": "",
-         "Dropped From the Sky": ""
+         "Bedtime Stories": "bad",
+         "Night Swim": "bad",
+         "Dropped From the Sky": "bad"
       },
       "Foley Room": {
          "$date": "2007",
@@ -451,10 +465,7 @@
          "Ever Falling": "",
          "Always": "",
          "Straight Psyche": "good",
-         "At the End of the Day": {
-            "VPY": "184,337",
-            "URL": "https://youtu.be/1jaRA6nGyUg"
-         }
+         "At the End of the Day": ""
       },
       "Out From Out Where": {
          "$date": "2002",
