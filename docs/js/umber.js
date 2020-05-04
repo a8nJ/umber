@@ -4,7 +4,43 @@ import {f_github} from '/umber/js/github.js';
 import {f_soundcloud} from '/umber/js/soundcloud.js';
 import {f_youtube} from '/umber/js/youtube.js';
 
-function f_figu(a_song) {
+function f1_json(o_resp) {
+   return o_resp.json();
+}
+
+function f_in(s1, s2) {
+   // both sides of the test can contain uppercase on mobile
+   const s_find = s2.toLowerCase();
+   return s1.toLowerCase().includes(s_find);
+}
+
+function f2_data(a_data) {
+   let n_cur = 0;
+   for (const a_rec of a_data) {
+      const n_year = a_rec[1];
+      const s_song = a_rec[3];
+      // value match - move the cursor
+      if (f_in(n_year + s_song, s_query)) {
+         // index match - add to DOM
+         if (n_cur >= n_begin && n_cur <= n_end) {
+            document.getElementById('figures').append(f_figure(a_rec));
+         }
+         n_cur++;
+      }
+      if (n_cur > n_end) {
+         break;
+      }
+   }
+   const o_old = document.getElementById('older');
+   if (n_cur > n_end) {
+      o_par.set('p', n_page + 1);
+      o_old.href = '?' + o_par;
+   } else {
+      o_old.remove();
+   }
+}
+
+function f_figure(a_song) {
    const e_a = document.createElement('a');
    const e_figc = document.createElement('figcaption');
    const e_figu = document.createElement('figure');
@@ -44,45 +80,18 @@ const n_step = 12;
 // level 1
 const n_begin = (n_page - 1) * n_step;
 const n_end = n_begin + n_step - 1;
-const s_json = '/umber/umber.json';
 const s_query = o_par.has('q') ? o_par.get('q') : '';
-const f_elem = s1 => document.getElementById(s1);
 
+const o_new = document.getElementById('newer');
 // "p" could be "1" implicitly or explicitly
 if (n_page == 1) {
-   f_elem('newer').remove();
+   o_new.remove();
 } else {
    o_par.set('p', n_page - 1);
-   f_elem('newer').href = '?' + o_par;
+   o_new.href = '?' + o_par;
 }
 
-function f_in(s1, s2) {
-   // both sides of the test can contain uppercase on mobile
-   const s_find = s2.toLowerCase();
-   return s1.toLowerCase().includes(s_find);
-}
-
-fetch(s_json).then(o_resp => o_resp.json()).then(a_data => {
-   let n_cur = 0;
-   for (const a_rec of a_data) {
-      const n_year = a_rec[1];
-      const s_song = a_rec[3];
-      // value match - move the cursor
-      if (f_in(n_year + s_song, s_query)) {
-         // index match - add to DOM
-         if (n_cur >= n_begin && n_cur <= n_end) {
-            f_elem('figures').append(f_figu(a_rec));
-         }
-         n_cur++;
-      }
-      if (n_cur > n_end) {
-         break;
-      }
-   }
-   if (n_cur > n_end) {
-      o_par.set('p', n_page + 1);
-      f_elem('older').href = '?' + o_par;
-   } else {
-      f_elem('older').remove();
-   }
-});
+const s_json = '/umber/umber.json';
+const o_fetch = fetch(s_json);
+const o_json = o_fetch.then(f1_json);
+o_json.then(f2_data);
