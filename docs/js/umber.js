@@ -72,17 +72,22 @@ function f_figure(a_song) {
    return e_figu;
 }
 
-// level 3
 const o_par = new URLSearchParams(location.search);
-// level 2
-const n_page = o_par.has('p') ? Number(o_par.get('p')) : 1;
+let n_page;
+
+if (o_par.has('p')) {
+   const s_page = o_par.get('p');
+   n_page = Number(s_page);
+} else {
+   n_page = 1;
+}
+
 const n_step = 12;
-// level 1
 const n_begin = (n_page - 1) * n_step;
 const n_end = n_begin + n_step - 1;
 const s_query = o_par.has('q') ? o_par.get('q') : '';
-
 const o_new = document.getElementById('newer');
+
 // "p" could be "1" implicitly or explicitly
 if (n_page == 1) {
    o_new.remove();
@@ -91,7 +96,6 @@ if (n_page == 1) {
    o_new.href = '?' + o_par;
 }
 
-const s_json = '/umber/umber.json';
-const o_fetch = fetch(s_json);
+const o_fetch = fetch('/umber/umber.json');
 const o_json = o_fetch.then(f1_json);
 o_json.then(f2_data);
