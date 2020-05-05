@@ -530,14 +530,12 @@
       }
    },
    "Blood Orange": {
+      "$check": "2020-05-04",
       "Negro Swan": {
          "$date": "2018",
          "$list": "white",
          "Orlando": "",
-         "Saint": {
-            "VPY": "2,214,523",
-            "URL": "https://youtu.be/mVH_wxk9ZtE"
-         },
+         "Saint": "",
          "Take Your Time": "short",
          "Hope": "bad",
          "Jewelry": "bad",
@@ -561,8 +559,8 @@
          "Chance": "short",
          "Best to You": "good",
          "With Him": "short",
-         "E.V.P.": "",
-         "Love Ya": "short",
+         "E.V.P.": "bad",
+         "Love Ya": "good",
          "But You": "",
          "Desirée": "",
          "Hands Up": "",
@@ -587,7 +585,7 @@
          "Always Let U Down": "good",
          "On the Line": "good",
          "High Street": "short",
-         "Time Will Tell": ""
+         "Time Will Tell": "bad"
       },
       "Coastal Grooves": {
          "$date": "2011",
