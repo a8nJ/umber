@@ -445,6 +445,7 @@
       }
    },
    "Sade": {
+      "$check": "2020-05-05",
       "Soldier of Love": {
          "$date": "2010",
          "$list": "white",
@@ -496,11 +497,7 @@
          "$date": "1985",
          "$list": "white",
          "Is It a Crime": "good",
-         "The Sweetest Taboo": {
-            "VPY": "5,275,250",
-            "URL": "https://youtu.be/kcPc18SG6uA",
-            "rate": "good"
-         },
+         "The Sweetest Taboo": "good",
          "War of the Hearts": "",
          "You’re Not the Man": "",
          "Jezebel": "",
@@ -521,7 +518,7 @@
          "When Am I Going to Make a Living": "bad",
          "Cherry Pie": "good",
          "Sally": "good",
-         "I Will Be Your Friend": "",
+         "I Will Be Your Friend": "good",
          "Why Can’t We Live Together?": ""
       }
    },

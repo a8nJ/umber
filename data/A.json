@@ -639,11 +639,7 @@
       "Windowlicker": {
          "$date": "1999",
          "$list": "white",
-         "Windowlicker": {
-            "rate": "good",
-            "VPY": "480,422",
-            "URL": "https://youtu.be/7MBaEEODzU0"
-         },
+         "Windowlicker": "good",
          "Formula": "",
          "Nannou": ""
       },
@@ -740,21 +736,21 @@
           "Xepha": ""
       },
       "Selected Ambient Works 85–92": {
-         "$date": "1992",
-         "$list": "white",
-         "Xtal": "good",
-         "Tha": "good",
-         "Pulsewidth": "good",
-         "Ageispolis": "good",
-         "i": "short",
-         "Green Calx": "bad",
-         "Heliosphan": "good",
-         "We Are the Music Makers": "",
-         "Schottkey 7th Path": "",
-         "Ptolemy": "",
-         "Hedphelym": "",
-         "Delphium": "",
-         "Actium": ""
+          "$date": "1992-11-01",
+          "$list": "white",
+          "Xtal": "good",
+          "Tha": "good",
+          "Pulsewidth": "good",
+          "Ageispolis": "good",
+          "i": "good",
+          "Green Calx": "bad",
+          "Heliosphan": "good",
+          "We are the music makers": "bad",
+          "Schottkey 7th Path": "bad",
+          "Ptolemy": "",
+          "Hedphelym": "",
+          "Delphium": "",
+          "Actium": ""
       }
    },
    "Audioslave": {
