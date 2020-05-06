@@ -1,4 +1,5 @@
 'use strict';
+import {f_date} from '/umber/js/date.js';
 
 function f1_json(o_resp) {
    return o_resp.json();
@@ -10,11 +11,10 @@ function f2_listen(a_table) {
    const s_year = a_row[1].toString();
    const s_albumid = a_row[2].slice(2);
    const s_title = a_row[3];
-   const s_date = new Date(s_songid * 1000).toDateString();
    document.title = s_title + ' - Umber Listen';
    document.getElementById('artist').textContent = s_title;
    const o_date = document.getElementById('date');
-   o_date.textContent = 'released ' + s_year + ' - posted ' + s_date;
+   o_date.textContent = 'released ' + s_year + ' - posted ' + f_date(s_songid);
    const o_listen = document.getElementById('listen');
    const s_path = 'https://github.com/muv1/umber/releases/download';
    o_listen.src = s_path + '/' + s_albumid + '/' + s_songid;

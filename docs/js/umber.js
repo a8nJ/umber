@@ -1,5 +1,6 @@
 'use strict';
 import {f_bandcamp} from '/umber/js/bandcamp.js';
+import {f_date} from '/umber/js/date.js';
 import {f_github} from '/umber/js/github.js';
 import {f_soundcloud} from '/umber/js/soundcloud.js';
 import {f_youtube} from '/umber/js/youtube.js';
@@ -12,7 +13,7 @@ function f2_data(a_data) {
    let n_cur = 0;
    for (const a_row of a_data) {
       const s_sub = a_row.join();
-      const o_reg = RegExp(s_query);;
+      const o_reg = RegExp(s_query, 'i');
       // value match - move the cursor
       if (o_reg.test(s_sub)) {
          // index match - add to DOM
@@ -68,14 +69,10 @@ function f3_figure(a_row) {
    }
    // end
    o_figcap.textContent = s_title;
-   o_time.textContent = 'released ' + s_year + ' - posted ' + f4_date(s_id_1);
+   o_time.textContent = 'released ' + s_year + ' - posted ' + f_date(s_id_1);
    o_a.append(o_figcap);
    o_figure.append(o_a, o_time);
    return o_figure;
-}
-
-function f4_date(s_id) {
-   return new Date(s_id * 1000).toDateString();
 }
 
 const o_par = new URLSearchParams(location.search);
