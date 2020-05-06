@@ -1296,6 +1296,25 @@
       }
    },
    "Thievery Corporation": {
+      "The Temple of I & I": {
+          "$date": "2017-02-10",
+          "$list": "white",
+          "Thief Rockers": "good",
+          "Letter to the Editor": "",
+          "Strike the Root": "",
+          "Ghetto Matrix": "",
+          "True Sons of Zion": "",
+          "The Temple of I & I": "",
+          "Time + Space": "",
+          "Love Has No Heart": "",
+          "Lose to Find": "",
+          "Let the Chalice Blaze": "",
+          "Weapons of Distraction": "",
+          "Road Block": "",
+          "Fight to Survive": "",
+          "Babylon Falling": "",
+          "Drop Your Guns": ""
+      },
       "Saudade": {
           "$date": "2014-04-01",
           "$list": "white",

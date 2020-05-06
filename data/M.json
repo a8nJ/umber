@@ -207,11 +207,7 @@
       "Bedtime Stories": {
          "$date": "1994",
          "Survival": "",
-         "Secret": {
-            "rate": "good",
-            "VPY": "1,638,276",
-            "URL": "https://youtu.be/EPHUZenprKc"
-         },
+         "Secret": "good",
          "I’d Rather Be Your Lover": "",
          "Don’t Stop": "",
          "Inside of Me": "",
@@ -221,6 +217,24 @@
          "Sanctuary": "",
          "Bedtime Story": "good",
          "Take a Bow": "good"
+      },
+      "Erotica": {
+          "$date": "1992-10-19",
+          "$list": "white",
+          "Erotica": "bad",
+          "Fever": "bad",
+          "Bye Bye Baby": "bad",
+          "Deeper and Deeper": "bad",
+          "Where Life Begins": "",
+          "Bad Girl": "",
+          "Waiting": "",
+          "Thief of Hearts": "",
+          "Words": "",
+          "Rain": "",
+          "Why’s It So Hard": "",
+          "In This Life": "",
+          "Did You Do It?": "",
+          "Secret Garden": ""
       },
       "Justify My Love": {
          "$date": "1990-10-30",
@@ -237,16 +251,16 @@
       },
       "Like a Prayer": {
          "$date": "1989",
-         "Like a Prayer": {
-            "VPY": "7,876,757",
-            "URL": "https://youtu.be/79fzeNUqQbQ"
+         "Madonna - Like A Prayer (Official Music Video)": {
+             "URL": "https://youtu.be/79fzeNUqQbQ",
+             "VPY": "10,619,378"
          }
       },
       "True Blue": {
          "$date": "1986",
-         "La Isla Bonita": {
-            "VPY": "17,047,985",
-            "URL": "https://youtu.be/zpzdgmqIHOQ"
+         "Madonna - La Isla Bonita (Official Music Video)": {
+             "URL": "https://youtu.be/zpzdgmqIHOQ",
+             "VPY": "27,220,695"
          },
          "Live to Tell": "",
          "Papa Don’t Preach": ""
@@ -254,11 +268,24 @@
       "Like a Virgin": {
          "$date": "1984",
          "Dress You Up": "",
+         "Into the Groove": "",
          "Like a Virgin": "",
-         "Material Girl": {
-            "VPY": "18,223,354",
-            "URL": "https://youtu.be/6p-lDYPR2P8"
+         "Madonna - Material Girl (Official Music Video)": {
+             "URL": "https://youtu.be/6p-lDYPR2P8",
+             "VPY": "18,329,635"
          }
+      },
+      "Madonna": {
+          "$date": "1983-07-26",
+          "$list": "white",
+          "Lucky Star": "good",
+          "Borderline": "good",
+          "Burning Up": "",
+          "I Know It": "",
+          "Holiday": "good",
+          "Think of Me": "",
+          "Physical Attraction": "",
+          "Everybody": ""
       }
    },
    "Mandalay": {
