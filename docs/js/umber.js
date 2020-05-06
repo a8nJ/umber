@@ -8,22 +8,17 @@ function f1_json(o_resp) {
    return o_resp.json();
 }
 
-function f_in(s1, s2) {
-   // both sides of the test can contain uppercase on mobile
-   const s_find = s2.toLowerCase();
-   return s1.toLowerCase().includes(s_find);
-}
-
 function f2_data(a_data) {
    let n_cur = 0;
-   for (const a_rec of a_data) {
-      const n_year = a_rec[1];
-      const s_song = a_rec[3];
+   for (const a_row of a_data) {
+      const s_sub = a_row.join();
+      const o_reg = RegExp(s_query);;
       // value match - move the cursor
-      if (f_in(n_year + s_song, s_query)) {
+      if (o_reg.test(s_sub)) {
          // index match - add to DOM
          if (n_cur >= n_begin && n_cur <= n_end) {
-            document.getElementById('figures').append(f_figure(a_rec));
+            const o_fig = f3_figure(a_row);
+            document.getElementById('figures').append(o_fig);
          }
          n_cur++;
       }
@@ -34,42 +29,53 @@ function f2_data(a_data) {
    const o_old = document.getElementById('older');
    if (n_cur > n_end) {
       o_par.set('p', n_page + 1);
-      o_old.href = '?' + o_par;
+      o_old.href = '?' + o_par.toString();
    } else {
       o_old.remove();
    }
 }
 
-function f_figure(a_song) {
-   const e_a = document.createElement('a');
-   const e_figc = document.createElement('figcaption');
-   const e_figu = document.createElement('figure');
-   const e_img = document.createElement('img');
-   const e_time = document.createElement('time');
-   const m_song = {};
-   m_song.post = a_song[0];
-   m_song.rel = a_song[1];
-   const a_host = a_song[2].split('/');
-   m_song.site = a_host[0];
-   m_song.url1 = a_host[1];
-   m_song.url2 = a_host[2];
-   m_song.title = a_song[3];
+function f3_figure(a_row) {
+   // elements
+   const o_figcap = document.createElement('figcaption');
+   const o_figure = document.createElement('figure');
+   const o_time = document.createElement('time');
+   // column 0
+   const s_id_1 = a_row[0];
+   // column 1
+   const s_year = a_row[1].toString();
+   // column 2
+   const a_host = a_row[2].split('/');
+   const s_site = a_host[0];
+   const s_id_2 = a_host[1];
+   // column 3
+   const s_title = a_row[3];
+   // begin
+   let o_a;
+   if (s_site == 'b') {
+      const s_id_3 = a_host[2];
+      o_a = f_bandcamp(s_id_2, s_id_3, s_title);
+   }
+   if (s_site == 's') {
+      const s_id_3 = a_host[2];
+      o_a = f_soundcloud(s_id_2, s_id_3, s_title);
+   }
+   if (s_site == 'g') {
+      o_a = f_github(s_id_1, s_id_2);
+   }
+   if (s_site == 'y') {
+      o_a = f_youtube(s_id_2, s_title);
+   }
+   // end
+   o_figcap.textContent = s_title;
+   o_time.textContent = 'released ' + s_year + ' - posted ' + f4_date(s_id_1);
+   o_a.append(o_figcap);
+   o_figure.append(o_a, o_time);
+   return o_figure;
+}
 
-   const a_link = {
-      b: f_bandcamp(m_song),
-      g: f_github(m_song),
-      s: f_soundcloud(m_song),
-      y: f_youtube(m_song)
-   }[m_song.site];
-
-   e_a.href = a_link[0];
-   e_img.src = a_link[1];
-   e_figc.textContent = m_song.title;
-   e_time.textContent = 'released ' + m_song.rel + ' - posted ' +
-   new Date(m_song.post * 1000).toDateString();
-   e_a.append(e_img, e_figc);
-   e_figu.append(e_a, e_time);
-   return e_figu;
+function f4_date(s_id) {
+   return new Date(s_id * 1000).toDateString();
 }
 
 const o_par = new URLSearchParams(location.search);
@@ -85,7 +91,12 @@ if (o_par.has('p')) {
 const n_step = 12;
 const n_begin = (n_page - 1) * n_step;
 const n_end = n_begin + n_step - 1;
-const s_query = o_par.has('q') ? o_par.get('q') : '';
+let s_query = '';
+
+if (o_par.has('q')) {
+   s_query = o_par.get('q');
+}
+
 const o_new = document.getElementById('newer');
 
 // "p" could be "1" implicitly or explicitly
@@ -93,9 +104,7 @@ if (n_page == 1) {
    o_new.remove();
 } else {
    o_par.set('p', n_page - 1);
-   o_new.href = '?' + o_par;
+   o_new.href = '?' + o_par.toString();
 }
 
-const o_fetch = fetch('/umber/umber.json');
-const o_json = o_fetch.then(f1_json);
-o_json.then(f2_data);
+fetch('/umber/umber.json').then(f1_json).then(f2_data);

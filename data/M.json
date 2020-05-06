@@ -1,5 +1,24 @@
 {
    "M83": {
+      "DSVII": {
+          "$date": "2019-09-20",
+          "$list": "white",
+          "Hell Riders": "",
+          "A Bit of Sweetness": "",
+          "Goodbye Captain Lee": "short",
+          "Colonies": "",
+          "Meet the Friends": "",
+          "Feelings": "",
+          "A Word of Wisdom": "short",
+          "Lune de fiel": "",
+          "Jeux d’enfants": "short",
+          "A Taste of the Dusk": "",
+          "Lunar Son": "short",
+          "Oh Yes You’re There, Everyday": "",
+          "Mirage": "short",
+          "Taifun Glory": "",
+          "Temple of Sorrow": ""
+      },
       "Junk": {
          "$date": "2016",
          "Do It, Try It": "bad",
@@ -54,6 +73,7 @@
          }
       },
       "Saturdays = Youth": {
+         "$date": "2008",
          "You, Appearing": "good",
          "Kim & Jessie": "good",
          "Skin of the Night": "good",
@@ -64,10 +84,10 @@
          "Highway of Endless Dreams": "",
          "Too Late": "",
          "Dark Moves of Love": "",
-         "Midnight Souls Still Remain": "",
-         "$date": "2008"
+         "Midnight Souls Still Remain": ""
       },
       "Digital Shades, Volume 1": {
+         "$date": "2007",
          "Waves, Waves, Waves": "short",
          "Coloring the Void": "",
          "Sister, Part 1": "short",
@@ -77,10 +97,10 @@
          "Sister, Part 2": "short",
          "By the Kiss": "good",
          "Space Fertilizer": "short",
-         "The Highest Journey": "good",
-         "$date": "2007"
+         "The Highest Journey": "good"
       },
       "Before the Dawn Heals Us": {
+         "$date": "2005",
          "Moon Child": "good",
          "Don’t Save Us From the Flames": "good",
          "In the Cold I’m Standing": "good",
@@ -95,10 +115,10 @@
          "Car Chase Terror": "",
          "Slight Night Shiver": "short",
          "A Guitar and a Heart": "",
-         "Lower Your Eyelids to Die With the Sun": "",
-         "$date": "2005"
+         "Lower Your Eyelids to Die With the Sun": ""
       },
       "Dead Cities, Red Seas & Lost Ghosts": {
+         "$date": "2003",
          "Birds": "short",
          "Unrecorded": "good",
          "Run Into Flowers": "good",
@@ -115,10 +135,10 @@
          "God of Thunder": "",
          "In Church (Cyann & Ben version)": "good",
          "Gone (live)": "bad",
-         "Dead Cities, Red Seas & Lost Ghosts": "",
-         "$date": "2003"
+         "Dead Cities, Red Seas & Lost Ghosts": ""
       },
       "M83": {
+         "$date": "2001",
          "Last Saturday": "short",
          "Night": "bad",
          "At the Party": "short",
@@ -131,8 +151,7 @@
          "She Stands Up": "bad",
          "Carresses": "bad",
          "My Face": "short",
-         "I’m Happy, She Said": "short",
-         "$date": "2001"
+         "I’m Happy, She Said": "short"
       }
    },
    "Madonna": {

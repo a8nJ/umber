@@ -190,6 +190,7 @@
       }
    },
    "Air": {
+      "$check": "2020-05-06",
       "Music for Museum": {
          "$date": "2014",
          "$list": "white",
@@ -248,11 +249,7 @@
          "Another Day": "",
          "Alpha Beta Gaga": "",
          "Biological": "",
-         "Alone in Kyoto": {
-            "rate": "good",
-            "VPY": "1,402,647",
-            "URL": "https://youtu.be/XUjAtYQkFm8"
-         },
+         "Alone in Kyoto": "good",
          "Easy Going Woman": ""
       },
       "10 000 Hz Legend": {
@@ -263,11 +260,11 @@
          "Radio 1": "bad",
          "The Vagabond": "bad",
          "Radian": "bad",
-         "Lucky and Unhappy": "",
-         "Sex Born Poison": "",
-         "People in the City": "",
-         "Wonder Milky Bitch": "",
-         "Don’t Be Light": "",
+         "Lucky and Unhappy": "bad",
+         "Sex Born Poison": "bad",
+         "People in the City": "bad",
+         "Wonder Milky Bitch": "bad",
+         "Don’t Be Light": "bad",
          "Caramel Prisoner": ""
       },
       "Moon Safari": {

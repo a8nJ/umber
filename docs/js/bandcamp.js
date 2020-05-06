@@ -1,17 +1,23 @@
 'use strict';
 
-export const f_bandcamp = function (song) {
-   const o_a = new URL('https://bandcamp.com');
+export function f_bandcamp(s_id_2, s_id_3, s_title) {
+   // <a>
+   const o_a = document.createElement('a');
+   const m_param = {
+      track: s_id_2,
+      // required when protocol is not "file:"
+      ref: '',
+      // these are not required, but they look nicer
+      artwork: 'small',
+      size: 'large'
+   };
+   const s_param = new URLSearchParams(m_param).toString();
    // case sensitive
-   o_a.pathname = 'EmbeddedPlayer';
-   o_a.hash = song.title;
-   o_a.searchParams.set('track', song.url1);
-   // required when protocol is not "file:"
-   o_a.searchParams.set('ref', '');
-   // these are not required, but they look nicer
-   o_a.searchParams.set('artwork', 'small');
-   o_a.searchParams.set('size', 'large');
-   const o_img = new URL('https://f4.bcbits.com');
-   o_img.pathname = 'img/' + song.url2 + '_16.jpg';
-   return [o_a, o_img];
-};
+   o_a.href = 'https://bandcamp.com/EmbeddedPlayer?' + s_param + '#' + s_title;
+   // <img>
+   const o_img = document.createElement('img');
+   o_img.src = 'https://f4.bcbits.com/img/' + s_id_3 + '_16.jpg';
+   // return
+   o_a.append(o_img);
+   return o_a;
+}

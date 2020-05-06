@@ -1,12 +1,12 @@
 'use strict';
 
-export const f_youtube = function (m_song) {
-   const o_href = new URL('https://www.youtube.com');
+export function f_youtube(s_id_2, s_title) {
+   const o_a = document.createElement('a');
    // video unavailable: youtube.com/embed/4Dcoz65iKQM
-   o_href.pathname = 'watch';
-   o_href.searchParams.set('v', m_song.url1);
-   o_href.hash = m_song.title;
-   const o_src = new URL('https://i.ytimg.com');
-   o_src.pathname = 'vi/' + m_song.url1 + '/sd1.jpg';
-   return [o_href, o_src];
-};
+   o_a.href = 'https://www.youtube.com/watch?v=' + s_id_2 + '#' + s_title;
+   const o_img = document.createElement('img');
+   o_img.src = 'https://i.ytimg.com/vi/' + s_id_2 + '/sd1.jpg';
+   // return
+   o_a.append(o_img);
+   return o_a;
+}

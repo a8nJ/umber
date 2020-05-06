@@ -1,16 +1,22 @@
 'use strict';
 
-export const f_soundcloud = function (song) {
-   const aurl = new URL('https://w.soundcloud.com');
-   aurl.pathname = 'player';
-   aurl.hash = song.title;
-   aurl.searchParams.set('url', 'api.soundcloud.com/tracks/' + song.url1);
-   // accepts "true" but not "1"
-   aurl.searchParams.set('hide_related', true);
-   // these are not required, but it looks nicer
-   aurl.searchParams.set('show_comments', false);
-   aurl.searchParams.set('visual', true);
-   const iurl = new URL('https://i1.sndcdn.com');
-   iurl.pathname =  'artworks-' + song.url2 + '-t500x500.jpg';
-   return [aurl, iurl];
-};
+export function f_soundcloud(s_id_2, s_id_3, s_title) {
+   // <a>
+   const o_a = document.createElement('a');
+   const m_param = {
+      url: 'api.soundcloud.com/tracks/' + s_id_2,
+      // accepts "true" but not "1"
+      hide_related: true,
+      // these are not required, but it looks nicer
+      show_comments: false,
+      visual: true
+   };
+   const s_param = new URLSearchParams(m_param).toString();
+   o_a.href = 'https://w.soundcloud.com/player?' + s_param + '#' + s_title;
+   // <img>
+   const o_img = document.createElement('img');
+   o_img.src = 'https://i1.sndcdn.com/artworks-' + s_id_3 + '-t500x500.jpg';
+   // return
+   o_a.append(o_img);
+   return o_a;
+}
