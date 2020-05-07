@@ -23,8 +23,7 @@ function f2_listen(a_table) {
 
 function f3_track(a_row) {
    const s_v = new URLSearchParams(location.search).get('v');
-   const n_v = Number(s_v);
-   return a_row[0] == n_v;
+   return a_row[0] == s_v;
 }
 
 fetch('/umber/umber.json').then(f1_json).then(f2_listen);
