@@ -9,30 +9,54 @@ function f1_json(o_resp) {
    return o_resp.json();
 }
 
-function f2_data(a_data) {
-   let n_cur = 0;
-   for (const a_row of a_data) {
-      const s_sub = a_row.join();
+function f2_data(a_table) {
+   const o_par = new URLSearchParams(location.search);
+   // 1. filter
+   if (o_par.has('q')) {
+      const s_query = o_par.get('q');
       const o_reg = RegExp(s_query, 'i');
-      // value match - move the cursor
-      if (o_reg.test(s_sub)) {
-         // index match - add to DOM
-         if (n_cur >= n_begin && n_cur <= n_end) {
-            const o_fig = f3_figure(a_row);
-            document.getElementById('figures').append(o_fig);
-         }
-         n_cur++;
+      function f_filter(a_row) {
+         const s_row = a_row.join();
+         return o_reg.test(s_row);
       }
-      if (n_cur > n_end) {
-         break;
+      a_table = a_table.filter(f_filter);
+   }
+   // 2. slice
+   let n_begin = 0;
+   if (o_par.has('v')) {
+      const s_v = o_par.get('v');
+      function f_index(a_row) {
+         return a_row[0] == s_v;
+      }
+      n_begin = a_table.findIndex(f_index);
+      if (n_begin == -1) {
+         n_begin = 0;
       }
    }
+   const n_page = 12;
+   const a_slice = a_table.slice(n_begin, n_begin + n_page);
+   const o_figs = document.getElementById('figures');
+   for (const a_row of a_slice) {
+      const o_fig = f3_figure(a_row);
+      o_figs.append(o_fig);
+   }
    const o_old = document.getElementById('older');
-   if (n_cur > n_end) {
-      o_par.set('p', n_page + 1);
+   const n_old = n_begin + n_page;
+   if (n_old < a_table.length) {
+      const s_v = a_table[n_begin + n_page][0];
+      o_par.set('v', s_v);
       o_old.href = '?' + o_par.toString();
    } else {
       o_old.remove();
+   }
+   const o_new = document.getElementById('newer');
+   const n_new = n_begin - n_page;
+   if (n_new >= 0) {
+      const s_v = a_table[n_new][0];
+      o_par.set('v', s_v);
+      o_new.href = '?' + o_par.toString();
+   } else {
+      o_new.remove();
    }
 }
 
@@ -73,35 +97,6 @@ function f3_figure(a_row) {
    o_a.append(o_figcap);
    o_figure.append(o_a, o_time);
    return o_figure;
-}
-
-const o_par = new URLSearchParams(location.search);
-let n_page;
-
-if (o_par.has('p')) {
-   const s_page = o_par.get('p');
-   n_page = Number(s_page);
-} else {
-   n_page = 1;
-}
-
-const n_step = 12;
-const n_begin = (n_page - 1) * n_step;
-const n_end = n_begin + n_step - 1;
-let s_query = '';
-
-if (o_par.has('q')) {
-   s_query = o_par.get('q');
-}
-
-const o_new = document.getElementById('newer');
-
-// "p" could be "1" implicitly or explicitly
-if (n_page == 1) {
-   o_new.remove();
-} else {
-   o_par.set('p', n_page - 1);
-   o_new.href = '?' + o_par.toString();
 }
 
 fetch('/umber/umber.json').then(f1_json).then(f2_data);
