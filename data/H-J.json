@@ -468,13 +468,11 @@
       }
    },
    "Interpol": {
+      "$check": "2020-05-07",
       "Marauder": {
          "$date": "2018",
          "$list": "white",
-         "If You Really Love Nothing": {
-            "VPY": "4,276,392",
-            "URL": "https://youtu.be/gLk8i2zw2jU"
-         },
+         "If You Really Love Nothing": "",
          "The Rover": "",
          "Complications": "",
          "Flight of Fancy": "",

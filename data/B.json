@@ -1008,6 +1008,22 @@
       }
    },
    "Bush": {
+      "Golden State": {
+          "$date": "2001-10-23",
+          "$list": "white",
+          "Solutions": "bad",
+          "Headful of Ghosts": "bad",
+          "The People That We Love": "bad",
+          "Superman": "bad",
+          "Fugitive": "bad",
+          "Hurricane": "",
+          "Inflatable": "",
+          "Reasons": "",
+          "Land of the Living": "missing",
+          "My Engine Is With You": "short",
+          "Out of This World": "",
+          "Float": ""
+      },
       "The Science of Things": {
          "$date": "1999",
          "$list": "white",
@@ -1053,10 +1069,7 @@
          "Machinehead": "good",
          "Testosterone": "",
          "Monkey": "",
-         "Glycerine": {
-            "VPY": "3,384,979",
-            "URL": "https://youtu.be/hOllF3TgAsM"
-         },
+         "Glycerine": "",
          "Alien": "",
          "X‐Girlfriend": "short",
          "Comedown (acoustic)": ""

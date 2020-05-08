@@ -300,6 +300,20 @@
          "Reclaim the Balcony": "",
          "Dirty Triumphant": ""
       },
+      "Feelin’ Good": {
+          "$date": "2013-09-16",
+          "$list": "white",
+          "So Here We Are": "good",
+          "Be, I Do": "",
+          "Master Plan": "",
+          "Luna 2": "",
+          "Now Is the Time": "",
+          "Give Thx": "",
+          "Eye (Can’t See)": "",
+          "Tapestry": "",
+          "There 4U": "",
+          "Om Sweet H(Om)E": ""
+      },
       "Thought So": {
          "$date": "2008",
          "$list": "white",
@@ -323,11 +337,7 @@
          "Flip Ya Lid": "good",
          "Pudpots": "bad",
          "Damn": "good",
-         "You Wish": {
-            "rate": "good",
-            "VPY": "330,951",
-            "URL": "https://youtu.be/TwDOa-lvizM"
-         },
+         "You Wish": "good",
          "Deepdown": "bad",
          "Chime Out": "short",
          "Me!": "good",

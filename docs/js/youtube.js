@@ -2,6 +2,7 @@
 
 export function f_youtube(s_id_2, s_title) {
    const o_a = document.createElement('a');
+   o_a.target = '_blank';
    // video unavailable: youtube.com/embed/4Dcoz65iKQM
    o_a.href = 'https://www.youtube.com/watch?v=' + s_id_2 + '#' + s_title;
    const o_img = document.createElement('img');

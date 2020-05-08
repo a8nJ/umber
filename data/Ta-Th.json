@@ -1046,6 +1046,7 @@
       }
    },
    "The Smiths": {
+      "$check": "2020-05-07",
       "Strangeways, Here We Come": {
          "$date": "1987",
          "$list": "white",
@@ -1077,16 +1078,12 @@
       "Meat Is Murder": {
          "$date": "1985",
          "$list": "white",
-         "The Headmaster Ritual": "",
+         "The Headmaster Ritual": "bad",
          "Rusholme Ruffians": "",
          "I Want the One I Can’t Have": "",
          "What She Said": "short",
          "That Joke Isn’t Funny Anymore": "",
-         "How Soon Is Now?": {
-            "rate": "good",
-            "VPY": "2,538,862",
-            "URL": "https://youtu.be/hnpILIIo9ek"
-         },
+         "How Soon Is Now?": "good",
          "Nowhere Fast": "short",
          "Well I Wonder": "good",
          "Barbarism Begins at Home": "good",
@@ -1095,9 +1092,9 @@
       "The Smiths": {
          "$date": "1984",
          "$list": "black",
-         "This Charming Man": {
-            "VPY": "7,660,429",
-            "URL": "https://youtu.be/cJRP3LRcUFg"
+         "The Smiths - This Charming Man (Official Music Video)": {
+             "URL": "https://youtu.be/cJRP3LRcUFg",
+             "VPY": "8,431,291"
          }
       }
    },

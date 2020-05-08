@@ -646,6 +646,22 @@
       }
    },
    "Empress Of": {
+      "I’m Your Empress Of": {
+          "$date": "2020-04-03",
+          "$list": "white",
+          "I’m Your Empress Of": "short",
+          "Bit of Rain": "bad",
+          "Void": "bad",
+          "Love Is a Drug": "short",
+          "U Give It Up": "bad",
+          "Should’ve": "short",
+          "Give Me Another Chance": "bad",
+          "What’s the Point": "short",
+          "Maybe This Time": "short",
+          "Not the One": "bad",
+          "Hold Me Like Water": "short",
+          "Awful": "short"
+      },
       "Us": {
          "$date": "2018",
          "$list": "white",
@@ -669,11 +685,7 @@
          "$date": "2015",
          "$list": "white",
          "Everything Is You": "bad",
-         "Water Water": {
-            "rate": "bad",
-            "VPY": "200,617",
-            "URL": "https://youtu.be/iwo_HeW4G-Q"
-         },
+         "Water Water": "bad",
          "Standard": "good",
          "How Do You Do It": "bad",
          "To Get By": "short",

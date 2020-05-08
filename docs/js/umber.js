@@ -43,7 +43,7 @@ function f2_data(a_table) {
    const o_old = document.getElementById('older');
    const n_old = n_begin + n_page;
    if (n_old < a_table.length) {
-      const s_v = a_table[n_begin + n_page][0];
+      const s_v = a_table[n_old][0];
       o_par.set('v', s_v);
       o_old.href = '?' + o_par.toString();
    } else {
