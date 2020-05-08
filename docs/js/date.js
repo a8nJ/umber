@@ -11,5 +11,9 @@ function r64_decode(s_in) {
 
 export function f_date(s_id) {
    const n_id = r64_decode(s_id);
-   return new Date(n_id * 1000).toDateString();
+   const o1 = new Date(n_id * 1000);
+   const s_day = o1.toLocaleString(0, {weekday: 'short'});
+   const s_mon = o1.toLocaleString(0, {month: 'short', day: 'numeric'});
+   const s_year = o1.toLocaleString(0, {year: 'numeric'});
+   return s_day + ' ' + s_mon + ' ' + s_year;
 }

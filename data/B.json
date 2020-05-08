@@ -713,29 +713,24 @@
          "Open the Light": "good",
          "One Very Important Thought": "short"
       },
-      "Boc Maxima": {
-         "$date": "1996",
-         "$list": "white",
-         "Chinook": "bad",
-         "Rodox Video": "short",
-         "Everything You Do Is a Balloon": {
-            "rate": "good",
-            "VPY": "745,274",
-            "URL": "https://youtu.be/dQEmaj9C6ko"
-         },
-         "Boc Maxima": "short",
-         "Nova Scotia Robots": "short",
-         "June 9th": "bad",
-         "Niagara": "short",
-         "Skimming Stones": "short",
-         "Sixtyniner": "bad",
-         "Red Moss": "bad",
-         "Concourse": "short",
-         "Carcan": "short",
-         "Nlogax": "bad",
-         "M9": "bad",
-         "Original Nlogax": "short",
-         "Whitewater": "bad"
+      "Hi Scores": {
+          "$date": "1996-12-09",
+          "$list": "white",
+          "Hi Scores": "",
+          "Nlogax": "bad",
+          "June 9th": "bad",
+          "Seeya Later": "",
+          "Everything You Do Is a Balloon": "good"
+      },
+      "Twoism": {
+          "$date": "1995",
+          "$list": "white",
+          "Sixtyniner": "good",
+          "Oirectine": "",
+          "Iced Cooly": "short",
+          "Basefree": "",
+          "Twoism": "",
+          "Melissa Juice": "short"
       }
    },
    "Bonobo": {

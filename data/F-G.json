@@ -1024,11 +1024,12 @@
       }
    },
    "Grizzly Bear": {
+      "$check": "2020-05-07",
       "Painted Ruins": {
          "$date": "2017",
          "$list": "white",
          "Wasted Acres": "short",
-         "Mourning Sound": "",
+         "Mourning Sound": "bad",
          "Four Cypresses": "",
          "Three Rings": "good",
          "Losing All Sense": "",
@@ -1051,10 +1052,10 @@
          "What’s Wrong?": "bad",
          "Gun-Shy": "bad",
          "Half Gate": "bad",
-         "Sun in Your Eyes": "",
-         "Smothering Green": "",
-         "Taken Down (Marfa demo)": "",
-         "Listen and Wait": "",
+         "Sun in Your Eyes": "bad",
+         "Smothering Green": "bad",
+         "Taken Down (Marfa demo)": "bad",
+         "Listen and Wait": "bad",
          "Everyone I Know (Marfa demo)": "short",
          "Will Calls (Marfa demo)": "good"
       },

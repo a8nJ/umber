@@ -1134,6 +1134,22 @@
       }
    },
    "Stone Temple Pilots": {
+      "Tiny Music… Songs From the Vatican Gift Shop": {
+          "$date": "1996-03-26",
+          "$list": "white",
+          "Press Play": "short",
+          "Pop’s Love Suicide": "",
+          "Tumble in the Rough": "",
+          "Big Bang Baby": "",
+          "Lady Picture Show": "",
+          "And So I Know": "",
+          "Trippin’ on a Hole in a Paper Heart": "good",
+          "Art School Girl": "",
+          "Adhesive": "",
+          "Ride the Cliché": "",
+          "Daisy": "short",
+          "Seven Caged Tigers": ""
+      },
       "Purple": {
          "$date": "1994",
          "$list": "white",
@@ -1160,11 +1176,7 @@
          "Naked Sunday": "",
          "Creep": "good",
          "Piece of Pie": "",
-         "Plush": {
-            "rate": "good",
-            "VPY": "3,066,188",
-            "URL": "https://youtu.be/V5UOC0C0x8Q"
-         },
+         "Plush": "good",
          "Wet My Bed": "short",
          "Crackerman": "",
          "Where the River Goes": ""
