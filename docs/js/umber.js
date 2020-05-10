@@ -26,11 +26,8 @@ function f2_data(a_table) {
    if (o_par.has('v')) {
       const s_v = o_par.get('v');
       function f_index(a_row) {
-         /*
-         This should be "<=", to account for deleted entries. For now use
-         "==", as the digits for the radix functions are out of order.
-         */
-         return a_row[0] == s_v;
+         // account for deleted entries
+         return a_row[0] <= s_v;
       }
       n_begin = a_table.findIndex(f_index);
       if (n_begin == -1) {
