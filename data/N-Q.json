@@ -958,12 +958,22 @@
          }
       },
       "No Jacket Required": {
-         "$date": "1985",
-         "$list": "black",
+          "$date": "1985-03-21",
+          "$list": "white",
+          "Sussudio": "",
+          "Only You Know and I Know": "",
+          "Long Long Way to Go": "",
+          "I Don't Wanna Know": "",
          "Phil Collins - One More Night (Official Music Video)": {
              "URL": "https://youtu.be/zKVq-P3z5Vg",
-             "VPY": "6,475,657"
-         }
+             "VPY": "6,504,732"
+         },
+          "Don't Lose My Number": "",
+          "Who Said I Would": "",
+          "Doesn't Anybody Stay Together Anymore": "",
+          "Inside Out": "",
+          "Take Me Home": "good",
+          "We Said Hello Goodbye": ""
       },
       "Hello, I Must Be Going!": {
           "$date": "1982",
