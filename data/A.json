@@ -241,9 +241,9 @@
          "$date": "2004",
          "$list": "white",
          "Venus": "",
-         "Cherry Blossom Girl": "",
-         "Run": "",
-         "Universal Traveler": "",
+         "Cherry Blossom Girl": "bad",
+         "Run": "bad",
+         "Universal Traveler": "bad",
          "Mike Mills": "",
          "Surfing on a Rocket": "",
          "Another Day": "",
@@ -265,7 +265,7 @@
          "People in the City": "bad",
          "Wonder Milky Bitch": "bad",
          "Don’t Be Light": "bad",
-         "Caramel Prisoner": ""
+         "Caramel Prisoner": "bad"
       },
       "Moon Safari": {
          "$date": "1998",
@@ -317,6 +317,22 @@
           "UKMH51900046": "",
           "UKMH51900047": "",
           "UKMH51900048": ""
+      },
+      "Presence": {
+          "$date": "2019-06-21",
+          "$list": "white",
+          "FI3AC1927010": "good",
+          "FI3AC1927020": "",
+          "FI3AC1927030": "",
+          "FI3AC1927040": "",
+          "FI3AC1927050": "",
+          "FI3AC1927060": "",
+          "FI3AC1927070": "",
+          "FI3AC1927080": "",
+          "FI3AC1927090": "",
+          "FI3AC1927100": "",
+          "FI3AC1927110": "",
+          "FI3AC1927120": ""
       },
       "Paradox": {
           "$date": "2017-12-15",

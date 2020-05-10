@@ -521,6 +521,22 @@
       }
    },
    "Olive": {
+      "Trickle": {
+          "$date": "2000-05-30",
+          "$list": "white",
+          "Love Affair": "bad",
+          "Trickle": "bad",
+          "I’m Not in Love": "bad",
+          "Smile": "bad",
+          "All You Ever Needed": "",
+          "Indulge Me": "",
+          "Speak to Me": "",
+          "Liberty": "",
+          "Push": "",
+          "Trust You": "",
+          "Creature of Comfort": "",
+          "Beyond the Fray / Take My Hand": ""
+      },
       "Extra Virgin": {
          "$date": "1997",
          "$list": "black",
@@ -528,11 +544,7 @@
          "This Time": "",
          "Safer Hands": "",
          "Killing": "",
-         "You’re Not Alone": {
-            "rate": "good",
-            "VPY": "100,723",
-            "URL": "https://youtu.be/s4oZdUV-G-Y"
-         },
+         "You’re Not Alone": "good",
          "Falling": "",
          "Outlaw": "",
          "Blood Red Tears": "",
