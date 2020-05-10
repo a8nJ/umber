@@ -3,6 +3,7 @@
 export function f_soundcloud(s_id_2, s_id_3, s_title) {
    // <a>
    const o_a = document.createElement('a');
+   o_a.target = '_blank';
    const m_param = {
       url: 'api.soundcloud.com/tracks/' + s_id_2,
       // accepts "true" but not "1"

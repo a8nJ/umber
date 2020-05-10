@@ -394,10 +394,22 @@
       }
    },
    "Four Tet": {
+      "Pink": {
+          "$date": "2012-08-20",
+          "$list": "white",
+          "Locked": "bad",
+          "Lion": "bad",
+          "Jupiters": "bad",
+          "Ocoras": "bad",
+          "128 Harps": "bad",
+          "Pyramid": "",
+          "Peace for Earth": "",
+          "Pinnacles": ""
+      },
       "Nova": {
-         "$date": "2012",
-         "$list": "white",
-         "Nova": "good"
+          "$date": "2012-03-19",
+          "$list": "white",
+          "Nova": "good"
       },
       "There Is Love in You": {
          "$date": "2010",
@@ -977,10 +989,7 @@
          "Época": "bad",
          "Chunga’s Revenge": "bad",
          "Tríptico": "bad",
-         "Santa Maria": {
-            "VPY": "1,886,601",
-            "URL": "https://youtu.be/tqLh6rQqkoA"
-         },
+         "Santa Maria": "bad",
          "Una música brutal": "",
          "El capitalismo foráneo": "good",
          "Last Tango in Paris": "",
@@ -1005,13 +1014,30 @@
             "URL": "https://youtu.be/Soa3gO7tL-c"
          }
       },
-      "Nimrod": {
-         "$date": "1997",
-         "$list": "black",
+      "nimrod.": {
+          "$date": "1997-10-13",
+          "$list": "white",
+          "Nice Guys Finish Last": "short",
+          "Hitchin’ a Ride": "short",
+          "The Grouch": "short",
+          "Redundant": "",
+          "Scattered": "",
+          "All the Time": "short",
+          "Worry Rock": "short",
+          "Platypus (I Hate You)": "short",
+          "Uptight": "",
+          "Last Ride In": "",
+          "Jinx": "short",
+          "Haushinka": "",
+          "Walking Alone": "short",
+          "Reject": "short",
+          "Take Back": "short",
+          "King for a Day": "",
          "Good Riddance (Time Of Your Life) [Official Music Video]": {
              "URL": "https://youtu.be/CnQ8N1KacJc",
-             "VPY": "6,169,586"
-         }
+             "VPY": "6,192,447"
+         },
+          "Prosthetic Head": ""
       },
       "Dookie": {
          "$date": "1994",
