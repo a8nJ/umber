@@ -52,12 +52,7 @@ Our minimum resolution is 426 x 240, so that leaves us with **sd1** and
 **hq1**. **hq1** displays significant artifacts, so we end with **sd1**.
 We cannot trust the source of the page, as not all resolutions are listed:
 
-~~~
-$ curl -s https://www.youtube.com/watch?v=Vc-XzhnwpVc |
-> grep -E -o '/(maxres|sd|hq|mq|[[:digit:]])[^/]*\.jpg' | sort -u
-/hqdefault.jpg
-/maxresdefault.jpg
-~~~
+<https://www.youtube.com/watch?v=Vc-XzhnwpVc>
 
 Note **sd1** fails with some videos:
 

@@ -894,11 +894,7 @@
          "After You Fall": "",
          "Broken Hearts Heal": "",
          "Night": "",
-         "No Sleeep": {
-            "rate": "bad",
-            "VPY": "5,860,535",
-            "URL": "https://youtu.be/2_t0ffY3JvE"
-         },
+         "No Sleeep": "bad",
          "Dream Maker / Euphoria": "short",
          "2 B Loved": "short",
          "Take Me Away": "",
@@ -907,14 +903,6 @@
          "Black Eagle": "",
          "Well Traveled": "",
          "Gon’ B Alright": ""
-      },
-      "All for You": {
-         "$date": "2001",
-         "$list": "black",
-         "Janet Jackson - Would You Mind - Choreography by Aliya Janell - #TMi": {
-             "URL": "https://youtu.be/HGzVFjjfAfw",
-             "VPY": "5,537,522"
-         }
       },
       "The Velvet Rope": {
          "$date": "1997",
