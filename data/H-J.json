@@ -1441,11 +1441,7 @@
       "Have You in My Wilderness": {
          "$date": "2015",
          "$list": "white",
-         "Feel You": {
-            "VPY": "349,555",
-            "URL": "https://youtu.be/X2JgMniIpRM",
-            "rate": "good"
-         },
+         "Feel You": "good",
          "Silhouette": "",
          "How Long?": "",
          "Lucette Stranded on the Island": "",
@@ -1489,11 +1485,11 @@
           "Our Sorrows": "",
           "In the Same Room": "bad",
           "Boy in the Moon": "bad",
-          "Für Felix": "",
-          "Goddess Eyes II": "",
-          "Moni Mon Amie": "",
-          "Four Gardens": "",
-          "Goddess Eyes I": "",
+          "Für Felix": "bad",
+          "Goddess Eyes II": "bad",
+          "Moni Mon Amie": "bad",
+          "Four Gardens": "bad",
+          "Goddess Eyes I": "bad",
           "This Is Ekstasis": ""
       },
       "Tragedy": {
