@@ -1,5 +1,6 @@
 {
    "Daft Punk": {
+      "$check": "2020-05-12",
       "Random Access Memories": {
          "$date": "2013",
          "$list": "black",
