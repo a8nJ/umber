@@ -665,7 +665,21 @@
          "Missing Persons": "short",
          "Summer’s Gone": "",
          "Going Solo": ""
-      }
+      },
+       "State of Confusion": {
+           "$date": "1983-05-24",
+           "$list": "white",
+           "State of Confusion": "bad",
+           "Definite Maybe": "",
+           "Labour of Love": "",
+           "Come Dancing": "",
+           "Property": "",
+           "Don't Forget to Dance": "",
+           "Young Conservatives": "",
+           "Heart of Gold": "",
+           "Clichés of the World (B Movie)": "",
+           "Bernadette": ""
+       }
    },
    "The Mars Volta": {
       "Noctourniquet": {
