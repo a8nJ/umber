@@ -1,5 +1,6 @@
 {
    "M83": {
+      "$check": "2020-05-15",
       "DSVII": {
           "$date": "2019-09-20",
           "$list": "white",
@@ -55,22 +56,14 @@
          "Temples of Our Gods": "",
          "Fearful Odds": "",
          "Undimmed by Time, Unbound by Death": "short",
-         "Oblivion": {
-            "rate": "good",
-            "VPY": "2,746,085",
-            "URL": "https://youtu.be/1mkUp1V3ys0"
-         }
+         "Oblivion": "good"
       },
       "Hurry Up, We’re Dreaming": {
          "$date": "2011",
-         "Midnight City": {
-            "VPY": "33,682,222",
-            "URL": "https://youtu.be/dX3k_QDnzHE"
-         },
-         "Wait": {
-            "VPY": "11,009,599",
-            "URL": "https://youtu.be/lAwYodrBr2Q"
-         }
+          "M83 'Midnight City' Official video": {
+              "URL": "https://youtu.be/dX3k_QDnzHE",
+              "VPY": "33,902,212"
+          }
       },
       "Saturdays = Youth": {
          "$date": "2008",
@@ -129,9 +122,9 @@
          "Be Wild": "bad",
          "Cyborg": "bad",
          "0078h": "bad",
-         "Gone": "",
-         "Beauties Can Die": "",
-         "Tsubasa": "",
+         "Gone": "bad",
+         "Beauties Can Die": "bad",
+         "Tsubasa": "bad",
          "God of Thunder": "",
          "In Church (Cyann & Ben version)": "good",
          "Gone (live)": "bad",

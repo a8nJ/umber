@@ -423,6 +423,24 @@
       }
    },
    "Björk": {
+       "Medúlla": {
+           "$date": "2004-08-30",
+           "$list": "white",
+           "Pleasure Is All Mine": "bad",
+           "Show Me Forgiveness": "short",
+           "Where Is the Line": "bad",
+           "Vökuró": "bad",
+           "Öll birtan": "short",
+           "Who Is It (Carry My Joy on the Left, Carry My Pain": "bad",
+           "Submarine": "bad",
+           "Desired Constellation": "",
+           "Oceania": "",
+           "Sonnets/Unrealities XI": "short",
+           "Ancestors": "",
+           "Mouth’s Cradle": "",
+           "Miðvikudags": "short",
+           "Triumph of a Heart": ""
+       },
       "Vespertine": {
          "$date": "2001",
          "$list": "white",
@@ -459,11 +477,7 @@
          "Army of Me": "good",
          "Hyper‐Ballad": "bad",
          "The Modern Things": "bad",
-         "It’s Oh So Quiet": {
-            "rate": "good",
-            "VPY": "1,040,474",
-            "URL": "https://youtu.be/htobTBlCvUU"
-         },
+         "It’s Oh So Quiet": "good",
          "Enjoy": "bad",
          "You’ve Been Flirting Again": "short",
          "Isobel": "good",

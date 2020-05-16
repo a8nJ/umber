@@ -581,6 +581,7 @@
       }
    },
    "Emilíana Torrini": {
+      "$check": "2020-05-15",
       "Tookah": {
          "$date": "2013",
          "$list": "white",
@@ -603,11 +604,7 @@
          "Heard It All Before": "",
          "Ha Ha": "",
          "Big Jumps": "",
-         "Jungle Drum": {
-            "rate": "short",
-            "VPY": "2,065,864",
-            "URL": "https://youtu.be/iZ9vkd7Rp-g"
-         },
+         "Jungle Drum": "short",
          "Hold Heart": "short",
          "Gun": "",
          "Beggar’s Prayer": "short",
@@ -633,11 +630,11 @@
       "Love in the Time of Science": {
          "$date": "1999",
          "$list": "white",
-         "To Be Free": "",
+         "To Be Free": "bad",
          "Wednesday’s Child": "good",
-         "Baby Blue": "",
-         "Dead Things": "",
-         "Unemployed in Summertime": "",
+         "Baby Blue": "bad",
+         "Dead Things": "bad",
+         "Unemployed in Summertime": "good",
          "Easy": "",
          "Fingertips": "",
          "Telepathy": "",

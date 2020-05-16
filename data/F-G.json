@@ -394,6 +394,21 @@
       }
    },
    "Four Tet": {
+       "Beautiful Rewind": {
+           "$date": "2013-10-03",
+           "$list": "white",
+           "Gong": "bad",
+           "Parallel Jalebi": "bad",
+           "Our Navigation": "bad",
+           "Ba Teaches Yoga": "good",
+           "Kool FM": "",
+           "Crush": "short",
+           "Buchla": "",
+           "Aerial": "",
+           "Ever Never": "short",
+           "Unicorn": "",
+           "Your Body Feels": ""
+       },
       "Pink": {
           "$date": "2012-08-20",
           "$list": "white",
@@ -951,6 +966,7 @@
       }
    },
    "Gotan Project": {
+      "$check": "2020-05-15",
       "Tango 3.0": {
          "$date": "2010",
          "$list": "white",
@@ -990,7 +1006,7 @@
          "Chunga’s Revenge": "bad",
          "Tríptico": "bad",
          "Santa Maria": "bad",
-         "Una música brutal": "",
+         "Una música brutal": "good",
          "El capitalismo foráneo": "good",
          "Last Tango in Paris": "",
          "La del ruso": "",
