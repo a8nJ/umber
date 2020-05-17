@@ -307,9 +307,9 @@
    },
    "Tori Amos": {
       "The Beekeeper": {
-         "Parasol": "",
          "$date": "2005",
          "$list": "white",
+         "Parasol": "",
          "Sweet the Sting": "bad",
          "The Power of Orange Knickers": "bad",
          "Jamaica Inn": "bad",
@@ -329,6 +329,22 @@
          "Marys of the Sea": "bad",
          "Toast": "good"
       },
+       "Strange Little Girls": {
+           "$date": "2001-09-17",
+           "$list": "white",
+           "New Age": "bad",
+           "97' Bonnie & Clyde": "bad",
+           "Strange Little Girl": "bad",
+           "Enjoy the Silence": "bad",
+           "I'm Not in Love": "bad",
+           "Rattlesnakes": "",
+           "Time": "",
+           "Heart of Gold": "",
+           "I Don't Like Mondays": "",
+           "Happiness Is a Warm Gun": "",
+           "Raining Blood": "",
+           "Real Men": ""
+       },
       "To Venus and Back": {
           "$date": "1999-09-20",
           "$list": "white",

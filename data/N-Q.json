@@ -521,6 +521,7 @@
       }
    },
    "Olive": {
+      "$check": "2020-05-17",
       "Trickle": {
           "$date": "2000-05-30",
           "$list": "white",
@@ -541,12 +542,12 @@
          "$date": "1997",
          "$list": "black",
          "Miracle": "good",
-         "This Time": "",
-         "Safer Hands": "",
-         "Killing": "",
+         "This Time": "bad",
+         "Safer Hands": "bad",
+         "Killing": "bad",
          "You’re Not Alone": "good",
-         "Falling": "",
-         "Outlaw": "",
+         "Falling": "bad",
+         "Outlaw": "bad",
          "Blood Red Tears": "",
          "Curious": "",
          "You Are Nothing": "",

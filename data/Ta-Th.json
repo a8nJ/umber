@@ -272,6 +272,7 @@
       }
    },
    "The Cinematic Orchestra": {
+      "$check": "2020-05-17",
       "To Believe": {
          "$date": "2019",
          "$list": "white",
@@ -299,10 +300,7 @@
       "Ma fleur": {
          "$date": "2007",
          "$list": "white",
-         "To Build a Home": {
-            "VPY": "4,012,190",
-            "URL": "https://youtu.be/QB0ordd2nOI"
-         },
+         "To Build a Home": "",
          "Familiar Ground": "",
          "Child Song": "",
          "Music Box": "good",
@@ -351,13 +349,13 @@
       "Motion": {
          "$date": "1999",
          "$list": "white",
-         "Durian": "",
-         "Ode to the Big Sea": "",
-         "Night of the Iguana": "",
+         "Ode to the Big Sea": "bad",
+         "Night of the Iguana": "bad",
          "Channel 1 Suite": "",
          "Bluebirds": "",
          "And Relax!": "good",
-         "Diabolus": ""
+         "Diabolus": "",
+         "Durian": ""
       }
    },
    "The Cinematics": {

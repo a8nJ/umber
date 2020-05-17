@@ -1234,11 +1234,7 @@
          "$date": "2001",
          "$list": "white",
          "Suntoucher": "bad",
-         "Superstylin’": {
-            "rate": "bad",
-            "VPY": "2,594,261",
-            "URL": "https://youtu.be/_kE0pxRkMtQ"
-         },
+         "Superstylin’": "bad",
          "Drifted": "bad",
          "Little by Little": "bad",
          "Fogma": "bad",
@@ -1263,11 +1259,27 @@
          "Serve Chilled": "",
          "I See You Baby": "",
          "A Private Interlude": "",
-         "At the River": "good",
          "In My Bones": "",
          "Your Song": "",
          "Inside My Mind (Blue Skies)": ""
-      }
+      },
+       "Northern Star": {
+           "$date": "1998-03-09",
+           "$list": "white",
+           "Dr. Eiff": "bad",
+           "Captain Sensual (remix)": "bad",
+           "Entrance to Zanzibar": "bad",
+           "At the River": "good",
+           "Dirty Listening": "bad",
+           "M2 Many": "",
+           "Dan-Solo (album edit)": "",
+           "Pressure Breakdown": "",
+           "What Have We Become?": "",
+           "Jeanneret's Groove": "",
+           "Pillar 13": "",
+           "Bonus Stitch 1": "short",
+           "Bonus Stitch 2": "short"
+       }
    },
    "Guns N’ Roses": {
       "Use Your Illusion I": {
