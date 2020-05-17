@@ -58,12 +58,34 @@
          "Undimmed by Time, Unbound by Death": "short",
          "Oblivion": "good"
       },
-      "Hurry Up, We’re Dreaming": {
-         "$date": "2011",
+       "Hurry Up, We’re Dreaming": {
+           "$date": "2011-10-14",
+           "$list": "black",
+           "Intro": "",
           "M83 'Midnight City' Official video": {
               "URL": "https://youtu.be/dX3k_QDnzHE",
               "VPY": "33,902,212"
-          }
+          },
+           "Reunion": "",
+           "Where the Boats Go": "short",
+           "Wait": "",
+           "Raconte-Moi Une Histoire": "",
+           "Train to Pluton": "short",
+           "Claudia Lewis": "",
+           "This Bright Flash": "short",
+           "When Will You Come Home?": "short",
+           "Soon, My Friend": "",
+           "My Tears Are Becoming a Sea": "short",
+           "New Map": "",
+           "OK Pal": "",
+           "Another Wave From You": "short",
+           "Splendor": "",
+           "Year One, One UFO": "",
+           "Fountains": "short",
+           "Steve McQueen": "",
+           "Echoes of Mine": "",
+           "Klaus I Love You": "short",
+           "Outro": ""
       },
       "Saturdays = Youth": {
          "$date": "2008",
@@ -97,7 +119,7 @@
          "Moon Child": "good",
          "Don’t Save Us From the Flames": "good",
          "In the Cold I’m Standing": "good",
-         "Farewell / Goodbye": "",
+         "Farewell / Goodbye": "bad",
          "Fields, Shorelines and Hunters": "short",
          "*": "short",
          "I Guess I’m Floating": "good",
@@ -105,7 +127,7 @@
          "Can’t Stop": "short",
          "Safe": "",
          "Let Men Burn Stars": "short",
-         "Car Chase Terror": "",
+         "Car Chase Terror": "good",
          "Slight Night Shiver": "short",
          "A Guitar and a Heart": "",
          "Lower Your Eyelids to Die With the Sun": ""
@@ -125,10 +147,10 @@
          "Gone": "bad",
          "Beauties Can Die": "bad",
          "Tsubasa": "bad",
-         "God of Thunder": "",
+         "God of Thunder": "bad",
          "In Church (Cyann & Ben version)": "good",
          "Gone (live)": "bad",
-         "Dead Cities, Red Seas & Lost Ghosts": ""
+         "Dead Cities, Red Seas & Lost Ghosts": "long"
       },
       "M83": {
          "$date": "2001",

@@ -450,7 +450,7 @@
          "Undo": "bad",
          "Pagan Poetry": "bad",
          "Frosti": "short",
-         "Aurora": "",
+         "Aurora": "good",
          "An Echo, a Stain": "",
          "Sun in My Mouth": "short",
          "Heirloom": "",
@@ -486,22 +486,22 @@
          "Cover Me": "short",
          "Headphones": "bad"
       },
-      "Debut": {
-         "$date": "1993",
-         "$list": "white",
-         "Human Behaviour": "bad",
-         "Crying": "bad",
-         "Venus as a Boy": "good",
-         "There’s More to Life Than This": "bad",
-         "Like Someone in Love": "good",
-         "Big Time Sensuality": "bad",
-         "One Day": "bad",
-         "Aeroplane": "bad",
-         "Come to Me": "good",
-         "Violently Happy": "bad",
-         "The Anchor Song": "good",
-         "Play Dead": "good"
-      }
+       "Debut": {
+           "$date": "1993-07-12",
+           "$list": "white",
+           "Human Behaviour": "bad",
+           "Crying": "bad",
+           "Venus as a Boy": "good",
+           "There’s More to Life Than This": "bad",
+           "Like Someone in Love": "good",
+           "Big Time Sensuality": "bad",
+           "One Day": "bad",
+           "Aeroplane": "bad",
+           "Come to Me": "good",
+           "Violently Happy": "bad",
+           "The Anchor Song": "good",
+            "Play Dead": "good"
+       }
    },
    "Blink 182": {
       "California": {
@@ -721,7 +721,7 @@
          "Roygbiv": "short",
          "Rue the Whirl": "bad",
          "Aquarius": "bad",
-         "Olson": "short",
+         "Olson": "good",
          "Pete Standing Alone": "bad",
          "Smokes Quantity": "bad",
          "Open the Light": "good",
