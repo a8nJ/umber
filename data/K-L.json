@@ -877,6 +877,20 @@
       }
    },
    "Lykke Li": {
+       "so sad so sexy": {
+           "$date": "2018-06-08",
+           "$list": "white",
+           "hard rain": "bad",
+           "deep end": "",
+           "two nights": "",
+           "last piece": "",
+           "jaguars in the air": "",
+           "sex money feelings die": "short",
+           "so sad so sexy": "",
+           "better alone": "",
+           "bad woman": "",
+           "utopia": ""
+       },
       "I Never Learn": {
          "$date": "2014",
          "$list": "white",
@@ -890,15 +904,23 @@
          "Heart of Steel": "bad",
          "Sleeping Alone": "short"
       },
-      "Wounded Rhymes": {
-         "$date": "2011",
-         "$list": "black",
-         "I Follow Rivers": {
-            "VPY": "25,587,457",
-            "URL": "https://youtu.be/K3JGxj2rvAs"
-         },
-         "Sadness Is a Blessing": ""
-      },
+       "Wounded Rhymes": {
+           "$date": "2011-02-28",
+           "$list": "black",
+           "Youth Knows No Pain": "short",
+          "I Follow Rivers - Lykke Li (La Vie d'Adèle/La Vida de Adele)": {
+              "URL": "https://youtu.be/K3JGxj2rvAs",
+              "VPY": "31,412,333"
+          },
+           "Love Out Of Lust": "",
+           "Unrequited Love": "",
+           "Get Some": "",
+           "Rich Kids Blues": "",
+           "Sadness Is A Blessing": "",
+           "I Know Places": "",
+           "Jerome": "",
+           "Silent My Song": ""
+       },
       "Youth Novels": {
          "$date": "2008",
          "$list": "white",

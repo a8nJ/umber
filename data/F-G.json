@@ -1,5 +1,21 @@
 {
    "Fatboy Slim": {
+       "Palookaville": {
+           "$date": "2004-10-04",
+           "$list": "white",
+           "Don’t Let the Man Get You Down": "bad",
+           "Slash Dot Dash": "short",
+           "Wonderful Night": "bad",
+           "Long Way From Home": "bad",
+           "Put It Back Together": "bad",
+           "Mi Bebé Masoquista": "bad",
+           "Push and Shove": "",
+           "North West Three": "",
+           "The Journey": "",
+           "Jin Go Lo Ba": "",
+           "Song for Chesh": "",
+           "The Joker": ""
+       },
       "Halfway Between the Gutter and the Stars": {
          "$date": "2000",
          "$list": "white",
@@ -18,11 +34,11 @@
       "You’ve Come a Long Way, Baby": {
          "$date": "1998",
          "$list": "white",
-         "Right Here, Right Now": {
-            "VPY": "5,592,444",
-            "URL": "https://youtu.be/l7ZlSHGFfdc",
-            "rate": "good"
-         },
+          "Fatboy Slim - Right Here, Right Now": {
+              "URL": "https://youtu.be/l7ZlSHGFfdc",
+              "VPY": "6,368,320",
+               "rate": "good"
+          },
          "The Rockafeller Skank": "good",
          "Fucking in Heaven": "",
          "Gangster Tripping": "",

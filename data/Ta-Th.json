@@ -1513,6 +1513,23 @@
       }
    },
    "Thunderball": {
+       "12 Mile High": {
+           "$date": "2010-11-09",
+           "$list": "white",
+           "Enter the Brahmin": "good",
+           "12 Mile High": "",
+           "Make Your Move (feat. Mustafa Akbar)": "",
+           "Dub Science (feat. Zeebo)": "",
+           "Low Down Weather": "",
+           "IC Colors (feat. Mustafa Akbar)": "",
+           "Flippin' It On": "",
+           "Rico Ritmo (feat. Miss Johnna M)": "",
+           "Rio Mescalito": "",
+           "Moon on the Rise (feat. Rootz)": "",
+           "Runaway (feat. Miss Johnna M)": "",
+           "To Catch A Vixen": "",
+           "Penthouse Soul": ""
+       },
       "Cinescope": {
          "$date": "2004",
          "$list": "white",
@@ -1537,10 +1554,7 @@
          "Vai Vai": "",
          "Sapphire": "",
          "Angela’s Lament": "",
-         "Scorpio Rising": {
-            "VPY": "3,965",
-            "URL": "https://youtu.be/uF1-yW79tw4"
-         },
+         "Scorpio Rising": "",
          "Stereo Tonic": "",
          "Vibrations": "",
          "Solar": "good",
