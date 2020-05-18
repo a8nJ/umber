@@ -1,16 +1,27 @@
 {
    "Daft Punk": {
-      "$check": "2020-05-12",
-      "Random Access Memories": {
-         "$date": "2013",
-         "$list": "black",
-         "Get Lucky": {
-            "VPY": "74,543,389",
-            "URL": "https://youtu.be/5NV6Rdv1a3I"
+      "$list": "youtube.com/playlist?list=PLDGvrCyjfEasgDLh8sYjIgLmbclJlb_Td",
+       "Random Access Memories": {
+           "$date": "2013-05-17",
+           "Give Life Back to Music": "",
+           "The Game of Love": "",
+           "Giorgio by Moroder": "",
+           "Within": "",
+           "Instant Crush": "",
+           "Lose Yourself to Dance": "",
+           "Touch": "",
+           "Get Lucky": {
+             "id": "5NV6Rdv1a3I",
+             "views": "501,774,240",
+             "published": "2013-04-18",
+             "views per year": "70,843,850"
          },
-         "Instant Crush": "",
-         "Lose Yourself to Dance": ""
-      },
+           "Beyond": "",
+           "Motherboard": "",
+           "Fragments of Time": "",
+           "Doin’ It Right": "",
+           "Contact": ""
+       },
       "TRON Legacy": {
          "$date": "2010",
          "$list": "white",
@@ -56,7 +67,6 @@
       },
       "Human After All": {
          "$date": "2005",
-         "$list": "white",
          "Human After All": "bad",
          "The Prime Time of Your Life": "bad",
          "Robot Rock": "bad",
@@ -65,28 +75,50 @@
          "The Brainwasher": "bad",
          "On/Off": "short",
          "Television Rules the Nation": "",
-         "Technologic": {
-            "VPY": "4,433,751",
-            "URL": "https://youtu.be/D8K90hX4PrE"
-         },
+         "Technologic": "",
          "Emotion": ""
       },
-      "Discovery": {
-         "$date": "2001",
-         "$list": "black",
-         "Digital Love": "",
-         "Harder Better Faster Stronger": "",
-         "One More Time": "",
-         "Something About Us": ""
-      },
-      "Homework": {
-         "$date": "1997",
-         "$list": "black",
-         "Around the World": {
-            "VPY": "12,883,797",
-            "URL": "https://youtu.be/yca6UsllwYs"
-         }
-      }
+       "Discovery": {
+           "$date": "2001-02-26",
+           "One More Time": {
+               "id": "FGBhQbmPwH8",
+               "views": "231,899,105",
+               "published": "2009-02-23",
+               "views per year": "20,648,744"
+         },
+           "Aerodynamic": "",
+           "Digital Love": "",
+           "Harder, Better, Faster, Stronger": "",
+           "Crescendolls": "",
+           "Nightvision": "short",
+           "Superheroes": "",
+           "High Life": "",
+           "Something About Us": "",
+           "Voyager": "",
+           "Veridis Quo": "",
+           "Short Circuit": "",
+           "Face to Face": "",
+           "Too Long": ""
+       },
+       "Homework": {
+           "$date": "1996",
+           "Daftendirekt": "short",
+           "WDPK 83.7 FM": "short",
+           "Revolution 909": "",
+           "Da Funk": "",
+           "Phœnix": "",
+           "Fresh": "",
+           "Around the World": "",
+           "Rollin’ & Scratchin’": "",
+           "Teachers": "short",
+           "High Fidelity": "",
+           "Rock’n Roll": "",
+           "Oh Yeah": "short",
+           "Burnin’": "",
+           "Indo Silver Club": "",
+           "Alive": "",
+           "Funk Ad": "short"
+       }
    },
    "Dan Hess": {
       "Pilotwings 64": {
@@ -226,6 +258,9 @@
          "Pay for What You Get": "",
          "34": ""
       }
+   },
+   "David Bowie": {
+      "$list": "youtube.com/playlist?list=PLJ8y7DDcrI_qIDA_4vFS_ocezl8i9ZaGe"
    },
    "Dee Montero": {
       "Headspace": {

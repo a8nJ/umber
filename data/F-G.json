@@ -198,11 +198,7 @@
          "Caroline": "",
          "Tango in the Night": "",
          "Mystified": "",
-         "Little Lies": {
-            "rate": "good",
-            "VPY": "2,190,958",
-            "URL": "https://youtu.be/Xr9Oubxw1gA"
-         },
+         "Little Lies": "good",
          "Family Man": "",
          "Welcome to the Room… Sara": "",
          "Isn’t It Midnight": "",
@@ -225,25 +221,24 @@
          "Eyes of the World": "",
          "Wish You Were Here": ""
       },
-      "Rumours": {
-         "$date": "1977",
-         "$list": "black",
-         "Dreams": "",
-         "Go Your Own Way": {
-            "VPY": "12,697,708",
-            "URL": "https://youtu.be/6ul-cZyuYq4"
-         },
-         "The Chain": ""
-      },
-      "Fleetwood Mac": {
-         "$date": "1975",
-         "$list": "black",
-         "stuns crowd with Fleetwood Mac's \"Landslide\"- Chica": {
-             "URL": "https://youtu.be/x--yddOolRQ",
-             "VPY": "6,391,722"
-         },
-         "Rhiannon": ""
-      }
+       "Rumours": {
+           "$date": "1977-02-04",
+           "$list": "black",
+           "Second Hand News": "short",
+           "Dreams": "",
+           "Never Going Back Again": "short",
+           "Don’t Stop": "",
+          "Fleetwood Mac - Go Your Own Way (HQ)": {
+              "URL": "https://youtu.be/6ul-cZyuYq4",
+              "VPY": "12,886,239"
+          },
+           "Songbird": "",
+           "The Chain": "",
+           "You Make Loving Fun": "",
+           "I Don’t Want to Know": "",
+           "Oh Daddy": "",
+           "Gold Dust Woman": ""
+       }
    },
    "Floating Points": {
       "Reflections - Mojave Desert": {
@@ -1250,7 +1245,7 @@
       "Vertigo": {
          "$date": "1999-05-24",
          "$list": "white",
-         "$URL": "https://youtube.com/playlist?list=OLAK5uy_nsfi00gDj8c8bhccR_d5W89Yh3SkGJyjY",
+         "$URL": "youtube.com/playlist?list=OLAK5uy_nsfi00gDj8c8bhccR_d5W89Yh3SkGJyjY",
          "Chicago": "bad",
          "Whatever, Whenever": "bad",
          "Dusk You & Me": "bad",

@@ -250,6 +250,7 @@
       }
    },
    "Tool": {
+      "$list": "youtube.com/playlist?list=PLyYzsp1xJ7S7_HZWUApJxos-J0ts5hhtw",
       "Lateralus": {
          "$date": "2001",
          "$list": "white",
@@ -445,6 +446,20 @@
       }
    },
    "Toro y Moi": {
+       "Outer Peace": {
+           "$date": "2019-01-18",
+           "$list": "white",
+           "Fading": "bad",
+           "Ordinary Pleasure": "bad",
+           "Laws of the Universe": "short",
+           "Miss Me": "bad",
+           "New House": "short",
+           "Baby Drive It Down": "",
+           "Freelance": "",
+           "Who Am I": "",
+           "Monte Carlo": "short",
+           "50‐50": ""
+       },
       "Boo Boo": {
          "$date": "2017",
          "$list": "white",
