@@ -2,7 +2,6 @@
    "Harold Budd": {
       "Jane 12-21": {
          "$date": "2014",
-         "$list": "white",
          "Jane 12": "bad",
          "Jane 13": "bad",
          "Jane 14": "bad",
@@ -16,7 +15,6 @@
       },
       "Jane 1-11": {
          "$date": "2013",
-         "$list": "white",
          "Jane 1": "bad",
          "Jane 2": "good",
          "Jane 3": "good",
@@ -31,7 +29,6 @@
       },
       "Bandits of Stature": {
           "$date": "2012-11-27",
-          "$list": "white",
           "Merry-Go-Round: The Dream of the Girl at the Lonely Desert ": "short",
           "Merry-Go-Round: Claude Lorrain Avoids the Cinder Block Mote": "short",
           "Merry-Go-Round: Nicolas Poussin Near 29 Palms": "short",
@@ -49,7 +46,6 @@
       },
       "Bordeaux": {
          "$date": "2011",
-         "$list": "white",
          "Gaze": "",
          "Deva C": "",
          "The Names of Those Never Here": "good",
@@ -62,7 +58,6 @@
       },
       "After the Night Falls": {
           "$date": "2007-06-11",
-          "$list": "white",
           "How Distant Your Heart": "bad",
           "Avenue of Shapes": "good",
           "Seven Thousand Sunny Years": "bad",
@@ -75,7 +70,6 @@
       },
       "Before the Day Breaks": {
           "$date": "2007-06-11",
-          "$list": "white",
           "How Close Your Soul": "good",
           "A Formless Path": "good",
           "A Minute, a Day, No More": "good",
@@ -88,7 +82,6 @@
       },
       "Perhaps": {
           "$date": "2007-02-09",
-          "$list": "white",
           "Templar": "bad",
           "Tong War": "bad",
           "Quadari": "bad",
@@ -105,7 +98,6 @@
       },
     "Luxa": {
         "$date": "1996-09-24",
-        "$list": "white",
         "Niki D.": "good",
         "A Sidelong Glance From My Round Nefertiti": "",
         "Agnes Martin": "",
@@ -125,7 +117,6 @@
     },
       "Through the Hill": {
          "$date": "1994",
-         "$list": "white",
          "Hand 19": "short",
          "Through the Hill": "good",
          "Great Valley of Gongs": "good",
@@ -147,7 +138,6 @@
       },
       "The White Arcades": {
          "$date": "1988",
-         "$list": "white",
          "The White Arcades": "bad",
          "Balthus Bemused by Color": "bad",
          "The Child With a Lion": "bad",
@@ -160,7 +150,6 @@
       },
       "The Pearl": {
          "$date": "1984",
-         "$list": "white",
          "Late October": "",
          "A Stream With Bright Fish": "",
          "The Silver Ball": "",
@@ -175,7 +164,6 @@
       },
       "Ambient 2: The Plateaux of Mirror": {
           "$date": "1980",
-          "$list": "white",
           "First Light": "bad",
           "Steal Away": "short",
           "The Plateaux of Mirror": "",
@@ -191,7 +179,6 @@
    "Heart": {
       "Bad Animals": {
          "$date": "1987",
-         "$list": "black",
          "Alone": {
             "VPY": "17,146,245",
             "URL": "https://youtu.be/1Cw1ng75KP0"
@@ -199,7 +186,6 @@
       },
       "Dog & Butterfly": {
          "$date": "1978",
-         "$list": "white",
          "Cook With Fire": "",
          "High Time": "",
          "Hijinx": "",
@@ -211,7 +197,6 @@
       },
       "Little Queen": {
          "$date": "1977",
-         "$list": "white",
          "Barracuda": "good",
          "Love Alive": "",
          "Sylvan Song": "short",
@@ -226,7 +211,6 @@
    },
    "Hem": {
       "Departure & Farewell": {
-         "$list": "white",
          "Departure and Farewell": "",
          "Walking Past the Graveyard, Not Breathing": "short",
          "Things Are Not Perfect in Our Yard": "short",
@@ -244,7 +228,6 @@
    },
    "Henrik Schwarz": {
       "Instruments": {
-         "$list": "white",
          "Walk Music Four": "",
          "Marvin Two": "",
          "Cloud Three": "",
@@ -257,14 +240,12 @@
    "Hope Sandoval & The Warm Inventions": {
       "Son of a Lady": {
          "$date": "2017-09-15",
-         "$list": "white",
          "Sleep": "",
          "Son of a Lady": "",
          "Let Me Get There (acoustic)": "good"
       },
       "Until the Hunter": {
           "$date": "2016-11-03",
-          "$list": "white",
           "Into the Trees": "bad",
           "The Peasant": "bad",
           "A Wonderful Seed": "bad",
@@ -279,7 +260,6 @@
       },
       "Through the Devil Softly": {
          "$date": "2009-08-28",
-         "$list": "white",
          "Blanchard": "",
          "Wild Roses": "",
          "For the Rest of Your Life": "",
@@ -294,7 +274,6 @@
       },
       "Bavarian Fruit Bread": {
          "$date": "2001-11-05",
-         "$list": "white",
          "Drop": "short",
          "Suzanne": "",
          "Butterfly Mornings": "good",
@@ -312,7 +291,6 @@
    "Hudson Mohawke": {
       "Lantern": {
          "$date": "2015",
-         "$list": "white",
          "Lantern": "short",
          "Very First Breath": "bad",
          "Ryderz": "short",
@@ -330,7 +308,6 @@
       },
       "Butter": {
          "$date": "2009",
-         "$list": "white",
          "Shower Melody": "short",
          "Gluetooth": "good",
          "Joy Fantastic": "bad",
@@ -354,7 +331,6 @@
    "Imogen Heap": {
       "Sparks": {
          "$date": "2014",
-         "$list": "white",
          "You Know Where to Find Me": "good",
          "Entanglement": "",
          "The Listening Chair": "",
@@ -372,7 +348,6 @@
       },
       "Ellipse": {
          "$date": "2009",
-         "$list": "white",
          "First Train Home": "bad",
          "Wait It Out": "bad",
          "Earth": "bad",
@@ -389,7 +364,6 @@
       },
       "Speak for Yourself": {
           "$date": "2005-07-18",
-          "$list": "white",
           "Headlock": "",
           "Goodnight and Go": "",
           "Have You Got It in You?": "good",
@@ -405,7 +379,6 @@
       },
       "i Megaphone": {
          "$date": "1998",
-         "$list": "white",
          "Getting Scared": "bad",
          "Sweet Religion": "bad",
          "Oh Me, Oh My": "bad",
@@ -422,7 +395,6 @@
    "Incubus": {
       "Light Grenades": {
          "$date": "2006",
-         "$list": "white",
          "Quicksand": "short",
          "A Kiss to Send Us Off": "",
          "Dig": "good",
@@ -441,7 +413,6 @@
       },
       "A Crow Left of the Murder": {
          "$date": "2004",
-         "$list": "white",
          "Megalomaniac": "bad",
          "A Crow Left of the Murder": "bad",
          "Agoraphobia": "bad",
@@ -459,7 +430,6 @@
       },
       "Morning View": {
          "$date": "2001",
-         "$list": "white",
          "Nice to Know You": "good",
          "Circles": "good",
          "Wish You Were Here": {
@@ -480,7 +450,6 @@
       },
       "Make Yourself": {
          "$date": "1999",
-         "$list": "black",
          "Drive": {
             "VPY": "10,366,778",
             "URL": "https://youtu.be/fgT9zGkiLig"
@@ -491,7 +460,6 @@
       "$check": "2020-05-07",
       "Marauder": {
          "$date": "2018",
-         "$list": "white",
          "If You Really Love Nothing": "",
          "The Rover": "",
          "Complications": "",
@@ -508,7 +476,6 @@
       },
       "El Pintor": {
          "$date": "2014",
-         "$list": "white",
          "All the Rage Back Home": "good",
          "My Desire": "good",
          "Anywhere": "",
@@ -522,7 +489,6 @@
       },
       "Interpol": {
          "$date": "2010",
-         "$list": "white",
          "Success": "bad",
          "Memory Serves": "bad",
          "Summer Well": "bad",
@@ -537,7 +503,6 @@
       },
       "Our Love to Admire": {
          "$date": "2007",
-         "$list": "white",
          "Pioneer to the Falls": "good",
          "No I in Threesome": "good",
          "The Scale": "good",
@@ -552,7 +517,6 @@
       },
       "Antics": {
          "$date": "2004",
-         "$list": "white",
          "Next Exit": "",
          "Evil": "",
          "NARC": "good",
@@ -571,7 +535,6 @@
       },
       "Turn On the Bright Lights": {
          "$date": "2002",
-         "$list": "white",
          "Untitled": "",
          "Obstacle 1": "good",
          "NYC": "",
@@ -588,7 +551,6 @@
    "INXS": {
       "Kick": {
          "$date": "1987",
-         "$list": "white",
          "Guns in the Sky": "short",
          "New Sensation": "",
          "Devil Inside": "",
@@ -610,7 +572,6 @@
    "Iron & Wine": {
       "The Shepherd's Dog": {
           "$date": "2007-09-24",
-          "$list": "white",
           "Pagan Angel and a Borrowed Car": "",
           "White Tooth Man": "bad",
           "Lovesong of the Buzzard": "",
@@ -626,7 +587,6 @@
       },
       "Our Endless Numbered Days": {
          "$date": "2004",
-         "$list": "white",
          "On Your Wings": "",
          "Naked as We Came": "short",
          "Cinder and Smoke": "good",
@@ -644,7 +604,6 @@
    "Isan": {
       "Glow in the Dark Safari Set": {
           "$date": "2010-06-22",
-          "$list": "white",
           "Channel Ten": "bad",
           "Device": "short",
           "Merman Sound": "bad",
@@ -659,7 +618,6 @@
       },
       "Plans Drawn in Pencil": {
          "$date": "2006",
-         "$list": "white",
          "Look and Yes": "short",
          "Cinnabar": "bad",
          "Yttrium": "bad",
@@ -676,7 +634,6 @@
       },
       "Meet Next Life": {
          "$date": "2004",
-         "$list": "white",
          "Birds Over Barges": "bad",
          "First Date - Jumble Sale": "",
          "One Man Abandon": "",
@@ -692,7 +649,6 @@
       },
       "Lucky Cat": {
          "$date": "2001",
-         "$list": "white",
          "Cutlery Favours": "bad",
          "Table of Deciduous Species": "bad",
          "Fueled": "bad",
@@ -712,7 +668,6 @@
       },
       "Salamander": {
          "$date": "1999",
-         "$list": "white",
          "Peg": "bad",
          "Proager": "short",
          "Clipper": "bad",
@@ -727,7 +682,6 @@
       },
       "Beautronics": {
          "$date": "1998",
-         "$list": "white",
          "Vosill": "good",
          "Tint1-Barely Barley": "short",
          "Paintchart": "bad",
@@ -748,7 +702,6 @@
    },
    "Jabberwocky": {
       "Lunar Lane": {
-         "$list": "white",
          "Maze": "short",
          "Fog": "good",
          "Photomaton": {
@@ -769,7 +722,6 @@
    "Jackson C. Frank": {
       "The Complete Recordings": {
          "$date": "2015",
-         "$list": "white",
          "(Tumble) In the Wind (version 1)": "short",
          "(Tumble) In the Wind (version 2)": "",
          "Ananias": "short",
@@ -835,7 +787,6 @@
    "James Blake": {
       "Assume Form": {
          "$date": "2019-01-18",
-         "$list": "white",
          "Assume Form": "",
          "Mile High": "",
          "Tell Them": "bad",
@@ -851,7 +802,6 @@
       },
       "Overgrown": {
          "$date": "2013",
-         "$list": "white",
          "Overgrown": "good",
          "I Am Sold": "",
          "Life Round Here": "",
@@ -865,7 +815,6 @@
       },
       "James Blake": {
          "$date": "2011",
-         "$list": "white",
          "Unluck": "",
          "The Wilhelm Scream": "good",
          "I Never Learnt to Share": "",
@@ -884,8 +833,11 @@
       }
    },
    "Jamie xx": {
+       "Idontknow": {
+           "$date": "2020-04-15",
+           "Idontknow": ""
+       },
       "In Colour": {
-         "$list": "white",
          "Gosh": "",
          "Sleep Sound": "",
          "SeeSaw": "",
@@ -893,10 +845,7 @@
          "Just Saying": "short",
          "Stranger in a Room": "short",
          "Hold Tight": "",
-         "Loud Places": {
-            "VPY": "5,664,607",
-            "URL": "https://youtu.be/TP9luRtEqjc"
-         },
+         "Loud Places": "",
          "I Know There’s Gonna Be (Good Times)": "",
          "The Rest Is Noise": "",
          "Girl": "good"
@@ -905,7 +854,6 @@
    "Janet Jackson": {
       "Unbreakable": {
          "$date": "2015-10-02",
-         "$list": "white",
          "Unbreakable": "",
          "BURNITUP!": "",
          "Dammn Baby": "",
@@ -926,7 +874,6 @@
       },
       "The Velvet Rope": {
          "$date": "1997",
-         "$list": "white",
          "Interlude Twisted Elegance": "short",
          "Velvet Rope": "",
          "You": "",
@@ -952,7 +899,6 @@
       },
       "janet.": {
          "$date": "1993",
-         "$list": "white",
          "Morning": "short",
          "That’s the Way Love Goes": "good",
          "You Know...": "short",
@@ -983,7 +929,6 @@
       },
       "Rhythm Nation 1814": {
          "$date": "1989",
-         "$list": "white",
          "Interlude Pledge": "short",
          "Rhythm Nation": "",
          "Interlude T.V.": "short",
@@ -1009,7 +954,6 @@
    "JAWS": {
       "Simplicity": {
           "$date": "2016-11-04",
-          "$list": "white",
           "Just a Boy": "bad",
           "What We Haven't Got Yet": "good",
           "Right in Front of Me": "good",
@@ -1024,7 +968,6 @@
       },
       "Be Slowly": {
           "$date": "2014-09-15",
-          "$list": "white",
           "Time": "bad",
           "Cameron": "",
           "Gold": "",
@@ -1041,7 +984,6 @@
    "Jay-Z": {
       "444": {
          "$date": "2017",
-         "$list": "black",
          "444": "",
          "Bam": "",
          "Family Feud": "",
@@ -1052,7 +994,6 @@
       },
       "Watch the Throne": {
          "$date": "2011",
-         "$list": "black",
          "Niggas In Paris": {
             "VPY": "34,181,289",
             "URL": "https://youtu.be/gG_dA32oH44"
@@ -1061,7 +1002,6 @@
       },
       "The Blueprint² The Gift & The Curse": {
          "$date": "2002",
-         "$list": "white",
          "A Dream": "",
          "Hovi Baby": "",
          "The Watcher 2": "",
@@ -1094,7 +1034,6 @@
    },
    "Jeff Buckley": {
       "Grace": {
-         "$list": "black",
          "Hallelujah": {
             "VPY": "14,630,197",
             "URL": "https://youtu.be/y8AWFf7EAc4"
@@ -1105,7 +1044,6 @@
    "Jekka": {
       "City of Night": {
          "$date": "2015",
-         "$list": "white",
          "Midnight Hour": "bad",
          "City Of Night": {
             "rate": "good",
@@ -1119,7 +1057,6 @@
    "Jennifer Lopez": {
       "A.K.A.": {
          "$date": "2014",
-         "$list": "black",
          "Booty": {
             "VPY": "70,093,191",
             "URL": "https://youtu.be/nxtIRArhVD4"
@@ -1127,7 +1064,6 @@
       },
       "LOVE?": {
          "$date": "2011",
-         "$list": "black",
          "On The Floor": {
             "VPY": "167,548,257",
             "URL": "https://youtu.be/t4H_Zoh7G5A"
@@ -1136,7 +1072,6 @@
       },
       "Rebirth": {
          "$date": "2005",
-         "$list": "black",
          "Get Right": {
             "VPY": "11,605,360",
             "URL": "https://youtu.be/1WIsnC-h1d0"
@@ -1144,7 +1079,6 @@
       },
       "J.Lo": {
          "$date": "2001",
-         "$list": "black",
          "I’m Gonna Be Alright": "",
          "I’m Real": "",
          "Love Don’t Cost a Thing": {
@@ -1154,7 +1088,6 @@
       },
       "On the 6": {
          "$date": "1999",
-         "$list": "black",
          "If You Had My Love": {
             "VPY": "10,299,126",
             "URL": "https://youtu.be/lYfkl-HXfuU"
@@ -1164,7 +1097,6 @@
    "Jeremy Soule": {
       "The Northerner Diaries": {
          "$date": "2017-12-21",
-         "$list": "white",
          "Njól": "good",
          "Útanlands": "",
          "Draumr": "",
@@ -1180,7 +1112,6 @@
       },
       "The Elder Scrolls V: Skyrim": {
           "$date": "2011-11-11",
-          "$list": "white",
           "Dragonborn": "bad",
           "Awake": "short",
           "From Past to Present": "good",
@@ -1237,7 +1168,6 @@
       },
       "The Elder Scrolls IV Oblivion": {
          "$date": "2006",
-         "$list": "white",
          "Reign of the Septims": "short",
          "Through the Valleys": "good",
          "Death Knell": "short",
@@ -1267,7 +1197,6 @@
       },
       "The Elder Scrolls III Morrowind": {
          "$date": "2002",
-         "$list": "white",
          "Nerevar Rising": "short",
          "Peaceful Waters": "good",
          "Knight’s Charge": "short",
@@ -1293,7 +1222,6 @@
    "Jessie Ware": {
       "Glasshouse": {
          "$date": "2017",
-         "$list": "white",
          "Midnight": "bad",
          "Thinking About You": "bad",
          "Stay Awake, Wait for Me": "good",
@@ -1312,7 +1240,6 @@
       },
       "Tough Love": {
          "$date": "2014",
-         "$list": "white",
          "Kind of…Sometimes…Maybe": "",
          "Say You Love Me": {
             "VPY": "23,675,979",
@@ -1321,7 +1248,6 @@
       },
       "Devotion": {
           "$date": "2012-08-16",
-          "$list": "white",
           "Devotion": "",
          "Jessie Ware - Wildest Moments": {
              "URL": "https://youtu.be/bMJkddvJ4L4",
@@ -1341,7 +1267,6 @@
    "Jessy Lanza": {
       "Oh No": {
           "$date": "2016-05-13",
-          "$list": "white",
           "New Ogi": "short",
           "VV Violence": "bad",
           "Never Enough": "bad",
@@ -1355,7 +1280,6 @@
       },
       "You Never Show Your Love": {
          "$date": "2015",
-         "$list": "white",
          "You Never Show Your Love": "good",
          "You Never Show Your Love (instrumental)": "",
          "You Never Show Your Love (Teklife mix)": "",
@@ -1363,7 +1287,6 @@
       },
       "Pull My Hair Back": {
          "$date": "2013",
-         "$list": "white",
          "Giddy": "",
          "5785021": "",
          "Kathy Lee": "",
@@ -1377,7 +1300,6 @@
    },
    "John Frusciante": {
       "Curtains": {
-         "$list": "white",
          "The Past Recedes": {
             "VPY": "820,397",
             "URL": "https://youtu.be/4v9CfE90Sts"
@@ -1396,7 +1318,6 @@
    },
    "John Frusciante & Omar Rodriguez Lopez": {
       "Omar Rodriguez Lopez & John Frusciante": {
-         "$list": "white",
          "417 am": "",
          "0=2": "good",
          "LOE": "",
@@ -1409,7 +1330,6 @@
    "John Powell": {
       "The Bourne Supremacy": {
          "$date": "2004-07-27",
-         "$list": "white",
          "Goa": "good",
          "The Drop": "",
          "Funeral Pyre": "short",
@@ -1427,7 +1347,6 @@
    },
    "Joss Stone": {
       "Super Duper Love": {
-         "$list": "white",
          "It’s a Man’s Man’s World (live)": "good",
          "Super Duper Love (Are You Diggin’ on Me?), Part 1": ""
       }
@@ -1435,7 +1354,6 @@
    "Joy Division": {
       "Love Will Tear Us Apart": {
          "$date": "1980",
-         "$list": "black",
          "Love Will Tear Us Apart": {
             "VPY": "9,197,387",
             "URL": "https://youtu.be/zuuObGsB0No"
@@ -1444,7 +1362,6 @@
       },
       "Unknown Pleasures": {
          "$date": "1979",
-         "$list": "white",
          "Disorder": "good",
          "Day of the Lords": "good",
          "Candidate": "",
@@ -1460,7 +1377,6 @@
    "Julia Holter": {
        "Aviary": {
            "$date": "2018-10-26",
-           "$list": "white",
            "Turn the Light On": "bad",
            "Whether": "short",
            "Chaitius": "",
@@ -1479,7 +1395,6 @@
        },
       "Have You in My Wilderness": {
          "$date": "2015",
-         "$list": "white",
          "Feel You": "good",
          "Silhouette": "",
          "How Long?": "",
@@ -1493,7 +1408,6 @@
       },
       "Maria": {
          "$date": "2014",
-         "$list": "white",
          "Maria": "good",
          "2HB": "",
          "A Gold Thunder": "short",
@@ -1506,7 +1420,6 @@
       },
       "Loud City Song": {
          "$date": "2013",
-         "$list": "white",
          "World": "",
          "Maxim’s I": "",
          "Horns Surrounding Me": "good",
@@ -1519,7 +1432,6 @@
       },
       "Ekstasis": {
           "$date": "2012-03-06",
-          "$list": "white",
           "Marienbad": "",
           "Our Sorrows": "",
           "In the Same Room": "bad",
@@ -1533,7 +1445,6 @@
       },
       "Tragedy": {
          "$date": "2011",
-         "$list": "white",
          "Introduction": "bad",
          "Try to Make Yourself a Work of Art": "bad",
          "The Falling Age": "bad",
@@ -1547,7 +1458,6 @@
    "Julianna Barwick": {
       "Nepenthe": {
          "$date": "2013",
-         "$list": "white",
          "Offing": "",
          "The Harbinger": "",
          "One Half": {
@@ -1564,7 +1474,6 @@
       },
       "The Magic Place": {
          "$date": "2011",
-         "$list": "white",
          "Envelop": "bad",
          "Keep Up the Good Work": "bad",
          "The Magic Place": "bad",
@@ -1579,7 +1488,6 @@
    "Justin Timberlake": {
       "Man of the Woods": {
          "$date": "2018",
-         "$list": "black",
          "Filthy": "",
          "Man of the Woods": "",
          "Say Something": {
@@ -1590,7 +1498,6 @@
       },
       "The 20/20 Experience (2 of 2)": {
          "$date": "2013-09-27",
-         "$list": "black",
          "Not a Bad Thing": "",
          "Take Back the Night": "",
          "TKO": {
@@ -1600,7 +1507,6 @@
       },
       "The 20/20 Experience": {
          "$date": "2013-03-15",
-         "$list": "black",
          "Mirrors": {
             "VPY": "90,408,909",
             "URL": "https://youtu.be/uuZE_IRwLNI"
@@ -1610,7 +1516,6 @@
       },
       "FutureSex/LoveSounds": {
          "$date": "2006",
-         "$list": "black",
          "Let Me Talk To You/My Love": "",
          "LoveStoned/I Think She Knows": "",
          "SexyBack": "",
@@ -1621,7 +1526,6 @@
       },
       "Justified": {
          "$date": "2002",
-         "$list": "black",
          "Cry Me a River": {
             "VPY": "31,647,715",
             "URL": "https://youtu.be/DksSPZTZES0"
