@@ -2,7 +2,6 @@
    "Fatboy Slim": {
        "Palookaville": {
            "$date": "2004-10-04",
-           "$list": "white",
            "Don’t Let the Man Get You Down": "bad",
            "Slash Dot Dash": "short",
            "Wonderful Night": "bad",
@@ -18,7 +17,6 @@
        },
       "Halfway Between the Gutter and the Stars": {
          "$date": "2000",
-         "$list": "white",
          "Talking Bout My Baby": "good",
          "Star 69": "bad",
          "Sunset (Bird of Prey)": "good",
@@ -33,7 +31,6 @@
       },
       "You’ve Come a Long Way, Baby": {
          "$date": "1998",
-         "$list": "white",
           "Fatboy Slim - Right Here, Right Now": {
               "URL": "https://youtu.be/l7ZlSHGFfdc",
               "VPY": "6,368,320",
@@ -52,7 +49,6 @@
       },
       "Better Living Through Chemistry": {
          "$date": "1996",
-         "$list": "white",
          "Song for Lindy": "good",
          "Santa Cruz": "good",
          "Going Out of My Head": "",
@@ -70,7 +66,6 @@
    "Filter": {
       "Title of Record": {
          "$date": "1999",
-         "$list": "white",
          "Sand": "short",
          "Welcome to the Fold": "",
          "Captain Bligh": "bad",
@@ -91,7 +86,6 @@
    "Flamingosis": {
       "Great Hair": {
          "$date": "2016",
-         "$list": "white",
          "Hidden Attraction": "short",
          "Frugal Livin’": "short",
          "Riding the L": "",
@@ -108,7 +102,6 @@
       },
       "Pleasure Palette": {
          "$date": "2015",
-         "$list": "white",
          "Pleasure Palette": "short",
          "Down For The Fifth Time": "good",
          "Finesse (Hey Baby)": "short",
@@ -130,7 +123,6 @@
    "Fleet Foxes": {
       "Crack‐Up": {
          "$date": "2017-06-16",
-         "$list": "white",
          "I Am All That I Need / Arroyo Seco / Thumbprint Scar": "",
          "Cassius, -": "",
          "- Naiads, Cassadies": "",
@@ -145,7 +137,6 @@
       },
       "Helplessness Blues": {
          "$date": "2011",
-         "$list": "white",
          "Montezuma": "good",
          "Bedouin Dress": "",
          "Sim Sala Bim": "",
@@ -161,7 +152,6 @@
       },
       "Fleet Foxes": {
          "$date": "2008-06-03",
-         "$list": "white",
          "Sun It Rises": "",
          "White Winter Hymnal": "short",
          "Ragged Wood": "good",
@@ -176,7 +166,6 @@
       },
       "Sun Giant": {
          "$date": "2008-03-09",
-         "$list": "white",
          "Sun Giant": "short",
          "Drops in the River": "good",
          "English House": "good",
@@ -191,7 +180,6 @@
    "Fleetwood Mac": {
       "Tango in the Night": {
          "$date": "1987",
-         "$list": "white",
          "Big Love": "",
          "Seven Wonders": "",
          "Everywhere": "good",
@@ -207,7 +195,6 @@
       },
       "Mirage": {
          "$date": "1982",
-         "$list": "white",
          "Love in Store": "",
          "Can’t Go Back": "short",
          "That’s Alright": "",
@@ -223,7 +210,6 @@
       },
        "Rumours": {
            "$date": "1977-02-04",
-           "$list": "black",
            "Second Hand News": "short",
            "Dreams": "",
            "Never Going Back Again": "short",
@@ -243,7 +229,6 @@
    "Floating Points": {
       "Reflections - Mojave Desert": {
          "$date": "2017",
-         "$list": "white",
          "Mojave Desert": "short",
          "Silurian Blue": "good",
          "Kites": "bad",
@@ -252,13 +237,11 @@
       },
       "Kuiper": {
          "$date": "2016",
-         "$list": "white",
          "Kuiper": "bad",
          "For Marmish Part II": "good"
       },
       "Elaenia": {
          "$date": "2015",
-         "$list": "white",
          "Nespole": "good",
          "Silhouettes (I, II & III)": "",
          "Elaenia": "",
@@ -270,7 +253,6 @@
       },
       "Shadows EP": {
          "$date": "2011",
-         "$list": "white",
          "Myrtle Avenue": "good",
          "Obfuse": "bad",
          "Realise": "bad",
@@ -281,7 +263,6 @@
    "Foghat": {
       "Fool for the City": {
          "$date": "1974",
-         "$list": "white",
          "Fool for the City": "",
          "My Babe": "",
          "Slow Ride": {
@@ -298,7 +279,6 @@
    "Foo Fighters": {
       "Concrete and Gold": {
          "$date": "2017",
-         "$list": "black",
          "Run": "",
          "The Sky Is a Neighborhood": {
             "VPY": "28,652,318",
@@ -307,7 +287,6 @@
       },
       "Sonic Highways": {
          "$date": "2014",
-         "$list": "black",
          "Something From Nothing": {
             "VPY": "7,013,168",
             "URL": "https://youtu.be/V_YlZ1JdcVk"
@@ -315,7 +294,6 @@
       },
       "Wasting Light": {
          "$date": "2011",
-         "$list": "black",
          "These Days": "",
          "Walk": {
             "VPY": "11,562,945",
@@ -324,7 +302,6 @@
       },
       "Echoes, Silence, Patience & Grace": {
          "$date": "2007",
-         "$list": "black",
          "The Pretender": {
             "VPY": "38,899,344",
             "URL": "https://youtu.be/SBjQ9tuuTJQ"
@@ -332,7 +309,6 @@
       },
       "In Your Honor": {
          "$date": "2005",
-         "$list": "black",
          "Best Of You": {
             "VPY": "16,432,068",
             "URL": "https://youtu.be/h_L4Rixya64"
@@ -340,7 +316,6 @@
       },
       "One by One": {
          "$date": "2002",
-         "$list": "black",
          "All My Life": {
             "VPY": "7,246,410",
             "URL": "https://youtu.be/xQ04WbgI9rg"
@@ -348,7 +323,6 @@
       },
       "There Is Nothing Left to Lose": {
          "$date": "1999",
-         "$list": "black",
          "Learn To Fly": {
             "VPY": "11,766,693",
             "URL": "https://youtu.be/1VQ_3sBZEm0"
@@ -356,7 +330,6 @@
       },
       "The Colour and the Shape": {
          "$date": "1997",
-         "$list": "black",
          "Foo Fighters - Everlong (Official Music Video)": {
              "URL": "https://youtu.be/eBG7P-K-r1Y",
              "VPY": "16,192,325"
@@ -366,7 +339,6 @@
    "Foreigner": {
       "Agent Provocateur": {
          "$date": "1984",
-         "$list": "black",
          "Foreigner - 'I Want To Know What Love Is' [Official Music Video]": {
              "URL": "https://youtu.be/raNGeq3_DtM",
              "VPY": "18,831,918"
@@ -374,7 +346,6 @@
       },
       "4": {
          "$date": "1981",
-         "$list": "white",
          "Night Life": "",
          "Juke Box Hero": "",
          "Break It Up": "",
@@ -388,7 +359,6 @@
       },
       "Foreigner": {
          "$date": "1977",
-         "$list": "white",
          "Feels Like The First Time": {
             "VPY": "282,733",
             "URL": "https://youtu.be/8Tl-kOcnn1U"
@@ -407,7 +377,6 @@
    "Four Tet": {
        "Beautiful Rewind": {
            "$date": "2013-10-03",
-           "$list": "white",
            "Gong": "bad",
            "Parallel Jalebi": "bad",
            "Our Navigation": "bad",
@@ -422,7 +391,6 @@
        },
       "Pink": {
           "$date": "2012-08-20",
-          "$list": "white",
           "Locked": "bad",
           "Lion": "bad",
           "Jupiters": "bad",
@@ -434,12 +402,10 @@
       },
       "Nova": {
           "$date": "2012-03-19",
-          "$list": "white",
           "Nova": "good"
       },
       "There Is Love in You": {
          "$date": "2010",
-         "$list": "white",
          "Angel Echoes": "",
          "Love Cry": "",
          "Circling": "",
@@ -452,13 +418,11 @@
       },
       "Moth / Wolf Cub": {
          "$date": "2009",
-         "$list": "white",
          "Moth": "good",
          "Wolf Cub": "good"
       },
       "Ringer": {
          "$date": "2008",
-         "$list": "white",
          "Ringer": "bad",
          "Ribbons": "good",
          "Swimmer": "good",
@@ -466,7 +430,6 @@
       },
       "Everything Ecstatic": {
           "$date": "2005-05-23",
-          "$list": "white",
           "A Joy": "bad",
           "Smile Around the Face": "bad",
           "Fuji Check": "short",
@@ -480,7 +443,6 @@
       },
       "Rounds": {
          "$date": "2003",
-         "$list": "white",
          "Hands": "good",
          "She Moves She": "good",
          "First Thing": "short",
@@ -494,7 +456,6 @@
       },
       "Pause": {
          "$date": "2001",
-         "$list": "white",
          "Glue of the World": "good",
          "Twenty Three": "bad",
          "Harmony One": "short",
@@ -509,7 +470,6 @@
       },
       "Dialogue": {
          "$date": "1999",
-         "$list": "white",
          "The Space of Two Weeks": "good",
          "Chiron": "bad",
          "Alambradas": "short",
@@ -523,7 +483,6 @@
    },
    "Foy Vance": {
       "Live at Bangor Abbey": {
-         "$list": "black",
          "Be the Song": "",
          "Make it rain": {
             "VPY": "8,003,040",
@@ -534,7 +493,6 @@
    "Frankie Rose": {
       "Cage Tropical": {
          "$date": "2017",
-         "$list": "white",
          "Love in Rockets": "",
          "Dyson Sphere": "",
          "Trouble": "",
@@ -548,7 +506,6 @@
       },
       "Herein Wild": {
          "$date": "2013",
-         "$list": "white",
          "You for Me": "bad",
          "Sorrow": "bad",
          "Into Blue": "bad",
@@ -562,7 +519,6 @@
       },
       "Interstellar": {
          "$date": "2012",
-         "$list": "white",
          "Interstellar": "",
          "Know Me": "short",
          "Gospel/Grace": "",
@@ -582,7 +538,6 @@
    "Franz Ferdinand": {
       "Franz Ferdinand": {
          "$date": "2004",
-         "$list": "white",
          "Jacqueline": "",
          "Tell Her Tonight": "short",
          "Take Me Out": {
@@ -603,7 +558,6 @@
    "Frou Frou": {
       "Details": {
           "$date": "2002-08-13",
-          "$list": "white",
           "Let Go": "good",
           "Breathe In": "",
           "It’s Good to Be in Love": "",
@@ -619,7 +573,6 @@
    },
    "Fugees": {
       "The Score": {
-         "$list": "black",
          "Fu-Gee-La": "",
          "Killing Me Softly with His Song": "",
          "Ready or Not": {
@@ -630,7 +583,6 @@
    },
    "Funkadelic": {
       "Maggot Brain": {
-         "$list": "white",
          "Maggot Brain": {
             "rate": "good",
             "VPY": "683,197",
@@ -647,7 +599,6 @@
    "Funki Porcini": {
       "Fast Asleep": {
           "$date": "2002-07-29",
-          "$list": "white",
           "What Are You Looking At?": "",
           "The Big Sea": "good",
           "We're Out of Here": "",
@@ -665,7 +616,6 @@
       },
       "The Ultimately Empty Million Pounds": {
           "$date": "1999-03-29",
-          "$list": "white",
           "Theme From Sugar Daddy": "bad",
           "Wilson's Millions": "",
           "Rockit Soul": "",
@@ -683,7 +633,6 @@
       },
       "Love, Pussycats & Carwrecks": {
           "$date": "1996-06-17",
-          "$list": "white",
           "Purrfect": "bad",
           "Groover": "bad",
           "The Last Song": "bad",
@@ -700,7 +649,6 @@
    },
    "Genesis": {
       "Invisible Touch": {
-         "$list": "white",
          "Invisible Touch": "",
          "Tonight, Tonight, Tonight": "",
          "Land of Confusion": {
@@ -718,7 +666,6 @@
    "Gin Blossoms": {
       "New Miserable Experience": {
           "$date": "1992-08-04",
-          "$list": "white",
           "Lost Horizons": "",
           "Hey Jealousy": {
             "rate": "good",
@@ -738,7 +685,6 @@
    },
    "Gnarls Barkley": {
       "St. Elsewhere": {
-         "$list": "white",
          "Go‐Go Gadget Gospel": "short",
          "Gnarls Barkley - Crazy": {
              "URL": "https://youtu.be/Qe500eIK1oA",
@@ -758,7 +704,6 @@
          "The Last Time": ""
       },
       "The Odd Couple": {
-         "$list": "white",
          "Charity Case": "",
          "Who’s Gonna Save My Soul": "good",
          "Going On": "short",
@@ -778,7 +723,6 @@
       "$check": "2020-05-03",
       "Silver Eye": {
          "$date": "2017",
-         "$list": "white",
          "Anymore": "bad",
          "Systemagic": "bad",
          "Tigerman": "good",
@@ -792,7 +736,6 @@
       },
       "Tales of Us": {
          "$date": "2013",
-         "$list": "white",
          "Jo": "good",
          "Annabel": "",
          "Drew": "",
@@ -807,7 +750,6 @@
       },
       "Head First": {
           "$date": "2010-03-19",
-          "$list": "white",
           "Rocket": "bad",
           "Believer": "bad",
           "Alive": "",
@@ -820,7 +762,6 @@
       },
       "Seventh Tree": {
          "$date": "2008",
-         "$list": "white",
          "Clowns": "good",
          "Little Bird": "good",
          "Happiness": "bad",
@@ -834,7 +775,6 @@
       },
       "Supernature": {
          "$date": "2005",
-         "$list": "white",
          "Ooh La La": "good",
          "Lovely 2 C U": "good",
          "Ride a White Horse": "good",
@@ -849,7 +789,6 @@
       },
       "Black Cherry": {
          "$date": "2003",
-         "$list": "white",
          "Crystalline Green": "bad",
          "Train": "bad",
          "Black Cherry": "bad",
@@ -863,7 +802,6 @@
       },
       "Felt Mountain": {
          "$date": "2000",
-         "$list": "white",
          "Lovely Head": "good",
          "Paper Bag": "good",
          "Human": "good",
@@ -881,7 +819,6 @@
    "Goo Goo Dolls": {
       "Dizzy Up the Girl": {
          "$date": "1998",
-         "$list": "black",
          "Iris": {
             "VPY": "19,820,856",
             "URL": "https://youtu.be/NdYWuo9OFAw"
@@ -890,7 +827,6 @@
       },
       "A Boy Named Goo": {
          "$date": "1995",
-         "$list": "white",
          "Long Way Down": "good",
          "Burnin’ Up": "short",
          "Naked": "",
@@ -913,7 +849,6 @@
    "Gorillaz": {
       "The Now Now": {
          "$date": "2018",
-         "$list": "black",
          "Humility": {
             "VPY": "69,322,117",
             "URL": "https://youtu.be/E5yFcdPAGv0"
@@ -925,7 +860,6 @@
       },
       "Humanz": {
          "$date": "2017",
-         "$list": "black",
          "Andromeda": {
             "VPY": "24,213,804",
             "URL": "https://youtu.be/9W44NWYwa1g"
@@ -937,7 +871,6 @@
       },
       "Plastic Beach": {
          "$date": "2010",
-         "$list": "black",
          "On Melancholy Hill": {
             "VPY": "14,525,087",
             "URL": "https://youtu.be/04mfKJWDSzI"
@@ -949,7 +882,6 @@
       },
       "Demon Days": {
          "$date": "2005",
-         "$list": "black",
          "DARE": {
             "VPY": "15,207,223",
             "URL": "https://youtu.be/uAOR6ib95kQ"
@@ -965,7 +897,6 @@
       },
       "Gorillaz": {
          "$date": "2001",
-         "$list": "black",
          "19-2000": {
             "VPY": "21,040,483",
             "URL": "https://youtu.be/WXR-bCF5dbM"
@@ -980,7 +911,6 @@
       "$check": "2020-05-15",
       "Tango 3.0": {
          "$date": "2010",
-         "$list": "white",
          "Tango Square": "good",
          "Rayuela": "bad",
          "Desilusión": "bad",
@@ -995,7 +925,6 @@
       },
       "Lunático": {
          "$date": "2006",
-         "$list": "white",
          "Amor Porteño": "",
          "Notas": "",
          "Diferente": "",
@@ -1011,7 +940,6 @@
       },
       "La revancha del tango": {
          "$date": "2001",
-         "$list": "white",
          "Queremos paz": "good",
          "Época": "bad",
          "Chunga’s Revenge": "bad",
@@ -1027,7 +955,6 @@
    "Green Day": {
       "21st Century Breakdown": {
          "$date": "2009",
-         "$list": "black",
          "21 Guns": {
             "VPY": "24,850,357",
             "URL": "https://youtu.be/r00ikilDxW4"
@@ -1035,7 +962,6 @@
       },
       "American Idiot": {
          "$date": "2004",
-         "$list": "black",
          "Boulevard of Broken Dreams": {
             "VPY": "50,307,178",
             "URL": "https://youtu.be/Soa3gO7tL-c"
@@ -1043,7 +969,6 @@
       },
       "nimrod.": {
           "$date": "1997-10-13",
-          "$list": "white",
           "Nice Guys Finish Last": "short",
           "Hitchin’ a Ride": "short",
           "The Grouch": "short",
@@ -1068,7 +993,6 @@
       },
       "Dookie": {
          "$date": "1994",
-         "$list": "black",
          "Basket Case": {
             "VPY": "19,510,691",
             "URL": "https://youtu.be/NUTGr5t3MoY"
@@ -1080,7 +1004,6 @@
       "$check": "2020-05-07",
       "Painted Ruins": {
          "$date": "2017",
-         "$list": "white",
          "Wasted Acres": "short",
          "Mourning Sound": "bad",
          "Four Cypresses": "bad",
@@ -1095,7 +1018,6 @@
       },
       "Shields": {
          "$date": "2012",
-         "$list": "white",
          "Sleeping Ute": "good",
          "Speak in Rounds": "bad",
          "Adelma": "short",
@@ -1114,7 +1036,6 @@
       },
       "Veckatimest": {
          "$date": "2009",
-         "$list": "white",
          "Southern Point": "good",
          "Two Weeks": "good",
          "All We Ask": "bad",
@@ -1130,7 +1051,6 @@
       },
       "Yellow House": {
          "$date": "2006",
-         "$list": "white",
          "Easier": "good",
          "Lullabye": "bad",
          "Knife": "bad",
@@ -1144,7 +1064,6 @@
       },
       "Horn of Plenty": {
          "$date": "2004",
-         "$list": "white",
          "Deep Sea Diver": "bad",
          "Don’t Ask": "bad",
          "Alligator": "short",
@@ -1164,7 +1083,6 @@
    "Groove Armada": {
       "White Light": {
           "$date": "2010-10-18",
-          "$list": "white",
           "Warsaw": "",
           "Time & Space": "bad",
           "History": "",
@@ -1177,7 +1095,6 @@
       },
       "Black Light": {
           "$date": "2010-01-29",
-          "$list": "white",
           "Look Me in the Eye Sister": "",
           "Fall Silent": "",
           "Just for Tonight": "",
@@ -1192,7 +1109,6 @@
       },
       "Soundboy Rock": {
          "$date": "2007",
-         "$list": "white",
          "Hasta Luego Mr. Fab (interlude)": "good",
          "Get Down": "",
          "The Things That We Could Share": "",
@@ -1211,7 +1127,6 @@
       },
       "Lovebox": {
          "$date": "2002",
-         "$list": "white",
          "Purple Haze": "",
          "Groove Is On": "",
          "Remember": "",
@@ -1227,7 +1142,6 @@
       },
       "Goodbye Country (Hello Nightclub)": {
          "$date": "2001",
-         "$list": "white",
          "Suntoucher": "bad",
          "Superstylin’": "bad",
          "Drifted": "bad",
@@ -1244,7 +1158,6 @@
       },
       "Vertigo": {
          "$date": "1999-05-24",
-         "$list": "white",
          "$URL": "youtube.com/playlist?list=OLAK5uy_nsfi00gDj8c8bhccR_d5W89Yh3SkGJyjY",
          "Chicago": "bad",
          "Whatever, Whenever": "bad",
@@ -1260,7 +1173,6 @@
       },
        "Northern Star": {
            "$date": "1998-03-09",
-           "$list": "white",
            "Dr. Eiff": "bad",
            "Captain Sensual (remix)": "bad",
            "Entrance to Zanzibar": "bad",
@@ -1279,7 +1191,6 @@
    "Guns N’ Roses": {
       "Use Your Illusion I": {
          "$date": "1991-09-16",
-         "$list": "black",
          "November Rain": {
             "VPY": "123,851,131",
             "URL": "https://youtu.be/8SbUC-UaAxE"
@@ -1287,7 +1198,6 @@
       },
       "G N’ R Lies": {
          "$date": "1988",
-         "$list": "black",
          "Patience": {
             "VPY": "43,348,720",
             "URL": "https://youtu.be/ErvgV4P6Fzc"
@@ -1295,7 +1205,6 @@
       },
       "Appetite for Destruction": {
          "$date": "1987",
-         "$list": "black",
          "Sweet Child O’ Mine": {
             "VPY": "98,551,986",
             "URL": "https://youtu.be/1w7OgIMMRc4"
@@ -1304,7 +1213,6 @@
    },
    "Gwen Stefani": {
       "Love. Angel. Music. Baby.": {
-         "$list": "black",
          "Hollaback Girl": {
             "VPY": "19,292,734",
             "URL": "https://youtu.be/Kgjkth6BRRY"
