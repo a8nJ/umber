@@ -1,6 +1,5 @@
 {
    "Daft Punk": {
-      "$list": "youtube.com/playlist?list=PLDGvrCyjfEasgDLh8sYjIgLmbclJlb_Td",
        "Random Access Memories": {
            "$date": "2013-05-17",
            "Give Life Back to Music": "",
@@ -260,7 +259,57 @@
       }
    },
    "David Bowie": {
-      "$list": "youtube.com/playlist?list=PLJ8y7DDcrI_qIDA_4vFS_ocezl8i9ZaGe"
+       "★": {
+           "$date": "2016-01-08",
+           "Blackstar": "",
+           "’Tis a Pity She Was a Whore": "",
+           "Lazarus": {
+             "id": "y-JqH1M4Ya8",
+             "views": "54,859,565",
+             "published": "2016-01-07",
+             "views per year": "12,578,441"
+         },
+           "Sue (or In a Season of Crime)": "",
+           "Girl Loves Me": "",
+           "Dollar Days": "",
+           "I Can’t Give Everything Away": ""
+       },
+       "“Heroes”": {
+           "$date": "1977-10-14",
+           "Beauty and the Beast": "",
+           "Joe the Lion": "",
+           "“Heroes”": {
+             "id": "bsYp9q3QNaQ",
+             "views": "123,957,129",
+             "published": "2010-03-17",
+             "views per year": "12,187,171"
+         },
+           "Sons of the Silent Age": "",
+           "Blackout": "",
+           "V‐2 Schneider": "",
+           "Sense of Doubt": "",
+           "Moss Garden": "",
+           "Neuköln": "",
+           "The Secret Life of Arabia": ""
+       },
+       "David Bowie": {
+           "$date": "1969-11-04",
+           "Space Oddity": {
+             "id": "iYYRH4apXDo",
+             "views": "57,894,465",
+             "published": "2015-07-09",
+             "views per year": "11,913,213"
+         },
+           "Unwashed and Somewhat Slightly Dazed": "",
+           "(Don’t Sit Down)": "short",
+           "Letter to Hermione": "short",
+           "Cygnet Committee": "",
+           "Janine": "",
+           "An Occasional Dream": "",
+           "Wild Eyed Boy From Freecloud": "",
+           "God Knows I’m Good": "",
+           "Memory of a Free Festival": ""
+       }
    },
    "Dee Montero": {
       "Headspace": {

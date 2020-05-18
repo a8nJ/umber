@@ -208,15 +208,27 @@
        "Rumours": {
            "$date": "1977-02-04",
            "Second Hand News": "short",
-           "Dreams": "",
+           "Dreams": {
+             "id": "mrZRURcb1cM",
+             "views": "125,475,803",
+             "published": "2011-04-18",
+             "views per year": "13,812,549"
+         },
            "Never Going Back Again": "short",
            "Don’t Stop": "",
-          "Fleetwood Mac - Go Your Own Way (HQ)": {
-              "URL": "https://youtu.be/6ul-cZyuYq4",
-              "VPY": "12,886,239"
-          },
+           "Go Your Own Way": {
+             "id": "6ul-cZyuYq4",
+             "views": "129,805,305",
+             "published": "2010-04-21",
+             "views per year": "12,883,529"
+         },
            "Songbird": "",
-           "The Chain": "",
+           "The Chain": {
+             "id": "JDG2m5hN1vo",
+             "views": "74,700,848",
+             "published": "2017-07-05",
+             "views per year": "26,034,814"
+         },
            "You Make Loving Fun": "",
            "I Don’t Want to Know": "",
            "Oh Daddy": "",

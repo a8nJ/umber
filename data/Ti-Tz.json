@@ -250,8 +250,6 @@
       }
    },
    "Tool": {
-      "$check": "2020-05-17",
-      "$list": "youtube.com/playlist?list=PLyYzsp1xJ7S7_HZWUApJxos-J0ts5hhtw",
        "Fear Inoculum": {
            "$date": "2019-08-30",
            "Fear Inoculum": "",
