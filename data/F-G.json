@@ -71,11 +71,7 @@
          "Captain Bligh": "bad",
          "It’s Gonna Kill Me": "bad",
          "The Best Things": "good",
-         "Take a Picture": {
-            "rate": "good",
-            "VPY": "619,133",
-            "URL": "https://youtu.be/Jhx0o3GifpI"
-         },
+         "Take a Picture": "good",
          "Skinny": "",
          "I Will Lead You": "",
          "Cancer": "",
@@ -169,11 +165,7 @@
          "Sun Giant": "short",
          "Drops in the River": "good",
          "English House": "good",
-         "Mykonos": {
-            "rate": "good",
-            "VPY": "1,526,713",
-            "URL": "https://youtu.be/DT-dxG4WWf4"
-         },
+         "Mykonos": "good",
          "Innocent Son": "bad"
       }
    },
@@ -199,7 +191,12 @@
          "Can’t Go Back": "short",
          "That’s Alright": "",
          "Book of Love": "",
-         "Gypsy": "good",
+         "Gypsy": {
+             "id": "mwgg1Pu6cNg",
+             "views": "23,925,564",
+             "published": "2018-09-27",
+             "views per year": "14,589,002"
+         },
          "Only Over You": "",
          "Empire State": "short",
          "Straight Back": "",

@@ -2,7 +2,6 @@
    "Bad Company": {
       "Bad Company": {
          "$date": "1974",
-         "$list": "white",
          "Can’t Get Enough": "",
          "Rock Steady": "",
          "Ready for Love": "",
@@ -20,7 +19,6 @@
    "Bananarama": {
       "Bananarama": {
          "$date": "1984",
-         "$list": "white",
          "Cruel Summer": {
             "URL": "https://youtu.be/l9ml3nyww80",
             "rate": "good",
@@ -39,7 +37,6 @@
    "Bat for Lashes": {
       "Lost Girls": {
           "$date": "2019-09-06",
-          "$list": "white",
           "Kids in the Dark": "good",
           "The Hunger": "",
           "Feel for You": "",
@@ -53,7 +50,6 @@
       },
       "The Bride": {
          "$date": "2016",
-         "$list": "white",
          "I Do": "short",
          "Joe’s Dream": "good",
          "In God’s House": "",
@@ -69,7 +65,6 @@
       },
       "The Haunted Man": {
          "$date": "2012",
-         "$list": "white",
          "Lilies": "bad",
          "All Your Gold": "bad",
          "Horses of the Sun": "bad",
@@ -84,7 +79,6 @@
       },
       "Two Suns": {
          "$date": "2009",
-         "$list": "white",
          "Glass": "good",
          "Sleep Alone": "",
          "Moon and Moon": "",
@@ -107,7 +101,6 @@
       },
       "Fur and Gold": {
          "$date": "2006",
-         "$list": "white",
          "Horse and I": "",
          "Trophy": "bad",
          "Tahiti": "good",
@@ -125,7 +118,6 @@
    "Beach House": {
       "Depression Cherry": {
          "$date": "2015",
-         "$list": "black",
          "BEACH HOUSE // Space Song": {
              "URL": "https://youtu.be/f9X1C7pTu-M",
              "VPY": "8,862,411"
@@ -133,7 +125,6 @@
       },
       "Bloom": {
          "$date": "2012",
-         "$list": "black",
          "Myth": {
             "VPY": "9,745,854",
             "URL": "https://youtu.be/3lIyDxfUhxM"
@@ -141,7 +132,6 @@
       },
       "Teen Dream": {
          "$date": "2010",
-         "$list": "white",
          "Zebra": "good",
          "Silver Soul": "",
          "Norway": "good",
@@ -157,7 +147,6 @@
    "Beastie Boys": {
       "To the 5 Boroughs": {
          "$date": "2004",
-         "$list": "white",
          "Ch-Check It Out": "good",
          "Right Right Now Now": "short",
          "3 the Hard Way": "short",
@@ -176,7 +165,6 @@
       },
       "Ill Communication": {
          "$date": "1994",
-         "$list": "black",
          "Beastie Boys - Sabotage": {
              "URL": "https://youtu.be/z5rRZdiu1UE",
              "VPY": "6,983,681"
@@ -186,7 +174,6 @@
    "Beck": {
       "Colors": {
          "$date": "2017",
-         "$list": "white",
          "Colors": {
             "rate": "bad",
             "VPY": "4,179,410",
@@ -204,7 +191,6 @@
       },
       "Morning Phase": {
          "$date": "2014",
-         "$list": "white",
          "Cycle": "short",
          "Morning": "",
          "Heart Is a Drum": "",
@@ -221,7 +207,6 @@
       },
       "Odelay": {
          "$date": "1996",
-         "$list": "white",
          "Devil’s Haircut": "bad",
          "Hotwax": "bad",
          "Lord Only Knows": "",
@@ -242,7 +227,6 @@
       },
       "Mellow Gold": {
          "$date": "1994",
-         "$list": "black",
          "Loser": {
             "VPY": "10,576,977",
             "URL": "https://youtu.be/YgSPaXgAdzE"
@@ -252,7 +236,6 @@
    "Beirut": {
       "The Flying Club Cup": {
          "$date": "2007",
-         "$list": "white",
          "A Call to Arms": "short",
          "Nantes": "",
          "A Sunday Smile": "",
@@ -271,7 +254,6 @@
    "Bell Biv DeVoe": {
       "Poison": {
          "$date": "1990",
-         "$list": "white",
          "Dope!": "",
          "B.B.D. (I Thought It Was Me)?": "",
          "Let Me Know Something?!": "",
@@ -289,7 +271,6 @@
    "Ben Howard": {
       "Every Kingdom": {
          "$date": "2011",
-         "$list": "white",
          "Old Pine": "",
          "Diamonds": "",
          "The Wolves": "",
@@ -309,7 +290,6 @@
    "Bibio": {
       "Silver Wilkinson": {
          "$date": "2013",
-         "$list": "white",
          "The First Daffodils": "short",
          "Dye the Water Green": "good",
          "Wulf": "short",
@@ -324,7 +304,6 @@
       },
       "Ambivalence Avenue": {
          "$date": "2009-06-22",
-         "$list": "white",
          "Ambivalence Avenue": "",
          "Jealous of Roses": "short",
          "All the Flowers": "short",
@@ -340,7 +319,6 @@
       },
       "Vignetting the Compost": {
          "$date": "2009-02-03",
-         "$list": "white",
          "Flesh Rots, Pip Sown": "bad",
          "Mr and Mrs Compost": "short",
          "Everglad Everglade": "short",
@@ -362,7 +340,6 @@
    "Bicep": {
       "Bicep": {
          "$date": "2017",
-         "$list": "white",
          "Orca": "",
          "Glue": {
             "rate": "good",
@@ -382,7 +359,6 @@
       },
       "Dahlia": {
          "$date": "2015",
-         "$list": "white",
          "Dahlia": "good",
          "Rays": "bad",
          "Seagulls": ""
@@ -391,7 +367,6 @@
    "Big Boi": {
       "Boomiverse": {
          "$date": "2017",
-         "$list": "black",
          "All Night": {
             "VPY": "11,499,682",
             "URL": "https://youtu.be/QxTgr11ncJo"
@@ -400,7 +375,6 @@
       },
       "Sir Lucious Left Foot… The Son of Chico Dusty": {
          "$date": "2010",
-         "$list": "white",
          "Feel Me (intro)": "short",
          "Daddy Fat Sax": "short",
          "Turns Me On": "",
@@ -425,7 +399,6 @@
    "Björk": {
        "Medúlla": {
            "$date": "2004-08-30",
-           "$list": "white",
            "Pleasure Is All Mine": "bad",
            "Show Me Forgiveness": "short",
            "Where Is the Line": "bad",
@@ -443,7 +416,6 @@
        },
       "Vespertine": {
          "$date": "2001",
-         "$list": "white",
          "Hidden Place": "bad",
          "Cocoon": "bad",
          "It’s Not Up to You": "bad",
@@ -459,7 +431,6 @@
       },
       "Homogenic": {
          "$date": "1997",
-         "$list": "white",
          "Hunter": "good",
          "Jóga": "good",
          "Unravel": "good",
@@ -473,7 +444,6 @@
       },
       "Post": {
          "$date": "1995",
-         "$list": "white",
          "Army of Me": "good",
          "Hyper‐Ballad": "bad",
          "The Modern Things": "bad",
@@ -488,7 +458,6 @@
       },
        "Debut": {
            "$date": "1993-07-12",
-           "$list": "white",
            "Human Behaviour": "bad",
            "Crying": "bad",
            "Venus as a Boy": "good",
@@ -506,7 +475,6 @@
    "Blink 182": {
       "California": {
          "$date": "2016",
-         "$list": "black",
          "Bored to Death": "",
          "She’s Out of Her Mind": {
             "VPY": "7,762,070",
@@ -515,7 +483,6 @@
       },
       "blink-182": {
          "$date": "2003",
-         "$list": "black",
          "Always": "",
          "I Miss You": {
             "VPY": "21,749,165",
@@ -524,7 +491,6 @@
       },
       "Take Off Your Pants and Jacket": {
          "$date": "2001",
-         "$list": "black",
          "First Date": {
             "VPY": "13,177,324",
             "URL": "https://youtu.be/vVy9Lgpg1m8"
@@ -534,7 +500,6 @@
       },
       "Enema of the State": {
          "$date": "1999",
-         "$list": "black",
          "Adam’s Song": "",
          "All The Small Things": {
             "VPY": "21,774,492",
@@ -547,7 +512,6 @@
       "$check": "2020-05-04",
       "Negro Swan": {
          "$date": "2018",
-         "$list": "white",
          "Orlando": "",
          "Saint": "",
          "Take Your Time": "short",
@@ -567,7 +531,6 @@
       },
       "Freetown Sound": {
          "$date": "2016",
-         "$list": "white",
          "By Ourselves": "short",
          "Augustine": "bad",
          "Chance": "short",
@@ -588,7 +551,6 @@
       },
       "Cupid Deluxe": {
          "$date": "2013",
-         "$list": "white",
          "Chamakay": "good",
          "You’re Not Good Enough": "good",
          "Uncle ACE": "good",
@@ -603,7 +565,6 @@
       },
       "Coastal Grooves": {
          "$date": "2011",
-         "$list": "white",
          "Forget It": "bad",
          "Sutphin Boulevard": "good",
          "I’m Sorry We Lied": "good",
@@ -617,7 +578,6 @@
       },
       "Blood Orange": {
          "$date": "2010",
-         "$list": "white",
          "Dinner": "good",
          "Bad Girls": "good"
       }
@@ -625,7 +585,6 @@
    "Boards of Canada": {
       "Tomorrow’s Harvest": {
          "$date": "2013",
-         "$list": "white",
          "Gemini": "short",
          "Reach for the Dead": "good",
          "White Cyclosa": "good",
@@ -646,7 +605,6 @@
       },
       "Trans Canada Highway": {
          "$date": "2006",
-         "$list": "white",
          "Left Side Drive": "good",
          "Heard From Telegraph Lines": "short",
          "Skyliner": "bad",
@@ -654,7 +612,6 @@
       },
       "The Campfire Headphase": {
          "$date": "2005",
-         "$list": "white",
          "Into the Rainbow Vein": "short",
          "Chromakey Dreamcoat": "good",
          "Satellite Anthem Icarus": "good",
@@ -673,7 +630,6 @@
       },
       "Geogaddi": {
          "$date": "2002",
-         "$list": "white",
          "Ready Lets Go": "good",
          "Music Is Math": "good",
          "Beware the Friendly Stranger": "short",
@@ -700,7 +656,6 @@
       },
       "In a Beautiful Place Out in the Country": {
          "$date": "2000",
-         "$list": "white",
          "Kid for Today": "good",
          "Amo Bishop Roden": "good",
          "In a Beautiful Place Out in the Country": "good",
@@ -708,7 +663,6 @@
       },
       "Music Has the Right to Children": {
          "$date": "1998",
-         "$list": "white",
          "Wildlife Analysis": "short",
          "An Eagle in Your Mind": "good",
          "The Color of the Fire": "short",
@@ -729,7 +683,6 @@
       },
       "Hi Scores": {
           "$date": "1996-12-09",
-          "$list": "white",
           "Hi Scores": "",
           "Nlogax": "bad",
           "June 9th": "bad",
@@ -738,7 +691,6 @@
       },
       "Twoism": {
           "$date": "1995",
-          "$list": "white",
           "Sixtyniner": "good",
           "Oirectine": "",
           "Iced Cooly": "short",
@@ -751,7 +703,6 @@
       "$check": "2020-04-26",
       "Migration": {
          "$date": "2017",
-         "$list": "white",
          "Migration": "bad",
          "Break Apart": "bad",
          "Outlier": "bad",
@@ -767,7 +718,6 @@
       },
       "The North Borders": {
          "$date": "2013",
-         "$list": "white",
          "First Fires": "",
          "Emkay": "",
          "Cirrus": "",
@@ -784,7 +734,6 @@
       },
       "Black Sands": {
          "$date": "2010",
-         "$list": "white",
          "Prelude": "short",
          "Kiara": "good",
          "Kong": "bad",
@@ -800,7 +749,6 @@
       },
       "Days to Come": {
          "$date": "2006-10-02",
-         "$list": "white",
          "(0_jfHMjGp-0) Transmission 94, Parts 1 & 2": "good",
          "(1TZtZjg1epg) The Fever": "good",
          "(4kJWk80PgQE) If You Stayed Over": "bad",
@@ -822,7 +770,6 @@
       },
       "Dial 'M' for Monkey": {
           "$date": "2003-06-09",
-          "$list": "white",
           "Noctuary": "bad",
           "Flutter": "good",
           "D Song": "good",
@@ -835,7 +782,6 @@
       },
       "One Offs… Remixes & B Sides": {
           "$date": "2002-08-12",
-          "$list": "white",
           "Dismantling Frank": "good",
           "The Sicilian": "good",
           "The Shark": "good",
@@ -844,7 +790,6 @@
       },
       "Animal Magic": {
           "$date": "2000-07-24",
-          "$list": "white",
           "Intro": "short",
           "Sleepy Seven": "good",
           "Dinosaurs": "bad",
@@ -860,7 +805,6 @@
    "Boyz II Men": {
       "II": {
          "$date": "1994",
-         "$list": "black",
          "I’ll Make Love To You": {
             "VPY": "12,910,607",
             "URL": "https://youtu.be/fV8vB1BB2qc"
@@ -869,7 +813,6 @@
       },
       "Cooleyhighharmony": {
          "$date": "1991",
-         "$list": "black",
          "End Of The Road": {
             "VPY": "13,061,094",
             "URL": "https://youtu.be/zDKO6XYXioc"
@@ -879,7 +822,6 @@
    "Boz Scaggs": {
       "Dig": {
          "$date": "2001",
-         "$list": "white",
          "Payday": "",
          "Sarah": "",
          "Miss Riddle": "",
@@ -894,7 +836,6 @@
       },
       "Come On Home": {
          "$date": "1997",
-         "$list": "white",
          "It All Went Down the Drain": "bad",
          "Ask Me ’Bout Nothin’ (but the Blues)": "good",
          "Don’t Cry No More": "",
@@ -912,7 +853,6 @@
       },
       "Other Roads": {
          "$date": "1988",
-         "$list": "white",
          "What’s Number One?": "bad",
          "Claudia": "",
          "Heart of Mine": "",
@@ -929,7 +869,6 @@
    "Britney Spears": {
       "Blackout": {
          "$date": "2007",
-         "$list": "black",
          "Britney Spears - Break The Ice": {
              "URL": "https://youtu.be/eQFIKP9rGhQ",
              "VPY": "6,786,358"
@@ -939,7 +878,6 @@
    "Bruce Hornsby": {
       "Harbor Lights": {
          "$date": "1993",
-         "$list": "white",
          "Harbor Lights": "",
          "Talk of the Town": "",
          "Long Tall Cool One": "",
@@ -953,7 +891,6 @@
       },
       "The Way It Is": {
          "$date": "1986",
-         "$list": "white",
          "On the Western Skyline": "",
          "Every Little Kiss": "",
          "Mandolin Rain": "",
@@ -972,7 +909,6 @@
    "Bryan Adams": {
       "18 Til I Die": {
          "$date": "1996",
-         "$list": "black",
          "Bryan Adams - Have You Ever Really Loved A Woman?": {
              "URL": "https://youtu.be/hq2KgzKETBw",
              "VPY": "7,472,945"
@@ -982,7 +918,6 @@
    "Burial": {
       "Untrue": {
          "$date": "2007",
-         "$list": "white",
          "Archangel": {
             "rate": "bad",
             "VPY": "96,060",
@@ -1002,7 +937,6 @@
       },
       "Burial": {
          "$date": "2006",
-         "$list": "white",
          "Distant Lights": "bad",
          "Spaceape": "bad",
          "Wounder": "bad",
@@ -1019,7 +953,6 @@
    "Bush": {
       "Golden State": {
           "$date": "2001-10-23",
-          "$list": "white",
           "Solutions": "bad",
           "Headful of Ghosts": "bad",
           "The People That We Love": "bad",
@@ -1035,7 +968,6 @@
       },
       "The Science of Things": {
          "$date": "1999",
-         "$list": "white",
          "Warm Machine": "bad",
          "Jesus Online": "bad",
          "The Chemicals Between Us": "good",
@@ -1051,7 +983,6 @@
       },
       "Razorblade Suitcase": {
          "$date": "1996",
-         "$list": "white",
          "Personal Holloway": "bad",
          "Greedy Fly": "bad",
          "Swallowed": "bad",
@@ -1068,7 +999,6 @@
       },
       "Sixteen Stone": {
          "$date": "1994",
-         "$list": "white",
          "Everything Zen": "good",
          "Swim": "",
          "Bomb": "",
