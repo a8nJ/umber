@@ -1227,10 +1227,7 @@
          "Thinking About You": "bad",
          "Stay Awake, Wait for Me": "good",
          "Your Domino": "bad",
-         "Alone": {
-            "VPY": "5,228,273",
-            "URL": "https://youtu.be/3zrZE68Qrrg"
-         },
+         "Alone": "",
          "Selfish Love": "bad",
          "First Time": "bad",
          "Hearts": "bad",
@@ -1243,17 +1240,16 @@
          "$date": "2014",
          "Kind of…Sometimes…Maybe": "",
          "Say You Love Me": {
-            "VPY": "23,675,979",
-            "URL": "https://youtu.be/DAMM8JVbr8g"
+             "id": "DAMM8JVbr8g",
+             "views": "123,723,337",
+             "published": "2014-09-11",
+             "views per year": "21,767,798"
          }
       },
       "Devotion": {
           "$date": "2012-08-16",
           "Devotion": "",
-         "Jessie Ware - Wildest Moments": {
-             "URL": "https://youtu.be/bMJkddvJ4L4",
-             "VPY": "6,803,168"
-         },
+          "Wildest Moments": "",
           "Running": "good",
           "Still Love Me": "",
           "No to Love": "",
@@ -1376,7 +1372,8 @@
       }
    },
    "Julia Holter": {
-       "Aviary": {
+      "$check": "2020-05-18",
+      "Aviary": {
            "$date": "2018-10-26",
            "Turn the Light On": "bad",
            "Whether": "short",
@@ -1421,7 +1418,7 @@
       },
       "Loud City Song": {
          "$date": "2013",
-         "World": "",
+         "World": "bad",
          "Maxim’s I": "",
          "Horns Surrounding Me": "good",
          "In the Green Wild": "",
@@ -1433,8 +1430,8 @@
       },
       "Ekstasis": {
           "$date": "2012-03-06",
-          "Marienbad": "",
-          "Our Sorrows": "",
+          "Marienbad": "bad",
+          "Our Sorrows": "bad",
           "In the Same Room": "bad",
           "Boy in the Moon": "bad",
           "Für Felix": "bad",
@@ -1442,7 +1439,7 @@
           "Moni Mon Amie": "bad",
           "Four Gardens": "bad",
           "Goddess Eyes I": "bad",
-          "This Is Ekstasis": ""
+          "This Is Ekstasis": "bad"
       },
       "Tragedy": {
          "$date": "2011",

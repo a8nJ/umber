@@ -2,7 +2,6 @@
    "Cake": {
       "Fashion Nugget": {
          "$date": "1996",
-         "$list": "white",
          "Frank Sinatra": "good",
          "The Distance": "",
          "Friend Is a Four Letter Word": "",
@@ -22,15 +21,10 @@
    "Can": {
       "Ege Bamyasi": {
          "$date": "1972",
-         "$list": "white",
          "Pinch": "",
          "Sing Swan Song": "",
          "One More Night": "",
-         "Vitamin C": {
-            "rate": "good",
-            "URL": "https://youtu.be/9a1NhRbNJ_Y",
-            "VPY": "183,424"
-         },
+         "Vitamin C": "good",
          "Soup": "",
          "I’m So Green": "",
          "Spoon": ""
@@ -39,7 +33,6 @@
    "Cassie": {
       "Cassie": {
          "$date": "2006",
-         "$list": "black",
          "Long Way 2 Go": "",
          "Me & U": {
             "VPY": "13,636,105",
@@ -60,7 +53,6 @@
    "Chicago": {
       "Chicago 17": {
          "$date": "1984",
-         "$list": "black",
          "You’re The Inspiration": {
             "VPY": "7,406,342",
             "URL": "https://youtu.be/wM-XhQeFzW4"
@@ -68,7 +60,6 @@
       },
       "Chicago X": {
          "$date": "1976",
-         "$list": "white",
          "Once or Twice": "",
          "You Are on My Mind": "",
          "Skin Tight": "",
@@ -87,7 +78,6 @@
       },
       "Chicago V": {
          "$date": "1972",
-         "$list": "white",
          "A Hit by Varèse": "",
          "All Is Well": "",
          "Now That You’ve Gone": "",
@@ -101,7 +91,6 @@
       },
       "Chicago II": {
          "$date": "1969",
-         "$list": "white",
          "Movin’ In": "",
          "The Road": "",
          "Poem for the People": "",
@@ -130,7 +119,6 @@
    "Chicane": {
       "Behind the Sun": {
          "$date": "2000",
-         "$list": "white",
          "Overture": "good",
          "Low Sun": "good",
          "No Ordinary Morning": "bad",
@@ -148,7 +136,6 @@
       },
       "Far From the Maddening Crowds": {
          "$date": "1997",
-         "$list": "white",
          "Early": "",
          "Already There": "short",
          "Offshore (original mix)": "",
@@ -165,7 +152,6 @@
    "Childish Gambino": {
       "Awaken, My Love!": {
          "$date": "2016",
-         "$list": "black",
          "Me and Your Mama": "",
          "Redbone": {
             "VPY": "130,783,298",
@@ -174,7 +160,6 @@
       },
       "Because the Internet": {
          "$date": "2013",
-         "$list": "black",
          "3005": "",
          "Sweatpants": {
             "VPY": "25,128,289",
@@ -184,7 +169,6 @@
       },
       "Camp": {
          "$date": "2011",
-         "$list": "white",
          "Outside": "bad",
          "Fire Fly": "bad",
          "Bonfire": "bad",
@@ -203,7 +187,6 @@
    "Chris Isaak": {
       "Heart Shaped World": {
          "$date": "1989",
-         "$list": "black",
          "Wicked Game": {
             "VPY": "9,828,608",
             "URL": "https://youtu.be/ib6VAJbEBjg"
@@ -211,7 +194,6 @@
       },
       "Chris Isaak": {
          "$date": "1986",
-         "$list": "white",
          "You Owe Me Some Kind of Love": "good",
          "Heart Full of Soul": "",
          "Blue Hotel": "",
@@ -228,7 +210,6 @@
    "Ciara": {
       "Basic Instinct": {
          "$date": "2010",
-         "$list": "black",
          "Ride": {
             "VPY": "19,725,835",
             "URL": "https://youtu.be/wl2NCXzg1FQ"
@@ -238,7 +219,6 @@
    "Cocteau Twins": {
       "Milk & Kisses": {
          "$date": "1996",
-         "$list": "white",
          "Violaine": "bad",
          "Serpentskirt": "good",
          "Tishbite": "",
@@ -252,7 +232,6 @@
       },
       "Four-Calendar Café": {
          "$date": "1993",
-         "$list": "white",
          "Know Who You Are at Every Age": "",
          "Evangeline": "bad",
          "Bluebeard": "bad",
@@ -266,7 +245,6 @@
       },
       "Heaven or Las Vegas": {
          "$date": "1990",
-         "$list": "white",
          "Cherry-Coloured Funk": "bad",
          "Pitch the Baby": "bad",
          "Iceblink Luck": "bad",
@@ -284,7 +262,6 @@
       },
       "Blue Bell Knoll": {
          "$date": "1988",
-         "$list": "white",
          "Blue Bell Knoll": "",
          "Athol-Brose": "bad",
          "Carolyn’s Fingers": "",
@@ -298,7 +275,6 @@
       },
       "Love’s Easy Tears": {
           "$date": "1986-09-01",
-          "$list": "white",
           "Love’s Easy Tears": "good",
           "Orange Appled": "short",
           "Sigh’s Smell of Farewell": "",
@@ -306,7 +282,6 @@
       },
       "Victorialand": {
           "$date": "1986-02",
-          "$list": "white",
           "Lazy Calm": "good",
           "Fluffy Tufts": "",
           "Throughout the Dark Months of April and May": "good",
@@ -319,7 +294,6 @@
       },
       "Tiny Dynamine": {
          "$date": "1985",
-         "$list": "white",
          "Pink Orange Red": "good",
          "Ribbed and Veined": "good",
          "Plain Tiger": "",
@@ -327,7 +301,6 @@
       },
       "Treasure": {
          "$date": "1984",
-         "$list": "white",
          "Ivo": "good",
          "Lorelei": "bad",
          "Beatrix": "",
@@ -341,7 +314,6 @@
       },
       "Sunburst and Snowblind": {
           "$date": "1983-11-07",
-          "$list": "white",
           "Sugar Hiccup": "reissue",
           "From the Flagstones": "",
           "Hitherto": "good",
@@ -349,7 +321,6 @@
       },
       "Head Over Heels": {
           "$date": "1983-10-31",
-          "$list": "white",
           "When Mama Was Moth": "",
           "Five Ten Fiftyfold": "good",
           "Sugar Hiccup": "bad",
@@ -363,7 +334,6 @@
       },
       "Garlands": {
          "$date": "1982",
-         "$list": "white",
          "Blood Bitch": "bad",
          "Wax and Wane": "bad",
          "But I’m Not": "short",
@@ -377,7 +347,6 @@
    "Coldplay": {
       "A Rush of Blood to the Head": {
          "$date": "2002",
-         "$list": "black",
          "The Scientist": {
             "VPY": "80,172,619",
             "URL": "https://youtu.be/RB-RcX5DS5A"
@@ -388,7 +357,6 @@
       "Iteration": {
          "Of Your Fake Dimension": "bad",
          "$date": "2017",
-         "$list": "white",
          "Ephemeron": "bad",
          "Dryswch": "",
          "Isostasy": "",
@@ -406,7 +374,6 @@
       },
       "In Decay": {
          "$date": "2012",
-         "$list": "white",
          "Open": "",
          "84’ Dreamin": "",
          "Dreambender": "",
@@ -423,7 +390,6 @@
       },
       "Galactic Melt": {
          "$date": "2011",
-         "$list": "white",
          "Terminal": "short",
          "VHS Sex": "bad",
          "Cathode Girls": "bad",
@@ -440,7 +406,6 @@
    "Conjure One": {
       "Extraordinary Ways": {
          "$date": "2005",
-         "$list": "white",
          "Endless Dream": "bad",
          "Face the Music": "bad",
          "Pilgrimage": "bad",
@@ -454,7 +419,6 @@
       },
       "Conjure One": {
          "$date": "2002",
-         "$list": "white",
          "Damascus": "short",
          "Center of the Sun": "",
          "Tears From the Moon": {
@@ -474,7 +438,6 @@
    "Counting Crows": {
       "This Desert Life": {
          "$date": "1999",
-         "$list": "white",
          "Hanginaround": "",
          "Mrs. Potter’s Lullaby": "",
          "Amy Hit the Atmosphere": "",
@@ -488,7 +451,6 @@
       },
       "August and Everything After": {
          "$date": "1993",
-         "$list": "black",
          "Mr. Jones": {
             "VPY": "13,704,250",
             "URL": "https://youtu.be/-oqAU5VxFWs"
@@ -498,7 +460,6 @@
    "Crazy P": {
       "Walk Dance Talk Sing": {
          "$date": "2015",
-         "$list": "white",
          "Like a Fool": "good",
          "The Come On": "",
          "Echo": "",
@@ -513,7 +474,6 @@
       },
       "When We On": {
          "$date": "2011",
-         "$list": "white",
          "Open for Service": "",
          "Changes": "",
          "Beatbox": "",
@@ -534,7 +494,6 @@
    "Curve": {
       "Cuckoo": {
          "$date": "1993",
-         "$list": "white",
          "Missing Link": "",
          "Crystal": "",
          "Men Are From Mars, Women Are From Venus": "good",
