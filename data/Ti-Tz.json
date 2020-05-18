@@ -250,18 +250,56 @@
       }
    },
    "Tool": {
+      "$check": "2020-05-17",
       "$list": "youtube.com/playlist?list=PLyYzsp1xJ7S7_HZWUApJxos-J0ts5hhtw",
+       "Fear Inoculum": {
+           "$date": "2019-08-30",
+           "Fear Inoculum": "",
+           "Pneuma": {
+             "id": "5ClCaPmAA7s",
+             "views": "13,932,379",
+             "published": "2019-08-29",
+             "views per year": "19,349,055"
+         },
+           "Litanie contre la Peur": "short",
+           "Invincible": "",
+           "Legion Inoculant": "",
+           "Descending": "",
+           "Culling Voices": "",
+           "Chocolate Chip Trip": "",
+           "7empest": "",
+           "Mockingbeat": "short"
+       },
+       "10,000 Days": {
+           "$date": "2006-04-28",
+           "Vicarious": "",
+           "Jambi": "",
+           "Wings for Marie, Pt 1": "",
+           "10,000 Days (Wings, Pt 2)": "",
+           "The Pot": {
+             "id": "civuoU_NE38",
+             "views": "6,105,759",
+             "published": "2019-08-01",
+             "views per year": "7,663,672"
+         },
+           "Lipan Conjuring": "short",
+           "Lost Keys (Blame Hofmann)": "",
+           "Rosetta Stoned": "",
+           "Intension": "",
+           "Right in Two": "",
+           "Viginti Tres": ""
+       },
       "Lateralus": {
          "$date": "2001",
-         "$list": "white",
          "The Grudge": "",
          "Eon Blue Apocalypse": "short",
          "The Patient": "good",
          "Mantra": "short",
          "Schism": {
-            "rate": "good",
-            "VPY": "5,112,577",
-            "URL": "https://youtu.be/_yNAABKD4IA"
+             "id": "MM62wjLrgmA",
+             "views": "8,187,021",
+             "published": "2019-08-29",
+             "views per year": "11,369,998"
          },
          "Parabol": "",
          "Parabola": "",
@@ -279,7 +317,12 @@
          "Eulogy": "",
          "H.": "",
          "Useful Idiot": "short",
-         "Forty Six & 2": "",
+         "Forty Six & 2": {
+             "id": "GIuZUCpm9hc",
+             "views": "6,557,656",
+             "published": "2019-08-01",
+             "views per year": "8,230,872"
+         },
          "Message to Harry Manback": "short",
          "Hooker With a Penis": "",
          "Intermission": "short",
@@ -296,7 +339,12 @@
           "$list": "white",
           "Intolerance": "",
           "Prison Sex": "good",
-          "Sober": "",
+          "Sober": {
+             "id": "nspxAG12Cpc",
+             "views": "9,060,531",
+             "published": "2019-08-29",
+             "views per year": "12,583,114"
+         },
           "Bottom": "",
           "Crawl Away": "",
           "Swamp Song": "",

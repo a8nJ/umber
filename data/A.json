@@ -2,7 +2,6 @@
    "10,000 Maniacs": {
       "Our Time in Eden": {
           "$date": "1992-09-29",
-          "$list": "white",
           "Noah’s Dove": "",
           "These Are Days": "good",
           "Eden": "",
@@ -21,7 +20,6 @@
    "9 Lazy 9": {
       "Bedsofaland": {
          "$date": "2009",
-         "$list": "white",
          "Hotwire": "short",
          "Russian Spring": "short",
          "Endless": "",
@@ -38,7 +36,6 @@
       },
       "Sweet Jones": {
          "$date": "2003",
-         "$list": "white",
          "The Woodworm": "good",
          "Code 3": "bad",
          "Sunday Monday": "good",
@@ -54,7 +51,6 @@
       },
       "Electric Lazyland": {
          "$date": "1994",
-         "$list": "white",
          "Life Goes On & On": "bad",
          "Electric Lazyland": "bad",
          "Skarakesh": "bad",
@@ -75,7 +71,6 @@
       },
       "Paradise Blown": {
          "$date": "1994",
-         "$list": "white",
          "500 am": "good",
          "Shak": "bad",
          "Turn Me Loose": "bad",
@@ -102,7 +97,6 @@
    "Aaliyah": {
       "Aaliyah": {
          "$date": "2001",
-         "$list": "white",
          "We Need a Resolution": "good",
          "Loose Rap": "",
          "Rock the Boat": "",
@@ -122,7 +116,6 @@
    "Aerosmith": {
       "Nine Lives": {
          "$date": "1997",
-         "$list": "black",
          "Hole in My Soul": {
             "VPY": "7,324,282",
             "URL": "https://youtu.be/HaC0s-FP-r4"
@@ -130,7 +123,6 @@
       },
       "Get a Grip": {
          "$date": "1993",
-         "$list": "black",
          "Amazing": "",
          "Crazy": {
             "VPY": "50,729,923",
@@ -140,7 +132,6 @@
       },
       "Pump": {
          "$date": "1989",
-         "$list": "black",
          "Cryin’": {
             "VPY": "23,633,799",
             "URL": "https://youtu.be/qfNmyxV2Ncw"
@@ -150,7 +141,6 @@
       },
       "Permanent Vacation": {
          "$date": "1987",
-         "$list": "black",
          "Angel": {
             "VPY": "10,621,283",
             "URL": "https://youtu.be/CBTOGVb_cQg"
@@ -160,7 +150,6 @@
       },
       "Toys in the Attic": {
          "$date": "1975",
-         "$list": "black",
          "Walk This Way": {
             "VPY": "7,394,905",
             "URL": "https://youtu.be/4B_UYYPb-Gk"
@@ -168,7 +157,6 @@
       },
       "Aerosmith": {
          "$date": "1973",
-         "$list": "black",
          "Dream On": {
             "VPY": "8,369,719",
             "URL": "https://youtu.be/O0oQCmnvvl0"
@@ -178,7 +166,6 @@
    "AFX": {
       "Analogue Bubblebath 3": {
           "$date": "1993-05",
-          "$list": "white",
           ".215061": "",
           ".000890569": "good",
           ".38": "short",
@@ -193,7 +180,6 @@
       "$check": "2020-05-06",
       "Music for Museum": {
          "$date": "2014",
-         "$list": "white",
          "Land Me": "bad",
          "Reverse Bubble": "bad",
          "The Dream of Yi": "",
@@ -206,7 +192,6 @@
       },
       "Love 2": {
          "$date": "2009",
-         "$list": "white",
          "Do the Joy": "",
          "Love": "short",
          "So Light Is Her Footfall": "",
@@ -222,7 +207,6 @@
       },
       "Pocket Symphony": {
          "$date": "2006",
-         "$list": "white",
          "Space Maker": "",
          "Once Upon a Time": "",
          "One Hell of a Party": "",
@@ -239,7 +223,6 @@
       },
       "Talkie Walkie": {
          "$date": "2004",
-         "$list": "white",
          "Venus": "",
          "Cherry Blossom Girl": "bad",
          "Run": "bad",
@@ -254,7 +237,6 @@
       },
       "10 000 Hz Legend": {
          "$date": "2001",
-         "$list": "white",
          "Electronic Performers": "bad",
          "How Does It Make You Feel?": "bad",
          "Radio 1": "bad",
@@ -269,7 +251,6 @@
       },
       "Moon Safari": {
          "$date": "1998",
-         "$list": "white",
          "La Femme d’argent": "good",
          "Sexy Boy": "bad",
          "All I Need": "good",
@@ -283,7 +264,6 @@
       },
       "Premiers Symptômes": {
          "$date": "1997",
-         "$list": "white",
          "Modular Mix": "good",
          "Casanova 70": "good",
          "Les Professionnels": "good",
@@ -296,7 +276,6 @@
    "Alannah Myles": {
       "Alannah Myles": {
          "$date": "1989",
-         "$list": "black",
          "Black Velvet": {
             "VPY": "9,350,914",
             "URL": "https://youtu.be/tT4d1LQy4es"
@@ -306,7 +285,6 @@
    "Aleksi Perälä": {
       "Resonance": {
           "$date": "2019-11-29",
-          "$list": "white",
           "UKMH51900039": "bad",
           "UKMH51900040": "",
           "UKMH51900041": "",
@@ -320,7 +298,6 @@
       },
       "Presence": {
           "$date": "2019-06-21",
-          "$list": "white",
           "FI3AC1927010": "good",
           "FI3AC1927020": "",
           "FI3AC1927030": "",
@@ -336,7 +313,6 @@
       },
       "Paradox": {
           "$date": "2017-12-15",
-          "$list": "white",
           "GBLFT1740065": "bad",
           "GBLFT1740066": "",
           "GBLFT1740067": "",
@@ -350,7 +326,6 @@
       },
       "Ovuca Bonus": {
           "$date": "2014-05-02",
-          "$list": "white",
           "Transport Phenomenon": "",
           "Mean Squared Displacement": "",
           "Kinetic Theory": "",
@@ -365,7 +340,6 @@
       },
       "Mental Union 4": {
           "$date": "2014-05-02",
-          "$list": "white",
           "Alek-sea": "short",
           "Welcome": "short",
           "Japan": "short",
@@ -390,7 +364,6 @@
    "Alela Diane": {
       "To Be Still": {
          "$date": "2009",
-         "$list": "white",
          "Dry Grass & Shadows": "",
          "White as Diamonds": "",
          "Age Old Blue": "",
@@ -409,7 +382,6 @@
    "Alice in Chains": {
       "Jar of Flies": {
          "$date": "1994",
-         "$list": "white",
          "Rotten Apple": "good",
          "Nutshell": "good",
          "I Stay Away": "good",
@@ -420,7 +392,6 @@
       },
       "Dirt": {
          "$date": "1992",
-         "$list": "black",
          "Down in a Hole": "",
          "Rooster": "",
          "Them Bones": "",
@@ -431,7 +402,6 @@
       },
       "Facelift": {
          "$date": "1990",
-         "$list": "black",
          "Alice In Chains - Man in the Box (Official Video)": {
              "URL": "https://youtu.be/TAqZb52sgpU",
              "VPY": "9,204,115"
@@ -441,7 +411,6 @@
    "Alicia Keys": {
       "Songs in A Minor": {
          "$date": "2001",
-         "$list": "black",
          "Fallin’": {
             "VPY": "17,037,786",
             "URL": "https://youtu.be/Urdlvw0SSEc"
@@ -451,7 +420,6 @@
    "America": {
       "Homecoming": {
          "$date": "1972-11-15",
-         "$list": "white",
          "Ventura Highway": "good",
          "To Each His Own": "",
          "Don’t Cross the River": "short",
@@ -465,7 +433,6 @@
       },
       "America": {
          "$date": "1971-12-26",
-         "$list": "white",
          "Riverside": "",
          "Sandman": "",
          "Three Roses": "",
@@ -487,7 +454,6 @@
    "Amon Tobin": {
       "Fear in a Handful of Dust": {
           "$date": "2019-04-26",
-          "$list": "white",
           "On a Hilltop Sat the Moon": "good",
           "Vipers Follow You": "",
           "Freeformed": "",
@@ -501,7 +467,6 @@
       },
        "Electronic Music for the Sydney Opera House: Amon Tobin Pla": {
            "$date": "2017-06-17",
-           "$list": "white",
            "Creature 1": "short",
            "Creature 2": "short",
            "Creature 3": "short",
@@ -516,7 +481,6 @@
        },
       "ISAM": {
          "$date": "2011",
-         "$list": "white",
          "Journeyman": "bad",
          "Piece of Paper": "short",
          "Goto 10": "bad",
@@ -532,7 +496,6 @@
       },
       "Foley Room": {
          "$date": "2007",
-         "$list": "white",
          "Bloodstone": "good",
          "Esther’s": "",
          "Keep Your Distance": "",
@@ -548,7 +511,6 @@
       },
       "Out From Out Where": {
          "$date": "2002",
-         "$list": "white",
          "Back From Space": "bad",
          "Verbal": "bad",
          "Chronic Tronic": "bad",
@@ -563,7 +525,6 @@
       },
       "Supermodified": {
          "$date": "2000",
-         "$list": "white",
          "Get Your Snack On": "good",
          "Four Ton Mantis": "",
          "Slowly": "good",
@@ -579,7 +540,6 @@
       },
       "Permutation": {
          "$date": "1998",
-         "$list": "white",
          "Like Regular Chickens": "",
          "Bridge": "good",
          "Reanimator": "",
@@ -595,7 +555,6 @@
       },
       "Bricolage": {
          "$date": "1997",
-         "$list": "white",
          "Stoney Street": "good",
          "Easy Muffin": "good",
          "Yasawas": "",
@@ -615,7 +574,6 @@
    "Amy Grant": {
       "Heart in Motion": {
          "$date": "1991",
-         "$list": "white",
          "Good for Me": "",
          "Baby Baby": {
             "rate": "good",
@@ -637,7 +595,6 @@
       "$check": "2020-04-26",
       "Syro": {
          "$date": "2014",
-         "$list": "white",
          "minipops 67 (source field mix)": "bad",
          "XMAS_EVET10 (thanaton3 mix)": "bad",
          "produk 29": "bad",
@@ -653,7 +610,6 @@
       },
       "26 Mixes for Cash": {
          "$date": "2003",
-         "$list": "white",
          "Time to Find Me (AFX Fast mix)": "good",
          "Raising the Titanic (Big Drum mix)": "good",
          "Journey (Aphex Twin Care mix)": "good",
@@ -683,7 +639,6 @@
       },
       "Drukqs": {
          "$date": "2001",
-         "$list": "white",
          "Jynweythek": "short",
          "Vordhosbn": "",
          "Kladfvgbung Micshk": "short",
@@ -717,14 +672,12 @@
       },
       "Windowlicker": {
          "$date": "1999",
-         "$list": "white",
          "Windowlicker": "good",
          "Formula": "",
          "Nannou": ""
       },
       "Richard D. James Album": {
          "$date": "1996",
-         "$list": "white",
          "4": "good",
          "Cornish Acid": "short",
          "Peek 824545201": "",
@@ -738,7 +691,6 @@
       },
       "I Care Because You Do": {
          "$date": "1995",
-         "$list": "white",
          "Acrid Avid Jam Shred": "bad",
          "The Waxen Pith": "bad",
          "Wax the Nip": "bad",
@@ -754,7 +706,6 @@
       },
       "Classics": {
          "$date": "1994-12",
-         "$list": "white",
          "Digeridoo": "",
          "Flaphead": "",
          "Phloam": "",
@@ -771,7 +722,6 @@
       },
       "Selected Ambient Works, Volume II": {
          "$date": "1994-03",
-         "$list": "white",
          "(1) Cliffs (7:21)": "good",
          "(2) Radiator (6:27)": "bad",
          "(3) Rhubarb (7:44)": "good",
@@ -800,7 +750,6 @@
       },
       "On Remixes": {
           "$date": "1993-11-15",
-          "$list": "white",
           "On (D-Scape mix)": "",
           "On (Reload mix)": "good",
           "On (μ-Ziq mix)": "good",
@@ -808,7 +757,6 @@
       },
       "On": {
           "$date": "1993-11-15",
-          "$list": "white",
           "On": "good",
           "73-Yips": "",
           "D-Scape": "",
@@ -816,7 +764,6 @@
       },
       "Selected Ambient Works 85–92": {
           "$date": "1992-11-01",
-          "$list": "white",
           "Xtal": "good",
           "Tha": "good",
           "Pulsewidth": "good",
@@ -835,7 +782,6 @@
    "Audioslave": {
       "Out of Exile": {
          "$date": "2005",
-         "$list": "black",
          "Be Yourself": {
             "VPY": "13,995,809",
             "URL": "https://youtu.be/WC5FdFlUcl0"
@@ -844,7 +790,6 @@
       },
       "Audioslave": {
          "$date": "2002",
-         "$list": "black",
          "Cochise": "",
          "Like a Stone": {
             "VPY": "47,408,565",
@@ -857,7 +802,6 @@
    "Autechre": {
       "elseq 1": {
           "$date": "2016-05-19",
-          "$list": "white",
           "feed1": "bad",
           "c16 deep tread": "",
           "13x0 step": "",
@@ -866,7 +810,6 @@
       },
       "Exai": {
          "$date": "2013",
-         "$list": "white",
          "FLeure": "bad",
          "irlite (get 0)": "bad",
          "prac-f": "bad",
@@ -887,7 +830,6 @@
       },
       "Move of Ten": {
           "$date": "2010-06-14",
-          "$list": "white",
           "Etchogon-S": "",
           "y7": "",
           "pce freeze 2.8i": "",
@@ -901,7 +843,6 @@
       },
       "Oversteps": {
           "$date": "2010-02-22",
-          "$list": "white",
           "r ess": "good",
           "ilanders": "",
           "known(1)": "",
@@ -919,7 +860,6 @@
       },
       "Quaristice": {
          "$date": "2008",
-         "$list": "white",
          "Altibzz": "good",
          "The Plc": "bad",
          "IO": "bad",
@@ -943,7 +883,6 @@
       },
       "Untilted": {
          "$date": "2005",
-         "$list": "white",
          "LCC": "bad",
          "Ipacial Section": "bad",
          "Pro Radii": "bad",
@@ -955,7 +894,6 @@
       },
       "Draft 7.30": {
          "$date": "2003",
-         "$list": "white",
          "Xylin Room": "",
          "IV VV IV VV VIII": "",
          "6IE.CR": "",
@@ -969,7 +907,6 @@
       },
       "Confield": {
          "$date": "2001",
-         "$list": "white",
          "VI Scose Poise": "bad",
          "Cfern": "bad",
          "Pen Expers": "bad",
@@ -982,7 +919,6 @@
       },
       "EP7": {
          "$date": "1999",
-         "$list": "white",
          "Rpeg": "",
          "Ccec": "",
          "Squeller": "",
@@ -1001,7 +937,6 @@
       },
       "LP5": {
          "$date": "1998",
-         "$list": "white",
          "Acroyear2": "bad",
          "777": "bad",
          "Rae": "bad",
@@ -1016,7 +951,6 @@
       },
       "Cichlisuite": {
           "$date": "1997-08-26",
-          "$list": "white",
           "Yeesland": "",
           "Pencha": "",
           "Characi": "",
@@ -1025,7 +959,6 @@
       },
       "Chiastic Slide": {
          "$date": "1997-02-17",
-         "$list": "white",
          "Cipater": "bad",
          "Rettic AC": "short",
          "Tewe": "bad",
@@ -1038,7 +971,6 @@
       },
       "Tri Repetae": {
          "$date": "1995",
-         "$list": "white",
          "Dael": "",
          "Clipper": "",
          "Leterel": "",
@@ -1052,7 +984,6 @@
       },
       "Amber": {
          "$date": "1994",
-         "$list": "white",
          "Foil": "bad",
          "Montreal": "bad",
          "Silverside": "bad",
@@ -1067,7 +998,6 @@
       },
       "Incunabula": {
          "$date": "1993",
-         "$list": "white",
          "Kalpol Introl": "good",
          "Bike": "good",
          "Autriche": "good",
