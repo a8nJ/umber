@@ -3,7 +3,6 @@
       "$check": "2020-05-15",
       "DSVII": {
           "$date": "2019-09-20",
-          "$list": "white",
           "Hell Riders": "",
           "A Bit of Sweetness": "",
           "Goodbye Captain Lee": "short",
@@ -60,12 +59,13 @@
       },
        "Hurry Up, We’re Dreaming": {
            "$date": "2011-10-14",
-           "$list": "black",
            "Intro": "",
-          "M83 'Midnight City' Official video": {
-              "URL": "https://youtu.be/dX3k_QDnzHE",
-              "VPY": "33,902,212"
-          },
+           "Midnight City": {
+             "id": "dX3k_QDnzHE",
+             "views": "291,314,982",
+             "published": "2011-10-17",
+             "views per year": "33,918,647"
+         },
            "Reunion": "",
            "Where the Boats Go": "short",
            "Wait": "",
@@ -254,7 +254,6 @@
       },
       "Erotica": {
           "$date": "1992-10-19",
-          "$list": "white",
           "Erotica": "bad",
           "Fever": "bad",
           "Bye Bye Baby": "bad",
@@ -311,7 +310,6 @@
       },
       "Madonna": {
           "$date": "1983-07-26",
-          "$list": "white",
           "Lucky Star": "good",
           "Borderline": "good",
           "Burning Up": "",
@@ -325,7 +323,6 @@
    "Mandalay": {
       "Instinct": {
           "$date": "2000",
-          "$list": "white",
           "Not Seventeen": "bad",
           "Don’t Invent Me": "",
           "Like Her": "bad",
@@ -340,7 +337,6 @@
       },
       "Empathy": {
          "$date": "1998-03-23",
-         "$list": "white",
          "This Life": "good",
          "Flowers Bloom": "good",
          "Insensible": "good",
@@ -480,7 +476,6 @@
       },
       "Mezzanine": {
           "$date": "1998-04-17",
-          "$list": "white",
           "Angel": "good",
           "Risingson": "good",
          "Massive Attack - Teardrop": {
@@ -557,7 +552,6 @@
    "Mazzy Star": {
       "Among My Swan": {
           "$date": "1996-10-17",
-          "$list": "white",
           "Disappear": "",
           "Flowers in December": "",
           "Rhymes of an Hour": "",
@@ -573,7 +567,6 @@
       },
       "So Tonight That I Might See": {
           "$date": "1993-09-27",
-          "$list": "white",
           "Fade Into You": "good",
           "Bells Ring": "",
           "Mary of Silence": "",

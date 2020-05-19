@@ -1,5 +1,6 @@
 'use strict';
 import {f_bandcamp} from '/umber/js/bandcamp.js';
+import {f_catbox} from '/umber/js/catbox.js';
 import {f_date} from '/umber/js/date.js';
 import {f_github} from '/umber/js/github.js';
 import {f_soundcloud} from '/umber/js/soundcloud.js';
@@ -74,22 +75,26 @@ function f3_figure(a_row) {
    const a_host = a_row[2].split('/');
    const s_site = a_host[0];
    const s_id_2 = a_host[1];
+   let s_id_3;
+   if (a_host.length == 3) {
+      s_id_3 = a_host[2];
+   }
    // column 3
    const s_title = a_row[3];
    // begin
-   let o_a, s_id_3;
+   let o_a;
    switch (s_site) {
    case 'b':
-      s_id_3 = a_host[2];
       o_a = f_bandcamp(s_id_2, s_id_3, s_title);
       break;
    case 'm4a':
    case 'mp3':
-   case 'mp4':
       o_a = f_github(s_id_1, s_id_2);
       break;
+   case 'mp4':
+      o_a = f_catbox(s_id_1, s_id_3);
+      break;
    case 's':
-      s_id_3 = a_host[2];
       o_a = f_soundcloud(s_id_2, s_id_3, s_title);
       break;
    case 'y':
