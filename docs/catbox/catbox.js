@@ -20,7 +20,7 @@ function f2_listen(a_table) {
    o_date.textContent = 'released ' + s_year + ' - posted ' + f_date(s_date);
    const o_vid = document.getElementById('vid');
    o_vid.src = 'https://files.catbox.moe/' + s_src + '.' + s_ext;
-   // FIXME remove this?
+   // need this for audio files
    o_vid.poster = 'https://files.catbox.moe/' + s_pos + '.jpg';
 }
 

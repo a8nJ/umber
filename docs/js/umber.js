@@ -2,7 +2,6 @@
 import {f_bandcamp} from '/umber/js/bandcamp.js';
 import {f_catbox} from '/umber/js/catbox.js';
 import {f_date} from '/umber/js/date.js';
-import {f_github} from '/umber/js/github.js';
 import {f_soundcloud} from '/umber/js/soundcloud.js';
 import {f_youtube} from '/umber/js/youtube.js';
 
@@ -89,8 +88,6 @@ function f3_figure(a_row) {
       break;
    case 'm4a':
    case 'mp3':
-      o_a = f_github(s_id_1, s_id_2);
-      break;
    case 'mp4':
       o_a = f_catbox(s_id_1, s_id_3);
       break;
