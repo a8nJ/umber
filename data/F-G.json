@@ -286,64 +286,156 @@
       }
    },
    "Foo Fighters": {
-      "Concrete and Gold": {
-         "$date": "2017",
-         "Run": "",
-         "The Sky Is a Neighborhood": {
-            "VPY": "28,652,318",
-            "URL": "https://youtu.be/TRqiFPpw2fY"
+       "Concrete and Gold": {
+           "$date": "2017-09-15",
+           "T‐Shirt": "short",
+           "Run": "",
+           "Make It Right": "",
+           "The Sky Is a Neighborhood": {
+             "id": "TRqiFPpw2fY",
+             "views": "57,948,105",
+             "published": "2017-08-23",
+             "views per year": "21,165,545"
+         },
+           "La Dee Da": "",
+           "Dirty Water": "",
+           "Arrows": "",
+           "Happy Ever After (Zero Hour)": "",
+           "Sunday Rain": "",
+           "The Line": "",
+           "Concrete and Gold": ""
+       },
+       "Wasting Light": {
+           "$date": "2011-04-08",
+           "Bridge Burning": "",
+           "Rope": "",
+           "Dear Rosemary": "",
+           "White Limo": "",
+           "Arlandria": "",
+           "These Days": "",
+           "Back & Forth": "",
+           "A Matter of Time": "",
+           "Miss the Misery": "",
+           "I Should Have Known": "",
+           "Walk": {
+             "id": "4PkcfQtibmU",
+             "views": "97,158,170",
+             "published": "2011-06-02",
+             "views per year": "10,839,041"
          }
-      },
-      "Sonic Highways": {
-         "$date": "2014",
-         "Something From Nothing": {
-            "VPY": "7,013,168",
-            "URL": "https://youtu.be/V_YlZ1JdcVk"
-         }
-      },
-      "Wasting Light": {
-         "$date": "2011",
-         "These Days": "",
-         "Walk": {
-            "VPY": "11,562,945",
-            "URL": "https://youtu.be/4PkcfQtibmU"
-         }
-      },
-      "Echoes, Silence, Patience & Grace": {
-         "$date": "2007",
-         "The Pretender": {
-            "VPY": "38,899,344",
-            "URL": "https://youtu.be/SBjQ9tuuTJQ"
-         }
-      },
-      "In Your Honor": {
-         "$date": "2005",
+       },
+       "Echoes, Silence, Patience & Grace": {
+           "$date": "2007-09-21",
+           "The Pretender": {
+             "id": "SBjQ9tuuTJQ",
+             "views": "420,720,467",
+             "published": "2009-10-02",
+             "views per year": "39,584,789"
+         },
+           "Let It Die": "",
+           "Erase/Replace": "",
+           "Long Road to Ruin": "",
+           "Come Alive": "",
+           "Stranger Things Have Happened": "",
+           "Cheer Up, Boys (Your Make Up Is Running)": "",
+           "Summer’s End": "",
+           "Ballad of the Beaconsfield Miners": "short",
+           "Statues": "",
+           "But, Honestly": "",
+           "Home": ""
+       },
+       "In Your Honor": {
+           "$date": "2005-05-13",
+           "In Your Honor": "",
+           "No Way Back": "",
+           "Best of You": {
+             "id": "h_L4Rixya64",
+             "views": "179,420,433",
+             "published": "2009-10-03",
+             "views per year": "16,885,677"
+         },
+           "DOA": "",
+           "Hell": "short",
+           "The Last Song": "",
+           "Free Me": "",
+           "Resolve": "",
+           "The Deepest Blues Are Black": "",
+           "End Over End": "",
+           "Still": "",
+           "What If I Do?": "",
+           "Miracle": "",
+           "Another Round": "",
+           "Friend of a Friend": "",
+           "Over and Out": "",
+           "On the Mend": "",
+           "Virginia Moon": "",
+           "Cold Day in the Sun": "",
+           "Razor": ""
+       },
          "Best Of You": {
             "VPY": "16,432,068",
             "URL": "https://youtu.be/h_L4Rixya64"
          }
       },
-      "One by One": {
-         "$date": "2002",
-         "All My Life": {
-            "VPY": "7,246,410",
-            "URL": "https://youtu.be/xQ04WbgI9rg"
-         }
-      },
-      "There Is Nothing Left to Lose": {
-         "$date": "1999",
-         "Learn To Fly": {
-            "VPY": "11,766,693",
-            "URL": "https://youtu.be/1VQ_3sBZEm0"
-         }
-      },
-      "The Colour and the Shape": {
-         "$date": "1997",
-         "Foo Fighters - Everlong (Official Music Video)": {
-             "URL": "https://youtu.be/eBG7P-K-r1Y",
-             "VPY": "16,192,325"
-         }
-      }
+       "One by One": {
+           "$date": "2002-10-21",
+           "All My Life": {
+             "id": "xQ04WbgI9rg",
+             "views": "77,170,450",
+             "published": "2009-10-02",
+             "views per year": "7,260,821"
+         },
+           "Low": "",
+           "Have It All": "",
+           "Times Like These": "",
+           "Disenchanted Lullaby": "",
+           "Tired of You": "",
+           "Halo": "",
+           "Lonely as You": "",
+           "Overdrive": "",
+           "Burn Away": "",
+           "Come Back": ""
+       },
+       "There Is Nothing Left to Lose": {
+           "$date": "1999-11-01",
+           "Stacked Actors": "",
+           "Breakout": "",
+           "Learn to Fly": {
+             "id": "1VQ_3sBZEm0",
+             "views": "126,494,876",
+             "published": "2009-10-02",
+             "views per year": "11,901,662"
+         },
+           "Gimme Stitches": "",
+           "Generator": "",
+           "Aurora": "",
+           "Live-In Skin": "",
+           "Next Year": "",
+           "Headwires": "",
+           "Ain’t It the Life": "",
+           "M.I.A.": ""
+       },
+       "The Colour and the Shape": {
+           "$date": "1997-05-12",
+           "Doll": "short",
+           "Monkey Wrench": "",
+           "Hey, Johnny Park!": "",
+           "My Poor Brain": "",
+           "Wind Up": "short",
+           "Up in Arms": "short",
+           "My Hero": "",
+           "See You": "short",
+           "Enough Space": "short",
+           "February Stars": "",
+           "Everlong": {
+             "id": "eBG7P-K-r1Y",
+             "views": "172,540,940",
+             "published": "2009-10-02",
+             "views per year": "16,234,049"
+         },
+           "Walking After You": "",
+           "New Way Home": ""
+       }
    },
    "Foreigner": {
       "Agent Provocateur": {

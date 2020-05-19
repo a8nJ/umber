@@ -11,7 +11,7 @@ function f2_listen(a_table) {
    const s_year = a_row[1].toString();
    const a_album = a_row[2].split('/');
    const s_album = a_album[1];
-   const s_ext = a_album[2];
+   const s_ext = a_album[0];
    const s_title = a_row[3];
    document.title = s_title + ' - Umber Listen';
    document.getElementById('artist').textContent = s_title;

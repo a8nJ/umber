@@ -77,19 +77,22 @@ function f3_figure(a_row) {
    // column 3
    const s_title = a_row[3];
    // begin
-   let o_a;
-   if (s_site == 'b') {
-      const s_id_3 = a_host[2];
+   let o_a, s_id_3;
+   switch (s_site) {
+   case 'b':
+      s_id_3 = a_host[2];
       o_a = f_bandcamp(s_id_2, s_id_3, s_title);
-   }
-   if (s_site == 's') {
-      const s_id_3 = a_host[2];
-      o_a = f_soundcloud(s_id_2, s_id_3, s_title);
-   }
-   if (s_site == 'g') {
+      break;
+   case 'm4a':
+   case 'mp3':
+   case 'mp4':
       o_a = f_github(s_id_1, s_id_2);
-   }
-   if (s_site == 'y') {
+      break;
+   case 's':
+      s_id_3 = a_host[2];
+      o_a = f_soundcloud(s_id_2, s_id_3, s_title);
+      break;
+   case 'y':
       o_a = f_youtube(s_id_2, s_title);
    }
    // end
