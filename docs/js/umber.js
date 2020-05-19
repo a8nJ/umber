@@ -1,4 +1,5 @@
 'use strict';
+import {f_backblaze} from '/umber/js/b2.js';
 import {f_bandcamp} from '/umber/js/bandcamp.js';
 import {f_catbox} from '/umber/js/catbox.js';
 import {f_date} from '/umber/js/date.js';
@@ -88,8 +89,10 @@ function f3_figure(a_row) {
       break;
    case 'm4a':
    case 'mp3':
-   case 'mp4':
       o_a = f_catbox(s_id_1, s_id_3);
+      break;
+   case 'mp4':
+      o_a = f_backblaze(s_id_1, s_id_2);
       break;
    case 's':
       o_a = f_soundcloud(s_id_2, s_id_3, s_title);
