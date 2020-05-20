@@ -780,24 +780,48 @@
       }
    },
    "Audioslave": {
-      "Out of Exile": {
-         "$date": "2005",
-         "Be Yourself": {
-            "VPY": "13,995,809",
-            "URL": "https://youtu.be/WC5FdFlUcl0"
+       "Out of Exile": {
+           "$date": "2005-05-23",
+           "Your Time Has Come": "",
+           "Out of Exile": "",
+           "Be Yourself": {
+             "id": "WC5FdFlUcl0",
+             "views": "165,979,641",
+             "published": "2009-06-16",
+             "views per year": "15,190,194"
          },
-         "Yesterday to Tomorrow": ""
-      },
-      "Audioslave": {
-         "$date": "2002",
-         "Cochise": "",
-         "Like a Stone": {
-            "VPY": "47,408,565",
-            "URL": "https://youtu.be/7QU1nvuxaMA"
+           "Doesn’t Remind Me": "",
+           "Drown Me Slowly": "",
+           "Heaven’s Dead": "",
+           "The Worm": "",
+           "Man or Animal": "",
+           "Yesterday to Tomorrow": "",
+           "Dandelion": "",
+           "#1 Zero": "",
+           "The Curse": ""
+       },
+       "Audioslave": {
+           "$date": "2002-11-15",
+           "Cochise": "",
+           "Show Me How to Live": "",
+           "Gasoline": "",
+           "What You Are": "",
+           "Like a Stone": {
+             "id": "7QU1nvuxaMA",
+             "views": "656,111,932",
+             "published": "2009-10-25",
+             "views per year": "62,084,167"
          },
-         "Show Me How to Live": "",
-         "Shadow on the Sun": ""
-      }
+           "Set It Off": "",
+           "Shadow on the Sun": "",
+           "I Am the Highway": "",
+           "Exploder": "",
+           "Hypnotize": "",
+           "Bring ’em Back Alive": "",
+           "Light My Way": "",
+           "Getaway Car": "",
+           "The Last Remaining Light": ""
+       }
    },
    "Autechre": {
       "elseq 1": {
