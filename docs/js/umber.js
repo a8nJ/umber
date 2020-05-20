@@ -89,8 +89,6 @@ function f3_figure(a_row) {
       break;
    case 'm4a':
    case 'mp3':
-      o_a = f_catbox(s_id_1, s_id_3);
-      break;
    case 'mp4':
       o_a = f_backblaze(s_id_1, s_id_2);
       break;
