@@ -1,7 +1,6 @@
 'use strict';
 import {f_backblaze} from '/umber/js/b2.js';
 import {f_bandcamp} from '/umber/js/bandcamp.js';
-import {f_catbox} from '/umber/js/catbox.js';
 import {f_date} from '/umber/js/date.js';
 import {f_soundcloud} from '/umber/js/soundcloud.js';
 import {f_youtube} from '/umber/js/youtube.js';
