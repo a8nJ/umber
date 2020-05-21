@@ -421,28 +421,48 @@
       }
    },
    "The Cranberries": {
-      "Bury the Hatchet": {
-         "$date": "1999",
-         "The Cranberries - Animal Instinct (Official Music Video)": {
-             "URL": "https://youtu.be/ky4CdN0x58A",
-             "VPY": "6,341,544"
-         }
-      },
-      "To the Faithful Departed": {
-         "$date": "1996",
-         "When You’re Gone": {
-            "VPY": "7,514,918",
-            "URL": "https://youtu.be/RUmdWdEgHgk"
-         }
-      },
-      "No Need to Argue": {
-         "$date": "1994",
-         "Ode To My Family": "",
-         "Zombie": {
-            "VPY": "90,951,005",
-            "URL": "https://youtu.be/6Ejga4kJUts"
-         }
-      },
+       "To the Faithful Departed": {
+           "$date": "1996-04-29",
+           "Hollywood": "",
+           "Salvation": "short",
+           "When You’re Gone": {
+             "id": "RUmdWdEgHgk",
+             "views": "87,133,780",
+             "published": "2009-06-16",
+             "views per year": "7,972,348"
+         },
+           "Free to Decide": "",
+           "War Child": "",
+           "Forever Yellow Skies": "",
+           "The Rebels": "",
+           "I Just Shot John Lennon": "short",
+           "Electric Blue": "",
+           "I’m Still Remembering": "",
+           "Will You Remember?": "short",
+           "Joe": "",
+           "Bosnia": ""
+       },
+       "No Need to Argue": {
+           "$date": "1994-10-03",
+           "Ode to My Family": "",
+           "I Can’t Be With You": "",
+           "Twenty One": "",
+           "Zombie": {
+             "id": "6Ejga4kJUts",
+             "views": "1,010,434,597",
+             "published": "2009-06-16",
+             "views per year": "92,450,210"
+         },
+           "Empty": "",
+           "Everything I Said": "",
+           "The Icicle Melts": "short",
+           "Disappointment": "",
+           "Ridiculous Thoughts": "",
+           "Dreaming My Dreams": "",
+           "Yeat’s Grave": "",
+           "Daffodil Lament": "",
+           "No Need to Argue": "short"
+       },
        "Everybody Else Is Doing It, So Why Can’t We?": {
            "$date": "1993-03-01",
            "I Still Do": "",
