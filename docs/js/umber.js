@@ -98,6 +98,7 @@ function f3_figure(a_row) {
       o_a = f_youtube(s_id_2, s_title);
    }
    // end
+   o_a.target = '_blank';
    o_figcap.textContent = s_title;
    o_time.textContent = 'released ' + s_year + ' - posted ' + f_date(s_id_1);
    o_a.append(o_figcap);
