@@ -1326,27 +1326,88 @@
        }
    },
    "Guns N’ Roses": {
-      "Use Your Illusion I": {
-         "$date": "1991-09-16",
-         "November Rain": {
-            "VPY": "123,851,131",
-            "URL": "https://youtu.be/8SbUC-UaAxE"
-         }
-      },
-      "G N’ R Lies": {
-         "$date": "1988",
-         "Patience": {
-            "VPY": "43,348,720",
-            "URL": "https://youtu.be/ErvgV4P6Fzc"
-         }
-      },
-      "Appetite for Destruction": {
-         "$date": "1987",
-         "Sweet Child O’ Mine": {
-            "VPY": "98,551,986",
-            "URL": "https://youtu.be/1w7OgIMMRc4"
-         }
-      }
+       "Use Your Illusion II": {
+           "$date": "1991-09-17",
+           "Civil War": "",
+           "14 Years": "",
+           "Yesterdays": "",
+           "Knockin’ on Heaven’s Door": "",
+           "Get in the Ring": "",
+           "Shotgun Blues": "",
+           "Breakdown": "",
+           "Pretty Tied Up": "",
+           "Locomotive": "",
+           "So Fine": "",
+           "Estranged": {
+             "id": "dpmAY059TTY",
+             "views": "140,838,850",
+             "published": "2009-10-07",
+             "views per year": "13,261,508"
+         },
+           "You Could Be Mine": "",
+           "Don’t Cry (alt. lyrics)": "",
+           "My World": "short"
+       },
+       "Use Your Illusion I": {
+           "$date": "1991-09-16",
+           "Right Next Door to Hell": "",
+           "Dust N’ Bones": "",
+           "Live and Let Die": "",
+           "Don’t Cry": "",
+           "Perfect Crime": "short",
+           "You Ain’t the First": "short",
+           "Bad Obsession": "",
+           "Back Off Bitch": "",
+           "Double Talkin’ Jive": "",
+           "November Rain": {
+             "id": "8SbUC-UaAxE",
+             "views": "1,357,071,310",
+             "published": "2009-12-25",
+             "views per year": "130,439,552"
+         },
+           "The Garden": "",
+           "Garden of Eden": "short",
+           "Don’t Damn Me": "",
+           "Bad Apples": "",
+           "Dead Horse": "",
+           "Coma": ""
+       },
+       "G N’ R Lies": {
+           "$date": "1988-11-30",
+           "Reckless Life": "",
+           "Nice Boys": "",
+           "Move to the City": "",
+           "Mama Kin": "",
+           "Patience": {
+             "id": "ErvgV4P6Fzc",
+             "views": "495,622,465",
+             "published": "2009-10-07",
+             "views per year": "46,668,241"
+         },
+           "Used to Love Her": "",
+           "You’re Crazy": "",
+           "One in a Million": ""
+       },
+       "Appetite for Destruction": {
+           "$date": "1987-07-21",
+           "Welcome to the Jungle": "",
+           "It’s So Easy": "",
+           "Nightrain": "",
+           "Out ta Get Me": "",
+           "Mr. Brownstone": "",
+           "Paradise City": "",
+           "My Michelle": "",
+           "Think About You": "",
+           "Sweet Child o’ Mine": {
+             "id": "1w7OgIMMRc4",
+             "views": "1,083,340,558",
+             "published": "2009-12-24",
+             "views per year": "104,101,589"
+         },
+           "You’re Crazy": "",
+           "Anything Goes": "",
+           "Rocket Queen": ""
+       }
    },
    "Gwen Stefani": {
       "Love. Angel. Music. Baby.": {
