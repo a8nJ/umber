@@ -2,7 +2,6 @@
    "Tiësto": {
       "A Town Called Paradise": {
          "$date": "2014",
-         "$list": "black",
          "Maximal Crazy": "",
          "Red Lights": "",
          "Secrets": {
@@ -15,7 +14,6 @@
       },
       "Elements of Life": {
          "$date": "2007",
-         "$list": "white",
          "Ten Seconds Before Sunrise": "good",
          "Everything": "",
          "Do You Feel Me": "",
@@ -34,7 +32,6 @@
       },
       "Just Be": {
          "$date": "2004",
-         "$list": "black",
          "Adagio For Strings": {
             "VPY": "7,863,568",
             "URL": "https://youtu.be/8tIgN7eICn4"
@@ -43,7 +40,6 @@
    },
    "Tipper": {
       "Surrounded": {
-         "$list": "white",
          "Middle of Nowhere": "short",
          "California Rolls": "",
          "Tear Strips Off": "good",
@@ -60,7 +56,6 @@
    },
    "Toadies": {
       "Rubberneck": {
-         "$list": "white",
          "Mexican Hairless": "short",
          "Mister Love": "short",
          "Backslider": "short",
@@ -81,7 +76,6 @@
    "Tom Waits": {
       "Bad as Me": {
          "$date": "2011",
-         "$list": "white",
          "Chicago": "short",
          "Raised Right Men": "",
          "Talking at the Same Time": "",
@@ -98,7 +92,6 @@
       },
       "Real Gone": {
          "$date": "2004",
-         "$list": "white",
          "Top of the Hill": "",
          "Hoist That Rag": "good",
          "Sins of My Father": "good",
@@ -118,7 +111,6 @@
       },
       "Bone Machine": {
          "$date": "1992",
-         "$list": "white",
          "Earth Died Screaming": "",
          "Dirt in the Ground": "",
          "Such a Scream": "short",
@@ -138,7 +130,6 @@
       },
       "Rain Dogs": {
          "$date": "1985",
-         "$list": "white",
          "Singapore": "short",
          "Clap Hands": "good",
          "Cemetery Polka": "short",
@@ -161,7 +152,6 @@
       },
       "Swordfishtrombones": {
          "$date": "1983",
-         "$list": "white",
          "Underground": "short",
          "Shore Leave": "",
          "Dave the Butcher": "short",
@@ -180,7 +170,6 @@
       },
       "Blue Valentine": {
          "$date": "1978",
-         "$list": "white",
          "Somewhere (from ’West Side Story’)": "",
          "Red Shoes by the Drugstore": "",
          "Christmas Card From a Hooker in Minneapolis": "",
@@ -194,7 +183,6 @@
       },
       "Foreign Affairs": {
          "$date": "1977",
-         "$list": "white",
          "Cinny’s Waltz": "short",
          "Muriel": "bad",
          "I Never Talk to Strangers": "good",
@@ -207,7 +195,6 @@
       },
       "Nighthawks at the Diner": {
          "$date": "1975",
-         "$list": "white",
          "Emotional Weather Report": "",
          "On a Foggy Night": "",
          "Eggs and Sausage (In a Cadillac With Susan Michelson)": "good",
@@ -222,32 +209,62 @@
       }
    },
    "Toni Braxton": {
-      "Sex & Cigarettes": {
-         "$date": "2018",
-         "$list": "black",
-         "Long As I Live": {
-            "VPY": "32,213,630",
-            "URL": "https://youtu.be/EjW7WzozgI0"
-         }
-      },
-      "The Heat": {
-         "$date": "2000",
-         "$list": "black",
-         "Just Be a Man About It": {
-            "VPY": "8,561,793",
-            "URL": "https://youtu.be/wpaR3wzTlvo"
-         }
-      },
-      "Secrets": {
-         "$date": "1996",
-         "$list": "black",
-         "He Was’t Man Enough": "",
-         "Un-Break My Heart": {
-            "VPY": "42,821,132",
-            "URL": "https://youtu.be/p2Rch6WvPJE"
+       "Sex & Cigarettes": {
+           "$date": "2018-03-23",
+           "Deadwood": "",
+           "Sex & Cigarettes": "",
+           "Long as I Live": {
+             "id": "EjW7WzozgI0",
+             "views": "58,626,464",
+             "published": "2018-03-23",
+             "views per year": "27,105,463"
          },
-         "You’re Makin’ Me High": ""
-      }
+           "Foh": "short",
+           "Sorry": "",
+           "My Heart": "",
+           "Coping": "",
+           "Missin'": ""
+       },
+       "The Heat": {
+           "$date": "2000-04-25",
+           "He Wasn't Man Enough": "",
+           "The Heat": "",
+           "Spanish Guitar": "",
+           "Just Be a Man About It": {
+             "id": "wpaR3wzTlvo",
+             "views": "102,216,438",
+             "published": "2009-10-25",
+             "views per year": "9,669,659"
+         },
+           "Gimme Some": "",
+           "I'm Still Breathing": "",
+           "Fairy Tale": "",
+           "The Art of Love": "",
+           "Speaking in Tongues": "",
+           "Maybe": "",
+           "You've Been Wrong": "",
+           "Never Just for a Ring": ""
+       },
+       "Secrets": {
+           "$date": "1996-06-18",
+           "Come on Over Here": "",
+           "You're Makin Me High": "",
+           "There's No Me Without You": "",
+           "Un-Break My Heart": {
+             "id": "p2Rch6WvPJE",
+             "views": "492,686,181",
+             "published": "2009-10-25",
+             "views per year": "46,608,036"
+         },
+           "Talking in His Sleep": "",
+           "How Could an Angel Break My Heart": "",
+           "Find Me a Man": "",
+           "Let It Flow": "",
+           "Why Should I Care": "",
+           "I Don't Want To": "",
+           "I Love Me Some Him": "",
+           "In the Late of Night / Toni's Secrets": ""
+       }
    },
    "Tool": {
        "Fear Inoculum": {
@@ -310,7 +327,6 @@
       },
       "Ænima": {
          "$date": "1996-09-17",
-         "$list": "white",
          "Stinkfist": "good",
          "Eulogy": "",
          "H.": "",
@@ -334,7 +350,6 @@
       },
       "Undertow": {
           "$date": "1993-04-06",
-          "$list": "white",
           "Intolerance": "",
           "Prison Sex": "good",
           "Sober": {
@@ -355,7 +370,6 @@
    "Tori Amos": {
       "The Beekeeper": {
          "$date": "2005",
-         "$list": "white",
          "Parasol": "",
          "Sweet the Sting": "bad",
          "The Power of Orange Knickers": "bad",
@@ -378,7 +392,6 @@
       },
        "Strange Little Girls": {
            "$date": "2001-09-17",
-           "$list": "white",
            "New Age": "bad",
            "97' Bonnie & Clyde": "bad",
            "Strange Little Girl": "bad",
@@ -394,7 +407,6 @@
        },
       "To Venus and Back": {
           "$date": "1999-09-20",
-          "$list": "white",
           "Bliss": "good",
           "Juárez": "",
           "Concertina": "",
@@ -422,7 +434,6 @@
       },
       "From the Choirgirl Hotel": {
          "$date": "1998",
-         "$list": "white",
          "Spark": "bad",
          "Cruel": "good",
          "Black‐Dove (January)": "",
@@ -438,7 +449,6 @@
       },
       "Boys for Pele": {
          "$date": "1996",
-         "$list": "white",
          "Beauty Queen/Horses": "",
          "Blood Roses": "",
          "Father Lucifer": "",
@@ -460,7 +470,6 @@
       },
       "Under the Pink": {
          "$date": "1994",
-         "$list": "white",
          "Pretty Good Year": "bad",
          "God": "bad",
          "Bells for Her": "good",
@@ -476,7 +485,6 @@
       },
       "Little Earthquakes": {
          "$date": "1992",
-         "$list": "white",
          "Crucify": "bad",
          "Girl": "",
          "Silent All These Years": "",
@@ -494,7 +502,6 @@
    "Toro y Moi": {
        "Outer Peace": {
            "$date": "2019-01-18",
-           "$list": "white",
            "Fading": "bad",
            "Ordinary Pleasure": "bad",
            "Laws of the Universe": "short",
@@ -508,7 +515,6 @@
        },
       "Boo Boo": {
          "$date": "2017",
-         "$list": "white",
          "Mirage": "good",
          "No Show": "good",
          "Mona Lisa": "",
@@ -524,7 +530,6 @@
       },
       "What For?": {
          "$date": "2015",
-         "$list": "white",
          "What You Want": "bad",
          "Buffalo": "bad",
          "The Flight": "bad",
@@ -538,7 +543,6 @@
       },
       "Anything in Return": {
          "$date": "2013",
-         "$list": "white",
          "Harm in Change": "",
          "Say That": "good",
          "So Many Details": "good",
@@ -555,7 +559,6 @@
       },
       "Underneath the Pine": {
          "$date": "2011",
-         "$list": "white",
          "Intro / Chi Chi": "short",
          "New Beat": "bad",
          "Go With You": "bad",
@@ -570,7 +573,6 @@
       },
       "Causers of This": {
           "$date": "2010-02-02",
-          "$list": "white",
           "Blessa": "short",
           "Minors": "good",
           "Imprint After": "",
@@ -587,7 +589,6 @@
    "Tosca": {
       "Dehli9": {
          "$date": "2003",
-         "$list": "white",
          "Oscar": "good",
          "Me & Yoko Ono": "",
          "Gute Laune": "",
@@ -613,7 +614,6 @@
       },
       "Suzuki": {
          "$date": "2000",
-         "$list": "white",
          "Pearl In": "short",
          "Suzuki": {
             "VPY": "289,417",
@@ -634,7 +634,6 @@
    "Tricky": {
       "Maxinquaye": {
          "$date": "1995",
-         "$list": "white",
          "Overcome": "bad",
          "Ponderosa": "bad",
          "Black Steel": "bad",
@@ -655,7 +654,6 @@
    },
    "TV on the Radio": {
       "Dear Science": {
-         "$list": "white",
          "Halfway Home": "",
          "Crying": "",
          "Dancing Choose": "short",
@@ -672,7 +670,6 @@
    "Tycho": {
       "Epoch": {
          "$date": "2016",
-         "$list": "white",
          "Glider": "bad",
          "Horizon": "bad",
          "Slack": "bad",
@@ -687,7 +684,6 @@
       },
       "Awake": {
          "$date": "2014",
-         "$list": "white",
          "Awake": "good",
          "Montana": "",
          "L": "",
@@ -699,7 +695,6 @@
       },
       "Dive": {
          "$date": "2011",
-         "$list": "white",
          "A Walk": {
             "rate": "bad",
             "VPY": "2,862,988",
@@ -717,7 +712,6 @@
       },
       "Past Is Prologue / Sunrise Projector": {
          "$date": "2006",
-         "$list": "white",
          "A Circular Reeducation": "good",
          "Brother": "short",
          "Cloud Generator": "good",
@@ -735,7 +729,6 @@
       },
       "The Science of Patterns": {
          "$date": "2002",
-         "$list": "white",
          "Dream as a Memory": "bad",
          "Human Condition": "bad",
          "Red Bridge": "bad",

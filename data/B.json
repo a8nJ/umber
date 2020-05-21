@@ -163,13 +163,34 @@
          "The Brouhaha": "short",
          "We Got The": "short"
       },
-      "Ill Communication": {
-         "$date": "1994",
-         "Beastie Boys - Sabotage": {
-             "URL": "https://youtu.be/z5rRZdiu1UE",
-             "VPY": "6,983,681"
-         }
-      }
+       "Ill Communication": {
+           "$date": "1994-05-23",
+           "Sure Shot": "",
+           "Tough Guy": "short",
+           "B-Boys Makin' With the Freak Freak": "",
+           "Bobo on the Corner": "short",
+           "Root Down": "",
+           "Sabotage": {
+             "id": "z5rRZdiu1UE",
+             "views": "77,513,898",
+             "published": "2009-06-21",
+             "views per year": "7,101,066"
+         },
+           "Get It Together": "",
+           "Sabrosa": "",
+           "The Update": "",
+           "Futterman’s Rule": "",
+           "Alright Hear This": "",
+           "Eugene’s Lament": "short",
+           "Flute Loop": "short",
+           "Do It": "",
+           "Ricky’s Theme": "",
+           "Heart Attack Man": "short",
+           "The Scoop": "",
+           "Shambala": "",
+           "Bodhisattva Vow": "",
+           "Transitions": "short"
+       }
    },
    "Beck": {
       "Colors": {
