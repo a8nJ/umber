@@ -54,13 +54,22 @@
          "Me and My Big Ideas": "bad",
          "Los reyes Católicos (reprise)": "bad"
       },
-      "Songs From the Big Chair": {
-         "$date": "1985",
-         "Everybody Wants to Rule the World": {
-            "VPY": "9,162,285",
-            "URL": "https://youtu.be/ST86JM1RPl0"
-         }
-      }
+       "Songs From the Big Chair": {
+           "$date": "1985-02-17",
+           "Shout": "",
+           "The Working Hour": "",
+           "Everybody Wants to Rule the World": {
+             "id": "aGCdLKXNF3w",
+             "views": "80,030,627",
+             "published": "2013-08-09",
+             "views per year": "11,796,282"
+         },
+           "Mothers Talk": "",
+           "I Believe": "",
+           "Broken": "short",
+           "Head Over Heels / Broken (live)": "",
+           "Listen": ""
+       }
    },
    "The Black Dog": {
        "Music for Real Airports": {
@@ -1057,7 +1066,12 @@
          "Bigmouth Strikes Again": "",
          "The Boy With the Thorn in His Side": "",
          "Vicar in a Tutu": "short",
-         "There Is a Light That Never Goes Out": "",
+         "There Is a Light That Never Goes Out": {
+             "id": "siO6dkqidc4",
+             "views": "11,632,160",
+             "published": "2018-11-12",
+             "views per year": "7,627,731"
+         },
          "Some Girls Are Bigger Than Others": ""
       },
       "Meat Is Murder": {
@@ -1073,13 +1087,25 @@
          "Barbarism Begins at Home": "good",
          "Meat Is Murder": ""
       },
-      "The Smiths": {
-         "$date": "1984",
-         "The Smiths - This Charming Man (Official Music Video)": {
-             "URL": "https://youtu.be/cJRP3LRcUFg",
-             "VPY": "8,431,291"
-         }
-      }
+       "The Smiths": {
+           "$date": "1984-02-20",
+           "Reel Around the Fountain": "",
+           "You’ve Got Everything Now": "",
+           "Miserable Lie": "",
+           "Pretty Girls Make Graves": "",
+           "The Hand That Rocks the Cradle": "",
+           "This Charming Man": {
+             "id": "cJRP3LRcUFg",
+             "views": "53,149,218",
+             "published": "2014-02-06",
+             "views per year": "8,451,350"
+         },
+           "Still Ill": "",
+           "Hand in Glove": "",
+           "What Difference Does It Make?": "",
+           "I Don’t Owe You Anything": "",
+           "Suffer Little Children": ""
+       }
    },
    "The Stranglers": {
       "La Folie": {
