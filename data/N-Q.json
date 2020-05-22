@@ -326,11 +326,11 @@
          "Thinking of Omara": "bad",
          "Date With Destiny": "bad",
          "Bleu My Mind": "bad",
-         "Environment": "",
+         "Environment": "bad",
          "Soul-Ho": "short",
-         "Humble": "",
-         "70s 80s": "",
-         "Know My Name": "",
+         "Humble": "bad",
+         "70s 80s": "bad",
+         "Know My Name": "bad",
          "B B H (Bongo-Brk-Haven)": "",
          "Mirrorball": "short",
          "Thoughts": ""
@@ -382,8 +382,8 @@
          "Dextrous": "bad",
          "B.W.T.M.": "short",
          "Sal Batardes": "bad",
-         "E.A.S.E.": "",
-         "How Ya Doin’": ""
+         "E.A.S.E.": "short",
+         "How Ya Doin’": "bad"
       }
    },
    "Nirvana": {

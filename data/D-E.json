@@ -23,7 +23,6 @@
        },
       "TRON Legacy": {
          "$date": "2010",
-         "$list": "white",
          "Overture": "short",
          "The Grid": "short",
          "The Son of Flynn": "short",
@@ -49,7 +48,6 @@
       },
       "Alive 2007": {
          "$date": "2007",
-         "$list": "white",
          "Robot Rock / Oh Yeah": "",
          "Touch It / Technologic": "",
          "Television Rules the Nation / Crescendolls": "",
@@ -122,7 +120,6 @@
    "Dan Hess": {
       "Pilotwings 64": {
          "$date": "1996",
-         "$list": "white",
          "Hang Glider": "good",
          "Rocket Belt": "good",
          "Gyrocopter": "",
@@ -137,7 +134,6 @@
    "Daniel Lanois": {
       "Acadie": {
          "$date": "1989",
-         "$list": "white",
          "Still Water": "",
          "The Maker": "",
          "O Marie": "",
@@ -159,7 +155,6 @@
    "Dave Matthews Band": {
       "Stand Up": {
          "$date": "2005",
-         "$list": "white",
          "Dreamgirl": "",
          "Old Dirt Hill (Bring That Beat Back)": "",
          "Stand Up (for It)": "",
@@ -177,7 +172,6 @@
       },
       "Busted Stuff": {
          "$date": "2002",
-         "$list": "white",
          "Busted Stuff": "bad",
          "Grey Street": "good",
          "Where Are You Going?": "",
@@ -192,7 +186,6 @@
       },
       "Everyday": {
          "$date": "2001",
-         "$list": "white",
          "I Did It": "bad",
          "When the World Ends": "bad",
          "The Space Between": "bad",
@@ -208,7 +201,6 @@
       },
       "Before These Crowded Streets": {
          "$date": "1998",
-         "$list": "white",
          "Pantala Naga Pampa": "short",
          "Rapunzel": "bad",
          "The Last Stop": "bad",
@@ -223,7 +215,6 @@
       },
       "Crash": {
          "$date": "1996",
-         "$list": "white",
          "So Much to Say": "good",
          "Two Step": "",
          "Crash Into Me": {
@@ -243,7 +234,6 @@
       },
       "Under the Table and Dreaming": {
          "$date": "1994",
-         "$list": "white",
          "The Best of What’s Around": "",
          "What Would You Say": "",
          "Satellite": "",
@@ -325,7 +315,6 @@
    "Dee Montero": {
       "Headspace": {
           "$date": "2018-11-02",
-          "$list": "white",
           "Headspace (edit)": "",
           "Headspace (beatless mix)": "",
           "Rise (edit)": "",
@@ -338,7 +327,6 @@
    "Depeche Mode": {
       "Spirit": {
          "$date": "2017",
-         "$list": "black",
          "Where’s the Revolution": {
             "VPY": "8,644,886",
             "URL": "https://youtu.be/jsCR05oKROA"
@@ -346,7 +334,6 @@
       },
       "Ultra": {
          "$date": "1997",
-         "$list": "white",
          "Barrel of a Gun": "bad",
          "The Love Thieves": "bad",
          "Home": "bad",
@@ -366,7 +353,6 @@
       },
       "Violator": {
          "$date": "1990",
-         "$list": "black",
          "Enjoy The Silence": "",
          "Personal Jesus": {
             "VPY": "9,479,143",
@@ -375,7 +361,6 @@
       },
       "Music for the Masses": {
          "$date": "1987",
-         "$list": "black",
          "Depeche Mode - Strangelove (Official Video)": {
              "URL": "https://youtu.be/JIrm0dHbCDU",
              "VPY": "7,162,504"
@@ -383,7 +368,6 @@
       },
       "Speak & Spell": {
          "$date": "1981",
-         "$list": "white",
          "New Life": "bad",
          "Puppets": "bad",
          "Dreaming of Me": "bad",
@@ -400,7 +384,6 @@
    "Dirty Projectors": {
       "Bitte Orca": {
          "$date": "2009",
-         "$list": "white",
          "Cannibal Resource": "good",
          "Temecula Sunrise": "good",
          "The Bride": "short",
@@ -419,7 +402,6 @@
    "Dirty Vegas": {
       "Dirty Vegas": {
          "$date": "2002",
-         "$list": "white",
          "I Should Know": "",
          "Ghosts": "",
          "Lost Not Found": "",
@@ -441,7 +423,6 @@
    "Disturbed": {
       "Evolution": {
          "$date": "2018",
-         "$list": "black",
          "A Reason To Fight": {
             "VPY": "16,779,619",
             "URL": "https://youtu.be/t4382UVl0oc"
@@ -457,7 +438,6 @@
       },
       "Immortalized": {
          "$date": "2015",
-         "$list": "black",
          "The Sound of Silence": {
             "VPY": "153,992,522",
             "URL": "https://youtu.be/u9Dg-g7t2l4"
@@ -465,28 +445,35 @@
       },
       "Ten Thousand Fists": {
          "$date": "2005",
-         "$list": "black",
          "Disturbed - Stricken [Official Music Video]": {
              "URL": "https://youtu.be/3moLkjvhEu0",
              "VPY": "6,201,684"
          }
       },
-      "The Sickness": {
-         "$date": "2000",
-         "$list": "black",
-         "Down With the Sickness": {
-            "VPY": "9,703,017",
-            "URL": "https://youtu.be/09LTT0xwdfw"
+       "The Sickness": {
+           "$date": "2000-03-07",
+           "Voices": "",
+           "The Game": "",
+           "Stupify": "",
+           "Down With the Sickness": {
+             "id": "09LTT0xwdfw",
+             "views": "113,840,751",
+             "published": "2009-10-26",
+             "views per year": "10,769,317"
          },
-         "Stupify": "",
-         "The Game": "",
-         "Voices": ""
-      }
+           "Violence Fetish": "",
+           "Fear": "",
+           "Numb": "",
+           "Want": "",
+           "Conflict": "",
+           "Shout 2000": "",
+           "Droppin’ Plates": "",
+           "Meaning of Life": ""
+       }
    },
    "Doe Paoro": {
       "After": {
          "$date": "2015",
-         "$list": "white",
          "Traveling": "good",
          "Nostalgia": "bad",
          "Growth/Decay": "good",
@@ -500,7 +487,6 @@
       },
       "Slow to Love": {
          "$date": "2012",
-         "$list": "white",
          "Intro": "short",
          "Born Whole": "bad",
          "I’ll Go Blind": "bad",
@@ -515,7 +501,6 @@
    "Dr. Dre": {
       "2001": {
          "$date": "1999",
-         "$list": "black",
          "Forgot About Dre": "",
          "Still D.R.E.": {
             "VPY": "82,605,839",
@@ -525,7 +510,6 @@
       },
       "The Chronic": {
          "$date": "1992",
-         "$list": "white",
          "The Chronic (intro)": "short",
          "Fuck Wit Dre Day (And Everybody’s Celebratin’)": "",
          "Let Me Ride": "",
@@ -551,7 +535,6 @@
    "Duke Ellington": {
       "Money Jungle": {
          "$date": "1962",
-         "$list": "white",
          "Money Jungle": "",
          "Fleurette Africaine": "good",
          "Very Special": "",
@@ -562,7 +545,6 @@
       },
       "First Time! The Count Meets the Duke": {
          "$date": "1961",
-         "$list": "white",
          "Battle Royal": "",
          "To You": "good",
          "Take the “A” Train": "",
@@ -576,7 +558,6 @@
    "Duran Duran": {
       "Duran Duran (The Wedding Album)": {
          "$date": "1993",
-         "$list": "black",
          "Duran Duran - Come Undone (Official Music Video)": {
              "URL": "https://youtu.be/Epj84QVw2rc",
              "VPY": "33,404,703"
@@ -584,7 +565,6 @@
       },
       "Notorious": {
          "$date": "1986",
-         "$list": "white",
          "Notorious": "bad",
          "American Science": "bad",
          "Skin Trade": "bad",
@@ -600,7 +580,6 @@
    "Eddie Money": {
       "Can’t Hold Back": {
          "$date": "1985",
-         "$list": "white",
          "Take Me Home Tonight": "good",
          "One Love": "",
          "I Wanna Go Back": "",
@@ -616,13 +595,11 @@
    "Ekkah": {
       "Can’t Give It Up / Figure It Out (Night Edit)": {
          "$date": "2016",
-         "$list": "white",
          "Can’t Give It Up": "short",
          "Figure It Out (Night Edit)": "good"
       },
       "Last Chance to Dance": {
          "$date": "2014",
-         "$list": "white",
          "LAST CHANCE TO DANCE": {
             "rate": "good",
             "VPY": "50,372",
@@ -636,7 +613,6 @@
    "Eli & Fur": {
       "Night Blooming Jasmine": {
          "$date": "2018",
-         "$list": "white",
          "Night Blooming Jasmine": "good",
          "Something Was Real": "",
          "Parfume": "",
@@ -645,7 +621,6 @@
       },
       "Chlo / Wendy Legs": {
           "$date": "2017-03-17",
-          "$list": "white",
           "Chlo": "",
           "Wendy Legs": "",
           "Chlo (extended mix)": "good",
@@ -653,12 +628,10 @@
       },
       "Your Eyes": {
           "$date": "2015-07-10",
-          "$list": "white",
           "Your Eyes": "good"
       },
       "Illusions": {
          "$date": "2013",
-         "$list": "black",
          "Eli & Fur - You're So High": {
              "URL": "https://youtu.be/3GEqdbh8sFI",
              "VPY": "13,008,776"
@@ -668,7 +641,6 @@
    "Elton John": {
       "Madman Across the Water": {
          "$date": "1971",
-         "$list": "black",
          "Tiny Dancer": {
             "VPY": "978,086,517",
             "URL": "https://youtu.be/S3vO8E2e6G0"
@@ -679,7 +651,6 @@
       "$check": "2020-05-15",
       "Tookah": {
          "$date": "2013",
-         "$list": "white",
          "Tookah": "bad",
          "Caterpillar": "bad",
          "Autumn Sun": "bad",
@@ -692,7 +663,6 @@
       },
       "Me and Armini": {
          "$date": "2008",
-         "$list": "white",
          "Fireheads": "",
          "Me and Armini": "good",
          "Birds": "",
@@ -708,7 +678,6 @@
       },
       "Fisherman’s Woman": {
          "$date": "2005",
-         "$list": "white",
          "Nothing Brings Me Down": "bad",
          "Sunny Road": "good",
          "Snow": "short",
@@ -724,7 +693,6 @@
       },
       "Love in the Time of Science": {
          "$date": "1999",
-         "$list": "white",
          "To Be Free": "bad",
          "Wednesday’s Child": "good",
          "Baby Blue": "bad",
@@ -741,7 +709,6 @@
    "Empress Of": {
       "I’m Your Empress Of": {
           "$date": "2020-04-03",
-          "$list": "white",
           "I’m Your Empress Of": "short",
           "Bit of Rain": "bad",
           "Void": "bad",
@@ -757,7 +724,6 @@
       },
       "Us": {
          "$date": "2018",
-         "$list": "white",
          "Everything to Me": "short",
          "Just the Same": "bad",
          "Trust Me Baby": "",
@@ -771,12 +737,10 @@
       },
       "Woman Is a Word": {
          "$date": "2016",
-         "$list": "white",
          "Woman Is a Word": "good"
       },
       "Me": {
          "$date": "2015",
-         "$list": "white",
          "Everything Is You": "bad",
          "Water Water": "bad",
          "Standard": "good",
@@ -790,7 +754,6 @@
       },
       "Systems": {
          "$date": "2013-08-16",
-         "$list": "white",
          "Hat Trick": "bad",
          "No Means No": "bad",
          "Tristeza": "bad",
@@ -798,7 +761,6 @@
       },
       "Colorminutes": {
          "$date": "2013-01-11",
-         "$list": "white",
          "1": "short",
          "2": "short",
          "3": "short",
@@ -819,7 +781,6 @@
    "Enya": {
       "A Day Without Rain": {
          "$date": "2000",
-         "$list": "black",
          "Only Time": {
             "VPY": "12,250,684",
             "URL": "https://youtu.be/7wfYIMyS_dI"
@@ -829,7 +790,6 @@
    "Everything but the Girl": {
       "Temperamental": {
          "$date": "1999",
-         "$list": "white",
          "Five Fathoms": "good",
          "Low Tide of the Night": "",
          "Blame": "",
@@ -843,7 +803,6 @@
       },
       "Amplified Heart": {
          "$date": "1994",
-         "$list": "white",
          "Rollercoaster": "",
          "Troubled Mind": "",
          "I Don’t Understand Anything": "",
@@ -861,7 +820,6 @@
       },
       "Acoustic": {
          "$date": "1992",
-         "$list": "white",
          "Love Is Strange": "",
          "Tougher Than the Rest": "",
          "Time After Time": "",
@@ -876,7 +834,6 @@
       },
       "Worldwide": {
          "$date": "1991",
-         "$list": "white",
          "Old Friends": "",
          "Understanding": "",
          "You Lift Me Up": "",
@@ -891,7 +848,6 @@
       },
       "The Language of Life": {
          "$date": "1990",
-         "$list": "white",
          "Driving": "good",
          "Get Back Together": "",
          "Meet Me in the Morning": "",

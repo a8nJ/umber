@@ -950,13 +950,16 @@
       }
    },
    "Burial": {
+      "$check": "2020-05-21",
+       "Kindred": {
+           "$date": "2012-02-12",
+           "Kindred": "",
+           "Loner": "bad",
+           "Ashtray Wasp": ""
+       },
       "Untrue": {
          "$date": "2007",
-         "Archangel": {
-            "rate": "bad",
-            "VPY": "96,060",
-            "URL": "https://youtu.be/E2qLD9c3Gq4"
-         },
+         "Archangel": "bad",
          "Near Dark": "",
          "Ghost Hardware": "good",
          "Endorphin": "",
@@ -976,7 +979,7 @@
          "Wounder": "bad",
          "Night Bus": "short",
          "Southern Comfort": "good",
-         "U Hurt Me": "",
+         "U Hurt Me": "good",
          "Gutted": "",
          "Forgive": "",
          "Broken Home": "",
