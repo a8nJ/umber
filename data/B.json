@@ -617,6 +617,7 @@
       }
    },
    "Boards of Canada": {
+      "$check": "2020-05-21",
       "Tomorrow’s Harvest": {
          "$date": "2013",
          "Gemini": "short",
@@ -695,6 +696,13 @@
          "In a Beautiful Place Out in the Country": "good",
          "Zoetrope": "bad"
       },
+       "Peel Session June 1998": {
+           "$date": "1998-06-16",
+           "Aquarius": "",
+           "Happy Cycling (Changed From Bad Day)": "",
+           "Olson": "bad",
+           "XYZ": ""
+       },
       "Music Has the Right to Children": {
          "$date": "1998",
          "Wildlife Analysis": "short",
@@ -726,7 +734,7 @@
       "Twoism": {
           "$date": "1995",
           "Sixtyniner": "good",
-          "Oirectine": "",
+          "Oirectine": "bad",
           "Iced Cooly": "short",
           "Basefree": "",
           "Twoism": "",
@@ -941,13 +949,27 @@
       }
    },
    "Bryan Adams": {
-      "18 Til I Die": {
-         "$date": "1996",
-         "Bryan Adams - Have You Ever Really Loved A Woman?": {
-             "URL": "https://youtu.be/hq2KgzKETBw",
-             "VPY": "7,472,945"
+       "18 Til I Die": {
+           "$date": "1996-06-03",
+           "The Only Thing That Looks Good on Me Is You": "",
+           "Do to You": "",
+           "Let’s Make a Night to Remember": "",
+           "18 Til I Die": "",
+           "Star": "",
+           "(I Wanna Be) Your Underwear": "",
+           "We’re Gonna Win": "short",
+           "I Think About You": "",
+           "I’ll Always Be Right There": "",
+           "It Ain’t a Party…If You Can’t Come ’round": "",
+           "Black Pearl": "",
+           "You’re Still Beautiful to Me": "",
+           "Have You Ever Really Loved a Woman?": {
+             "id": "hq2KgzKETBw",
+             "views": "86,829,179",
+             "published": "2008-10-31",
+             "views per year": "7,513,470"
          }
-      }
+       }
    },
    "Burial": {
       "$check": "2020-05-21",
