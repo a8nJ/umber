@@ -654,20 +654,21 @@
          "Midnight on Rainbow Road (Beat Edit)": "bad",
          "Midnight on Rainbow Road": "good"
       },
-      "Music for the Uninvited": {
-         "$date": "2014",
-         "$list": "white",
-         "Inside the Deku Tree": "good",
-         "Goodthing": "",
-         "Be Brave, Clench Fists": "good",
-         "Pier Children": "",
-         "It’s Just": {
-            "VPY": "605,308",
-            "URL": "https://youtu.be/XpIrFglZfQU"
-         },
-         "Christ Air": "",
-         "St. Sinclair": ""
-      },
+       "Butterflies / This is the Place": {
+           "$date": "2014-07-07",
+           "Butterflies": "bad",
+           "This is the Place": ""
+       },
+       "Music for the Uninvited": {
+           "$date": "2014-03-24",
+           "Inside the Deku Tree": "good",
+           "Goodthing": "",
+           "Be Brave, Clench Fists": "good",
+           "Pier Children": "",
+           "It’s Just (House of Dupree)": "",
+           "Christ Air": "",
+           "St. Sinclair": ""
+       },
       "Open EP": {
           "$date": "2013-09-16",
           "$list": "white",
@@ -675,7 +676,13 @@
           "Step or Stone (Breath or Bone)": "",
           "I Know Your Face, Heroine": "",
           "XVII (Rox Out)": ""
-      }
+      },
+       "Mauve": {
+           "$date": "2012-05",
+           "Mauve": "bad",
+           "Homage": "",
+           "Picture Frame": ""
+       }
    },
    "Linkin Park": {
       "One More Light": {

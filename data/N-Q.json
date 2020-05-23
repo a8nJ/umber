@@ -1195,6 +1195,18 @@
           "Crown Shy": "",
           "Praze": ""
       },
+       "Greedy Baby": {
+           "$date": "2006-06-26",
+           "War Dialer": "bad",
+           "I Citizen The Loathsome": "bad",
+           "The Launching Of Big Face": "bad",
+           "Zn Zero": "",
+           "The Return Of Super Barrio (Instrumental)": "",
+           "The Return Of Super Barrio (End Credits)": "short",
+           "E.M.R": "",
+           "Super Positions": "",
+           "To": ""
+       },
       "Spokes": {
          "$date": "2003",
          "Even Spring": "bad",
@@ -1268,13 +1280,14 @@
          "Milh": "good"
       },
        "Mbuki Mvuki": {
+           "$list": "PLN3OHGL_aRYyt_j79eSmJ6NcRtEPPX2Fi",
            "$date": "1991",
            "Anything": "bad",
-           "Slice of Cheese": "",
-           "Link": "",
-           "Perplex": "",
-           "Summit": "",
-           "Bouncing Checks": "",
+           "Slice of Cheese": "bad",
+           "Link": "bad",
+           "Perplex": "bad",
+           "Summit": "bad",
+           "Bouncing Checks": "bad",
            "Yak": "",
            "Scoobs in Columbia": ""
        }
