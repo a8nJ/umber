@@ -2,7 +2,6 @@
    "U2": {
       "Songs of Experience": {
          "$date": "2017",
-         "$list": "black",
          "Ordinary Love": {
             "VPY": "8,936,989",
             "URL": "https://youtu.be/XC3ahd6Di3M"
@@ -11,7 +10,6 @@
       },
       "All That You Can’t Leave Behind": {
          "$date": "2000",
-         "$list": "black",
          "Beautiful Day": {
             "VPY": "13,389,398",
             "URL": "https://youtu.be/co6WMzDOh1o"
@@ -20,7 +18,6 @@
       },
       "Achtung Baby": {
          "$date": "1991",
-         "$list": "black",
          "One": {
             "VPY": "11,486,273",
             "URL": "https://youtu.be/ZpDQJnI4OhU"
@@ -28,7 +25,6 @@
       },
       "The Joshua Tree": {
          "$date": "1987",
-         "$list": "black",
          "I Still Haven’t Found What I’m Looking For": {
             "VPY": "14,605,782",
             "URL": "https://youtu.be/e3-5YC_oHjE"
@@ -40,7 +36,6 @@
       },
       "The Unforgettable Fire": {
          "$date": "1984",
-         "$list": "black",
          "Bad": "",
          "Pride": {
             "VPY": "7,268,862",
@@ -49,7 +44,6 @@
       },
       "War": {
          "$date": "1983",
-         "$list": "white",
          "Sunday Bloody Sunday": "",
          "Seconds": "",
          "New Year’s Day": {
@@ -67,7 +61,6 @@
       },
       "October": {
          "$date": "1981",
-         "$list": "white",
          "Gloria": "",
          "I Fall Down": "",
          "I Threw a Brick Through a Window": "",
@@ -82,7 +75,6 @@
       },
       "Boy": {
          "$date": "1980",
-         "$list": "white",
          "I Will Follow": "good",
          "Twilight": "",
          "An Cat Dubh": "",
@@ -99,7 +91,6 @@
    "Ulrich Schnauss": {
       "Synthwaves": {
          "$date": "2017",
-         "$list": "white",
          "Main Theme": "",
          "Rain on Dry Concrete": "",
          "Slow Life": "good",
@@ -111,7 +102,6 @@
       },
       "Passage": {
          "$date": "2017",
-         "$list": "white",
          "Amaris": "bad",
          "Genau Wie Damals": "bad",
          "Anywhere but Here": "good",
@@ -126,7 +116,6 @@
       },
       "A Long Way to Fall": {
           "$date": "2013-01-18",
-          "$list": "white",
           "Her and the Sea": "bad",
           "Broken Homes": "bad",
           "Like a Ghost in Your Own Life": "bad",
@@ -140,7 +129,6 @@
       },
       "Goodbye": {
          "$date": "2007",
-         "$list": "white",
          "Never Be the Same": "bad",
          "Shine": "bad",
          "Stars": "bad",
@@ -158,7 +146,6 @@
       },
       "Far Away Trains Passing By": {
          "$date": "2005",
-         "$list": "white",
          "Knuddelmaus": "bad",
          "Between Us and Them": "bad",
          "Passing By": "bad",
@@ -174,7 +161,6 @@
       },
       "A Strangely Isolated Place": {
          "$date": "2003",
-         "$list": "white",
          "Gone Forever": "bad",
          "On My Own": "bad",
          "A Letter From Home": "bad",
@@ -188,7 +174,6 @@
    "Underworld": {
       "A Hundred Days Off": {
          "$date": "2002",
-         "$list": "white",
          "Mo Move": "bad",
          "Two Months Off": "good",
          "Twist": "",
@@ -202,7 +187,6 @@
       },
       "Beaucoup Fish": {
          "$date": "1999",
-         "$list": "white",
          "Cups": "bad",
          "Push Upstairs": "bad",
          "Jumbo": "bad",
@@ -217,7 +201,6 @@
       },
       "Second Toughest in the Infants": {
          "$date": "1996",
-         "$list": "white",
          "Juanita / Kiteless / To Dream of Love": "bad",
          "Banstyle / Sappys Curry": "bad",
          "Confusion the Waitress": "bad",
@@ -229,7 +212,6 @@
       },
       "Dubnobasswithmyheadman": {
          "$date": "1993",
-         "$list": "white",
          "Dark & Long": "good",
          "Mmm Skyscraper I Love You": "",
          "Surfboy": "bad",
@@ -242,7 +224,6 @@
       },
       "Change the Weather": {
          "$date": "1988",
-         "$list": "white",
          "Change the Weather": "bad",
          "Stand Up": "bad",
          "Fever": "bad",
@@ -257,7 +238,6 @@
    },
    "Us3": {
       "Hand on the Torch": {
-         "$list": "white",
          "Cantaloop": {
             "rate": "good",
             "VPY": "822,480",
@@ -280,7 +260,6 @@
    "Usher": {
       "Looking 4 Myself": {
          "$date": "2012",
-         "$list": "black",
          "Climax": {
             "VPY": "11,119,074",
             "URL": "https://youtu.be/nNTyfVh3nmU"
@@ -288,7 +267,6 @@
       },
       "Confessions": {
          "$date": "2004",
-         "$list": "black",
          "Burn": "",
          "Confessions, Pt. II": "",
          "Yeah!": {
@@ -298,7 +276,6 @@
       },
       "8701": {
          "$date": "2001",
-         "$list": "black",
          "U Got It Bad": {
             "VPY": "20,097,223",
             "URL": "https://youtu.be/o3IWTfcks4k"
@@ -307,7 +284,6 @@
    },
    "Van Halen": {
       "Van Halen": {
-         "$list": "white",
          "Runnin’ With the Devil": "good",
          "Eruption": "short",
          "You Really Got Me": "short",
@@ -324,7 +300,6 @@
    "Van Morrison": {
       "Poetic Champions Compose": {
          "$date": "1987",
-         "$list": "white",
          "Someone Like You": {
             "VPY": "1,793,331",
             "URL": "https://youtu.be/UfmkgQRmmeE"
@@ -332,7 +307,6 @@
       },
       "Moondance": {
          "$date": "1970",
-         "$list": "white",
          "And It Stoned Me": "",
          "Moondance": "good",
          "Crazy Love": "short",
@@ -346,7 +320,6 @@
       },
       "Astral Weeks:": {
          "$date": "1968",
-         "$list": "white",
          "Astral Weeks": "",
          "Beside You": "",
          "Sweet Thing": "",
@@ -358,7 +331,6 @@
       },
       "Blowin’ Your Mind!": {
          "$date": "1967",
-         "$list": "black",
          "Van Morrison - Brown Eyed Girl (Audio)": {
              "URL": "https://youtu.be/UfmkgQRmmeE",
              "VPY": "8,782,500"
@@ -367,7 +339,6 @@
    },
    "Warren G": {
       "Regulate... G Funk Era": {
-         "$list": "black",
          "Regulate": {
             "VPY": "19,524,457",
             "URL": "https://youtu.be/1plPyJdXKIY"
@@ -376,7 +347,6 @@
    },
    "Weezer": {
       "Weezer (blue album)": {
-         "$list": "black",
          "Say It Ain’t So": {
             "VPY": "8,507,855",
             "URL": "https://youtu.be/ENXvZ9YRjbo"
@@ -385,7 +355,6 @@
    },
    "Wilco": {
       "The Whole Love": {
-         "$list": "white",
          "Art of Almost": "",
          "I Might": "",
          "Sunloathe": "",
@@ -403,7 +372,6 @@
    "Will Smith": {
       "Big Willie Style": {
          "$date": "1997",
-         "$list": "black",
          "Will Smith - Gettin' Jiggy Wit It (Official Video)": {
              "URL": "https://youtu.be/3JcmQONgXJM",
              "VPY": "7,473,372"
@@ -413,7 +381,6 @@
    "Wye Oak": {
       "Civilian": {
          "$date": "2011",
-         "$list": "white",
          "Two Small Deaths": "",
          "The Alter": "",
          "Holy Holy": "",
@@ -431,7 +398,6 @@
       },
       "The Knot": {
          "$date": "2009",
-         "$list": "white",
          "Milk and Honey": "short",
          "For Prayer": "",
          "Take It In": "",
@@ -445,7 +411,6 @@
       },
       "If Children": {
           "$date": "2008-04-08",
-          "$list": "white",
           "Please Concrete": "bad",
           "Warning": "bad",
           "Regret": "short",
@@ -462,7 +427,6 @@
    "Yeah Yeah Yeahs": {
       "It’s Blitz!": {
          "$date": "2009",
-         "$list": "black",
          "Heads Will Roll": {
             "VPY": "16,143,630",
             "URL": "https://youtu.be/or3U2rXxvQw"
@@ -470,7 +434,6 @@
       },
       "Show Your Bones": {
          "$date": "2006",
-         "$list": "white",
          "Gold Lion": "",
          "Way Out": "short",
          "Fancy": "",
@@ -485,7 +448,6 @@
       },
       "Fever to Tell": {
          "$date": "2003",
-         "$list": "white",
          "Rich": "good",
          "Date With the Night": "short",
          "Man": "short",
@@ -506,7 +468,6 @@
    "Yes": {
       "90125": {
          "$date": "1983",
-         "$list": "white",
          "Owner of a Lonely Heart": {
             "VPY": "2,105,831",
             "URL": "https://youtu.be/SVOuYquXuuc"
@@ -514,14 +475,12 @@
       },
       "Close to the Edge": {
           "$date": "1972-09-13",
-          "$list": "white",
           "Close to the Edge: I. The Solid Time of Change / II. Total": "long",
           "And You and I: I. Cord of Life / II. Eclipse / III. The Pre": "",
           "Siberian Khatru": "bad"
       },
       "Fragile": {
          "$date": "1971",
-         "$list": "white",
          "Roundabout": "good",
          "Cans and Brahms": "short",
          "We Have Heaven": "short",
@@ -536,7 +495,6 @@
    "You Say Party": {
       "XXXX": {
          "$date": "2010",
-         "$list": "white",
          "There Is XXXX (Within My Heart)": "",
          "Glory": "short",
          "Dark Days": "good",
@@ -550,7 +508,6 @@
       },
       "Lose All Time": {
          "$date": "2007",
-         "$list": "white",
          "Monster": {
             "VPY": "49,486",
             "URL": "https://youtu.be/-IQKsrXDHrg"
@@ -560,7 +517,6 @@
    "Yppah": {
       "Eighty One": {
          "$date": "2012",
-         "$list": "white",
          "Never Mess With Sunday": {
             "VPY": "93,586",
             "URL": "https://youtu.be/NqfAj1C7rPc"
@@ -568,7 +524,6 @@
       },
       "Gumball Machine Weekend": {
          "$date": "2009",
-         "$list": "white",
          "Gumball Machine Weekend": "",
          "Shutter Speed": "good",
          "They Know What Ghost Know": "",
@@ -577,7 +532,6 @@
       },
       "You Are Beautiful at All Times": {
          "$date": "2006",
-         "$list": "white",
          "Ending With You": "bad",
          "I’ll Hit the Breaks": "bad",
          "Again With the Subtitles": "short",
@@ -595,7 +549,6 @@
    "Zero 7": {
       "Yeah Ghost": {
          "$date": "2009",
-         "$list": "white",
          "Count Me Out": "short",
          "Mr McGee": "bad",
          "Swing": "bad",
@@ -610,7 +563,6 @@
       },
       "The Garden": {
          "$date": "2006",
-         "$list": "white",
          "Futures": "",
          "Throw It All Away": "good",
          "Seeing Things": "",
@@ -626,7 +578,6 @@
       },
       "When It Falls": {
          "$date": "2004",
-         "$list": "white",
          "Warm Sound": "bad",
          "Home": "bad",
          "Somersault": "bad",
@@ -641,7 +592,6 @@
       },
       "Simple Things": {
          "$date": "2001",
-         "$list": "white",
          "I Have Seen": "bad",
          "Polaris": "good",
          "Destiny": {
