@@ -2,7 +2,6 @@
    "Kammerflimmer Kollektief": {
       "There Are Actions Which We Have Neglected and Which Never Cease to Call Us": {
          "$date": "2018",
-         "$list": "white",
          "Action 1 Lucid, Imperial Beach": "bad",
          "Action 2 Discharged, Quauhnáhuac": "bad",
          "Action 3 Thoughtless, Hamburg": "bad",
@@ -13,7 +12,6 @@
       },
       "Désarroi": {
          "$date": "2015",
-         "$list": "white",
          "Mayhem!": "bad",
          "grundstürzend": "good",
          "Free Form Freak-Out": "bad",
@@ -26,7 +24,6 @@
       },
       "Teufelskamin": {
          "$date": "2011",
-         "$list": "white",
          "Coricidin Boogie": "good",
          "Never Collapse, Always Dazzle!": "",
          "Teufelskamin Jam 1": "",
@@ -40,7 +37,6 @@
       },
       "Wildling": {
          "$date": "2010",
-         "$list": "white",
          "Move Right In": "good",
          "Silver Chords": "good",
          "Aum a Go-Go": "short",
@@ -56,7 +52,6 @@
       },
       "Jinx": {
           "$date": "2007-05-18",
-          "$list": "white",
           "Palimpsest": "bad",
           "Jinx": "bad",
           "Live at the Cactus Tree Motel": "bad",
@@ -68,7 +63,6 @@
       },
       "Cicadidae": {
          "$date": "2003",
-         "$list": "white",
          "Neumond inselhin": "good",
          "Sie tranken Regen": "short",
          "Über die Wasserscheide": "good",
@@ -82,7 +76,6 @@
       },
       "Hysteria": {
          "$date": "2001",
-         "$list": "white",
          "Hysteria": "bad",
          "Seen (not seen)": "bad",
          "Engel wacht": "bad",
@@ -94,7 +87,6 @@
       },
       "Mäander": {
           "$date": "1999",
-          "$list": "white",
           "Mond?": "bad",
           "Implodiert": "bad",
           "Tuch": "bad",
@@ -113,7 +105,6 @@
    "Kacey Musgraves": {
       "Golden Hour": {
          "$date": "2018",
-         "$list": "black",
          "Butterflies": "",
          "High Horse": "",
          "Rainbow": {
@@ -124,7 +115,6 @@
       },
       "Pageant Material": {
          "$date": "2015",
-         "$list": "white",
          "High Time": "short",
          "Dime Store Cowgirl": {
             "bad": "bad",
@@ -145,7 +135,6 @@
       },
       "Same Trailer Different Park": {
          "$date": "2013",
-         "$list": "white",
          "Silver Lining": "bad",
          "My House": "short",
          "Merry Go ’Round": "bad",
@@ -163,7 +152,6 @@
    "Kate Bush": {
       "The Sensual World": {
           "$date": "1989-10-17",
-          "$list": "white",
           "The Sensual World": "yes",
           "Love and Anger": "",
           "The Fog": "",
@@ -177,7 +165,6 @@
       },
       "Hounds of Love": {
          "$date": "1985",
-         "$list": "white",
          "Running Up That Hill": "good",
          "Hounds of Love": "bad",
          "The Big Sky": "bad",
@@ -193,7 +180,6 @@
       },
       "The Dreaming": {
          "$date": "1982",
-         "$list": "white",
          "Sat in Your Lap": "bad",
          "There Goes a Tenner": "bad",
          "Pull Out the Pin": "bad",
@@ -207,7 +193,6 @@
       },
       "The Kick Inside": {
          "$date": "1978",
-         "$list": "white",
          "Moving": "bad",
          "The Saxophone Song": "bad",
          "Strange Phenomena": "short",
@@ -226,7 +211,6 @@
    "Kelly Bailey": {
       "Portal 2": {
          "$date": "2011",
-         "$list": "white",
          "Science Is Fun": "short",
          "Concentration Enhancing Menu Initialiser": "short",
          "9999999": "",
@@ -308,7 +292,6 @@
    },
    "King Crimson": {
       "In the Court of the Crimson King": {
-         "$list": "white",
          "21st Century Schizoid Man (including Mirrors)": "",
          "I Talk to the Wind": "",
          "Epitaph (including March for No Reason and Tomorrow and Tomorrow)": "good",
@@ -318,7 +301,6 @@
    },
    "Kings of Convenience": {
       "Riot on an Empty Street": {
-         "$list": "white",
          "Homesick": "",
          "Misread": {
             "rate": "good",
@@ -339,14 +321,12 @@
    },
    "Koda": {
       "Waking": {
-         "$list": "white",
          "Waking": "good"
       }
    },
    "Koji Kondo": {
       "The Legend of Zelda The Wind Waker": {
          "$date": "2002",
-         "$list": "white",
          "Title": "short",
          "Menu Select": "short",
          "The Legendary Hero": "good",
@@ -400,7 +380,6 @@
       },
       "The Legend of Zelda Ocarina of Time": {
          "$date": "1998",
-         "$list": "white",
          "Title Theme": "short",
          "Deku Tree": "short",
          "Fairy Flying": "short",
@@ -445,7 +424,6 @@
    "Korn": {
       "The Serenity of Suffering": {
          "$date": "2016",
-         "$list": "black",
          "Black Is the Soul": "",
          "Insane": "",
          "Rotting In Vain": {
@@ -455,7 +433,6 @@
       },
       "See You on the Other Side": {
          "$date": "2005",
-         "$list": "black",
          "Coming Undone": {
             "VPY": "7,180,498",
             "URL": "https://youtu.be/CSJXle3LP_Q"
@@ -463,7 +440,6 @@
       },
       "Issues": {
          "$date": "1999",
-         "$list": "black",
          "Falling Away from Me": {
             "VPY": "8,648,063",
             "URL": "https://youtu.be/2s3iGpDqQpQ"
@@ -472,7 +448,6 @@
       },
       "Follow the Leader": {
          "$date": "1998",
-         "$list": "black",
          "Freak On a Leash": {
             "VPY": "16,280,786",
             "URL": "https://youtu.be/jRGrNDV2mKc"
@@ -482,7 +457,6 @@
    },
    "Kruder & Dorfmeister": {
       "G-Stoned": {
-         "$list": "white",
          "Definition": "bad",
          "Deep Shit, Parts 1 & 2": "bad",
          "High Noon": "bad",
@@ -491,7 +465,6 @@
    },
    "Laraaji": {
       "Ambient 3 Day of Radiance": {
-         "$list": "white",
          "The Dance 1": "bad",
          "The Dance 2": "bad",
          "The Dance 3": "bad",
@@ -502,7 +475,6 @@
    "Led Zeppelin": {
       "In Through the Out Door": {
          "$date": "1979",
-         "$list": "white",
          "In the Evening": "",
          "South Bound Saurez": "",
          "Fool in the Rain": "good",
@@ -513,7 +485,6 @@
       },
       "Physical Graffiti": {
          "$date": "1975",
-         "$list": "black",
          "Kashmir": {
             "VPY": "7,698,273",
             "URL": "https://youtu.be/PD-MdiUm1_Y"
@@ -521,7 +492,6 @@
       },
       "Houses of the Holy": {
          "$date": "1973",
-         "$list": "white",
          "The Song Remains the Same": "",
          "The Rain Song": "",
          "Over the Hills and Far Away": "good",
@@ -536,7 +506,6 @@
       },
       "[Led Zeppelin IV]": {
          "$date": "1971",
-         "$list": "black",
          "Black Dog": "",
          "Rock and Roll": "",
          "Stairway To Heaven": {
@@ -547,7 +516,6 @@
       },
       "Led Zeppelin III": {
          "$date": "1970",
-         "$list": "black",
          "Celebration Day": "",
          "Led Zeppelin - Immigrant Song (Live 1972) (Official Video)": {
              "URL": "https://youtu.be/RlNhD0oS5pk",
@@ -557,7 +525,6 @@
       },
       "Led Zeppelin II": {
          "$date": "1969",
-         "$list": "black",
          "Ramble On": "",
          "Thank You": "",
          "Whole Lotta Love": {
@@ -569,7 +536,6 @@
    "Lenny Kravitz": {
       "Raise Vibration": {
          "$date": "2018",
-         "$list": "black",
          "Low": {
             "VPY": "38,900,177",
             "URL": "https://youtu.be/BilaShsQphM"
@@ -577,7 +543,6 @@
       },
       "Strut": {
          "$date": "2014",
-         "$list": "black",
          "Lenny Kravitz - The Chamber (Explicit)": {
              "URL": "https://youtu.be/jAHlQ77lm10",
              "VPY": "6,021,497"
@@ -585,7 +550,6 @@
       },
       "5": {
          "$date": "1999-06-01",
-         "$list": "white",
          "Live": "",
          "Supersoulfighter": "",
          "I Belong to You": "",
@@ -607,7 +571,6 @@
       },
       "Are You Gonna Go My Way": {
          "$date": "1993",
-         "$list": "white",
          "Are You Gonna Go My Way": "good",
          "Believe": "",
          "Come on and Love Me": "",
@@ -624,7 +587,6 @@
    "Leon Vynehall": {
       "Nothing Is Still": {
          "$date": "2018",
-         "$list": "white",
          "From the Sea/It Looms (Chapters I & II)": "good",
          "Movements (Chapter III)": "good",
          "Birds on the Tarmac (Footnote III)": "short",
@@ -638,7 +600,6 @@
       },
       "Rojus": {
          "$date": "2016-04-01",
-         "$list": "white",
          "Beyond This": "",
          "Saxony": "",
          "Beau Sovereign": "",
@@ -650,7 +611,6 @@
       },
       "Midnight on Rainbow Road": {
          "$date": "2016-02-26",
-         "$list": "white",
          "Midnight on Rainbow Road (Beat Edit)": "bad",
          "Midnight on Rainbow Road": "good"
       },
@@ -671,7 +631,6 @@
        },
       "Open EP": {
           "$date": "2013-09-16",
-          "$list": "white",
           "I Get Mine, You Get Yours": "bad",
           "Step or Stone (Breath or Bone)": "",
           "I Know Your Face, Heroine": "",
@@ -687,7 +646,6 @@
    "Linkin Park": {
       "One More Light": {
          "$date": "2017",
-         "$list": "black",
          "Battle Symphony": "",
          "Good Goodbye": "",
          "Heavy": {
@@ -702,7 +660,6 @@
       },
       "The Hunting Party": {
          "$date": "2014",
-         "$list": "black",
          "Final Masquerade": {
             "VPY": "16,666,261",
             "URL": "https://youtu.be/i8q8fFs3kTM"
@@ -711,7 +668,6 @@
       },
       "Living Things": {
          "$date": "2012",
-         "$list": "black",
          "Burn It Down": "",
          "Castle of Glass": {
             "VPY": "58,573,035",
@@ -721,7 +677,6 @@
       },
       "A Thousand Suns": {
          "$date": "2010",
-         "$list": "black",
          "Burning in the Skies": "",
          "Iridescent": "",
          "New Divide": {
@@ -733,7 +688,6 @@
       },
       "Minutes to Midnight": {
          "$date": "2007",
-         "$list": "black",
          "Bleed It Out": "",
          "Given Up": "",
          "Leave Out All the Rest": "",
@@ -744,7 +698,6 @@
       },
       "Meteora": {
          "$date": "2003",
-         "$list": "black",
          "Breaking the Habit": "",
          "Faint": "",
          "From the Inside": "",
@@ -756,7 +709,6 @@
       },
       "Hybrid Theory": {
          "$date": "2000",
-         "$list": "black",
          "Crawling": "",
          "In the End": {
             "VPY": "81,909,752",
@@ -770,7 +722,6 @@
    "Lisa Loeb": {
       "Hello Lisa": {
          "$date": "2002",
-         "$list": "white",
          "Did That": "bad",
          "Underdog": "bad",
          "You Don’t Know Me": "bad",
@@ -786,7 +737,6 @@
       },
       "Firecracker": {
          "$date": "1997",
-         "$list": "white",
          "I Do": "good",
          "Falling in Love": "",
          "Truthfully": "short",
@@ -802,7 +752,6 @@
       },
       "Tails": {
          "$date": "1995",
-         "$list": "white",
          "It’s Over": "bad",
          "Snow Day": "good",
          "Taffy": "bad",
@@ -824,7 +773,6 @@
    },
    "Lisa Stansfield": {
       "Affection": {
-         "$list": "white",
          "This Is the Right Time": "",
          "Mighty Love": "",
          "Sincerity": "",
@@ -846,7 +794,6 @@
    },
    "Live": {
       "Throwing Copper": {
-         "$list": "white",
          "The Dam at Otter Creek": "",
          "Selling the Drama": "",
          "I Alone": "good",
@@ -867,9 +814,25 @@
          "Horse": ""
       }
    },
+   "Luciana Souza": {
+       "Brazilian Duos": {
+           "$date": "2002-05-14",
+           "Baião Medley": "",
+           "Suas Mãos": "good",
+           "Pra Que Discutir com Madame": "short",
+           "Pra Dizer Adeus": "",
+           "Amanhã": "",
+           "Eu Não Existo Sem Você": "short",
+           "Doce de Côco": "",
+           "As Praias Desertas": "",
+           "Docemente": "",
+           "O Bolo": "short",
+           "Viver de Amor": "",
+           "Saudade da Bahia": "short"
+       }
+   },
    "Luke Slater (The 7th Plain)": {
       "The 4 Cornered Room": {
-         "$list": "white",
          "Time Melts": "",
          "Reality of Space": "",
          "Surface Bound": "good",
@@ -886,7 +849,6 @@
    "Lykke Li": {
        "so sad so sexy": {
            "$date": "2018-06-08",
-           "$list": "white",
            "hard rain": "bad",
            "deep end": "",
            "two nights": "",
@@ -900,7 +862,6 @@
        },
       "I Never Learn": {
          "$date": "2014",
-         "$list": "white",
          "I Never Learn": "bad",
          "No Rest for the Wicked": "bad",
          "Just Like a Dream": "bad",
@@ -913,7 +874,6 @@
       },
        "Wounded Rhymes": {
            "$date": "2011-02-28",
-           "$list": "black",
            "Youth Knows No Pain": "short",
           "I Follow Rivers - Lykke Li (La Vie d'Adèle/La Vida de Adele)": {
               "URL": "https://youtu.be/K3JGxj2rvAs",
@@ -930,18 +890,13 @@
        },
       "Youth Novels": {
          "$date": "2008",
-         "$list": "white",
          "Melodies & Desires": "good",
          "Dance, Dance, Dance": "bad",
          "I’m Good, I’m Gone": "bad",
          "Let It Fall": "short",
          "My Love": "bad",
          "Tonight": "",
-         "Little Bit": {
-            "rate": "good",
-            "VPY": "3,350,813",
-            "URL": "https://youtu.be/5dT312CDPJI"
-         },
+         "Little Bit": "good",
          "Hanging High": "bad",
          "This Trumpet in My Head": "short",
          "Complaint Department": "bad",
