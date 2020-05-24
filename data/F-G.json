@@ -1119,52 +1119,89 @@
       }
    },
    "Green Day": {
-      "21st Century Breakdown": {
-         "$date": "2009",
-         "21 Guns": {
-            "VPY": "24,850,357",
-            "URL": "https://youtu.be/r00ikilDxW4"
-         }
-      },
-      "American Idiot": {
-         "$date": "2004",
-         "Boulevard of Broken Dreams": {
-            "VPY": "50,307,178",
-            "URL": "https://youtu.be/Soa3gO7tL-c"
-         }
-      },
-      "nimrod.": {
-          "$date": "1997-10-13",
-          "Nice Guys Finish Last": "short",
-          "Hitchin’ a Ride": "short",
-          "The Grouch": "short",
-          "Redundant": "",
-          "Scattered": "",
-          "All the Time": "short",
-          "Worry Rock": "short",
-          "Platypus (I Hate You)": "short",
-          "Uptight": "",
-          "Last Ride In": "",
-          "Jinx": "short",
-          "Haushinka": "",
-          "Walking Alone": "short",
-          "Reject": "short",
-          "Take Back": "short",
-          "King for a Day": "",
-         "Good Riddance (Time Of Your Life) [Official Music Video]": {
-             "URL": "https://youtu.be/CnQ8N1KacJc",
-             "VPY": "6,192,447"
+       "Father of All Motherfuckers": {
+           "$date": "2020-02-07",
+           "Father of All…": "short",
+           "Fire, Ready, Aim": "short",
+           "Oh Yeah!": {
+             "id": "U3cpdkhtGx0",
+             "views": "4,869,422",
+             "published": "2020-01-16",
+             "views per year": "13,787,259"
          },
-          "Prosthetic Head": ""
-      },
-      "Dookie": {
-         "$date": "1994",
-         "Basket Case": {
-            "VPY": "19,510,691",
-            "URL": "https://youtu.be/NUTGr5t3MoY"
+           "Meet Me on the Roof": "short",
+           "I Was a Teenage Teenager": "",
+           "Stab You in the Heart": "short",
+           "Sugar Youth": "short",
+           "Junkies on a High": "",
+           "Take the Money and Crawl": "short",
+           "Graffitia": ""
+       },
+       "21st Century Breakdown": {
+           "$date": "2009-05-12",
+           "Song of the Century": "short",
+           "21st Century Breakdown": "",
+           "Know Your Enemy": "",
+           "¡Viva la Gloria!": "",
+           "Before the Lobotomy": "",
+           "Christian’s Inferno": "",
+           "Last Night on Earth": "",
+           "East Jesus Nowhere": "",
+           "Peacemaker": "",
+           "Last of the American Girls": "",
+           "Murder City": "short",
+           "¿Viva la Gloria? (Little Girl)": "",
+           "Restless Heart Syndrome": "",
+           "Horseshoes and Handgrenades": "",
+           "The Static Age": "",
+           "21 Guns": {
+             "id": "r00ikilDxW4",
+             "views": "272,922,285",
+             "published": "2009-10-07",
+             "views per year": "25,678,739"
          },
-         "When I Come Around": ""
-      }
+           "American Eulogy: Mass Hysteria / Modern World": "",
+           "See the Light": ""
+       },
+       "American Idiot": {
+           "$date": "2004-09-21",
+           "American Idiot": "short",
+           "Jesus of Suburbia: I. Jesus of Suburbia / II. City of the D": "",
+           "Holiday / Boulevard of Broken Dreams": {
+             "id": "Soa3gO7tL-c",
+             "views": "413,268,769",
+             "published": "2013-01-08",
+             "views per year": "56,051,399"
+         },
+           "Are We the Waiting / St. Jimmy": "",
+           "Give Me Novacaine / She’s a Rebel": "",
+           "Extraordinary Girl / Letterbomb": "",
+           "Wake Me Up When September Ends": "",
+           "Homecoming: I. The Death of St. Jimmy / II. East 12th St. /": "",
+           "Whatsername": ""
+       },
+       "Dookie": {
+           "$date": "1994-01-28",
+           "Burnout": "short",
+           "Having a Blast": "short",
+           "Chump": "short",
+           "Longview": "",
+           "Welcome to Paradise": "",
+           "Pulling Teeth": "short",
+           "Basket Case": {
+             "id": "NUTGr5t3MoY",
+             "views": "223,591,203",
+             "published": "2009-10-26",
+             "views per year": "21,140,742"
+         },
+           "She": "short",
+           "Sassafras Roots": "short",
+           "When I Come Around": "short",
+           "Coming Clean": "short",
+           "Emenius Sleepus": "short",
+           "In the End": "short",
+           "F.O.D. / All by Myself": ""
+       }
    },
    "Grizzly Bear": {
       "$check": "2020-05-07",

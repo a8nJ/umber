@@ -879,13 +879,42 @@
          "Always on My Mind / In My House": "",
          "It’s Alright": ""
       },
-      "Please": {
-         "$date": "1986",
-         "Pet Shop Boys - West End Girls": {
-             "URL": "https://youtu.be/p3j2NYZ8FKs",
-             "VPY": "7,350,730"
-         }
-      }
+       "Actually": {
+           "$date": "1987-09-07",
+           "One More Chance": "",
+           "What Have I Done to Deserve This?": "",
+           "Shopping": "",
+           "Rent": "",
+           "Hit Music": "",
+           "It Couldn’t Happen Here": "",
+           "It’s a Sin": {
+             "id": "dRHetRTOD1Q",
+             "views": "79,078,351",
+             "published": "2009-03-02",
+             "views per year": "7,043,006"
+         },
+           "I Want to Wake Up": "",
+           "Heart": "",
+           "King’s Cross": ""
+       },
+       "Please": {
+           "$date": "1986-03-24",
+           "Two Divided by Zero": "",
+           "West End Girls": {
+             "id": "p3j2NYZ8FKs",
+             "views": "81,576,401",
+             "published": "2009-04-22",
+             "views per year": "7,356,983"
+         },
+           "Opportunities (Let’s Make Lots of Money)": "",
+           "Love Comes Quickly": "",
+           "Suburbia": "",
+           "Tonight Is Forever": "",
+           "Violence": "",
+           "I Want a Lover": "",
+           "Later Tonight": "short",
+           "Why Don’t We Live Together": ""
+       }
    },
    "Peter Frampton": {
       "Frampton’s Camel": {
