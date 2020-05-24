@@ -1,5 +1,5 @@
 'use strict';
-import {f_backblaze} from '/umber/js/b2.js';
+import {f_backblaze} from '/umber/js/backblaze.js';
 import {f_bandcamp} from '/umber/js/bandcamp.js';
 import {f_date} from '/umber/js/date.js';
 import {f_soundcloud} from '/umber/js/soundcloud.js';

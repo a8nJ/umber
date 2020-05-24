@@ -935,23 +935,33 @@
       }
    },
    "Phil Collins": {
-      "But Seriously": {
-         "$date": "1989",
-         "Another Day in Paradise": {
-            "VPY": "28,886,074",
-            "URL": "https://youtu.be/Qt2mbGP6vFI"
-         }
-      },
+       "…But Seriously": {
+           "$date": "1989-11-07",
+           "Hang In Long Enough": "",
+           "That’s Just the Way It Is": "",
+           "Do You Remember?": "",
+           "Something Happened on the Way to Heaven": "",
+           "Colours": "",
+           "I Wish It Would Rain Down": "",
+           "Another Day in Paradise": {
+             "id": "Qt2mbGP6vFI",
+             "views": "330,812,757",
+             "published": "2010-05-10",
+             "views per year": "32,950,466"
+         },
+           "Heat on the Street": "",
+           "All of My Life": "",
+           "Saturday Night and Sunday Morning": "short",
+           "Father to Son": "",
+           "Find a Way to My Heart": ""
+       },
       "No Jacket Required": {
           "$date": "1985-03-21",
-          "Sussudio": "",
+          "Sussudio": "good",
           "Only You Know and I Know": "",
           "Long Long Way to Go": "",
           "I Don't Wanna Know": "",
-         "Phil Collins - One More Night (Official Music Video)": {
-             "URL": "https://youtu.be/zKVq-P3z5Vg",
-             "VPY": "6,504,732"
-         },
+          "One More Night": "",
           "Don't Lose My Number": "",
           "Who Said I Would": "",
           "Doesn't Anybody Stay Together Anymore": "",
@@ -972,13 +982,26 @@
           "The West Side": "",
           "Why Can’t It Wait ’til Morning": ""
       },
-      "Face Value": {
-         "$date": "1981",
-         "In the Air Tonight": {
-            "VPY": "19,622,622",
-            "URL": "https://youtu.be/YkADj0TPrJA"
-         }
-      }
+       "Face Value": {
+           "$date": "1981-02-06",
+           "In the Air Tonight": {
+             "id": "MN3x-kAbgFU",
+             "views": "104,024,588",
+             "published": "2010-05-31",
+             "views per year": "10,421,004"
+         },
+           "This Must Be Love": "",
+           "Behind the Lines": "",
+           "The Roof Is Leaking": "",
+           "Droned": "short",
+           "Hand in Hand": "",
+           "I Missed Again": "",
+           "You Know What I Mean": "short",
+           "Thunder and Lightning": "",
+           "I’m Not Moving": "short",
+           "If Leaving Me Is Easy": "",
+           "Tomorrow Never Knows": ""
+       }
    },
    "Pink Floyd": {
       "The Division Bell": {
