@@ -113,6 +113,64 @@
          "What If": ""
       }
    },
+   "AC/DC": {
+       "The Razors Edge": {
+           "$date": "1990-09-21",
+           "Thunderstruck": {
+             "id": "v2AC41dglnM",
+             "views": "735,245,788",
+             "published": "2012-11-07",
+             "views per year": "97,406,066"
+         },
+           "Fire Your Guns": "short",
+           "Moneytalks": "",
+           "The Razors Edge": "",
+           "Mistress for Christmas": "",
+           "Rock Your Heart Out": "",
+           "Are You Ready": "",
+           "Got You by the Balls": "",
+           "Shot of Love": "",
+           "Let’s Make It": "",
+           "Goodbye & Good Riddance to Bad Luck": "",
+           "If You Dare": ""
+       },
+       "Back in Black": {
+           "$date": "1980-07-25",
+           "Hells Bells": "",
+           "Shoot to Thrill": "",
+           "What Do You Do for Money Honey": "",
+           "Given the Dog a Bone": "",
+           "Let Me Put My Love Into You": "",
+           "Back in Black": {
+             "id": "A0Sc2CLqEmk",
+             "views": "8,443,972",
+             "published": "2020-01-07",
+             "views per year": "22,029,720"
+         },
+           "You Shook Me All Night Long": "",
+           "Have a Drink on Me": "",
+           "Shake a Leg": "",
+           "Rock and Roll Ain’t Noise Pollution": ""
+       },
+       "Highway to Hell": {
+           "$date": "1979-07-27",
+           "Highway to Hell": {
+             "id": "l482T0yNkeo",
+             "views": "138,510,948",
+             "published": "2012-11-10",
+             "views per year": "18,370,052"
+         },
+           "Girls Got Rhythm": "",
+           "Walk All Over You": "",
+           "Touch Too Much": "",
+           "Beating Around the Bush": "",
+           "Shot Down in Flames": "",
+           "Get It Hot": "short",
+           "If You Want Blood (You’ve Got It)": "",
+           "Love Hungry Man": "",
+           "Night Prowler": ""
+       }
+   },
    "Aerosmith": {
       "Nine Lives": {
          "$date": "1997",
