@@ -35,6 +35,7 @@
       }
    },
    "Bat for Lashes": {
+      "$check": "2020-05-26",
       "Lost Girls": {
           "$date": "2019-09-06",
           "Kids in the Dark": "good",
@@ -110,7 +111,7 @@
          "Prescilla": "bad",
          "Bat’s Mouth": "bad",
          "Seal Jubilee": "good",
-         "Sarah": "",
+         "Sarah": "good",
          "I Saw a Light": "",
          "I’m on Fire": ""
       }
