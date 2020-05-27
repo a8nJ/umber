@@ -882,29 +882,41 @@
        }
    },
    "Autechre": {
-       "elseq 1–5": {
+       "elseq 5": {
            "$date": "2016-05-19",
-           "feed1": "bad",
-           "c16 deep tread": "bad",
-           "13x0 step": "bad",
-           "pendulu hv moda": "bad",
-           "curvcaten": "bad",
-           "elyc6 0nset": "long",
-           "chimer 1-5-1": "bad",
-           "c7b2": "bad",
-           "eastre": "long",
-           "TBM2": "bad",
-           "mesh cinereaL": "long",
-           "acdwn2": "bad",
-           "foldfree casual": "",
-           "latentcall": "",
-           "artov chain": "",
-           "7th slip": "",
            "pendulu casual": "",
            "spTh": "",
            "spaces how V": "",
            "freulaeux": "",
            "oneum": ""
+       },
+       "elseq 4": {
+           "$date": "2016-05-19",
+           "acdwn2": "bad",
+           "foldfree casual": "bad",
+           "latentcall": "",
+           "artov chain": "",
+           "7th slip": ""
+       },
+       "elseq 3": {
+           "$date": "2016-05-19",
+           "eastre": "long",
+           "TBM2": "bad",
+           "mesh cinereaL": "long"
+       },
+       "elseq 2": {
+           "$date": "2016-05-19",
+           "elyc6 0nset": "long",
+           "chimer 1-5-1": "bad",
+           "c7b2": "bad"
+       },
+       "elseq 1": {
+           "$date": "2016-05-19",
+           "feed1": "bad",
+           "c16 deep tread": "bad",
+           "13x0 step": "bad",
+           "pendulu hv moda": "bad",
+           "curvcaten": "bad"
        },
       "Exai": {
          "$date": "2013",

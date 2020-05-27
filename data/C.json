@@ -31,14 +31,25 @@
       }
    },
    "Cassie": {
-      "Cassie": {
-         "$date": "2006",
-         "Long Way 2 Go": "",
-         "Me & U": {
-            "VPY": "13,636,105",
-            "URL": "https://youtu.be/zVJ5gsLeCSM"
-         }
-      }
+       "Cassie": {
+           "$date": "2006-08-08",
+           "Me&U": {
+             "id": "zVJ5gsLeCSM",
+             "views": "71,685,439",
+             "published": "2016-06-02",
+             "views per year": "17,995,262"
+         },
+           "Long Way 2 Go": "",
+           "About Time": "",
+           "Kiss Me": "",
+           "Call U Out": "",
+           "Just One Nite": "",
+           "Hope You’re Behaving (interlude)": "short",
+           "Not With You": "",
+           "Ditto": "",
+           "What Do U Want": "",
+           "Miss Your Touch": "short"
+       }
    },
    "Chet Faker": {
       "Built on Glass": {
