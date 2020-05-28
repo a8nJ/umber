@@ -128,16 +128,25 @@
       }
    },
    "Chicane": {
+       "Somersault": {
+           "$date": "2007-07-23",
+           "Stoned in Love": "bad",
+           "U R Always": "bad",
+           "Come Tomorrow": "bad",
+           "Nothing": "bad",
+           "Arizona, Part 2": "good",
+           "Spirit": "",
+           "Turning Corners": "",
+           "Far Away From You": "",
+           "Way I’m Feelin’": "",
+           "Time of Your Life": "short"
+       },
       "Behind the Sun": {
          "$date": "2000",
          "Overture": "good",
          "Low Sun": "good",
          "No Ordinary Morning": "bad",
-         "Saltwater (original mix)": {
-            "rate": "good",
-            "VPY": "2,624,489",
-            "URL": "https://youtu.be/ET1-6Bef9xU"
-         },
+         "Saltwater (original mix)": "good",
          "Halcyon": "bad",
          "Autumn Tactics": "bad",
          "Overlap": "bad",
