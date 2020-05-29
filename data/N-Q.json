@@ -132,12 +132,47 @@
       }
    },
    "Nelly Furtado": {
-      "Loose": {
-         "Say It Right": {
-            "VPY": "41,217,852",
-            "URL": "https://youtu.be/6JnGBs88sL0"
-         }
-      }
+       "Loose": {
+           "$date": "2006-06-09",
+           "Afraid": "",
+           "Maneater": "",
+           "Promiscuous": "",
+           "Glow": "",
+           "Showtime": "",
+           "No hay igual": "",
+           "Te busqué": "",
+           "Say It Right": {
+             "id": "6JnGBs88sL0",
+             "views": "491,929,746",
+             "published": "2009-06-16",
+             "views per year": "44,930,568"
+         },
+           "Do It": "",
+           "In God’s Hands": "",
+           "Wait for You": "",
+           "Somebody to Love": "",
+           "All Good Things (Come to an End)": ""
+       },
+       "Whoa, Nelly!": {
+           "$date": "2000-10-24",
+           "Hey, Man!": "",
+           "Shit on the Radio (Remember the Days)": "",
+           "Baby Girl": "",
+           "Legend": "",
+           "I’m Like a Bird": {
+             "id": "roPQ_M3yJTA",
+             "views": "87,445,723",
+             "published": "2009-06-16",
+             "views per year": "7,986,884"
+         },
+           "Turn Off the Light": "",
+           "Trynna Finda Way": "",
+           "Party": "",
+           "Well, Well": "",
+           "My Love Grows Deeper, Part 1": "",
+           "I Will Make U Cry": "",
+           "Scared of You": ""
+       }
    },
    "Nena": {
       "Nena": {

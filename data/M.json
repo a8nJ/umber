@@ -917,10 +917,7 @@
    },
    "μ‐Ziq": {
       "Lunatic Harness": {
-         "Brace Yourself Jason": {
-            "VPY": "27,477",
-            "URL": "https://youtu.be/UN_9nB37O_U"
-         },
+         "Brace Yourself Jason": "",
          "Hasty Boom Alert": "good",
          "Mushroom Compost": "",
          "Blainville": "",
@@ -936,7 +933,22 @@
       }
    },
    "My Brightest Diamond": {
+       "All Things Will Unwind": {
+           "$date": "2011-10-18",
+           "We Added It Up": "bad",
+           "Reaching Through to the Other Side": "good",
+           "In the Beginning": "",
+           "Escape Routes": "",
+           "Be Brave": "",
+           "She Does Not Brave the War": "",
+           "Ding Dang": "short",
+           "There’s a Rat": "",
+           "High Low Middle": "",
+           "Everything Is in Line": "",
+           "I Have Never Loved Someone": ""
+       },
       "A Thousand Shark’s Teeth": {
+         "$date": "2008",
          "Inside a Boy": "",
          "Ice & The Storm": "",
          "If I Were Queen": "short",
@@ -947,10 +959,10 @@
          "Bass Player": "",
          "Goodbye Forever": "",
          "Like a Sieve": "",
-         "The Diamond": "",
-         "$date": "2008"
+         "The Diamond": ""
       },
       "Bring Me the Workhorse": {
+         "$date": "2006",
          "Something of an End": "",
          "Golden Star": "good",
          "Gone Away": "",
@@ -961,8 +973,7 @@
          "The Robin’s Jar": "",
          "Magic Rabbit": "",
          "The Good & The Bad Guy": "",
-         "Workhorse": "",
-         "$date": "2006"
+         "Workhorse": ""
       }
    },
    "My Morning Jacket": {
