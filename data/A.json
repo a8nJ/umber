@@ -441,30 +441,59 @@
       "Jar of Flies": {
          "$date": "1994",
          "Rotten Apple": "good",
-         "Nutshell": "good",
+         "Nutshell": {
+             "id": "9EKi2E9dVY8",
+             "views": "16,424,800",
+             "published": "2018-09-28",
+             "views per year": "9,834,686"
+         },
          "I Stay Away": "good",
          "No Excuses": "",
          "Whale & Wasp": "short",
          "Don’t Follow": "",
          "Swing on This": ""
       },
-      "Dirt": {
-         "$date": "1992",
-         "Down in a Hole": "",
-         "Rooster": "",
-         "Them Bones": "",
-         "Alice In Chains - Would? (Official Video)": {
-             "URL": "https://youtu.be/Nco_kh8xJDs",
-             "VPY": "8,304,434"
+       "Dirt": {
+           "$date": "1992-09-29",
+           "Them Bones": "short",
+           "Dam That River": "",
+           "Rain When I Die": "",
+           "Down in a Hole": "",
+           "Sickman": "",
+           "Rooster": "",
+           "Junkhead": "",
+           "Dirt": "",
+           "God Smack": "",
+           "Iron Gland": "short",
+           "Hate to Feel": "",
+           "Angry Chair": "",
+           "Would?": {
+             "id": "Nco_kh8xJDs",
+             "views": "85,507,660",
+             "published": "2010-03-01",
+             "views per year": "8,344,022"
          }
-      },
-      "Facelift": {
-         "$date": "1990",
-         "Alice In Chains - Man in the Box (Official Video)": {
-             "URL": "https://youtu.be/TAqZb52sgpU",
-             "VPY": "9,204,115"
-         }
-      }
+       },
+       "Facelift": {
+           "$date": "1990-08-28",
+           "We Die Young": "short",
+           "Man in the Box": {
+             "id": "TAqZb52sgpU",
+             "views": "98,148,109",
+             "published": "2009-10-25",
+             "views per year": "9,263,203"
+         },
+           "Sea of Sorrow": "",
+           "Bleed the Freak": "",
+           "I Can’t Remember": "",
+           "Love, Hate, Love": "",
+           "It Ain’t Like That": "",
+           "Sunshine": "",
+           "Put You Down": "",
+           "Confusion": "",
+           "I Know Somethin (Bout You)": "",
+           "Real Thing": ""
+       }
    },
    "Alicia Keys": {
       "Songs in A Minor": {
