@@ -126,11 +126,7 @@
       "Evil Empire": {
          "$date": "1996",
          "People of the Sun": "good",
-         "Rage Against The Machine - Bulls On Parade (Official Music Video)": {
-            "rate": "good",
-            "URL": "https://youtu.be/3L4YrGaR8E4",
-            "VPY": "6,106,169"
-         },
+         "Bulls On Parade": "good",
          "Vietnow": "",
          "Revolver": "",
          "Snakecharmer": "",
@@ -141,15 +137,24 @@
          "Roll Right": "",
          "Year of tha Boomerang": ""
       },
-      "Rage Against the Machine": {
-         "$date": "1992",
-         "Rage Against The Machine - Killing In the Name": {
-             "URL": "https://youtu.be/bWXazVhlyxQ",
-             "VPY": "13,750,808"
+       "Rage Against the Machine": {
+           "$date": "1992-11-06",
+           "Bombtrack": "",
+           "Killing in the Name": {
+             "id": "bWXazVhlyxQ",
+             "views": "127,611,238",
+             "published": "2011-03-26",
+             "views per year": "13,900,986"
          },
-         "Know Your Enemy": "",
-         "Take the Power Back": ""
-      }
+           "Take the Power Back": "",
+           "Settle for Nothing": "",
+           "Bullet in the Head": "",
+           "Know Your Enemy": "",
+           "Wake Up": "",
+           "Fistful of Steel": "",
+           "Township Rebellion": "",
+           "Freedom": ""
+       }
    },
    "Ratatat": {
       "LP3": {
