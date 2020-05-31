@@ -172,54 +172,80 @@
        }
    },
    "Aerosmith": {
-      "Nine Lives": {
-         "$date": "1997",
-         "Hole in My Soul": {
-            "VPY": "7,324,282",
-            "URL": "https://youtu.be/HaC0s-FP-r4"
-         }
-      },
-      "Get a Grip": {
-         "$date": "1993",
-         "Amazing": "",
-         "Crazy": {
-            "VPY": "50,729,923",
-            "URL": "https://youtu.be/NMNgbISmF4I"
+       "Nine Lives": {
+           "$date": "1997-03-18",
+           "Nine Lives": "",
+           "Falling in Love (Is Hard on the Knees)": "",
+           "Hole in My Soul": {
+             "id": "HaC0s-FP-r4",
+             "views": "52,006,800",
+             "published": "2014-06-29",
+             "views per year": "8,782,008"
          },
-         "Livin’ on the Edge": ""
-      },
-      "Pump": {
-         "$date": "1989",
-         "Cryin’": {
-            "VPY": "23,633,799",
-            "URL": "https://youtu.be/qfNmyxV2Ncw"
+           "Taste of India": "",
+           "Full Circle": "",
+           "Something’s Gotta Give": "",
+           "Ain’t That a Bitch": "",
+           "The Farm": "",
+           "Crash": "",
+           "Kiss Your Past Good‐Bye": "",
+           "Pink": "",
+           "Attitude Adjustment": "",
+           "Fallen Angels": ""
+       },
+       "Get a Grip": {
+           "$date": "1993-04-20",
+           "Intro": "short",
+           "Eat the Rich": "",
+           "Get a Grip": "",
+           "Fever": "",
+           "Livin’ on the Edge": "",
+           "Flesh": "",
+           "Walk on Down": "",
+           "Shut Up and Dance": "",
+           "Cryin’": "",
+           "Gotta Love It": "",
+           "Crazy": {
+             "id": "NMNgbISmF4I",
+             "views": "526,248,260",
+             "published": "2009-12-25",
+             "views per year": "50,449,390"
          },
-         "Janie’s Got a Gun": "",
-         "Love in an Elevator": ""
-      },
-      "Permanent Vacation": {
-         "$date": "1987",
-         "Angel": {
-            "VPY": "10,621,283",
-            "URL": "https://youtu.be/CBTOGVb_cQg"
+           "Line Up": "",
+           "Amazing": "",
+           "Boogie Man": "short"
+       },
+       "Permanent Vacation": {
+           "$date": "1987-03-25",
+           "Heart’s Done Time": "",
+           "Magic Touch": "",
+           "Rag Doll": "",
+           "Simoriah": "",
+           "Dude (Looks Like a Lady)": "",
+           "St. John": "",
+           "Hangman Jury": "",
+           "Girl Keeps Coming Apart": "",
+           "Angel": {
+             "id": "CBTOGVb_cQg",
+             "views": "115,141,847",
+             "published": "2009-06-16",
+             "views per year": "10,508,636"
          },
-         "Dude": "",
-         "Rag Doll": ""
-      },
-      "Toys in the Attic": {
-         "$date": "1975",
-         "Walk This Way": {
-            "VPY": "7,394,905",
-            "URL": "https://youtu.be/4B_UYYPb-Gk"
-         }
-      },
-      "Aerosmith": {
-         "$date": "1973",
-         "Dream On": {
-            "VPY": "8,369,719",
-            "URL": "https://youtu.be/O0oQCmnvvl0"
-         }
-      }
+           "Permanent Vacation": "",
+           "I’m Down": "short",
+           "The Movie": ""
+       },
+       "Aerosmith": {
+           "$date": "1973-01-05",
+           "Make It": "",
+           "Somebody": "",
+           "Dream On": "good",
+           "One Way Street": "",
+           "Mama Kin": "",
+           "Write Me a Letter": "",
+           "Movin' Out": "",
+           "Walkin' the Dog": ""
+       }
    },
    "AFX": {
       "Analogue Bubblebath 3": {
