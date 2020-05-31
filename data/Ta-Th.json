@@ -360,20 +360,34 @@
       }
    },
    "The Cinematics": {
-      "A Strange Education": {
-         "Race to the City": "good",
-         "Break": "good",
-         "A Strange Education": "",
-         "Human": "good",
-         "Chase": "",
-         "Rise and Fall": "bad",
-         "Sunday Sun": "",
-         "Keep Forgetting": "good",
-         "Ready Now": "",
-         "Maybe Someday": "",
-         "Alright": "",
-         "Asleep at the Wheel": ""
-      }
+       "Love and Terror": {
+           "$date": "2009-11-09",
+           "All These Things": "",
+           "She Talks to the Trees": "",
+           "New Mexico": "bad",
+           "Love and Terror": "",
+           "Lips Taste Like Tears": "",
+           "Wish (When the Banks Collapse)": "",
+           "Hospital Bills": "",
+           "Moving to Berlin": "",
+           "You Can Dance": "",
+           "Hard for Young Lovers": ""
+       },
+       "A Strange Education": {
+           "$date": "2007-03-06",
+           "Race to the City": "good",
+           "Break": "good",
+           "A Strange Education": "",
+           "Human": "good",
+           "Chase": "",
+           "Rise and Fall": "bad",
+           "Sunday Sun": "",
+           "Keep Forgetting": "good",
+           "Ready Now": "",
+           "Maybe Someday": "",
+           "Alright": "",
+           "Asleep at the Wheel": ""
+       }
    },
    "The Clash": {
       "Combat Rock": {

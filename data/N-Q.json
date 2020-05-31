@@ -1486,7 +1486,7 @@
          "Preparation’s Kids Choir": "short",
          "Pitch Pipe": "short",
          "Periodic Measurements of Infrequent Frowns": "short",
-         "Formal Dedications": ""
+         "Formal Dedications": "good"
       },
       "Preparations": {
          "$date": "2007",
@@ -1567,11 +1567,7 @@
          "Female Demands": "short",
          "Why I Love You": "short",
          "Southerners (interlude)": "short",
-         "Perverted Undertone": {
-            "rate": "good",
-            "VPY": "54,237",
-            "URL": "https://youtu.be/fJY7BMzx7Iw"
-         },
+         "Perverted Undertone": "good",
          "Invigorate (interlude)": "short",
          "Choking You": "good",
          "Storm Returns": "good",
