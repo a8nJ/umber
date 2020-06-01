@@ -483,13 +483,29 @@
          "All My Love": "good",
          "I’m Gonna Crawl": ""
       },
-      "Physical Graffiti": {
-         "$date": "1975",
-         "Kashmir": {
-            "VPY": "7,698,273",
-            "URL": "https://youtu.be/PD-MdiUm1_Y"
-         }
-      },
+       "Physical Graffiti": {
+           "$date": "1975-02-24",
+           "Custard Pie": "",
+           "The Rover": "",
+           "In My Time of Dying": "",
+           "Houses of the Holy": "",
+           "Trampled Under Foot": "",
+           "Kashmir": {
+             "id": "PD-MdiUm1_Y",
+             "views": "67,110,740",
+             "published": "2012-11-02",
+             "views per year": "8,855,563"
+         },
+           "In the Light": "",
+           "Bron-Yr-Aur": "short",
+           "Down by the Seaside": "",
+           "Ten Years Gone": "",
+           "Night Flight": "",
+           "The Wanton Song": "",
+           "Boogie With Stu": "",
+           "Black Country Woman": "",
+           "Sick Again": ""
+       },
       "Houses of the Holy": {
          "$date": "1973",
          "The Song Remains the Same": "",
@@ -498,40 +514,72 @@
          "The Crunge": "",
          "Dancing Days": "",
          "D’yer Mak’er": "",
-         "No Quarter": {
-            "VPY": "3,784,523",
-            "URL": "https://youtu.be/RlNhD0oS5pk"
-         },
+         "No Quarter": "",
          "The Ocean": ""
       },
-      "[Led Zeppelin IV]": {
-         "$date": "1971",
-         "Black Dog": "",
-         "Rock and Roll": "",
-         "Stairway To Heaven": {
-            "VPY": "81,614,873",
-            "URL": "https://youtu.be/D9ioyEvdggk"
+       "[Led Zeppelin IV]": {
+           "$date": "1971-11-08",
+           "Black Dog": "",
+           "Rock and Roll": "",
+           "The Battle of Evermore": "",
+           "Stairway to Heaven": {
+             "id": "xbhCPt6PZIU",
+             "views": "52,243,064",
+             "published": "2018-01-26",
+             "views per year": "22,265,787"
          },
-         "When the Levee Breaks": ""
-      },
-      "Led Zeppelin III": {
-         "$date": "1970",
-         "Celebration Day": "",
-         "Led Zeppelin - Immigrant Song (Live 1972) (Official Video)": {
-             "URL": "https://youtu.be/RlNhD0oS5pk",
-             "VPY": "7,391,676"
+           "Misty Mountain Hop": "",
+           "Four Sticks": "",
+           "Going to California": "",
+           "When the Levee Breaks": ""
+       },
+       "Led Zeppelin III": {
+           "$date": "1970-10-05",
+           "Immigrant Song": {
+             "id": "RlNhD0oS5pk",
+             "views": "79,024,251",
+             "published": "2009-10-26",
+             "views per year": "7,456,370"
          },
-         "Since I’ve Been Loving You": ""
-      },
-      "Led Zeppelin II": {
-         "$date": "1969",
-         "Ramble On": "",
-         "Thank You": "",
-         "Whole Lotta Love": {
-            "VPY": "7,585,196",
-            "URL": "https://youtu.be/HQmmM_qwG4k"
-         }
-      }
+           "Friends": "",
+           "Celebration Day": "",
+           "Since I’ve Been Loving You": "",
+           "Out of the Tiles": "",
+           "Gallows Pole": "",
+           "Tangerine": "",
+           "That’s the Way": "",
+           "Bron-Y-Aur Stomp": "",
+           "Hats Off to (Roy) Harper": ""
+       },
+       "Led Zeppelin II": {
+           "$date": "1969-10-22",
+           "Whole Lotta Love": {
+             "id": "HQmmM_qwG4k",
+             "views": "114,841,990",
+             "published": "2008-04-20",
+             "views per year": "9,479,330"
+         },
+           "What Is and What Should Never Be": "",
+           "The Lemon Song": "",
+           "Thank You": "",
+           "Heartbreaker": "",
+           "Living Loving Maid (She's Just a Woman)": "short",
+           "Ramble On": "",
+           "Moby Dick": "",
+           "Bring It On Home": ""
+       },
+       "Led Zeppelin": {
+           "$date": "1969-01-12",
+           "Good Times Bad Times": "short",
+           "Babe I’m Gonna Leave You": "good",
+           "You Shook Me": "",
+           "Dazed and Confused": "",
+           "Your Time Is Gonna Come": "",
+           "Black Mountain Side": "short",
+           "Communication Breakdown": "short",
+           "I Can’t Quit You Baby": "",
+           "How Many More Times": ""
+       }
    },
    "Lenny Kravitz": {
       "Raise Vibration": {

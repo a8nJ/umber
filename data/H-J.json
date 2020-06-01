@@ -1034,13 +1034,24 @@
       }
    },
    "Jeff Buckley": {
-      "Grace": {
-         "Hallelujah": {
-            "VPY": "14,630,197",
-            "URL": "https://youtu.be/y8AWFf7EAc4"
+       "Grace": {
+           "$date": "1994-08-15",
+           "Mojo Pin": "",
+           "Grace": "",
+           "Last Goodbye": "",
+           "Lilac Wine": "",
+           "So Real": "",
+           "Hallelujah": {
+             "id": "y8AWFf7EAc4",
+             "views": "161,711,145",
+             "published": "2009-10-25",
+             "views per year": "15,254,389"
          },
-         "Last Goodbye": ""
-      }
+           "Lover, You Should’ve Come Over": "",
+           "Corpus Christi Carol": "short",
+           "Eternal Life": "",
+           "Dream Brother": ""
+       }
    },
    "Jekka": {
       "City of Night": {

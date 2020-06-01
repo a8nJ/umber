@@ -348,16 +348,15 @@
          "Oregon": "good",
          "Semblance": "short"
       },
-      "Motion": {
-         "$date": "1999",
-         "Ode to the Big Sea": "bad",
-         "Night of the Iguana": "bad",
-         "Channel 1 Suite": "",
-         "Bluebirds": "",
-         "And Relax!": "good",
-         "Diabolus": "",
-         "Durian": ""
-      }
+       "Motion": {
+           "$date": "1999-09-01",
+           "Ode to the Big Sea": "bad",
+           "Night of the Iguana": "bad",
+           "Channel 1 Suite": "",
+           "Bluebirds": "bad",
+           "And Relax!": "good",
+           "Diabolus": ""
+       }
    },
    "The Cinematics": {
        "Love and Terror": {
