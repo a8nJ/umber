@@ -14,3 +14,5 @@ to include:
 - format
 - track titles
 - track lengths
+
+<https://wiki.musicbrainz.org/Development/JSON_Web_Service>

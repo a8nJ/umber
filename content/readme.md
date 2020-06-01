@@ -1,13 +1,33 @@
-# Meta
+# Content
 
-To add an album:
+If we have a layout like this:
 
-1. add songs that dont already exist on other albums
-2. add album
-3. add artist if need be
-4. add url if need be
-5. add links for all songs to new album
-6. add links for all artists to new album
-7. add links for all URLs to new album
+~~~html
+<figure>
+   <a href="//youtube.com/watch?v=NpTZVtNXht4">
+      <img src="//i.ytimg.com/vi/NpTZVtNXht4/sd1.jpg">
+      <figcaption>Shawn Colvin - Crazy</figcaption>
+   </a>
+   <time>released 2007 - posted Tue Feb 16 2016</time>
+</figure>
+~~~
 
-<https://wiki.musicbrainz.org/Development/JSON_Web_Service>
+Its maybe not ideal, as `<figcaption>` is block level:
+
+<https://developer.mozilla.org/Web/HTML/Block-level_elements>
+
+which makes the link block level. But then again, we might want block level to
+ensure it is on separate line from the image. Only way to solve is to have two
+`<a>`: one outside the `<img>` and one inside the `<figcaption>`. Result:
+
+~~~html
+<figure>
+   <a href="//youtube.com/watch?v=NpTZVtNXht4">
+      <img src="//i.ytimg.com/vi/NpTZVtNXht4/sd1.jpg">
+   </a>
+   <figcaption>
+      <a href="//youtube.com/watch?v=NpTZVtNXht4">Shawn Colvin - Crazy</a>
+   </figcaption>
+   <time>released 2007 - posted Tue Feb 16 2016</time>
+</figure>
+~~~
