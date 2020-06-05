@@ -203,7 +203,16 @@
          "English House": "good",
          "Mykonos": "good",
          "Innocent Son": "bad"
-      }
+      },
+       "Fleet Foxes": {
+           "$date": "2006",
+           "She Got Dressed": "bad",
+           "In the Hot, Hot Rays": "bad",
+           "Anyone Who's Anyone": "bad",
+           "Textbook Love": "bad",
+           "So Long to the Headstrong": "bad",
+           "Icicle Tusk": ""
+       }
    },
    "Fleetwood Mac": {
       "Tango in the Night": {

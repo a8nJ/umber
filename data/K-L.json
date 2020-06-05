@@ -94,7 +94,7 @@
           "Rand": "short",
           "Gras": "bad",
           "Simultan": "short",
-          "Konstant": "",
+          "Konstant": "bad",
           "Lunger": "",
           "Seen": "",
           "Nachtwach": "",
@@ -116,11 +116,7 @@
       "Pageant Material": {
          "$date": "2015",
          "High Time": "short",
-         "Dime Store Cowgirl": {
-            "bad": "bad",
-            "VPY": "356,715",
-            "URL": "https://youtu.be/_eTkY7-vTd8"
-         },
+         "Dime Store Cowgirl": "bad",
          "Late to the Party": "",
          "Pageant Material": "",
          "This Town": "short",

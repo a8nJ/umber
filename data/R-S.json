@@ -1222,38 +1222,87 @@
       }
    },
    "System of a Down": {
-      "Hypnotize": {
-         "$date": "2005",
-         "Hypnotize": "",
-         "Lonely Day": {
-            "VPY": "22,196,437",
-            "URL": "https://youtu.be/DnGdoEa1tPg"
-         }
-      },
-      "Mezmerize": {
-         "$date": "2005",
-         "B.Y.O.B.": {
-            "VPY": "30,340,425",
-            "URL": "https://youtu.be/zUzd9KyIDrM"
+       "Hypnotize": {
+           "$date": "2005-11-18",
+           "Attack": "",
+           "Dreaming": "",
+           "Kill Rock ’n Roll": "short",
+           "Hypnotize": "",
+           "Stealing Society": "short",
+           "Tentative": "",
+           "U‐Fig": "short",
+           "Holy Mountains": "",
+           "Vicinity of Obscenity": "short",
+           "She’s Like Heroin": "short",
+           "Lonely Day": {
+             "id": "DnGdoEa1tPg",
+             "views": "245,817,433",
+             "published": "2009-10-03",
+             "views per year": "23,033,560"
          },
-         "Question!": ""
-      },
-      "Toxicity": {
-         "$date": "2001",
-         "Aerials": "",
-         "Chop Suey!": {
-            "VPY": "87,410,345",
-            "URL": "https://youtu.be/CSvFpBOe8eY"
+           "Soldier Side": ""
+       },
+       "Mezmerize": {
+           "$date": "2005-05-16",
+           "Soldier Side (intro)": "short",
+           "B.Y.O.B.": "",
+           "Revenga": "",
+           "Cigaro": "short",
+           "Radio/Video": "",
+           "This Cocaine Makes Me Feel Like I’m on This Song": "short",
+           "Violent Pornography": "",
+           "Question!": {
+             "id": "ENBv2i88g6Y",
+             "views": "77,176,739",
+             "published": "2009-10-02",
+             "views per year": "7,229,752"
          },
-         "Toxicity": ""
-      },
-      "System of a Down": {
-         "$date": "1998",
-         "Spiders": "",
-         "Sugar": {
-            "VPY": "10,356,237",
-            "URL": "https://youtu.be/5vBGOrI6yBk"
-         }
-      }
+           "Sad Statue": "",
+           "Old School Hollywood": "short",
+           "Lost in Hollywood": ""
+       },
+       "Toxicity": {
+           "$date": "2001-08-27",
+           "Prison Song": "",
+           "Needles": "",
+           "Deer Dance": "short",
+           "Jet Pilot": "short",
+           "X": "short",
+           "Chop Suey!": {
+             "id": "CSvFpBOe8eY",
+             "views": "958,857,735",
+             "published": "2009-10-02",
+             "views per year": "89,823,747"
+         },
+           "Bounce": "short",
+           "Forest": "",
+           "ATWA": "short",
+           "Science": "short",
+           "Shimmy": "short",
+           "Toxicity": "",
+           "Psycho": "",
+           "Aerials / Arto": ""
+       },
+       "System of a Down": {
+           "$date": "1998-06-30",
+           "Suite-Pee": "short",
+           "Know": "",
+           "Sugar": {
+             "id": "5vBGOrI6yBk",
+             "views": "109,683,890",
+             "published": "2009-10-02",
+             "views per year": "10,274,953"
+         },
+           "Suggestions": "short",
+           "Spiders": "",
+           "DDevil": "short",
+           "Soil": "",
+           "War?": "short",
+           "Mind": "",
+           "Peephole": "",
+           "CUBErt": "short",
+           "Darts": "short",
+           "P.L.U.C.K.": ""
+       }
    }
 }
