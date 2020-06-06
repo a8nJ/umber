@@ -431,23 +431,42 @@
          "Skin": "",
          "The Safest Place": "short"
       },
-      "Lovers Rock": {
-         "$date": "1999",
-         "Sade - By Your Side (Official Music Video)": {
-             "URL": "https://youtu.be/C8QJmI_V3j4",
-             "VPY": "7,333,356"
-         }
-      },
-      "Love Deluxe": {
-         "$date": "1992",
-         "Cherish the Day": "",
-         "Kiss of Life": "",
-         "Sade - No Ordinary Love (Official Music Video)": {
-             "URL": "https://youtu.be/_WcWHZc8s2I",
-             "VPY": "9,799,769"
+       "Lovers Rock": {
+           "$date": "1999-11-30",
+           "By Your Side": {
+             "id": "C8QJmI_V3j4",
+             "views": "77,649,658",
+             "published": "2009-12-11",
+             "views per year": "7,405,101"
          },
-         "Pearls": ""
-      },
+           "Flow": "",
+           "King of Sorrow": "",
+           "Somebody Already Broke My Heart": "",
+           "All About Our Love": "short",
+           "Slave Song": "",
+           "The Sweetest Gift": "short",
+           "Every Word": "",
+           "Immigrant": "",
+           "Lovers Rock": "",
+           "It's Only Love That Gets You Through": ""
+       },
+       "Love Deluxe": {
+           "$date": "1992-10-23",
+           "No Ordinary Love": {
+             "id": "_WcWHZc8s2I",
+             "views": "103,311,966",
+             "published": "2009-12-11",
+             "views per year": "9,852,401"
+         },
+           "Feel No Pain": "",
+           "I Couldn’t Love You More": "",
+           "Like a Tattoo": "",
+           "Kiss of Life": "",
+           "Cherish the Day": "",
+           "Pearls": "",
+           "Bullet Proof Soul": "",
+           "Mermaid": ""
+       },
       "Stronger Than Pride": {
          "$date": "1988",
          "Love Is Stronger Than Pride": "",
@@ -1164,6 +1183,21 @@
       }
    },
    "Suzanne Vega": {
+       "Nine Objects of Desire": {
+           "$date": "1996-09-10",
+           "Birth-day (Love Made Real)": "",
+           "Headshots": "bad",
+           "Caramel": "short",
+           "Stockings": "bad",
+           "Casual Match": "bad",
+           "Thin Man": "bad",
+           "No Cheap Thrill": "bad",
+           "World Before Columbus": "",
+           "Lolita": "",
+           "Honeymoon Suite": "short",
+           "Tombstone": "",
+           "My Favorite Plum": "short"
+       },
       "99.9 F°": {
           "$date": "1992-09-08",
           "Rock in This Pocket (Song of David)": "bad",
