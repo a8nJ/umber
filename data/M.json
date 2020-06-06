@@ -170,37 +170,108 @@
       }
    },
    "Madonna": {
-      "Rebel Heart": {
-         "$date": "2015",
-         "Bitch I’m Madonna": {
-            "VPY": "76,830,661",
-            "URL": "https://youtu.be/7hPMmzKs62w"
+       "Madame X": {
+           "$date": "2019-06-14",
+           "Medellín": "",
+           "Dark Ballet": "",
+           "God Control": {
+             "id": "zv-sdTOw5cs",
+             "views": "7,276,291",
+             "published": "2019-06-26",
+             "views per year": "7,681,114"
          },
-         "Ghosttown": ""
-      },
-      "MDNA": {
-         "$date": "2012",
-         "Girl Gone Wild": "",
-         "Give Me All Your Luvin’": {
-            "VPY": "10,108,542",
-            "URL": "https://youtu.be/cItHOl5LRWg"
-         }
-      },
-      "Hard Candy": {
-         "$date": "2008",
-         "4 Minutes": {
-            "VPY": "7,832,501",
-            "URL": "https://youtu.be/aAQZPBwz2CI"
+           "Future": "",
+           "Batuka": "",
+           "Killers Who Are Partying": "",
+           "Crave": "",
+           "Crazy": "",
+           "Come Alive": "",
+           "Faz gostoso": "",
+           "Bitch I’m Loca": "short",
+           "I Don’t Search I Find": "",
+           "I Rise": ""
+       },
+       "Rebel Heart": {
+           "$date": "2015-03-06",
+           "Living for Love": "",
+           "Devil Pray": "",
+           "Ghosttown": "",
+           "Unapologetic Bitch": "",
+           "Illuminati": "",
+           "Bitch I’m Madonna": {
+             "id": "7hPMmzKs62w",
+             "views": "319,155,061",
+             "published": "2015-06-18",
+             "views per year": "64,226,659"
          },
-         "Give It 2 Me": ""
-      },
-      "Confessions on a Dance Floor": {
-         "$date": "2005",
-         "Hung Up": {
-            "VPY": "19,991,409",
-            "URL": "https://youtu.be/EDwb9jOVRtU"
-         }
-      },
+           "Hold Tight": "",
+           "Joan of Arc": "",
+           "Iconic": "",
+           "HeartBreakCity": "",
+           "Body Shop": "",
+           "Holy Water": "",
+           "Inside Out": "",
+           "Wash All Over Me": ""
+       },
+       "MDNA": {
+           "$date": "2012-03-12",
+           "Girl Gone Wild": "",
+           "I'm Addicted": "",
+           "Turn Up the Radio": "",
+           "Give Me All Your Luvin'": {
+             "id": "cItHOl5LRWg",
+             "views": "76,579,703",
+             "published": "2012-02-02",
+             "views per year": "9,179,763"
+         },
+           "Some Girls": "",
+           "Superstar": "",
+           "I Don't Give A": "",
+           "I'm a Sinner": "",
+           "Love Spent": "",
+           "Masterpiece": "",
+           "Falling Free": ""
+       },
+       "Hard Candy": {
+           "$date": "2008-04-25",
+           "Candy Shop": "",
+           "4 Minutes": {
+             "id": "aAQZPBwz2CI",
+             "views": "111,759,173",
+             "published": "2009-10-26",
+             "views per year": "10,531,486"
+         },
+           "Give It 2 Me": "",
+           "Heartbeat": "",
+           "Miles Away": "",
+           "She's Not Me": "",
+           "Incredible": "",
+           "Beat Goes On": "",
+           "Dance 2night": "",
+           "Spanish Lesson": "",
+           "Devil Wouldn't Recognize You": "",
+           "Voices": ""
+       },
+       "Confessions on a Dance Floor": {
+           "$date": "2005-11-11",
+           "Hung Up": {
+             "id": "EDwb9jOVRtU",
+             "views": "247,610,539",
+             "published": "2009-10-26",
+             "views per year": "23,333,269"
+         },
+           "Get Together": "",
+           "Sorry": "",
+           "Future Lovers": "",
+           "I Love New York": "",
+           "Let It Will Be": "",
+           "Forbidden Love": "",
+           "Jump": "",
+           "How High": "",
+           "Isaac": "",
+           "Push": "",
+           "Like It or Not": ""
+       },
       "Music": {
          "$date": "2000",
          "Music": "good",
@@ -215,13 +286,6 @@
          "Gone": "",
          "American Pie": "",
          "Cyber-Raga": ""
-      },
-      "Ray of Light": {
-         "$date": "1998",
-         "Frozen": {
-            "VPY": "8,438,434",
-            "URL": "https://youtu.be/SKEFN9XNlyY"
-         }
       },
       "Something to Remember": {
          "$date": "1995",
@@ -275,39 +339,79 @@
          "Justify My Love": "good",
          "Express Yourself (Shep’s ’Spressin’ Himself Re-remix)": ""
       },
-      "I’m Breathless": {
-         "$date": "1990-05-21",
-         "Vogue": {
-            "VPY": "9,981,092",
-            "URL": "https://youtu.be/GuJQSAiODqI"
+       "I’m Breathless": {
+           "$date": "1990-05-12",
+           "He's a Man": "",
+           "Sooner or Later": "",
+           "Hanky Panky": "",
+           "I'm Going Bananas": "short",
+           "Cry Baby": "",
+           "Something to Remember": "",
+           "Back in Business": "",
+           "More": "",
+           "What Can You Lose?": "short",
+           "Now I'm Following You, Part I": "short",
+           "Now I'm Following You, Part II": "",
+           "Vogue": {
+             "id": "P4oD-RNoo5o",
+             "views": "331,349",
+             "published": "2020-05-20",
+             "views per year": "7,119,131"
          }
-      },
-      "Like a Prayer": {
-         "$date": "1989",
-         "Madonna - Like A Prayer (Official Music Video)": {
-             "URL": "https://youtu.be/79fzeNUqQbQ",
-             "VPY": "10,619,378"
-         }
-      },
-      "True Blue": {
-         "$date": "1986",
-         "Madonna - La Isla Bonita (Official Music Video)": {
-             "URL": "https://youtu.be/zpzdgmqIHOQ",
-             "VPY": "27,220,695"
+       },
+       "Like a Prayer": {
+           "$date": "1989-03-20",
+           "Like a Prayer": {
+             "id": "79fzeNUqQbQ",
+             "views": "117,911,411",
+             "published": "2009-10-26",
+             "views per year": "11,111,234"
          },
-         "Live to Tell": "",
-         "Papa Don’t Preach": ""
-      },
-      "Like a Virgin": {
-         "$date": "1984",
-         "Dress You Up": "",
-         "Into the Groove": "",
-         "Like a Virgin": "",
-         "Madonna - Material Girl (Official Music Video)": {
-             "URL": "https://youtu.be/6p-lDYPR2P8",
-             "VPY": "18,329,635"
-         }
-      },
+           "Express Yourself": "",
+           "Love Song": "",
+           "Till Death Do Us Part": "",
+           "Promise to Try": "",
+           "Cherish": "",
+           "Dear Jessie": "",
+           "Oh Father": "",
+           "Keep It Together": "",
+           "Spanish Eyes": "",
+           "Act of Contrition": "short"
+       },
+       "True Blue": {
+           "$date": "1986-06-30",
+           "Papa Don't Preach": {
+             "id": "G333Is7VPOg",
+             "views": "106,181,782",
+             "published": "2011-06-30",
+             "views per year": "11,882,015"
+         },
+           "Open Your Heart": "",
+           "White Heat": "",
+           "Live To Tell": "",
+           "Where's The Party": "",
+           "True Blue": "",
+           "La Isla Bonita": "",
+           "Jimmy Jimmy": "",
+           "Love Makes The World Go Round": ""
+       },
+       "Like a Virgin": {
+           "$date": "1984-11-13",
+           "Material Girl": "",
+           "Angel": "",
+           "Like a Virgin": {
+             "id": "s__rX_WL100",
+             "views": "76,676,889",
+             "published": "2009-10-26",
+             "views per year": "7,225,550"
+         },
+           "Over and Over": "",
+           "Love Don’t Live Here Anymore": "",
+           "Dress You Up": "",
+           "Shoo-Bee-Doo": "",
+           "Pretender": "",
+           "Stay": ""
+       },
       "Madonna": {
           "$date": "1983-07-26",
           "Lucky Star": "good",
