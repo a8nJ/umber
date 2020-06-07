@@ -153,6 +153,7 @@
       }
    },
    "Fleet Foxes": {
+      "$check": "2020-06-06",
       "Crack‐Up": {
          "$date": "2017-06-16",
          "I Am All That I Need / Arroyo Seco / Thumbprint Scar": "",
@@ -190,7 +191,7 @@
          "Tiger Mountain Peasant Song": "",
          "Quiet Houses": "",
          "He Doesn’t Know Why": "",
-         "Heard Them Stirring": "",
+         "Heard Them Stirring": "good",
          "Your Protector": "good",
          "Meadowlarks": "",
          "Blue Ridge Mountains": "",

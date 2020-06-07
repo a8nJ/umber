@@ -1207,29 +1207,30 @@
          "Dusk at the Market": "good",
          "Peace of Akatosh": "good"
       },
-      "The Elder Scrolls III Morrowind": {
-         "$date": "2002",
-         "Nerevar Rising": "short",
-         "Peaceful Waters": "good",
-         "Knight’s Charge": "short",
-         "Over the Next Hill": "",
-         "Bright Spears, Dark Blood": "short",
-         "The Road Most Travelled": "",
-         "Dance of Swords": "short",
-         "Blessing of Vivec": "",
-         "Ambush!": "short",
-         "Silt Sunrise": "",
-         "Hunter’s Pursuit": "short",
-         "Shed Your Travails": "",
-         "Stormclouds on the Battlefield": "short",
-         "Caprice": "",
-         "Drumbeat of the Dunmer": "short",
-         "Darkened Depths": "short",
-         "The Prophecy Fulfilled": "short",
-         "Triumphant": "short",
-         "Introduction": "short",
-         "Fate’s Quickening": "short"
-      }
+       "The Elder Scrolls III: Morrowind": {
+           "$date": "2002",
+           "Nerevar Rising": "short",
+           "Peaceful Waters": "good",
+           "Knight’s Charge": "short",
+           "Over the Next Hill": "",
+           "Bright Spears, Dark Blood": "short",
+           "The Road Most Travelled": "",
+           "Dance of Swords": "short",
+           "Blessing of Vivec": "",
+           "Ambush!": "short",
+           "Silt Sunrise": "",
+           "Hunter’s Pursuit": "short",
+           "Shed Your Travails": "",
+           "Stormclouds on the Battlefield": "short",
+           "Caprice": "",
+           "Drumbeat of the Dunmer": "short",
+           "Darkened Depths": "short",
+           "The Prophecy Fulfilled": "short",
+           "Triumphant": "short",
+           "Introduction": "short",
+           "Fate’s Quickening": "short",
+           "Nerevar Rising (reprise)": "short"
+       }
    },
    "Jessie Ware": {
       "Glasshouse": {
