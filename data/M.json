@@ -458,6 +458,18 @@
          "About You": "bad"
       }
    },
+   "Marc Rebillet": {
+      "after:2019-01-01 before:2020-01-01": {
+         "DAY 16: AMSTERDAM": "bad",
+         "DAY 23: MALTA": "bad",
+         "DAY 29: HOME": "good",
+         "DAY 6: ZURICH": "good",
+         "IN THE SUMMER": "good",
+         "ONE MORE TIME": "bad",
+         "SORRY TO BOTHER YOU": "good",
+         "YOU WERE THERE": "bad"
+      }
+   },
    "Mariah Carey": {
       "Memoirs of an Imperfect Angel": {
          "I Want To Know What Love Is": {
