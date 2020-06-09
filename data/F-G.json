@@ -132,25 +132,36 @@
          "Snacks on Snacks": "",
          "Elevator Pass": "short"
       },
-      "Pleasure Palette": {
-         "$date": "2015",
-         "Pleasure Palette": "short",
-         "Down For The Fifth Time": "good",
-         "Finesse (Hey Baby)": "short",
-         "A Beautiful Soul (Feat. BeRod)": "",
-         "On a Cloud (Feat. Beatmachinearon)": "",
-         "love me in the evening": "short",
-         "Now Or Never (Feat. Macross 82-99)": "",
-         "Transparency": "",
-         "I don’t really care": "",
-         "Wearing a Smile": "short",
-         "Little Fling": "short",
-         "Football Head": {
-            "rate": "good",
-            "VPY": "2,286,983",
-            "URL": "https://youtu.be/1hJKhiew2O0"
-         }
-      }
+       "Pleasure Palette": {
+           "$date": "2015-08-18",
+           "Pleasure Palette": "short",
+           "Down For The Fifth Time": "good",
+           "Finesse (Hey Baby)": "short",
+           "A Beautiful Soul (Feat. BeRod)": "",
+           "On a Cloud (Feat. Beatmachinearon)": "",
+           "love me in the evening": "short",
+           "Now Or Never (Feat. Macross 82-99)": "",
+           "Transparency": "",
+           "I don't really care": "",
+           "Wearing a Smile": "short",
+           "Little Fling": "short",
+           "Football Head": "good"
+       },
+       "Kahunastyle": {
+           "$date": "2015-02-16",
+           "Stay Humble": "short",
+           "Midnight In Montreal": "",
+           "Groovin'": "",
+           "Future Lounge": "",
+           "She Loved Me": "",
+           "Can It Be": "short",
+           "My Lady": "",
+           "Cup of Ramen": "short",
+           "Sleeplessness": "short",
+           "Cheer Up": "",
+           "Helping Hand": "short",
+           "Bushwick Boogie": ""
+       }
    },
    "Fleet Foxes": {
       "$check": "2020-06-06",
