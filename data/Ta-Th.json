@@ -30,13 +30,20 @@
          "Cloudburst Flight": "good",
          "Thru Metamorphic Rocks": "bad"
       },
-      "Phaedra": {
-         "$date": "1974",
-         "Phaedra": "short",
-         "Mysterious Semblance at the Strand of Nightmares": "bad",
-         "Movements of a Visionary": "bad",
-         "Sequent C’": "short"
-      }
+       "Stratosfear": {
+           "$date": "1976-10",
+           "Stratosfear": "bad",
+           "The Big Sleep in Search of Hades": "",
+           "3 A.M. at the Border of the Marsh From Okefenokee": "",
+           "Invisible Limits": ""
+       },
+       "Phaedra": {
+           "$date": "1974-02-20",
+           "Phaedra": "",
+           "Mysterious Semblance at the Strand of Nightmares": "bad",
+           "Movements of a Visionary": "bad",
+           "Sequent 'C'": "short"
+       }
    },
    "Tears for Fears": {
       "Raoul and the Kings of Spain": {
