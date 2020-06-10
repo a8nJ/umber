@@ -939,7 +939,7 @@
    "Autechre": {
        "elseq 5": {
            "$date": "2016-05-19",
-           "pendulu casual": "",
+           "pendulu casual": "bad",
            "spTh": "",
            "spaces how V": "",
            "freulaeux": "",
@@ -951,7 +951,7 @@
            "foldfree casual": "bad",
            "latentcall": "bad",
            "artov chain": "bad",
-           "7th slip": ""
+           "7th slip": "bad"
        },
        "elseq 3": {
            "$date": "2016-05-19",

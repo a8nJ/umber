@@ -1247,31 +1247,55 @@
        }
    },
    "Jessie Ware": {
-      "Glasshouse": {
-         "$date": "2017",
-         "Midnight": "bad",
-         "Thinking About You": "bad",
-         "Stay Awake, Wait for Me": "good",
-         "Your Domino": "bad",
-         "Alone": "",
-         "Selfish Love": "bad",
-         "First Time": "bad",
-         "Hearts": "bad",
-         "Slow Me Down": "bad",
-         "Finish What We Started": "bad",
-         "Last of the True Believers": "bad",
-         "Sam": "bad"
-      },
-      "Tough Love": {
-         "$date": "2014",
-         "Kind of…Sometimes…Maybe": "",
-         "Say You Love Me": {
+       "What’s Your Pleasure?": {
+           "$date": "2020-06-05",
+           "Spotlight": "",
+           "What’s Your Pleasure?": "",
+           "Ooh La La": "",
+           "Soul Control": "",
+           "Save a Kiss": "bad",
+           "Adore You": "",
+           "In Your Eyes": "",
+           "Step Into My Life": "",
+           "Read My Lips": "",
+           "Mirage (Don’t Stop)": "",
+           "The Kill": "",
+           "Remember Where You Are": ""
+       },
+       "Glasshouse": {
+           "$date": "2017-10-20",
+           "Midnight": "bad",
+           "Thinking About You": "bad",
+           "Stay Awake, Wait for Me": "good",
+           "Your Domino": "bad",
+           "Alone": "",
+           "Selfish Love": "bad",
+           "First Time": "bad",
+           "Hearts": "bad",
+           "Slow Me Down": "bad",
+           "Finish What We Started": "bad",
+           "Last of the True Believers": "bad",
+           "Sam": "bad"
+       },
+       "Tough Love": {
+           "$date": "2014-10-13",
+           "Tough Love": "",
+           "You & I (Forever)": "",
+           "Cruel": "",
+           "Say You Love Me": {
              "id": "DAMM8JVbr8g",
              "views": "123,723,337",
              "published": "2014-09-11",
              "views per year": "21,767,798"
-         }
-      },
+         },
+           "Sweetest Song": "",
+           "Kind of…Sometimes…Maybe": "",
+           "Want Your Feeling": "",
+           "Pieces": "",
+           "Keep On Lying": "",
+           "Champagne Kisses": "",
+           "Desire": ""
+       },
       "Devotion": {
           "$date": "2012-08-16",
           "Devotion": "",

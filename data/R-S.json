@@ -98,13 +98,26 @@
          "High & Dry": "",
          "Street Spirit": ""
       },
-      "Pablo Honey": {
-         "$date": "1993",
-         "Creep": {
-            "VPY": "28,719,100",
-            "URL": "https://youtu.be/XFkzRNyygfk"
-         }
-      }
+       "Pablo Honey": {
+           "$date": "1993-02-22",
+           "You": "",
+           "Creep": {
+             "id": "XFkzRNyygfk",
+             "views": "386,681,256",
+             "published": "2008-07-18",
+             "views per year": "32,475,682"
+         },
+           "How Do You?": "short",
+           "Stop Whispering": "",
+           "Thinking About You": "short",
+           "Anyone Can Play Guitar": "",
+           "Ripcord": "",
+           "Vegetable": "",
+           "Prove Yourself": "short",
+           "I Can’t": "",
+           "Lurgee": "",
+           "Blow Out": ""
+       }
    },
    "Rage Against the Machine": {
       "The Battle of Los Angeles": {
