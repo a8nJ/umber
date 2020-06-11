@@ -905,6 +905,19 @@
       }
    },
    "Pet Shop Boys": {
+       "Behaviour": {
+           "$date": "1990-10-22",
+           "Being Boring": "good",
+           "This Must Be the Place I Waited Years to Leave": "",
+           "To Face the Truth": "",
+           "How Can You Expect to Be Taken Seriously?": "",
+           "Only the Wind": "",
+           "My October Symphony": "",
+           "So Hard": "",
+           "Nervously": "",
+           "The End of the World": "",
+           "Jealousy": ""
+       },
       "Introspective": {
          "$date": "1988",
          "Left to My Own Devices": "",
