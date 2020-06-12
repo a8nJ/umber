@@ -1,5 +1,17 @@
 {
    "Talking Heads": {
+       "Speaking in Tongues": {
+           "$date": "1983-05-31",
+           "Burning Down the House": "bad",
+           "Making Flippy Floppy": "",
+           "Girlfriend Is Better": "",
+           "Slippery People": "",
+           "I Get Wild/Wild Gravity": "",
+           "Swamp": "",
+           "Moon Rocks": "",
+           "Pull Up the Roots": "",
+           "This Must Be the Place (Naive Melody)": ""
+       },
        "Remain in Light": {
            "$date": "1980-05-10",
            "Born Under Punches (The Heat Goes On)": "",
@@ -417,22 +429,29 @@
        }
    },
    "The Clash": {
-      "Combat Rock": {
-         "$date": "1982",
-         "Rock the Casbah": "",
-         "Should I Stay or Should I Go": {
-            "VPY": "18,807,531",
-            "URL": "https://youtu.be/BN1WwnEDWAM"
+       "Combat Rock": {
+           "$date": "1982-05-14",
+           "Know Your Rights": "",
+           "Car Jamming": "",
+           "Should I Stay or Should I Go": {
+             "id": "BN1WwnEDWAM",
+             "views": "75,912,870",
+             "published": "2016-08-08",
+             "views per year": "19,734,282"
          },
-         "Straight to Hell": ""
-      },
+           "Rock the Casbah": "",
+           "Red Angel Dragnet": "",
+           "Straight to Hell": "",
+           "Overpowered by Funk": "",
+           "Atom Tan": "short",
+           "Sean Flynn": "",
+           "Ghetto Defendant": "",
+           "Inoculated City": "short",
+           "Death Is a Star": ""
+       },
       "Sandinista!": {
          "$date": "1980",
-         "The Magnificent Seven": {
-            "rate": "good",
-            "VPY": "512,354",
-            "URL": "https://youtu.be/GcHL8efKKPE"
-         },
+         "The Magnificent Seven": "good",
          "Hitsville U.K.": "",
          "Junco Partner": "",
          "Ivan Meets G.I. Joe": "",
@@ -468,7 +487,29 @@
          "Version Pardner": "",
          "Career Opportunities": "short",
          "Shepherds Delight": ""
-      }
+      },
+       "London Calling": {
+           "$date": "1979-12-14",
+           "London Calling": "good",
+           "Brand New Cadillac": "short",
+           "Jimmy Jazz": "",
+           "Hateful": "short",
+           "Rudie Can’t Fail": "",
+           "Spanish Bombs": "",
+           "The Right Profile": "",
+           "Lost in the Supermarket": "",
+           "Clampdown": "",
+           "The Guns of Brixton": "",
+           "Wrong ’Em Boyo": "",
+           "Death or Glory": "",
+           "Koka Kola": "short",
+           "The Card Cheat": "",
+           "Lover’s Rock": "",
+           "Four Horsemen": "short",
+           "I’m Not Down": "",
+           "Revolution Rock": "",
+           "Train in Vain": ""
+       }
    },
    "The Cranberries": {
        "To the Faithful Departed": {
