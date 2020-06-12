@@ -1,19 +1,40 @@
 {
    "Talking Heads": {
-      "Remain in Light": {
-         "$date": "1980",
-         "Once in a Lifetime": {
-            "VPY": "12,825,264",
-            "URL": "https://youtu.be/5IsSpAOD6K8"
-         }
-      },
-      "Talking Heads 77": {
-         "$date": "1977",
-         "Psycho Killer": {
-            "VPY": "10,319,438",
-            "URL": "https://youtu.be/O52jAYa4Pm8"
-         }
-      }
+       "Remain in Light": {
+           "$date": "1980-05-10",
+           "Born Under Punches (The Heat Goes On)": "",
+           "Crosseyed and Painless": "",
+           "The Great Curve": "",
+           "Once in a Lifetime": {
+             "id": "5IsSpAOD6K8",
+             "views": "28,370,357",
+             "published": "2018-02-02",
+             "views per year": "12,026,085"
+         },
+           "Houses in Motion": "",
+           "Seen and Not Seen": "",
+           "Listening Wind": "",
+           "The Overload": ""
+       },
+       "Talking Heads: 77": {
+           "$date": "1977-09-16",
+           "Uh‐Oh, Love Comes to Town": "short",
+           "New Feeling": "",
+           "Tentative Decisions": "",
+           "Happy Day": "",
+           "Who Is It?": "short",
+           "No Compassion": "",
+           "The Book I Read": "",
+           "Don’t Worry About the Government": "",
+           "First Week/Last Week…Carefree": "",
+           "Psycho Killer": {
+             "id": "O52jAYa4Pm8",
+             "views": "116,721,417",
+             "published": "2010-01-17",
+             "views per year": "11,214,173"
+         },
+           "Pulled Up": ""
+       }
    },
    "Tangerine Dream": {
       "Risky Business": {
@@ -1269,32 +1290,48 @@
       }
    },
    "The xx": {
-      "I See You": {
-         "$date": "2017",
-         "I Dare You": {
-            "VPY": "18,250,038",
-            "URL": "https://youtu.be/qqflFMhkqHM"
+       "I See You": {
+           "$date": "2017-01-13",
+           "Dangerous": "",
+           "Say Something Loving": "",
+           "Lips": "",
+           "A Violent Noise": "",
+           "Performance": "",
+           "Replica": "",
+           "Brave for You": "",
+           "On Hold": "",
+           "I Dare You": {
+             "id": "qqflFMhkqHM",
+             "views": "40,801,451",
+             "published": "2017-06-29",
+             "views per year": "13,806,341"
          },
-         "On Hold": {
-            "VPY": "10,967,060",
-            "URL": "https://youtu.be/blJKoXWlqJk"
-         }
-      },
-      "Coexist": {
-         "$date": "2012",
-         "The xx - Angels (Official Audio)": {
-             "URL": "https://youtu.be/_nW5AF0m9Zw",
-             "VPY": "8,777,443"
-         }
-      },
+           "Test Me": ""
+       },
+       "Coexist": {
+           "$date": "2012-09-07",
+           "Angels": {
+             "id": "_nW5AF0m9Zw",
+             "views": "68,649,421",
+             "published": "2012-07-16",
+             "views per year": "8,677,238"
+         },
+           "Chained": "short",
+           "Fiction": "short",
+           "Try": "",
+           "Reunion": "",
+           "Sunset": "",
+           "Missing": "",
+           "Tides": "",
+           "Unfold": "",
+           "Swept Away": "",
+           "Our Song": ""
+       },
       "xx": {
           "$date": "2009-08-14",
           "Intro": "good",
           "VCR": "short",
-         "The xx - Crystalised (Official Video)": {
-             "URL": "https://youtu.be/Pib8eYDSFEI",
-             "VPY": "5,853,154"
-         },
+          "Crystalised": "",
           "Islands": "short",
           "Heart Skipped a Beat": "good",
           "Fantasy": "short",

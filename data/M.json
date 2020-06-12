@@ -287,6 +287,22 @@
          "American Pie": "",
          "Cyber-Raga": ""
       },
+       "Ray of Light": {
+           "$date": "1998-02-23",
+           "Drowned World / Substitute for Love": "",
+           "Swim": "",
+           "Ray of Light": "",
+           "Candy Perfume Girl": "",
+           "Skin": "",
+           "Nothing Really Matters": "",
+           "Sky Fits Heaven": "",
+           "Shanti / Ashtangi": "",
+           "Frozen": "good",
+           "The Power of Good-Bye": "",
+           "To Have and Not to Hold": "",
+           "Little Star": "",
+           "Mer Girl": ""
+       },
       "Something to Remember": {
          "$date": "1995",
          "I Want You": "good",
@@ -425,6 +441,7 @@
       }
    },
    "Mandalay": {
+      "$check": "2020-06-11",
       "Instinct": {
           "$date": "2000",
           "Not Seventeen": "bad",
@@ -444,17 +461,13 @@
          "This Life": "good",
          "Flowers Bloom": "good",
          "Insensible": "good",
-         "Another": "",
-         "Enough Love": "",
-         "All My Sins": "",
+         "Another": "bad",
+         "Enough Love": "bad",
+         "All My Sins": "good",
          "Opposites": "bad",
          "This Time Last Year": "bad",
          "Kissing the Day": "bad",
-         "Beautiful": {
-            "rate": "bad",
-            "VPY": "55,963",
-            "URL": "https://youtu.be/ie-0hEReVfU"
-         },
+         "Beautiful": "bad",
          "About You": "bad"
       }
    },
