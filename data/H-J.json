@@ -776,11 +776,7 @@
          "Marcy’s Song": "",
          "Maria Spanish Rose": "short",
          "Marlene": "good",
-         "Milk And Honey": {
-            "rate": "good",
-            "VPY": "118,918",
-            "URL": "https://youtu.be/fO7ih6Nu3MA"
-         },
+         "Milk And Honey": "good",
          "My Name Is Carnival": "",
          "Mystery": "short",
          "Night of the Blues": "",
@@ -1071,11 +1067,7 @@
       "City of Night": {
          "$date": "2015",
          "Midnight Hour": "bad",
-         "City Of Night": {
-            "rate": "good",
-            "VPY": "6,747",
-            "URL": "https://youtu.be/tOjrQmVkJp4"
-         },
+         "City Of Night": "good",
          "Hero": "bad",
          "On and On": "bad"
       }
@@ -1357,6 +1349,42 @@
          "As If": "",
          "Strange Emotion": "good"
       }
+   },
+   "Jewel": {
+       "Spirit": {
+           "$date": "1998-11-17",
+           "Deep Water": "bad",
+           "What's Simple Is True": "bad",
+           "Hands": "bad",
+           "Kiss the Flame": "good",
+           "Down So Long": "",
+           "Innocence Maintained": "",
+           "Jupiter": "",
+           "Fat Boy": "short",
+           "Enter From the East": "",
+           "Barcelona": "",
+           "Life Uncommon": "",
+           "Do You": "",
+           "Absence of Fear / This Little Bird": "",
+           "Who Will Save Your Soul (live)": ""
+       },
+       "Pieces Of You": {
+           "$date": "1994",
+           "Who Will Save Your Soul": "good",
+           "Pieces of You": "",
+           "Little Sister": "short",
+           "Foolish Games": "",
+           "Near You Always": "",
+           "Painters": "",
+           "Morning Song": "",
+           "Adrian": "",
+           "I’m Sensitive": "short",
+           "You Were Meant for Me": "",
+           "Don’t": "",
+           "Daddy": "",
+           "Angel Standing By": "short",
+           "Amen": ""
+       }
    },
    "John Frusciante": {
       "Curtains": {

@@ -1012,10 +1012,7 @@
          "Remain the Same": "bad",
          "A Drop in the Ocean": "short",
          "Dumb Inc.": "",
-         "The Time Is Now": {
-            "VPY": "1,492,925",
-            "URL": "https://youtu.be/kl8mpAvTm_Y"
-         },
+         "The Time Is Now": "",
          "Mother": "",
          "It’s Your Problem": "short",
          "It’s Nothing": "",
@@ -1029,20 +1026,49 @@
       }
    },
    "Montell Jordan": {
-      "This Is How We Do It": {
-         "This Is How We Do It": {
-            "VPY": "10,267,590",
-            "URL": "https://youtu.be/0hiUuL5uTKc"
-         }
-      }
+       "This Is How We Do It": {
+           "$date": "1995-04-04",
+           "My Mommy (intro)": "short",
+           "Somethin’ 4 da Honeyz": "",
+           "This Is How We Do It": {
+             "id": "0hiUuL5uTKc",
+             "views": "117,731,622",
+             "published": "2009-06-16",
+             "views per year": "10,703,314"
+         },
+           "Payback": "",
+           "I’ll Do Anything": "",
+           "Don’t Keep Me Waiting": "",
+           "Comin’ Home": "",
+           "Introducing Shaunta": "",
+           "It’s Over": "",
+           "Midnight (interlude)": "short",
+           "I Wanna": "",
+           "Down on My Knees": "",
+           "Gotta’ Get My Roll On": "",
+           "Close the Door": "",
+           "Daddy’s Home": ""
+       }
    },
    "Mr Mister": {
-      "Welcome to the Real World": {
-         "Broken Wings": {
-            "VPY": "14,062,770",
-            "URL": "https://youtu.be/nKhN1t_7PEY"
-         }
-      }
+       "Welcome to the Real World": {
+           "$date": "1985-11-27",
+           "Black/White": "",
+           "Uniform of Youth": "",
+           "Don’t Slow Down": "",
+           "Run to Her": "",
+           "Into My Own Hands": "",
+           "Is It Love": "",
+           "Kyrie": "",
+           "Broken Wings": {
+             "id": "nKhN1t_7PEY",
+             "views": "105,034,571",
+             "published": "2013-10-02",
+             "views per year": "15,674,648"
+         },
+           "Tangent Tears": "",
+           "Welcome to the Real World": ""
+       }
    },
    "μ‐Ziq": {
       "Lunatic Harness": {
