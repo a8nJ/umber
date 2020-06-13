@@ -540,12 +540,26 @@
       }
    },
    "Mark Morrison": {
-      "Return of the Mack": {
-         "Mark Morrison - Return Of The Mack [OFFICIAL MUSIC VIDEO]": {
-             "URL": "https://youtu.be/uB1D9wWxd2w",
-             "VPY": "7,540,658"
-         }
-      }
+       "Return of theMack": {
+           "$date": "1996-04-22",
+           "Crazy (D-Influence mix)": "",
+           "Let's Get Down": "",
+           "Get High With Me": "",
+           "Moan and Groan": "",
+           "Return of the Mack (C&J Street mix)": {
+             "id": "uB1D9wWxd2w",
+             "views": "101,152,855",
+             "published": "2007-06-23",
+             "views per year": "7,791,103"
+         },
+           "I Like": "",
+           "Trippin'": "",
+           "Horny": "",
+           "I Really Love You": "",
+           "Tears for You": "",
+           "Return of the Mack (Da Beatminerz Remix)": "short",
+           "Crazy": ""
+       }
    },
    "Massive Attack": {
       "$check": "2020-04-26",

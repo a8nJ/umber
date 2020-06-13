@@ -851,18 +851,35 @@
       }
    },
    "Soul for Real": {
-      "Candy Rain": {
-         "Soul For Real - Candy Rain": {
-             "URL": "https://youtu.be/Cx0xzO73Amo",
-             "VPY": "6,493,599"
-         },
-         "Every Little Thing I Do": ""
-      }
+       "Candy Rain": {
+           "$date": "1995-03-28",
+           "Candy Rain": "",
+           "Every Little Thing I Do": "good",
+           "All in My Mind": "",
+           "If You Want It": "",
+           "I Wanna Be Your Friend": "",
+           "Ain’t No Sunshine": "short",
+           "Spend the Night": "",
+           "I Don’t Know": "",
+           "If Only You Knew": "",
+           "Thinking of You": "",
+           "Piano Interlude": "short"
+       }
    },
    "Soul II Soul": {
-      "Keep on Movin’": {
-         "Back to Life": ""
-      }
+       "Club Classics, Volume One": {
+           "$date": "1989-04-10",
+           "Keep On Movin’": "",
+           "Fairplay": "",
+           "Holdin’ On (Bambelela)": "",
+           "Feeling Free (live rap)": "",
+           "African Dance": "",
+           "Dance": "",
+           "Feel Free": "",
+           "Happiness (dub)": "",
+           "Back to Life (acappella)": "good",
+           "Jazzie's Groove": "short"
+       }
    },
    "Soundgarden": {
       "Superunknown": {
