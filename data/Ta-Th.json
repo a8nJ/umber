@@ -1123,6 +1123,60 @@
          }
       }
    },
+   "The Smashing Pumpkins": {
+       "Mellon Collie and the Infinite Sadness": {
+           "$date": "1995-10-23",
+           "Mellon Collie and the Infinite Sadness": "short",
+           "Tonight, Tonight": "",
+           "Jellybelly": "",
+           "Zero": "short",
+           "Here Is No Why": "",
+           "Bullet With Butterfly Wings": "",
+           "To Forgive": "",
+           "Fuck You (An Ode to No One)": "",
+           "Love": "",
+           "Cupid de Locke": "short",
+           "Galapogos": "",
+           "Muzzle": "",
+           "Porcelina of the Vast Oceans": "",
+           "Take Me Down": "short",
+           "Where Boys Fear to Tread": "",
+           "Bodies": "",
+           "Thirty‐Three": "",
+           "In the Arms of Sleep": "",
+           "1979": {
+             "id": "4aeETEoNfOg",
+             "views": "119,068,312",
+             "published": "2011-08-02",
+             "views per year": "13,415,442"
+         },
+           "Tales of a Scorched Earth": "",
+           "Thru the Eyes of Ruby": "",
+           "Stumbleine": "short",
+           "X.Y.U.": "",
+           "We Only Come Out at Night": "",
+           "Beautiful": "",
+           "Lily (My One and Only)": "",
+           "By Starlight": "",
+           "Farewell and Goodnight": ""
+       },
+       "Siamese Dream": {
+           "$date": "1993-07-26",
+           "Cherub Rock": "",
+           "Quiet": "",
+           "Today": "",
+           "Hummer": "",
+           "Rocket": "",
+           "Disarm": "good",
+           "Soma": "",
+           "Geek U.S.A.": "",
+           "Mayonaise": "",
+           "Spaceboy": "",
+           "Silverfuck": "",
+           "Sweet Sweet": "short",
+           "Luna": ""
+       }
+   },
    "The Smiths": {
       "$check": "2020-05-07",
       "Strangeways, Here We Come": {

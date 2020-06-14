@@ -435,11 +435,7 @@
          "The Alter": "",
          "Holy Holy": "",
          "Dogs Eyes": "",
-         "Civilian": {
-            "rate": "good",
-            "VPY": "1,076,903",
-            "URL": "https://youtu.be/Mssm8Ml5sOo"
-         },
+         "Civilian": "good",
          "Fish": "",
          "Plains": "",
          "Hot as Day": "",
@@ -516,13 +512,18 @@
       }
    },
    "Yes": {
-      "90125": {
-         "$date": "1983",
-         "Owner of a Lonely Heart": {
-            "VPY": "2,105,831",
-            "URL": "https://youtu.be/SVOuYquXuuc"
-         }
-      },
+       "90125": {
+           "$date": "1983-11-07",
+           "Owner of a Lonely Heart": "good",
+           "Hold On": "",
+           "It Can Happen": "",
+           "Changes": "",
+           "Cinema": "short",
+           "Leave It": "",
+           "Our Song": "",
+           "City of Love": "",
+           "Hearts": ""
+       },
       "Close to the Edge": {
           "$date": "1972-09-13",
           "Close to the Edge: I. The Solid Time of Change / II. Total": "long",
