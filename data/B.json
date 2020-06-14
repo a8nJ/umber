@@ -6,11 +6,7 @@
          "Rock Steady": "",
          "Ready for Love": "",
          "Don’t Let Me Down": "",
-         "Bad Company": {
-            "URL": "https://youtu.be/ww5GXbk58R0",
-            "rate": "good",
-            "VPY": "3,524,989"
-         },
+         "Bad Company": "good",
          "The Way I Choose": "",
          "Movin’ On": "",
          "Seagull": ""
@@ -19,11 +15,7 @@
    "Bananarama": {
       "Bananarama": {
          "$date": "1984",
-         "Cruel Summer": {
-            "URL": "https://youtu.be/l9ml3nyww80",
-            "rate": "good",
-            "VPY": "5,505,081"
-         },
+         "Cruel Summer": "good",
          "Rough Justice": "",
          "King of the Jungle": "",
          "Dream Baby": "",
@@ -742,7 +734,7 @@
       },
       "Hi Scores": {
           "$date": "1996-12-09",
-          "Hi Scores": "",
+          "Hi Scores": "bad",
           "Nlogax": "bad",
           "June 9th": "bad",
           "Seeya Later": "",
@@ -753,8 +745,8 @@
           "Sixtyniner": "good",
           "Oirectine": "bad",
           "Iced Cooly": "short",
-          "Basefree": "",
-          "Twoism": "",
+          "Basefree": "bad",
+          "Twoism": "bad",
           "Melissa Juice": "short"
       }
    },
