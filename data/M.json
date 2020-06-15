@@ -563,7 +563,14 @@
        }
    },
    "Massive Attack": {
-      "$check": "2020-04-26",
+      "$check": "2020-06-14",
+       "Ritual Spirit": {
+           "$date": "2016-01-28",
+           "Dead Editors": "",
+           "Ritual Spirit": "",
+           "Voodoo in My Blood": "",
+           "Take It There": ""
+       },
       "Heligoland": {
          "$date": "2010",
          "Pray for Rain": "good",
@@ -622,13 +629,10 @@
           "$date": "1998-04-17",
           "Angel": "good",
           "Risingson": "good",
-         "Massive Attack - Teardrop": {
-             "URL": "https://youtu.be/u7K72X4eo_s",
-             "VPY": "6,279,586"
-         },
+          "Teardrop": "",
           "Inertia Creeps": "good",
           "Exchange": "",
-          "Dissolved Girl": "",
+          "Dissolved Girl": "good",
           "Man Next Door": "",
           "Black Milk": "",
           "Mezzanine": "",
@@ -661,12 +665,26 @@
       }
    },
    "Matchbox Twenty": {
-      "Yourself or Someone Like You": {
-         "3AM": {
-            "VPY": "7,795,321",
-            "URL": "https://youtu.be/C-Naa1HXeDQ"
-         }
-      }
+       "Yourself or Someone Like You": {
+           "$date": "1996-10-01",
+           "Real World": "",
+           "Long Day": "",
+           "3 A.M.": {
+             "id": "C-Naa1HXeDQ",
+             "views": "86,805,993",
+             "published": "2009-10-26",
+             "views per year": "8,155,693"
+         },
+           "Push": "",
+           "Girl Like That": "",
+           "Back 2 Good": "",
+           "Damn": "",
+           "Argue": "short",
+           "Kody": "",
+           "Busted": "",
+           "Shame": "",
+           "Hang": ""
+       }
    },
    "Matt Lange": {
       "Staccato": {
@@ -725,41 +743,78 @@
    },
    "Meramek": {
       "Know Me": {
-         "Know Me (original mix)": "good",
-         "$date": "2015"
+         "$date": "2015",
+         "Know Me (original mix)": "good"
       },
       "Only You EP": {
-         "Only You": {
-            "rate": "good",
-            "VPY": "70,150",
-            "URL": "https://youtu.be/E_2NenYDKf8"
-         },
+         "$date": "2014",
+         "Only You": "good",
          "Bounce": "",
-         "Stepping Stones (original mix)": "",
-         "$date": "2014"
+         "Stepping Stones (original mix)": ""
       },
       "Feeling / Maybe / FWD": {
+         "$date": "2013",
          "Feeling": "good",
          "Maybe": "",
-         "FWD": "",
-         "$date": "2013"
+         "FWD": ""
       }
    },
    "Metallica": {
-      "Hardwired… to Self‐Destruct": {
-         "Hardwired": {
-            "VPY": "16,477,818",
-            "URL": "https://youtu.be/uhBHL3v4d3I"
+       "Hardwired… to Self‐Destruct": {
+           "$date": "2016-11-18",
+           "Hardwired": {
+             "id": "uhBHL3v4d3I",
+             "views": "47,981,798",
+             "published": "2016-08-18",
+             "views per year": "12,536,264"
          },
-         "$date": "2016"
-      },
-      "Garage Inc.": {
-         "Whiskey In The Jar": {
-            "VPY": "8,977,938",
-            "URL": "https://youtu.be/boanuwUMNNQ"
+           "Atlas, Rise!": "",
+           "Now That We’re Dead": "",
+           "Moth Into Flame": "",
+           "Dream No More": "",
+           "Halo on Fire": "",
+           "Confusion": "",
+           "ManUNkind": "",
+           "Here Comes Revenge": "",
+           "Am I Savage?": "",
+           "Murder One": "",
+           "Spit Out the Bone": ""
+       },
+       "Garage Inc.": {
+           "$date": "1998-11-24",
+           "Free Speech for the Dumb": "short",
+           "It’s Electric": "",
+           "Sabbra Cadabra": "",
+           "Turn the Page": "",
+           "Die, Die My Darling": "short",
+           "Loverman": "",
+           "Mercyful Fate": "",
+           "Astronomy": "",
+           "Whiskey in the Jar": {
+             "id": "boanuwUMNNQ",
+             "views": "97,041,191",
+             "published": "2009-10-26",
+             "views per year": "9,117,088"
          },
-         "$date": "1998"
-      },
+           "Tuesday’s Gone": "",
+           "The More I See": "",
+           "Helpless": "",
+           "The Small Hours": "",
+           "The Wait": "",
+           "Crash Course in Brain Surgery": "",
+           "Last Caress / Green Hell": "",
+           "Am I Evil?": "",
+           "Blitzkrieg": "",
+           "Breadfan": "",
+           "The Prince": "",
+           "Stone Cold Crazy": "short",
+           "So What": "",
+           "Killing Time": "",
+           "Overkill": "",
+           "Damage Case": "",
+           "Stone Dead Forever": "",
+           "Too Late Too Late": ""
+       },
       "Load": {
          "Ain’t My Bitch": "",
          "2 X 4": "",
@@ -771,47 +826,81 @@
          "Cure": "",
          "Poor Twisted Me": "",
          "Wasting My Hate": "",
-         "Mama Said": {
-            "VPY": "4,496,692",
-            "URL": "https://youtu.be/4FKYsUEuvIo"
-         },
+         "Mama Said": "",
          "Thorn Within": "",
          "Ronnie": "",
          "The Outlaw Torn": "",
          "$date": "1996"
       },
-      "Metallica (Black Album)": {
-         "Enter Sandman": "",
-         "Nothing Else Matters": {
-            "VPY": "62,983,387",
-            "URL": "https://youtu.be/tAGnKpE4NCI"
+       "Metallica": {
+           "$date": "1991-08-12",
+           "Enter Sandman": {
+             "id": "CD-E-LDc384",
+             "views": "401,240,319",
+             "published": "2012-03-19",
+             "views per year": "48,655,136"
          },
-         "The Unforgiven": "",
-         "Wherever I May Roam": "",
-         "$date": "1991"
-      },
-      "and Justice for All": {
-         "One": {
-            "VPY": "13,564,332",
-            "URL": "https://youtu.be/EzgGTTtR0kc"
+           "Sad but True": "",
+           "Holier Than Thou": "",
+           "The Unforgiven": "",
+           "Wherever I May Roam": "",
+           "Don’t Tread on Me": "",
+           "Through the Never": "",
+           "Nothing Else Matters": "",
+           "Of Wolf and Man": "",
+           "The God That Failed": "",
+           "My Friend of Misery": "",
+           "The Struggle Within": ""
+       },
+       "…and Justice for All": {
+           "$date": "1988-08-25",
+           "Blackened": "",
+           "…and Justice for All": "",
+           "Eye of the Beholder": "",
+           "One": {
+             "id": "WM8bTdBs-cw",
+             "views": "167,376,632",
+             "published": "2009-10-26",
+             "views per year": "15,725,155"
          },
-         "$date": "1988"
-      },
-      "Master of Puppets": {
-         "Master Of Puppets": {
-            "VPY": "13,322,313",
-            "URL": "https://youtu.be/xnKhsTXoKCI"
+           "The Shortest Straw": "",
+           "Harvester of Sorrow": "",
+           "The Frayed Ends of Sanity": "",
+           "To Live Is to Die": "",
+           "Dyers Eve": ""
+       },
+       "Master of Puppets": {
+           "$date": "1986-02-21",
+           "Battery": "",
+           "Master of Puppets": {
+             "id": "xnKhsTXoKCI",
+             "views": "140,997,856",
+             "published": "2010-07-12",
+             "views per year": "14,193,027"
          },
-         "$date": "1986"
-      },
-      "Ride the Lightning": {
-         "Fade to Black": {
-            "VPY": "9,485,401",
-            "URL": "https://youtu.be/WEQnzs8wl6E"
+           "The Thing That Should Not Be": "",
+           "Welcome Home (Sanitarium)": "",
+           "Disposable Heroes": "",
+           "Leper Messiah": "",
+           "Orion": "",
+           "Damage, Inc.": ""
+       },
+       "Ride the Lightning": {
+           "$date": "1984-07-30",
+           "Fight Fire With Fire": "",
+           "Ride the Lightning": "",
+           "For Whom the Bell Tolls": "",
+           "Fade to Black": {
+             "id": "WEQnzs8wl6E",
+             "views": "126,433,814",
+             "published": "2007-03-28",
+             "views per year": "9,558,435"
          },
-         "For Whom the Bell Tolls": "",
-         "$date": "1984"
-      }
+           "Trapped Under Ice": "",
+           "Escape": "",
+           "Creeping Death": "",
+           "The Call of Ktulu": ""
+       }
    },
    "MEUTE": {
       "You & Me": {
