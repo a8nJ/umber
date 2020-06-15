@@ -680,6 +680,17 @@
           "I Know Your Face, Heroine": "",
           "XVII (Rox Out)": ""
       },
+       "Brother / Sister EP": {
+           "$date": "2013-06-10",
+           "Brother": "",
+           "Sister": "good"
+       },
+       "Gold Language EP": {
+           "$date": "2012-07-09",
+           "Gold Language": "bad",
+           "Don’t Know Why": "bad",
+           "Gold Language (Gang Colours Remix)": ""
+       },
        "Mauve": {
            "$date": "2012-05",
            "Mauve": "bad",
