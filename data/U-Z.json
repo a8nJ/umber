@@ -623,6 +623,7 @@
       }
    },
    "Zero 7": {
+      "$check": "2020-06-15",
       "Yeah Ghost": {
          "$date": "2009",
          "Count Me Out": "short",
@@ -659,7 +660,7 @@
          "Somersault": "bad",
          "Over Our Heads": "bad",
          "Passing By": "good",
-         "When It Falls": "",
+         "When It Falls": "good",
          "The Space Between": "",
          "Speed Dial No. 2": "",
          "Look Up": "good",
@@ -670,11 +671,7 @@
          "$date": "2001",
          "I Have Seen": "bad",
          "Polaris": "good",
-         "Destiny": {
-            "rate": "good",
-            "VPY": "527,084",
-            "URL": "https://youtu.be/INn1C6ImJKg"
-         },
+         "Destiny": "good",
          "Give It Away": "good",
          "Simple Things": "bad",
          "Red Dust": "bad",
