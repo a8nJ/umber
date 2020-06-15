@@ -904,11 +904,7 @@
          "Noise Brigade": "short",
          "The Rascal King": "short",
          "Royal Oil": "short",
-         "The Impression That I Get": {
-            "rate": "good",
-            "VPY": "2,309,375",
-            "URL": "https://youtu.be/NIGMUAMevH0"
-         },
+         "The Impression That I Get": "good",
          "Let’s Face It": "short",
          "That Bug Bit Me": "short",
          "Another Drinkin’ Song": "",
@@ -917,7 +913,22 @@
          "Nevermind Me": "",
          "Desensitized": "short",
          "1‐2‐8": "short"
-      }
+      },
+       "Don’t Know How to Party": {
+           "$date": "1993-05-18",
+           "Our Only Weapon": "bad",
+           "Last Dead Mouse": "",
+           "Don’t Know How to Party": "",
+           "Someday I Suppose": "",
+           "A Man Without": "short",
+           "Holy Smoke": "short",
+           "Illegal Left": "",
+           "Tin Soldiers": "",
+           "Almost Anything Goes": "",
+           "Issachar": "",
+           "What Was Was Over": "",
+           "Seven Thirty Seven / Shoe Glue": ""
+       }
    },
    "The Notorious B.I.G.": {
       "Life After Death": {

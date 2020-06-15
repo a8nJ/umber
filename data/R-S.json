@@ -252,16 +252,29 @@
          "The Zephyr Song": "",
          "Venice Queen": ""
       },
-      "Californication": {
-         "$date": "1999",
-         "Around the World": "",
-         "Californication": {
-            "VPY": "60,591,762",
-            "URL": "https://youtu.be/YlUKcNNmywk"
+       "Californication": {
+           "$date": "1999-06-07",
+           "Around the World": "",
+           "Parallel Universe": "",
+           "Scar Tissue": "",
+           "Otherside": "",
+           "Get on Top": "",
+           "Californication": {
+             "id": "YlUKcNNmywk",
+             "views": "704,907,174",
+             "published": "2009-10-26",
+             "views per year": "66,210,198"
          },
-         "Otherside": "",
-         "Scar Tissue": ""
-      },
+           "Easily": "",
+           "Porcelain": "short",
+           "Emit Remmus": "",
+           "I Like Dirt": "short",
+           "This Velvet Glove": "",
+           "Savior": "",
+           "Purple Stain": "",
+           "Right on Time": "short",
+           "Road Trippin’": ""
+       },
       "One Hot Minute": {
          "$date": "1995",
          "Warped": "",

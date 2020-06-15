@@ -903,29 +903,28 @@
        }
    },
    "MEUTE": {
-      "You & Me": {
-         "You & Me": {
-            "VPY": "21,209,713",
-            "URL": "https://youtu.be/fKFbnhcNnjE"
-         },
-         "$date": "2018"
-      },
-      "Tumult": {
-         "The Man With the Red Face": "bad",
-         "Versatile": "bad",
-         "Think Twice": "",
-         "Cygnus": "",
-         "Miss You": "",
-         "Kerberos": "",
-         "Mental Help": "",
-         "REJ": {
-            "VPY": "814,388",
-            "URL": "https://youtu.be/DtKdqwRC07A"
-         },
-         "Acamar": "",
-         "Every Wall Is a Door": "",
-         "$date": "2017"
-      }
+       "You & Me": {
+           "$date": "2018-05-30",
+           "You & Me": {
+             "id": "fKFbnhcNnjE",
+             "views": "33,533,816",
+             "published": "2018-05-30",
+             "views per year": "16,364,092"
+         }
+       },
+       "Tumult": {
+           "$date": "2017-10-13",
+           "The Man With the Red Face": "bad",
+           "Versatile": "bad",
+           "Think Twice": "",
+           "Cygnus": "",
+           "Miss You": "",
+           "Kerberos": "",
+           "Mental Help": "",
+           "Rej": "",
+           "Acamar": "",
+           "Every Wall Is a Door": ""
+       }
    },
    "Michael Bublé": {
       "It’s Time": {

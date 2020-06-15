@@ -329,6 +329,7 @@
       }
    },
    "Imogen Heap": {
+      "$check": "2020-06-15",
       "Sparks": {
          "$date": "2014",
          "You Know Where to Find Me": "good",
@@ -432,11 +433,7 @@
          "$date": "2001",
          "Nice to Know You": "good",
          "Circles": "good",
-         "Wish You Were Here": {
-            "rate": "good",
-            "VPY": "5,213,201",
-            "URL": "https://youtu.be/8295rOMvtQI"
-         },
+         "Wish You Were Here": "good",
          "Just a Phase": "good",
          "11am": "good",
          "Blood on the Ground": "",
@@ -448,13 +445,27 @@
          "Under My Umbrella": "",
          "Aqueous Transmission": "good"
       },
-      "Make Yourself": {
-         "$date": "1999",
-         "Drive": {
-            "VPY": "10,366,778",
-            "URL": "https://youtu.be/fgT9zGkiLig"
-         }
-      }
+       "Make Yourself": {
+           "$date": "1999-10-26",
+           "Privilege": "",
+           "Nowhere Fast": "",
+           "Consequence": "",
+           "The Warmth": "",
+           "When It Comes": "",
+           "Stellar": "",
+           "Make Yourself": "",
+           "Drive": {
+             "id": "fgT9zGkiLig",
+             "views": "122,823,854",
+             "published": "2009-10-25",
+             "views per year": "11,533,580"
+         },
+           "Clean": "",
+           "Battlestar Scralatchtica": "",
+           "I Miss You": "short",
+           "Pardon Me": "",
+           "Out From Under": ""
+       }
    },
    "Interpol": {
       "$check": "2020-05-07",
