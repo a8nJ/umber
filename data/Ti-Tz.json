@@ -644,16 +644,43 @@
       }
    },
    "Tricky": {
+       "Blowback": {
+           "$date": "2001-06-20",
+           "Excess": "bad",
+           "Evolution Revolution Love": "",
+           "Over Me": "short",
+           "Girls": "",
+           "You Don't Wanna": "",
+           "#1 da Woman": "short",
+           "Your Name": "",
+           "Diss Never (Dig Up We History)": "short",
+           "Bury the Evidence": "",
+           "Something in the Way": "",
+           "Five Days": "",
+           "Give It to 'Em": "",
+           "A Song for Yukiko": "",
+           "The Hawkman Is Coming": "",
+           "Evolution Revolution Love (remix)": ""
+       },
+       "Nearly God": {
+           "$date": "1996-04-22",
+           "Tattoo": "bad",
+           "Poems": "bad",
+           "Together Now": "",
+           "Keep Your Mouth Shut": "",
+           "I Be the Prophet": "",
+           "Make a Change": "",
+           "Black Coffee": "",
+           "Bubbles": "",
+           "I Sing for You": "",
+           "Yoga": ""
+       },
       "Maxinquaye": {
          "$date": "1995",
          "Overcome": "bad",
          "Ponderosa": "bad",
          "Black Steel": "bad",
-         "Hell Is Round the Corner": {
-            "rate": "bad",
-            "VPY": "661,976",
-            "URL": "https://youtu.be/E3R_3h6zQEs"
-         },
+         "Hell Is Round the Corner": "bad",
          "Pumpkin": "",
          "Aftermath": "good",
          "Abbaon Fat Tracks": "",
