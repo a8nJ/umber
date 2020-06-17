@@ -217,11 +217,7 @@
          "$date": "1996",
          "So Much to Say": "good",
          "Two Step": "",
-         "Crash Into Me": {
-            "rate": "good",
-            "VPY": "1,747,085",
-            "URL": "https://youtu.be/k7in-9E3ImQ"
-         },
+         "Crash Into Me": "good",
          "Too Much": "",
          "41": "",
          "Say Goodbye": "",
@@ -235,7 +231,7 @@
       "Under the Table and Dreaming": {
          "$date": "1994",
          "The Best of What’s Around": "",
-         "What Would You Say": "",
+         "What Would You Say": "good",
          "Satellite": "",
          "Rhyme & Reason": "",
          "Typical Situation": "",
