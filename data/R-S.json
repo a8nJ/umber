@@ -219,39 +219,109 @@
       }
    },
    "Red Hot Chili Peppers": {
-      "The Getaway": {
-         "$date": "2016",
-         "Dark Necessities": {
-            "VPY": "65,117,864",
-            "URL": "https://youtu.be/Q0oIoR9mLwc"
-         }
-      },
-      "I’m With You": {
-         "$date": "2011",
-         "The Adventures of Rain Dance Maggie": {
-            "VPY": "16,717,050",
-            "URL": "https://youtu.be/RtBbinpK5XI"
-         }
-      },
-      "Stadium Arcadium": {
-         "$date": "2006",
-         "Dani California": {
-            "VPY": "20,569,737",
-            "URL": "https://youtu.be/Sb5aq5HcS1A"
+       "The Getaway": {
+           "$date": "2016-06-17",
+           "The Getaway": "",
+           "Dark Necessities": {
+             "id": "Q0oIoR9mLwc",
+             "views": "264,698,913",
+             "published": "2016-06-17",
+             "views per year": "66,105,381"
          },
-         "Snow": "",
-         "Tell Me Baby": ""
-      },
-      "By the Way": {
-         "$date": "2001",
-         "By The Way": {
-            "VPY": "14,275,723",
-            "URL": "https://youtu.be/JnfyjwChuNU"
+           "We Turn Red": "",
+           "The Longest Wave": "",
+           "Goodbye Angels": "",
+           "Sick Love": "",
+           "Go Robot": "",
+           "Feasting on the Flowers": "",
+           "Detroit": "",
+           "This Ticonderoga": "",
+           "Encore": "",
+           "The Hunter": "",
+           "Dreams of a Samurai": ""
+       },
+       "I’m With You": {
+           "$date": "2011-08-26",
+           "Monarchy of Roses": "",
+           "Factory of Faith": "",
+           "Brendan’s Death Song": "",
+           "Ethiopia": "",
+           "Annie Wants a Baby": "",
+           "Look Around": "",
+           "The Adventures of Rain Dance Maggie": {
+             "id": "RtBbinpK5XI",
+             "views": "150,182,196",
+             "published": "2011-08-17",
+             "views per year": "16,984,031"
          },
-         "Can’t Stop": "",
-         "The Zephyr Song": "",
-         "Venice Queen": ""
-      },
+           "Did I Let You Know": "",
+           "Goodbye Hooray": "",
+           "Happiness Loves Company": "",
+           "Police Station": "",
+           "Even You Brutus?": "",
+           "Meet Me at the Corner": "",
+           "Dance, Dance, Dance": ""
+       },
+       "Stadium Arcadium": {
+           "$date": "2006-05-05",
+           "Dani California": {
+             "id": "Sb5aq5HcS1A",
+             "views": "237,625,124",
+             "published": "2009-10-26",
+             "views per year": "22,310,602"
+         },
+           "Snow ((Hey Oh))": "",
+           "Charlie": "",
+           "Stadium Arcadium": "",
+           "Hump de Bump": "",
+           "She’s Only 18": "",
+           "Slow Cheetah": "",
+           "Torture Me": "",
+           "Strip My Mind": "",
+           "Especially in Michigan": "",
+           "Warlocks": "",
+           "C’mon Girl": "",
+           "Wet Sand": "",
+           "Hey": "",
+           "Desecration Smile": "",
+           "Tell Me Baby": "",
+           "Hard to Concentrate": "",
+           "21st Century": "",
+           "She Looks to Me": "",
+           "Readymade": "",
+           "If": "short",
+           "Make You Feel Better": "",
+           "Animal Bar": "",
+           "So Much I": "",
+           "Storm in a Teacup": "",
+           "We Believe": "",
+           "Turn It Again": "",
+           "Death of a Martian": ""
+       },
+       "By the Way": {
+           "$date": "2002-07-09",
+           "By the Way": "",
+           "Universally Speaking": "",
+           "This Is the Place": "",
+           "Dosed": "",
+           "Don’t Forget Me": "",
+           "The Zephyr Song": "",
+           "Can’t Stop": {
+             "id": "8DyziWtkfBw",
+             "views": "223,101,251",
+             "published": "2009-10-26",
+             "views per year": "20,946,957"
+         },
+           "I Could Die for You": "",
+           "Midnight": "",
+           "Throw Away Your Television": "",
+           "Cabron": "",
+           "Tear": "",
+           "On Mercury": "",
+           "Minor Thing": "",
+           "Warm Tape": "",
+           "Venice Queen": ""
+       },
        "Californication": {
            "$date": "1999-06-07",
            "Around the World": "",
@@ -280,10 +350,7 @@
          "Warped": "",
          "Aeroplane": "good",
          "Deep Kick": "",
-         "My Friends": {
-            "VPY": "3,704,974",
-            "URL": "https://youtu.be/0kT5w27YxyI"
-         },
+         "My Friends": "",
          "Coffee Shop": "",
          "Pea": "short",
          "One Big Mob": "",
@@ -294,14 +361,31 @@
          "Shallow Be Thy Game": "",
          "Transcending": ""
       },
-      "Blood Sugar Sex Magik": {
-         "$date": "1991",
-         "Give It Away": "",
-         "Under The Bridge": {
-            "VPY": "16,086,687",
-            "URL": "https://youtu.be/GLvohMXgcBo"
-         }
-      }
+       "Blood Sugar Sex Magik": {
+           "$date": "1991-09-24",
+           "The Power of Equality": "",
+           "If You Have to Ask": "",
+           "Breaking the Girl": "",
+           "Funky Monks": "",
+           "Suck My Kiss": "",
+           "I Could Have Lied": "",
+           "Mellowship Slinky in B major": "",
+           "The Righteous & The Wicked": "",
+           "Give It Away": "",
+           "Blood Sugar Sex Magik": "",
+           "Under the Bridge": {
+             "id": "GLvohMXgcBo",
+             "views": "181,387,732",
+             "published": "2009-10-26",
+             "views per year": "17,030,478"
+         },
+           "Naked in the Rain": "",
+           "Apache Rose Peacock": "",
+           "The Greeting Song": "",
+           "My Lovely Man": "",
+           "Sir Psycho Sexy": "",
+           "They’re Red Hot": "short"
+       }
    },
    "R.E.M.": {
       "Monster": {
