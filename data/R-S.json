@@ -716,9 +716,6 @@
          "T4ngled": "",
          "In Deep": "good"
       },
-      "Silkidrangar Sessions": {
-         "$date": "2015"
-      },
       "Silkidrangar": {
          "$date": "2014",
          "Nótt": "good",
@@ -732,6 +729,26 @@
          "Hrafnar": "",
          "Vögguljóð": ""
       }
+   },
+   "Sarah McLachLan": {
+       "Surfacing": {
+           "$date": "1997-07-15",
+           "Building A Mystery": "",
+           "I Love You": "",
+           "Sweet Surrender": "",
+           "Adia": "",
+           "Do What You Have To Do": "",
+           "Witness": "",
+           "Angel": {
+             "id": "1SiylvmFI_8",
+             "views": "108,022,737",
+             "published": "2011-05-22",
+             "views per year": "11,895,479"
+         },
+           "Black & White": "",
+           "Full Of Grace": "",
+           "Last Dance": "short"
+       }
    },
    "Savath & Savalas": {
       "Folk Songs for Trains, Trees and Honey": {
@@ -754,11 +771,7 @@
          "Dreaming in Metaphors": "",
          "Don’t Cry": "",
          "Fast Changes": "",
-         "Kiss From a Rose": {
-            "rate": "good",
-            "VPY": "3,898,704",
-            "URL": "https://youtu.be/AMD2TwRvuoU"
-         },
+         "Kiss From a Rose": "good",
          "People Asking Why": "",
          "Newborn Friend": "",
          "If I Could": "",

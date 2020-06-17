@@ -627,6 +627,20 @@
        }
    },
    "Isan": {
+       "Glass Bird Movement": {
+           "$date": "2016-10-14",
+           "Cuckoo Down": "bad",
+           "Lace Murex": "bad",
+           "Parley Glove": "bad",
+           "Glass Bird Movement": "",
+           "Leonardo's Formula": "",
+           "Every Since and Then": "",
+           "Napier Deltic": "",
+           "Rattling Downhill": "",
+           "Slow Rings": "",
+           "Risefallsleep": "",
+           "Linnæus": ""
+       },
       "Glow in the Dark Safari Set": {
           "$date": "2010-06-22",
           "Channel Ten": "bad",
@@ -682,11 +696,7 @@
          "Anteaters Eat Ants": "bad",
          "Kittenplan A": "bad",
          "Read Again": "bad",
-         "Cathart": {
-            "rate": "bad",
-            "VPY": "15,197",
-            "URL": "https://youtu.be/XLfiCRanawQ"
-         },
+         "Cathart": "bad",
          "Caddis": "good",
          "Scraph": "bad",
          "You Can Use Bamboo as a Ruler": "bad"
@@ -705,34 +715,34 @@
          "Effekl": "short",
          "Braille Foundry": ""
       },
-      "Beautronics": {
-         "$date": "1998",
-         "Vosill": "good",
-         "Tint1-Barely Barley": "short",
-         "Paintchart": "bad",
-         "Tint2-Rosy Apples": "short",
-         "Ampule": "bad",
-         "Tint3-Clearly Caramel": "short",
-         "Bolselin": "bad",
-         "Spinning Jennie": "bad",
-         "Tint4-C’est le Tempo": "short",
-         "Tint5-Glittery Disco Blue": "short",
-         "Skeek": "bad",
-         "Tint6-Cheeky Cherry": "short",
-         "Iam Twisq": "",
-         "Tint7-Bloody Mary": "short",
-         "Sublimation": "",
-         "Anklet": ""
-      }
+       "Beautronics": {
+           "$date": "1998",
+           "Vosill": "good",
+           "Tint 1 - Barely Barley": "short",
+           "Paintchart": "bad",
+           "Tint 2 - Rosy Apples": "short",
+           "Ampule": "bad",
+           "Tint 3 - Clearly Caramel": "short",
+           "Bolselin": "bad",
+           "Spinning Jennie": "bad",
+           "Tint 4 - C'est Le Tempo": "short",
+           "Tint 5 - Glittery Disco Blue": "short",
+           "Skeek": "bad",
+           "Tint 6 - Cheeky Cherry": "short",
+           "Iam Twisq": "bad",
+           "Tint 7 - Bloody Mary": "short",
+           "Anklet": "bad",
+           "Spoonery": "bad",
+           "Thumbloop #1": "short",
+           "Xylomat": "bad",
+           "Untitled": "bad"
+       }
    },
    "Jabberwocky": {
       "Lunar Lane": {
          "Maze": "short",
          "Fog": "good",
-         "Photomaton": {
-            "VPY": "2,034,313",
-            "URL": "https://youtu.be/BJWoFagy4Bc"
-         },
+         "Photomaton": "",
          "Alastor": "",
          "Interlude": "short",
          "Holding Up": "",

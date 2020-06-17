@@ -1,17 +1,48 @@
 {
    "Tiësto": {
-      "A Town Called Paradise": {
-         "$date": "2014",
-         "Maximal Crazy": "",
-         "Red Lights": "",
-         "Secrets": {
-            "VPY": "46,288,667",
-            "URL": "https://youtu.be/Dr1nN__-2Po"
+       "The London Sessions": {
+           "$date": "2020-05-15",
+           "God Is a Dancer": {
+             "id": "jnwDkVo6DxA",
+             "views": "50,964,380",
+             "published": "2019-09-20",
+             "views per year": "68,451,760"
          },
-         "The Only Way Is Up": "",
-         "The Right Song": "",
-         "Wasted": ""
-      },
+           "Nothing Really Matters": "short",
+           "Ride": "",
+           "Ritual": "",
+           "Jackie Chan": "",
+           "Lifestyle": "short",
+           "On My California": "",
+           "BLUE": "short",
+           "Round & Round": "",
+           "Lose You": "short",
+           "Over You": "short",
+           "What’s It Gonna Be": "short",
+           "Insomnia": ""
+       },
+       "A Town Called Paradise": {
+           "$date": "2014-06-13",
+           "Red Lights": {
+             "id": "CFF0mV24WCY",
+             "views": "161,182,613",
+             "published": "2014-02-10",
+             "views per year": "25,361,167"
+         },
+           "Footprints": "",
+           "Light Years Away": "",
+           "A Town Called Paradise": "",
+           "Written in Reverse": "",
+           "Echoes": "",
+           "Last Train": "",
+           "Wasted": "",
+           "Let’s Go": "",
+           "The Feeling": "",
+           "Shimmer": "",
+           "Rocky": "",
+           "Close to Me": "",
+           "Set Yourself Free": ""
+       },
       "Elements of Life": {
          "$date": "2007",
          "Ten Seconds Before Sunrise": "good",
@@ -24,19 +55,27 @@
          "Break My Fall": "",
          "In the Dark": "",
          "Dance4Life": "",
-         "Elements of Life": {
-            "VPY": "4,903,277",
-            "URL": "https://youtu.be/EE7CXZ1Lyu4"
-         },
+         "Elements of Life": "",
          "He’s a Pirate (Tiësto remix)": ""
       },
-      "Just Be": {
-         "$date": "2004",
-         "Adagio For Strings": {
-            "VPY": "7,863,568",
-            "URL": "https://youtu.be/8tIgN7eICn4"
+       "Just Be": {
+           "$date": "2004-05-03",
+           "Forever Today": "",
+           "Love Comes Again": "",
+           "Traffic": "",
+           "Sweet Misery": "",
+           "Nyana": "",
+           "UR": "",
+           "Walking on Clouds": "",
+           "A Tear in the Open": "",
+           "Just Be": "",
+           "Adagio for Strings": {
+             "id": "8tIgN7eICn4",
+             "views": "98,324,276",
+             "published": "2008-03-25",
+             "views per year": "8,032,730"
          }
-      }
+       }
    },
    "Tipper": {
       "Surrounded": {
