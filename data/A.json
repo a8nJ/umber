@@ -235,6 +235,23 @@
            "I’m Down": "short",
            "The Movie": ""
        },
+       "Toys in the Attic": {
+           "$date": "1975-04-08",
+           "Toys in the Attic": "",
+           "Uncle Salty": "",
+           "Adam’s Apple": "",
+           "Walk This Way": {
+             "id": "4B_UYYPb-Gk",
+             "views": "81,640,477",
+             "published": "2009-10-25",
+             "views per year": "7,662,411"
+         },
+           "Big Ten Inch Record": "short",
+           "Sweet Emotion": "",
+           "No More No More": "",
+           "Round and Round": "",
+           "You See Me Crying": ""
+       },
        "Aerosmith": {
            "$date": "1973-01-05",
            "Make It": "",
