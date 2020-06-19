@@ -1346,7 +1346,7 @@
          "$date": "1999",
          "Shackbu": "",
          "Ralome": "good",
-         "Little People": "",
+         "Little People": "bad",
          "3 Recurring": "short",
          "Buddy": "",
          "Dead Sea": "",
@@ -1360,25 +1360,25 @@
          "Churn Maiden": "short",
          "Air Locked / Face Me": ""
       },
-      "Not for Threes": {
-         "$date": "1997",
-         "Abla Eedio": "bad",
-         "Kortisin": "bad",
-         "Headspin": "bad",
-         "Myopia": "bad",
-         "Lat": "short",
-         "Extork": "bad",
-         "Prague Radio": "bad",
-         "Fer": "bad",
-         "Ladyburst": "bad",
-         "Rakimou": "good",
-         "Ol": "bad",
-         "Seph": "short",
-         "Lilith": "bad",
-         "Forever": "short",
-         "Getting": "short",
-         "Milh": "good"
-      },
+       "Not for Threes": {
+           "$date": "1997-10-27",
+           "Abla Eedio": "bad",
+           "Kortisin": "bad",
+           "Headspin": "bad",
+           "Myopia": "bad",
+           "Lat": "short",
+           "Extork": "bad",
+           "Prague Radio": "bad",
+           "Fer": "bad",
+           "Ladyburst": "bad",
+           "Rakimou": "good",
+           "Ol": "bad",
+           "Seph": "short",
+           "Lilith": "bad",
+           "Forever": "short",
+           "Getting": "short",
+           "Milh": "good"
+       },
        "Mbuki Mvuki": {
            "$list": "PLN3OHGL_aRYyt_j79eSmJ6NcRtEPPX2Fi",
            "$date": "1991",
@@ -1388,8 +1388,8 @@
            "Perplex": "bad",
            "Summit": "bad",
            "Bouncing Checks": "bad",
-           "Yak": "",
-           "Scoobs in Columbia": ""
+           "Yak": "bad",
+           "Scoobs in Columbia": "bad"
        }
    },
    "Portishead": {

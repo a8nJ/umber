@@ -629,19 +629,19 @@
       }
    },
    "Leon Vynehall": {
-      "Nothing Is Still": {
-         "$date": "2018",
-         "From the Sea/It Looms (Chapters I & II)": "good",
-         "Movements (Chapter III)": "good",
-         "Birds on the Tarmac (Footnote III)": "short",
-         "Julia (Footnote IV)": "short",
-         "Drinking It in Again (Chapter IV)": "bad",
-         "Trouble - Parts I, II, & III (Chapter V)": "bad",
-         "Envelopes (Chapter VI)": "good",
-         "English Oak (Chapter VII)": "",
-         "Ice Cream (Chapter VIII)": "bad",
-         "It Breaks (Chapter IX)": "short"
-      },
+       "Nothing Is Still": {
+           "$date": "2018-06-15",
+           "From the Sea/It Looms (Chapters I & II)": "good",
+           "Movements (Chapter III)": "good",
+           "Birds on the Tarmac (Footnote III)": "short",
+           "Julia (Footnote IV)": "short",
+           "Drinking It in Again (Chapter IV)": "",
+           "Trouble - Parts I, II, & III (Chapter V)": "",
+           "Envelopes (Chapter VI)": "good",
+           "English Oak (Chapter VII)": "",
+           "Ice Cream (Chapter VIII)": "bad",
+           "It Breaks (Chapter IX)": "short"
+       },
       "Rojus": {
          "$date": "2016-04-01",
          "Beyond This": "",
@@ -684,6 +684,12 @@
            "$date": "2013-06-10",
            "Brother": "",
            "Sister": "good"
+       },
+       "Rosalind EP": {
+           "$date": "2013-02-18",
+           "Untitled 017": "bad",
+           "Title #7": "",
+           "Rosalind": "short"
        },
        "Gold Language EP": {
            "$date": "2012-07-09",
