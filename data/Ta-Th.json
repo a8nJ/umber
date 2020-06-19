@@ -1,7 +1,7 @@
 {
    "Talking Heads": {
        "Speaking in Tongues": {
-           "$date": "1983-05-31",
+           "@date": "1983-05-31",
            "Burning Down the House": "bad",
            "Making Flippy Floppy": "",
            "Girlfriend Is Better": "",
@@ -13,7 +13,7 @@
            "This Must Be the Place (Naive Melody)": ""
        },
        "Remain in Light": {
-           "$date": "1980-05-10",
+           "@date": "1980-05-10",
            "Born Under Punches (The Heat Goes On)": "",
            "Crosseyed and Painless": "",
            "The Great Curve": "",
@@ -29,7 +29,7 @@
            "The Overload": ""
        },
        "Talking Heads: 77": {
-           "$date": "1977-09-16",
+           "@date": "1977-09-16",
            "Uh‐Oh, Love Comes to Town": "short",
            "New Feeling": "",
            "Tentative Decisions": "",
@@ -50,7 +50,7 @@
    },
    "Tangerine Dream": {
       "Risky Business": {
-         "$date": "1983",
+         "@date": "1983",
          "The Dream Is Always the Same": "bad",
          "No Future (Get off the Babysitter)": "short",
          "Guido the Killer Pimp": "bad",
@@ -58,20 +58,20 @@
          "Love on a Real Train (Risky Business)": "good"
       },
       "Force Majeure": {
-         "$date": "1979",
+         "@date": "1979",
          "Force Majeure": "bad",
          "Cloudburst Flight": "good",
          "Thru Metamorphic Rocks": "bad"
       },
        "Stratosfear": {
-           "$date": "1976-10",
+           "@date": "1976-10",
            "Stratosfear": "bad",
            "The Big Sleep in Search of Hades": "",
            "3 A.M. at the Border of the Marsh From Okefenokee": "",
            "Invisible Limits": ""
        },
        "Phaedra": {
-           "$date": "1974-02-20",
+           "@date": "1974-02-20",
            "Phaedra": "",
            "Mysterious Semblance at the Strand of Nightmares": "bad",
            "Movements of a Visionary": "bad",
@@ -80,7 +80,7 @@
    },
    "Tears for Fears": {
       "Raoul and the Kings of Spain": {
-         "$date": "1995",
+         "@date": "1995",
          "Raoul and the Kings of Spain": "bad",
          "Falling Down": "bad",
          "Secrets": "bad",
@@ -95,7 +95,7 @@
          "Los reyes Católicos (reprise)": "bad"
       },
        "Songs From the Big Chair": {
-           "$date": "1985-02-17",
+           "@date": "1985-02-17",
            "Shout": "",
            "The Working Hour": "",
            "Everybody Wants to Rule the World": {
@@ -113,7 +113,7 @@
    },
    "The Black Dog": {
        "Music for Real Airports": {
-           "$date": "2010-05-10",
+           "@date": "2010-05-10",
            "M1": "good",
            "Terminal EMA": "",
            "DISinformation Desk": "",
@@ -130,7 +130,7 @@
            "Business Car Park 9": ""
        },
       "Further Vexations": {
-         "$date": "2009",
+         "@date": "2009",
          "Biomantric L-if-e": "good",
          "0093": "",
          "Phil Because Ov, Indeed": "short",
@@ -148,7 +148,7 @@
          "Kissing Someone Else’s D.O.G": ""
       },
       "Radio Scarecrow": {
-         "$date": "2008",
+         "@date": "2008",
          "Transmission Start": "short",
          "Train by the Autobahn, Part 1": "good",
          "Train by the Autobahn, Part 2": "good",
@@ -168,7 +168,7 @@
          "Dials & Dialers 2": "short"
       },
       "Silenced": {
-         "$date": "2005",
+         "@date": "2005",
          "Trojan Horus, Part 1": "",
          "Trojan Horus, Part 2": "short",
          "Lam Vril": "",
@@ -189,7 +189,7 @@
          "4 3s 555, Part 2": ""
       },
       "Peel Session": {
-         "$date": "1999",
+         "@date": "1999",
          "Shadehead": "good",
          "Rise Up": "",
          "Simperton": "",
@@ -197,7 +197,7 @@
          "Psycosyin": ""
       },
       "Music for Adverts (and Short Films)": {
-         "$date": "1996",
+         "@date": "1996",
          "Dumb & Dumber": "short",
          "The Wind Spirit": "short",
          "Jordan": "short",
@@ -226,7 +226,7 @@
          "Kheprit": ""
       },
       "Spanners": {
-         "$date": "1995",
+         "@date": "1995",
          "Raxmus": "good",
          "Barbola Work": "bad",
          "Psil-Cosyin": "bad",
@@ -241,7 +241,7 @@
          "Chesh": "bad"
       },
       "Temple of Transparent Balls": {
-         "$date": "1993",
+         "@date": "1993",
          "Cost I": "bad",
          "Cost II": "bad",
          "4.7.8.": "bad",
@@ -257,7 +257,7 @@
    },
    "The Cardigans": {
       "Gran Turismo": {
-         "$date": "1998",
+         "@date": "1998",
          "Paralyzed": "",
          "Erase/Rewind": "good",
          "Explode": "",
@@ -274,7 +274,7 @@
          "Nil": "short"
       },
       "First Band on the Moon": {
-         "$date": "1996",
+         "@date": "1996",
          "Lovefool": {
             "VPY": "8,086,193",
             "URL": "https://youtu.be/NI6aOFI7hms"
@@ -283,14 +283,14 @@
    },
    "The Cars": {
       "Heartbeat City": {
-         "$date": "1984",
+         "@date": "1984",
          "Drive": {
             "VPY": "7,067,292",
             "URL": "https://youtu.be/xuZA6qiJVfU"
          }
       },
       "Shake It Up": {
-         "$date": "1981",
+         "@date": "1981",
          "Since You’re Gone": "bad",
          "Shake It Up": "bad",
          "I’m Not the One": "bad",
@@ -302,7 +302,7 @@
          "Maybe Baby": "bad"
       },
       "The Cars": {
-         "$date": "1978",
+         "@date": "1978",
          "Good Times Roll": "bad",
          "My Best Friend’s Girl": "bad",
          "Just What I Needed": {
@@ -321,7 +321,7 @@
    "The Cinematic Orchestra": {
       "$check": "2020-05-17",
       "To Believe": {
-         "$date": "2019",
+         "@date": "2019",
          "To Believe": "bad",
          "A Caged Bird / Imitations of Life": "bad",
          "Lessons": "",
@@ -331,7 +331,7 @@
          "A Promise": ""
       },
       "Live at the Royal Albert Hall": {
-         "$date": "2008",
+         "@date": "2008",
          "All That You Give": "",
          "Child Song": "good",
          "Flite": "",
@@ -343,7 +343,7 @@
          "Time and Space": "good"
       },
       "Ma fleur": {
-         "$date": "2007",
+         "@date": "2007",
          "To Build a Home": "",
          "Familiar Ground": "",
          "Child Song": "",
@@ -357,7 +357,7 @@
          "Time & Space": ""
       },
       "Man With a Movie Camera": {
-         "$date": "2003",
+         "@date": "2003",
          "The Projectionist": "short",
          "Melody": "short",
          "Dawn": "good",
@@ -377,7 +377,7 @@
          "All Things": "good"
       },
       "Every Day": {
-         "$date": "2002",
+         "@date": "2002",
          "All That You Give": "good",
          "Burn Out": "",
          "Flite": "",
@@ -389,7 +389,7 @@
          "Semblance": "short"
       },
        "Motion": {
-           "$date": "1999-09-01",
+           "@date": "1999-09-01",
            "Ode to the Big Sea": "bad",
            "Night of the Iguana": "bad",
            "Channel 1 Suite": "",
@@ -400,7 +400,7 @@
    },
    "The Cinematics": {
        "Love and Terror": {
-           "$date": "2009-11-09",
+           "@date": "2009-11-09",
            "All These Things": "",
            "She Talks to the Trees": "",
            "New Mexico": "bad",
@@ -413,7 +413,7 @@
            "Hard for Young Lovers": ""
        },
        "A Strange Education": {
-           "$date": "2007-03-06",
+           "@date": "2007-03-06",
            "Race to the City": "good",
            "Break": "good",
            "A Strange Education": "",
@@ -430,7 +430,7 @@
    },
    "The Clash": {
        "Combat Rock": {
-           "$date": "1982-05-14",
+           "@date": "1982-05-14",
            "Know Your Rights": "",
            "Car Jamming": "",
            "Should I Stay or Should I Go": {
@@ -450,7 +450,7 @@
            "Death Is a Star": ""
        },
       "Sandinista!": {
-         "$date": "1980",
+         "@date": "1980",
          "The Magnificent Seven": "good",
          "Hitsville U.K.": "",
          "Junco Partner": "",
@@ -489,7 +489,7 @@
          "Shepherds Delight": ""
       },
        "London Calling": {
-           "$date": "1979-12-14",
+           "@date": "1979-12-14",
            "London Calling": "good",
            "Brand New Cadillac": "short",
            "Jimmy Jazz": "",
@@ -513,7 +513,7 @@
    },
    "The Cranberries": {
        "To the Faithful Departed": {
-           "$date": "1996-04-29",
+           "@date": "1996-04-29",
            "Hollywood": "",
            "Salvation": "short",
            "When You’re Gone": {
@@ -534,7 +534,7 @@
            "Bosnia": ""
        },
        "No Need to Argue": {
-           "$date": "1994-10-03",
+           "@date": "1994-10-03",
            "Ode to My Family": "",
            "I Can’t Be With You": "",
            "Twenty One": "",
@@ -555,7 +555,7 @@
            "No Need to Argue": "short"
        },
        "Everybody Else Is Doing It, So Why Can’t We?": {
-           "$date": "1993-03-01",
+           "@date": "1993-03-01",
            "I Still Do": "",
            "Dreams": "",
            "Sunday": "",
@@ -577,7 +577,7 @@
    },
    "The Crystal Method": {
       "London Original Motion Picture Soundtrack": {
-         "$date": "2005",
+         "@date": "2005",
          "London": "short",
          "Smoked": "",
          "Fire to Me": "",
@@ -589,7 +589,7 @@
          "I Luv U": "short"
       },
       "Legion of Boom": {
-         "$date": "2004",
+         "@date": "2004",
          "Starting Over": "",
          "Born Too Slow": "",
          "True Grit": "good",
@@ -604,7 +604,7 @@
          "Wide Open": ""
       },
       "Tweekend": {
-         "$date": "2001",
+         "@date": "2001",
          "PHD": "good",
          "Wild, Sweet and Cool": "good",
          "Roll It Up": "good",
@@ -621,7 +621,7 @@
          "Tough Guy": ""
       },
       "Vegas": {
-         "$date": "1997",
+         "@date": "1997",
          "Trip Like I Do": "good",
          "Busy Child": "good",
          "Cherry Twist": "good",
@@ -654,7 +654,7 @@
    },
    "The Dave Brubeck Quartet": {
       "Time Further Out": {
-         "$date": "1961",
+         "@date": "1961",
          "It’s a Raggy Waltz": "",
          "Bluette": "",
          "Charles Matthew Hallelujah": "short",
@@ -666,7 +666,7 @@
          "Blue Shadows in the Street": ""
       },
       "Time Out": {
-         "$date": "1959",
+         "@date": "1959",
          "Blue Rondo à la Turk": "",
          "Strange Meadow Lark": "",
          "Take Five": {
@@ -697,7 +697,7 @@
    },
    "The Doors": {
       "L.A. Woman": {
-         "$date": "1971",
+         "@date": "1971",
          "L.A. Woman": "",
          "Riders on the Storm": {
             "VPY": "13,120,374",
@@ -705,7 +705,7 @@
          }
       },
       "Morrison Hotel": {
-         "$date": "1970",
+         "@date": "1970",
          "Roadhouse Blues": {
             "rate": "bad",
             "VPY": "785,933",
@@ -746,7 +746,7 @@
    },
    "The Kinks": {
       "Word of Mouth": {
-         "$date": "1984",
+         "@date": "1984",
          "Do It Again": "",
          "Word of Mouth": "",
          "Good Day": "",
@@ -760,7 +760,7 @@
          "Going Solo": ""
       },
        "State of Confusion": {
-           "$date": "1983-05-24",
+           "@date": "1983-05-24",
            "State of Confusion": "bad",
            "Definite Maybe": "",
            "Labour of Love": "",
@@ -775,7 +775,7 @@
    },
    "The Mars Volta": {
       "Noctourniquet": {
-         "$date": "2012",
+         "@date": "2012",
          "The Whip Hand": "bad",
          "Aegis": "bad",
          "Dyslexicon": "bad",
@@ -791,7 +791,7 @@
          "Zed and Two Naughts": ""
       },
       "Octahedron": {
-         "$date": "2009",
+         "@date": "2009",
          "Since We’ve Been Wrong": "good",
          "Teflon": "good",
          "Halo of Nembutals": "bad",
@@ -802,7 +802,7 @@
          "Luciforms": ""
       },
       "The Bedlam in Goliath": {
-         "$date": "2007",
+         "@date": "2007",
          "Aberinkula": "",
          "Metatron": "good",
          "Ilyena": "good",
@@ -817,7 +817,7 @@
          "Conjugal Burns": ""
       },
       "Amputechture": {
-         "$date": "2006",
+         "@date": "2006",
          "Vicarious Atonement": "good",
          "Tetragrammaton": "good",
          "Vermicide": "",
@@ -828,7 +828,7 @@
          "El Ciervo Vulnerado": ""
       },
       "Frances the Mute": {
-         "$date": "2005",
+         "@date": "2005",
          "Cygnus....Vismund Cygnus": "good",
          "The Widow": {
             "rate": "good",
@@ -840,7 +840,7 @@
          "Cassandra Gemini": "good"
       },
       "De‐Loused in the Comatorium": {
-         "$date": "2003",
+         "@date": "2003",
          "Son et lumiere": "short",
          "Inertiatic ESP": "good",
          "Roulette Dares (The Haunt Of)": "",
@@ -853,7 +853,7 @@
          "Take the Veil Cerpin Taxt": "good"
       },
       "Tremulant EP": {
-         "$date": "2002",
+         "@date": "2002",
          "Cut That City": "bad",
          "Concertina": "bad",
          "Eunuch Provocateur": "good"
@@ -861,7 +861,7 @@
    },
    "The Midnight": {
       "Nocturnal": {
-         "$date": "2017",
+         "@date": "2017",
          "Shadows": "",
          "Crystalline": "",
          "Collateral": "good",
@@ -871,7 +871,7 @@
          "Tokyo Night Train": ""
       },
       "Endless Summer": {
-         "$date": "2016",
+         "@date": "2016",
          "Endless Summer": {
             "VPY": "742,368",
             "URL": "https://youtu.be/_pUL7u-mYqA"
@@ -889,7 +889,7 @@
          "Memories": "good"
       },
       "Days of Thunder (the instrumentals)": {
-         "$date": "2016",
+         "@date": "2016",
          "The Years (prologue) (instrumental)": "",
          "Gloria (instrumental)": "",
          "WeMoveForward (instrumental)": "",
@@ -900,7 +900,7 @@
    },
    "The Mighty Mighty Bosstones": {
       "Let’s Face It": {
-         "$date": "1997",
+         "@date": "1997",
          "Noise Brigade": "short",
          "The Rascal King": "short",
          "Royal Oil": "short",
@@ -915,7 +915,7 @@
          "1‐2‐8": "short"
       },
        "Don’t Know How to Party": {
-           "$date": "1993-05-18",
+           "@date": "1993-05-18",
            "Our Only Weapon": "bad",
            "Last Dead Mouse": "",
            "Don’t Know How to Party": "",
@@ -932,7 +932,7 @@
    },
    "The Notorious B.I.G.": {
       "Life After Death": {
-         "$date": "1997",
+         "@date": "1997",
          "The Notorious B.I.G. - Mo Money Mo Problems": {
              "URL": "https://youtu.be/gUhRKVIjJtw",
              "VPY": "6,807,845"
@@ -941,14 +941,14 @@
    },
    "The Police": {
       "Synchronicity": {
-         "$date": "1983",
+         "@date": "1983",
          "Every Breath You Take": {
             "VPY": "70,115,315",
             "URL": "https://youtu.be/OMOGaugKpzs"
          }
       },
       "Zenyattà Mondatta": {
-         "$date": "1980",
+         "@date": "1980",
          "Don’t Stand So Close to Me": "",
          "Driven to Tears": "good",
          "When the World Is Running Down, You Make the Best of What’s Still Around": "",
@@ -962,7 +962,7 @@
          "The Other Way of Stopping": ""
       },
       "Reggatta de Blanc": {
-         "$date": "1979",
+         "@date": "1979",
          "Message In a Bottle Video": {
             "rate": "good",
             "VPY": "5,572,785",
@@ -980,7 +980,7 @@
          "No Time This Time": ""
       },
       "Outlandos d’Amour": {
-         "$date": "1978",
+         "@date": "1978",
          "Roxanne": {
             "VPY": "8,176,400",
             "URL": "https://youtu.be/3T1c7GkzRQQ"
@@ -989,7 +989,7 @@
    },
    "The Prodigy": {
       "The Fat of the Land": {
-         "$date": "1997",
+         "@date": "1997",
          "Breathe": "",
          "Climbatize": "",
          "Firestarter": {
@@ -998,7 +998,7 @@
          }
       },
       "Music for the Jilted Generation": {
-         "$date": "1994",
+         "@date": "1994",
          "Intro": "short",
          "Break & Enter": "",
          "Their Law": "",
@@ -1035,14 +1035,14 @@
    },
    "The Rolling Stones": {
       "Blue & Lonesome": {
-         "$date": "2016",
+         "@date": "2016",
          "Ride ’Em On Down": {
             "VPY": "10,705,563",
             "URL": "https://youtu.be/qEuV82GqQnE"
          }
       },
       "Bridges to Babylon": {
-         "$date": "1997",
+         "@date": "1997",
          "Flip the Switch": "",
          "Anybody Seen My Baby": {
             "rate": "good",
@@ -1062,7 +1062,7 @@
          "How Can I Stop": ""
       },
       "Voodoo Lounge": {
-          "$date": "1994-07-11",
+          "@date": "1994-07-11",
           "Love Is Strong": "",
           "You Got Me Rocking": "",
           "Sparks Will Fly": "",
@@ -1080,7 +1080,7 @@
           "Mean Disposition": ""
       },
       "Some Girls": {
-         "$date": "1978",
+         "@date": "1978",
          "Miss You": "good",
          "When the Whip Comes Down": "",
          "Just My Imagination (Running Away With Me)": "",
@@ -1093,14 +1093,14 @@
          "Shattered": ""
       },
       "Goats Head Soup": {
-         "$date": "1973",
+         "@date": "1973",
          "Angie": {
             "VPY": "8,808,013",
             "URL": "https://youtu.be/K5_EBAzIPJM"
          }
       },
       "Sticky Fingers": {
-         "$date": "1971",
+         "@date": "1971",
          "Brown Sugar": "",
          "Sway": "",
          "Wild Horses": "good",
@@ -1113,21 +1113,21 @@
          "Moonlight Mile": "good"
       },
       "Let It Bleed": {
-         "$date": "1969",
+         "@date": "1969",
          "Gimme Shelter": {
             "VPY": "14,006,926",
             "URL": "https://youtu.be/RbmS3tQJ7Os"
          }
       },
       "Aftermath": {
-         "$date": "1966",
+         "@date": "1966",
          "Paint It, Black": {
             "VPY": "58,616,027",
             "URL": "https://youtu.be/O4irXQhgMqg"
          }
       },
       "Out of Our Heads": {
-         "$date": "1965",
+         "@date": "1965",
          "Satisfaction": {
             "VPY": "18,248,667",
             "URL": "https://youtu.be/nrIPxlFzDi0"
@@ -1136,7 +1136,7 @@
    },
    "The Smashing Pumpkins": {
        "Mellon Collie and the Infinite Sadness": {
-           "$date": "1995-10-23",
+           "@date": "1995-10-23",
            "Mellon Collie and the Infinite Sadness": "short",
            "Tonight, Tonight": "",
            "Jellybelly": "",
@@ -1172,7 +1172,7 @@
            "Farewell and Goodnight": ""
        },
        "Siamese Dream": {
-           "$date": "1993-07-26",
+           "@date": "1993-07-26",
            "Cherub Rock": "",
            "Quiet": "",
            "Today": "",
@@ -1191,7 +1191,7 @@
    "The Smiths": {
       "$check": "2020-05-07",
       "Strangeways, Here We Come": {
-         "$date": "1987",
+         "@date": "1987",
          "A Rush and a Push and the Land Is Ours": "good",
          "I Started Something I Couldn’t Finish": "",
          "Death of a Disco Dancer": "",
@@ -1204,7 +1204,7 @@
          "I Won’t Share You": "short"
       },
       "The Queen Is Dead": {
-         "$date": "1986",
+         "@date": "1986",
          "The Queen Is Dead": "bad",
          "Frankly, Mr. Shankly": "short",
          "I Know It’s Over": "good",
@@ -1222,7 +1222,7 @@
          "Some Girls Are Bigger Than Others": ""
       },
       "Meat Is Murder": {
-         "$date": "1985",
+         "@date": "1985",
          "The Headmaster Ritual": "bad",
          "Rusholme Ruffians": "",
          "I Want the One I Can’t Have": "",
@@ -1235,7 +1235,7 @@
          "Meat Is Murder": ""
       },
        "The Smiths": {
-           "$date": "1984-02-20",
+           "@date": "1984-02-20",
            "Reel Around the Fountain": "",
            "You’ve Got Everything Now": "",
            "Miserable Lie": "",
@@ -1271,7 +1271,7 @@
    },
    "The Sundays": {
       "Static & Silence": {
-         "$date": "1997",
+         "@date": "1997",
          "Summertime": "",
          "Homeward": "",
          "Folk Song": "good",
@@ -1285,7 +1285,7 @@
          "Monochrome": ""
       },
       "Blind": {
-         "$date": "1992",
+         "@date": "1992",
          "I Feel": "",
          "Goodbye": "good",
          "Life & Soul": "short",
@@ -1304,7 +1304,7 @@
          }
       },
       "Reading, Writing and Arithmetic": {
-         "$date": "1990",
+         "@date": "1990",
          "Skin & Bones": "bad",
          "Here’s Where the Story Ends": "good",
          "Can’t Be Sure": "good",
@@ -1327,7 +1327,7 @@
    },
    "The White Stripes": {
       "Elephant": {
-         "$date": "2003",
+         "@date": "2003",
          "Ball and Biscuit": "",
          "Seven Nation Army": {
             "VPY": "23,256,250",
@@ -1335,7 +1335,7 @@
          }
       },
       "White Blood Cells": {
-         "$date": "2001",
+         "@date": "2001",
          "Dead Leaves and the Dirty Ground": "good",
          "Hotel Yorba": "short",
          "I’m Finding It Harder to Be a Gentleman": "short",
@@ -1356,7 +1356,7 @@
    },
    "The Who": {
       "It’s Hard": {
-          "$date": "1982-09-04",
+          "@date": "1982-09-04",
           "Athena": "",
           "It’s Your Turn": "",
           "Cooks County": "",
@@ -1371,7 +1371,7 @@
           "Cry If You Want": ""
       },
       "Who Are You": {
-          "$date": "1978-08-18",
+          "@date": "1978-08-18",
           "New Song": "",
           "Had Enough": "",
           "905": "",
@@ -1383,7 +1383,7 @@
           "Who Are You": "good"
       },
       "Who’s Next": {
-         "$date": "1971",
+         "@date": "1971",
          "Baba O’riley": "",
          "Bargain": "",
          "Love Ain’t for Keeping": "short",
@@ -1397,7 +1397,7 @@
    },
    "The xx": {
        "I See You": {
-           "$date": "2017-01-13",
+           "@date": "2017-01-13",
            "Dangerous": "",
            "Say Something Loving": "",
            "Lips": "",
@@ -1415,7 +1415,7 @@
            "Test Me": ""
        },
        "Coexist": {
-           "$date": "2012-09-07",
+           "@date": "2012-09-07",
            "Angels": {
              "id": "_nW5AF0m9Zw",
              "views": "68,649,421",
@@ -1434,7 +1434,7 @@
            "Our Song": ""
        },
       "xx": {
-          "$date": "2009-08-14",
+          "@date": "2009-08-14",
           "Intro": "good",
           "VCR": "short",
           "Crystalised": "",
@@ -1450,7 +1450,7 @@
    },
    "Thievery Corporation": {
       "The Temple of I & I": {
-          "$date": "2017-02-10",
+          "@date": "2017-02-10",
           "Thief Rockers": "good",
           "Letter to the Editor": "",
           "Strike the Root": "",
@@ -1468,7 +1468,7 @@
           "Drop Your Guns": ""
       },
       "Saudade": {
-          "$date": "2014-04-01",
+          "@date": "2014-04-01",
           "Décollage": "good",
           "Meu Nêgo": "",
           "Quem Me Leva": "",
@@ -1484,7 +1484,7 @@
           "Depth of My Soul": ""
       },
       "Culture of Fear": {
-         "$date": "2011",
+         "@date": "2011",
          "Web of Deception": "",
          "Culture of Fear": "",
          "Take My Soul": "",
@@ -1500,7 +1500,7 @@
          "Free": ""
       },
       "Radio Retaliation": {
-         "$date": "2008",
+         "@date": "2008",
          "Sound the Alarm": "",
          "Mandala": "",
          "Radio Retaliation": "",
@@ -1518,7 +1518,7 @@
          "Sweet Tides": ""
       },
       "The Cosmic Game": {
-         "$date": "2005",
+         "@date": "2005",
          "Marching the Hate Machines (Into the Sun)": "good",
          "Warning Shots": "",
          "Revolution Solution": "",
@@ -1537,7 +1537,7 @@
          "A Gentle Dissolve": "short"
       },
       "The Richest Man in Babylon": {
-         "$date": "2002",
+         "@date": "2002",
          "Heaven’s Gonna Burn Your Eyes": "",
          "Facing East": "",
          "The Outernationalist": "",
@@ -1555,7 +1555,7 @@
          "Resolution": "good"
       },
       "The Mirror Conspiracy": {
-         "$date": "2000",
+         "@date": "2000",
          "Treasures": "short",
          "Le Monde": "good",
          "Indra": "good",
@@ -1571,7 +1571,7 @@
          "Tomorrow": "good"
       },
       "Sounds From the Thievery Hi‐Fi": {
-         "$date": "1997",
+         "@date": "1997",
          "A Warning (Dub)": "short",
          "2001 Spliff Odyssey": "bad",
          "Shaolin Satellite": "bad",
@@ -1592,7 +1592,7 @@
    },
    "Thin Lizzy": {
       "Jailbreak": {
-         "$date": "1975",
+         "@date": "1975",
          "Jailbreak": "",
          "Angel From the Coast": "",
          "Running Back": "",
@@ -1610,7 +1610,7 @@
    },
    "Third Eye Blind": {
       "Blue": {
-         "$date": "1999",
+         "@date": "1999",
          "Anything": "short",
          "Wounded": "bad",
          "10 Days Late": "bad",
@@ -1626,7 +1626,7 @@
          "Slow Motion": ""
       },
       "Third Eye Blind": {
-         "$date": "1997",
+         "@date": "1997",
          "Losing a Whole Year": "",
          "Narcolepsy": "",
          "Semi‐Charmed Life": "",
@@ -1645,7 +1645,7 @@
    },
    "Thunderball": {
        "12 Mile High": {
-           "$date": "2010-11-09",
+           "@date": "2010-11-09",
            "Enter the Brahmin": "good",
            "12 Mile High": "",
            "Make Your Move (feat. Mustafa Akbar)": "",
@@ -1661,7 +1661,7 @@
            "Penthouse Soul": ""
        },
       "Cinescope": {
-         "$date": "2004",
+         "@date": "2004",
          "The Road to Benares": "",
          "Electric Shaka (feat. Afrika Bambataaa)": "",
          "Return of the Panther (feat. Mustafa Akbar)": "",
@@ -1676,7 +1676,7 @@
          "Last Flight Out": "good"
       },
       "Scorpio Rising": {
-         "$date": "2001",
+         "@date": "2001",
          "Heart of the Hustler": "",
          "Domino": "good",
          "Vai Vai": "",
@@ -1690,7 +1690,7 @@
          "Golden": "good"
       },
       "Ambassadors of Style": {
-         "$date": "2000",
+         "@date": "2000",
          "Hijack": "bad",
          "Prime Minister": "bad",
          "This Girl": "",
