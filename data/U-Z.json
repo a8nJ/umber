@@ -582,13 +582,21 @@
          "XXXX/Loyalty": "",
          "Heart of Gold": ""
       },
-      "Lose All Time": {
-         "$date": "2007",
-         "Monster": {
-            "VPY": "49,486",
-            "URL": "https://youtu.be/-IQKsrXDHrg"
-         }
-      }
+       "Lose All Time": {
+           "$date": "2007-03-20",
+           "Five Year Plan": "bad",
+           "Downtown Mayors Goodnight, Alley Kids Rule!": "short",
+           "Opportunity": "",
+           "Teenage Hit Wonder": "short",
+           "Monster": "",
+           "Like I Give a Care": "",
+           "Poison": "short",
+           "Moon": "short",
+           "Giant Hands": "",
+           "You're Almost There": "",
+           "Dancefloor Destroyer": "",
+           "Quiet World": ""
+       }
    },
    "Yppah": {
       "Eighty One": {
