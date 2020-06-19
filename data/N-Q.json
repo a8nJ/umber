@@ -1,7 +1,7 @@
 {
    "Nada Surf": {
       "Let Go": {
-         "$date": "2002",
+         "@date": "2002",
          "Blizzard of ’77": "short",
          "The Way You Wear Your Head": "bad",
          "Fruit Fly": "bad",
@@ -16,7 +16,7 @@
          "Paper Boats": "bad"
       },
       "High/Low": {
-         "$date": "1996",
+         "@date": "1996",
          "Deeper Well": "bad",
          "The Plan": "bad",
          "Popular": "good",
@@ -31,14 +31,14 @@
    },
    "Nancy Sinatra": {
       "How Does That Grab You?": {
-         "$date": "1966",
+         "@date": "1966",
          "Bang Bang": {
             "VPY": "7,231,985",
             "URL": "https://youtu.be/Ppz0Yp-lE0g"
          }
       },
       "Boots": {
-         "$date": "1966",
+         "@date": "1966",
          "These Boots Are Made for Walkin’": {
             "VPY": "14,140,176",
             "URL": "https://youtu.be/SbyAZQ45uww"
@@ -47,7 +47,7 @@
    },
    "Natalie Imbruglia": {
       "White Lilies Island": {
-         "$date": "2001",
+         "@date": "2001",
          "That Day": "",
          "Beauty on the Fire": "",
          "Satellite": "",
@@ -66,7 +66,7 @@
          "Come September": ""
       },
       "Left of the Middle": {
-         "$date": "1997",
+         "@date": "1997",
          "Torn": {
             "VPY": "17,820,167",
             "URL": "https://youtu.be/VV1XWJN3nJo"
@@ -75,7 +75,7 @@
    },
    "Natalie Merchant": {
       "Motherland": {
-         "$date": "2001",
+         "@date": "2001",
          "This House Is on Fire": "bad",
          "Motherland": "bad",
          "Saint Judas": "bad",
@@ -90,7 +90,7 @@
          "I’m Not Gonna Beg": ""
       },
       "Ophelia": {
-         "$date": "1998",
+         "@date": "1998",
          "Ophelia": "",
          "Life Is Sweet": "",
          "Kind & Generous": "good",
@@ -104,7 +104,7 @@
          "When They Ring the Golden Bells": ""
       },
       "Tigerlily": {
-         "$date": "1995",
+         "@date": "1995",
          "San Andreas Fault": "",
          "Wonder": "good",
          "Beloved Wife": "",
@@ -133,7 +133,7 @@
    },
    "Nelly Furtado": {
        "Loose": {
-           "$date": "2006-06-09",
+           "@date": "2006-06-09",
            "Afraid": "",
            "Maneater": "",
            "Promiscuous": "",
@@ -154,7 +154,7 @@
            "All Good Things (Come to an End)": ""
        },
        "Whoa, Nelly!": {
-           "$date": "2000-10-24",
+           "@date": "2000-10-24",
            "Hey, Man!": "",
            "Shit on the Radio (Remember the Days)": "",
            "Baby Girl": "",
@@ -184,7 +184,7 @@
    },
    "New Order": {
       "Technique": {
-         "$date": "1989",
+         "@date": "1989",
          "Fine Time": "",
          "All the Way": "",
          "Love Less": "",
@@ -196,12 +196,12 @@
          "Dream Attack": ""
       },
       "True Faith": {
-         "$date": "1987",
+         "@date": "1987",
          "True Faith": "good",
          "1963": ""
       },
       "Low‐Life": {
-         "$date": "1985",
+         "@date": "1985",
          "Love Vigilantes": "",
          "The Perfect Kiss": "",
          "This Time of Night": "",
@@ -212,7 +212,7 @@
          "Face Up": ""
       },
       "Power, Corruption & Lies": {
-         "$date": "1983",
+         "@date": "1983",
          "Blue Monday": {
             "VPY": "13,712,895",
             "URL": "https://youtu.be/FYH8DsU2WCk"
@@ -229,7 +229,7 @@
    },
    "Nicolas Jaar": {
       "Cenizas": {
-          "$date": "2020-03-27",
+          "@date": "2020-03-27",
           "Vanish": "good",
           "Menysid": "",
           "Cenizas": "",
@@ -245,7 +245,7 @@
           "Faith Made of Silk": ""
       },
       "Sirens": {
-         "$date": "2016-09-30",
+         "@date": "2016-09-30",
          "Mirrors": "",
          "Killing Time": "good",
          "Sirens": "short",
@@ -257,7 +257,7 @@
          "History Lesson": ""
       },
       "Nymphs": {
-         "$date": "2016-09-23",
+         "@date": "2016-09-23",
          "Don’t Break My Love": "",
          "Why Didn’t You Save Me": "",
          "The Three Sides of Audrey and Why She’s All Alone Now": "",
@@ -267,7 +267,7 @@
          "Fight": ""
       },
       "Space Is Only Noise": {
-         "$date": "2011",
+         "@date": "2011",
          "Être": "bad",
          "Colomb": "bad",
          "Sunflower": "short",
@@ -283,7 +283,7 @@
          "^tre": "short"
       },
       "Love You Gotta Lose Again": {
-         "$date": "2010",
+         "@date": "2010",
          "WOUH": "good",
          "Love You Gotta Lose Again": "",
          "Don’t Believe the Hype": "short"
@@ -292,7 +292,7 @@
    "Nightmares on Wax": {
       "$check": "2020-05-21",
       "Shape the Future": {
-         "$date": "2018",
+         "@date": "2018",
          "Back to Nature": "good",
          "Tell My Vision": "bad",
          "Shape the Future": "bad",
@@ -306,14 +306,14 @@
          "The Othership": "good"
       },
       "Ground Floor": {
-         "$date": "2016",
+         "@date": "2016",
          "World Inside": "bad",
          "Scratch That!": "",
          "Reclaim the Balcony": "",
          "Dirty Triumphant": ""
       },
       "Feelin’ Good": {
-          "$date": "2013-09-16",
+          "@date": "2013-09-16",
           "So Here We Are": "good",
           "Be, I Do": "",
           "Master Plan": "",
@@ -326,7 +326,7 @@
           "Om Sweet H(Om)E": ""
       },
       "Thought So": {
-         "$date": "2008",
+         "@date": "2008",
          "Intro": "short",
          "Da Feelin": "bad",
          "195lbs": "bad",
@@ -340,7 +340,7 @@
          "Hey! Ego": "bad"
       },
       "In a Space Outta Sound": {
-         "$date": "2006",
+         "@date": "2006",
          "Passion": "good",
          "The Sweetest": "bad",
          "Flip Ya Lid": "good",
@@ -355,7 +355,7 @@
          "African Pirates": "bad"
       },
        "Mind Elevation": {
-           "$date": "2002-08-24",
+           "@date": "2002-08-24",
            "Mind Eye": "bad",
            "Say-Say": "bad",
            "Thinking of Omara": "bad",
@@ -372,7 +372,7 @@
            "On Days": ""
        },
        "Carboot Soul": {
-           "$date": "1999-04-12",
+           "@date": "1999-04-12",
            "Les Nuits": "good",
            "Morse": "good",
            "Ethnic Majority": "good",
@@ -385,7 +385,7 @@
            "Capumcap": "bad"
        },
        "Smokers Delight": {
-           "$date": "1995-09-25",
+           "@date": "1995-09-25",
            "Nights Introlude": "good",
            "Dreddoverboard": "bad",
            "Pipes Honour": "good",
@@ -404,7 +404,7 @@
            "Gambia via Vagator Beach": "good"
        },
        "A Word of Science: The 1st & Final Chapter": {
-           "$date": "1991-09-16",
+           "@date": "1991-09-16",
            "Nights Interlude": "good",
            "A Case of Funk": "bad",
            "Coming Down": "bad",
@@ -424,21 +424,21 @@
    },
    "Nirvana": {
       "MTV Unplugged": {
-         "$date": "1994",
+         "@date": "1994",
          "The Man Who Sold The World": {
             "VPY": "24,614,437",
             "URL": "https://youtu.be/fregObNcHC8"
          }
       },
       "In Utero": {
-         "$date": "1993",
+         "@date": "1993",
          "Heart-Shaped Box": {
             "VPY": "16,781,101",
             "URL": "https://youtu.be/n6P0SitRwy8"
          }
       },
       "Nevermind": {
-         "$date": "1991",
+         "@date": "1991",
          "Come As You Are": "",
          "In Bloom": "",
          "Lithium": "",
@@ -450,7 +450,7 @@
    },
    "Norah Jones": {
       "The Fall": {
-         "$date": "2009",
+         "@date": "2009",
          "Chasing Pirates": "good",
          "Even Though": "",
          "Light as a Feather": "",
@@ -466,7 +466,7 @@
          "Man of the Hour": "short"
       },
       "Not Too Late": {
-         "$date": "2006",
+         "@date": "2006",
          "Wish I Could": "bad",
          "Sinkin’ Soon": "bad",
          "The Sun Doesn’t Like You": "short",
@@ -482,7 +482,7 @@
          "Not Too Late": "bad"
       },
       "Feels Like Home": {
-          "$date": "2004-02-06",
+          "@date": "2004-02-06",
           "Sunrise": "good",
           "What Am I to You?": "",
           "Those Sweet Words": "",
@@ -498,7 +498,7 @@
           "Don’t Miss You at All": ""
       },
       "Come Away With Me": {
-         "$date": "2002",
+         "@date": "2002",
          "Don’t Know Why": {
             "rate": "good",
             "VPY": "4,720,905",
@@ -522,7 +522,7 @@
    "Olive": {
       "$check": "2020-05-17",
       "Trickle": {
-          "$date": "2000-05-30",
+          "@date": "2000-05-30",
           "Love Affair": "bad",
           "Trickle": "bad",
           "I’m Not in Love": "bad",
@@ -537,7 +537,7 @@
           "Beyond the Fray / Take My Hand": ""
       },
       "Extra Virgin": {
-         "$date": "1997",
+         "@date": "1997",
          "Miracle": "good",
          "This Time": "bad",
          "Safer Hands": "bad",
@@ -562,7 +562,7 @@
    },
    "Oneohtrix Point Never": {
       "Age Of": {
-         "$date": "2018",
+         "@date": "2018",
          "Age Of": "",
          "Babylon": "bad",
          "Manifold": "short",
@@ -578,7 +578,7 @@
          "Last Known Image of a Song": ""
       },
       "Garden of Delete": {
-          "$date": "2015-11-13",
+          "@date": "2015-11-13",
           "Intro": "short",
           "Ezra": "bad",
           "ECCOJAMC1": "short",
@@ -593,7 +593,7 @@
           "No Good": ""
       },
       "R Plus Seven": {
-         "$date": "2013",
+         "@date": "2013",
          "Boring Angel": "bad",
          "Americans": "bad",
          "He She": "short",
@@ -607,7 +607,7 @@
          "Gone": "short"
       },
       "Replica": {
-         "$date": "2011",
+         "@date": "2011",
          "Andro": "",
          "Power of Persuasion": "good",
          "Sleep Dealer": "",
@@ -623,7 +623,7 @@
          "Explain": ""
       },
       "Returnal": {
-         "$date": "2010",
+         "@date": "2010",
          "Nil Admirari": "",
          "Describing Bodies": "",
          "Stress Waves": "good",
@@ -634,7 +634,7 @@
          "Preyouandi": ""
       },
       "Rifts": {
-         "$date": "2009-10-20",
+         "@date": "2009-10-20",
          "A Pact Between Strangers": "",
          "Behind the Bank": "short",
          "Blue Drive": "good",
@@ -655,7 +655,7 @@
          "When I Get Back From New York": ""
       },
       "Russian Mind": {
-         "$date": "2009-10",
+         "@date": "2009-10",
          "Months": "bad",
          "Physical Memory": "bad",
          "Grief and Repetition": "short",
@@ -664,7 +664,7 @@
          "Immanence": ""
       },
       "Zones Without People": {
-          "$date": "2009-08-11",
+          "@date": "2009-08-11",
           "Computer Vision": "short",
           "Format & Journey North": "",
           "Zones Without People": "good",
@@ -674,7 +674,7 @@
           "Hyperdawn": ""
       },
       "Betrayed in the Octagon": {
-         "$date": "2007",
+         "@date": "2007",
          "Woe Is the Transgression I": "bad",
          "Behind the Bank": "short",
          "Eyeballs": "short",
@@ -686,7 +686,7 @@
    },
    "Orbital": {
       "Orbital 2": {
-          "$date": "1993-05-24",
+          "@date": "1993-05-24",
           "Time Becomes": "short",
           "Planet of the Shapes": "",
           "Lush 3‒1": "",
@@ -701,7 +701,7 @@
    },
    "OutKast": {
       "Speakerboxxx / The Love Below": {
-         "$date": "2003",
+         "@date": "2003",
          "Hey Ya!": {
             "VPY": "42,094,987",
             "URL": "https://youtu.be/PWgvGjAhvIw"
@@ -710,14 +710,14 @@
          "The Way You Move": ""
       },
       "Stankonia": {
-         "$date": "2000",
+         "@date": "2000",
          "Ms. Jackson": {
             "VPY": "32,944,721",
             "URL": "https://youtu.be/YSwT1uaMvUY"
          }
       },
       "ATLiens": {
-         "$date": "1996",
+         "@date": "1996",
          "You May Die (intro)": "short",
          "Two Dope Boyz (in a Cadillac)": "short",
          "ATLiens": "",
@@ -772,7 +772,7 @@
    },
    "Paula Cole": {
       "This Fire": {
-         "$date": "1996",
+         "@date": "1996",
          "Tiger": "",
          "Where Have All the Cowboys Gone?": "good",
          "Throwing Stones": "",
@@ -791,7 +791,7 @@
    },
    "Pearl Jam": {
        "Gigaton": {
-           "$date": "2020-03-27",
+           "@date": "2020-03-27",
            "Who Ever Said": "",
            "Superblood Wolfmoon": "",
            "Dance of the Clairvoyants": "",
@@ -811,7 +811,7 @@
            "River Cross": ""
        },
       "Vitalogy": {
-          "$date": "1994-11-22",
+          "@date": "1994-11-22",
           "Last Exit": "short",
           "Spin the Black Circle": "short",
           "Not for You": "",
@@ -828,7 +828,7 @@
           "Hey Foxymophandlemama, That's Me": ""
       },
       "Vs": {
-         "$date": "1993",
+         "@date": "1993",
          "Go": "",
          "Animal": "short",
          "Daughter": "good",
@@ -843,7 +843,7 @@
          "Indifference": ""
       },
        "Jeremy": {
-           "$date": "1992",
+           "@date": "1992",
            "Jeremy": "",
            "Footsteps": "",
            "Yellow Ledbetter": {
@@ -854,7 +854,7 @@
          }
        },
        "Ten": {
-           "$date": "1991-08-27",
+           "@date": "1991-08-27",
            "Once": "",
            "Even Flow": "",
            "Alive": "",
@@ -875,7 +875,7 @@
    },
    "Pendulum": {
       "In Silico": {
-         "$date": "2008",
+         "@date": "2008",
          "Showdown": "bad",
          "Different": "bad",
          "Propane Nightmares": "bad",
@@ -888,7 +888,7 @@
          "The Tempest": "bad"
       },
       "Hold Your Colour": {
-         "$date": "2005",
+         "@date": "2005",
          "Prelude": "short",
          "Slam": "good",
          "Plasticworld": "good",
@@ -907,7 +907,7 @@
    },
    "Pet Shop Boys": {
        "Behaviour": {
-           "$date": "1990-10-22",
+           "@date": "1990-10-22",
            "Being Boring": "good",
            "This Must Be the Place I Waited Years to Leave": "",
            "To Face the Truth": "",
@@ -920,7 +920,7 @@
            "Jealousy": ""
        },
       "Introspective": {
-         "$date": "1988",
+         "@date": "1988",
          "Left to My Own Devices": "",
          "I Want a Dog": "",
          "Domino Dancing (disco mix)": "good",
@@ -929,7 +929,7 @@
          "It’s Alright": ""
       },
        "Actually": {
-           "$date": "1987-09-07",
+           "@date": "1987-09-07",
            "One More Chance": "",
            "What Have I Done to Deserve This?": "",
            "Shopping": "",
@@ -947,7 +947,7 @@
            "King’s Cross": ""
        },
        "Please": {
-           "$date": "1986-03-24",
+           "@date": "1986-03-24",
            "Two Divided by Zero": "",
            "West End Girls": {
              "id": "p3j2NYZ8FKs",
@@ -967,7 +967,7 @@
    },
    "Peter Frampton": {
       "Frampton’s Camel": {
-         "$date": "1973",
+         "@date": "1973",
          "I Got My Eyes on You": "",
          "All Night Long": "",
          "Lines on My Face": "",
@@ -985,7 +985,7 @@
    },
    "Peter Gabriel": {
       "So": {
-         "$date": "1986-05-19",
+         "@date": "1986-05-19",
          "Red Rain": "",
          "Sledgehammer": {
             "VPY": "3,943,699",
@@ -1000,7 +1000,7 @@
          "This Is the Picture (Excellent Birds)": ""
       },
       "Peter Gabriel (Car)": {
-         "$date": "1977-02",
+         "@date": "1977-02",
          "Moribund the Burgermeister": "",
          "Solsbury Hill": "good",
          "Modern Love": "",
@@ -1014,7 +1014,7 @@
    },
    "Phil Collins": {
        "…But Seriously": {
-           "$date": "1989-11-07",
+           "@date": "1989-11-07",
            "Hang In Long Enough": "",
            "That’s Just the Way It Is": "",
            "Do You Remember?": "",
@@ -1034,7 +1034,7 @@
            "Find a Way to My Heart": ""
        },
       "No Jacket Required": {
-          "$date": "1985-03-21",
+          "@date": "1985-03-21",
           "Sussudio": "good",
           "Only You Know and I Know": "",
           "Long Long Way to Go": "",
@@ -1048,7 +1048,7 @@
           "We Said Hello Goodbye": ""
       },
       "Hello, I Must Be Going!": {
-          "$date": "1982",
+          "@date": "1982",
           "I Don’t Care Anymore": "good",
           "I Cannot Believe It’s True": "",
           "Like China": "",
@@ -1061,7 +1061,7 @@
           "Why Can’t It Wait ’til Morning": ""
       },
        "Face Value": {
-           "$date": "1981-02-06",
+           "@date": "1981-02-06",
            "In the Air Tonight": {
              "id": "MN3x-kAbgFU",
              "views": "104,024,588",
@@ -1083,21 +1083,21 @@
    },
    "Pink Floyd": {
       "The Division Bell": {
-         "$date": "1994",
+         "@date": "1994",
          "High Hopes": {
             "VPY": "11,489,269",
             "URL": "https://youtu.be/7jMlFXouPk8"
          }
       },
       "A Momentary Lapse of Reason": {
-         "$date": "1987",
+         "@date": "1987",
          "Learning To Fly": {
             "VPY": "13,804,895",
             "URL": "https://youtu.be/nVhNCTH8pDs"
          }
       },
       "The Wall": {
-         "$date": "1979",
+         "@date": "1979",
          "Another Brick In The Wall": {
             "VPY": "45,604,600",
             "URL": "https://youtu.be/YR5ApYxkU-U"
@@ -1106,7 +1106,7 @@
          "Hey You": ""
       },
       "Wish You Were Here": {
-         "$date": "1975",
+         "@date": "1975",
          "Shine on You Crazy Diamond": "",
          "Wish You Were Here": {
             "VPY": "14,157,030",
@@ -1114,14 +1114,14 @@
          }
       },
       "The Dark Side of the Moon": {
-         "$date": "1973",
+         "@date": "1973",
          "Any Colour You Like": "",
          "Speak to Me / Breathe": ""
       }
    },
    "Pixies": {
       "Bossanova": {
-         "$date": "1990",
+         "@date": "1990",
          "Cecilia Ann": "short",
          "Rock Music": "short",
          "Velouria": "bad",
@@ -1138,7 +1138,7 @@
          "Havalina": "short"
       },
       "Doolittle": {
-         "$date": "1989",
+         "@date": "1989",
          "Debaser": "short",
          "Tame": "short",
          "Wave of Mutilation": "short",
@@ -1159,7 +1159,7 @@
          "Gouge Away": "short"
       },
       "Surfer Rosa": {
-         "$date": "1988",
+         "@date": "1988",
          "Where Is My Mind": {
             "VPY": "23,113,992",
             "URL": "https://youtu.be/N3oCS85HvpY"
@@ -1168,7 +1168,7 @@
    },
    "Pizzicato Five": {
       "Sister Freedom Tapes": {
-         "$date": "1996",
+         "@date": "1996",
          "Airplane ’96": "",
          "Domino Konishi": "short",
          "Snowflakes": "short",
@@ -1180,7 +1180,7 @@
          "Passing By": "short"
       },
       "Romantique 96": {
-         "$date": "1995",
+         "@date": "1995",
          "Potpourri": "short",
          "The Awakening": "short",
          "Welcome to the Circus": "",
@@ -1199,7 +1199,7 @@
          "Coda": "short"
       },
       "Overdose": {
-         "$date": "1994",
+         "@date": "1994",
          "Overture": "short",
          "Airplane": "bad",
          "Statue of Liberty": "bad",
@@ -1215,7 +1215,7 @@
          "On the Sunny Side of the Street": "bad"
       },
       "Bossa Nova 2001": {
-         "$date": "1993",
+         "@date": "1993",
          "Rock’n’roll": "short",
          "Sweet Soul Revue": "good",
          "Magic Carpet Ride": "",
@@ -1234,7 +1234,7 @@
          "Cleopatra 2001": ""
       },
       "Sweet Pizzicato Five": {
-         "$date": "1992",
+         "@date": "1992",
          "Tout va bien": "",
          "Flower Drum Song": "",
          "Catchy": "good",
@@ -1246,7 +1246,7 @@
          "Cosmic Blues": ""
       },
       "On Her Majesty’s Request": {
-         "$date": "1989",
+         "@date": "1989",
          "Holiday for Audrey H": "short",
          "Introduction J.B. et Vietnam": "short",
          "Bellissima ’90": "",
@@ -1266,7 +1266,7 @@
          "Let’s Spend The Night Together": ""
       },
       "Bellissima!": {
-         "$date": "1988",
+         "@date": "1988",
          "Planets": "",
          "Temptation Talk": "good",
          "Holy Triangle": "",
@@ -1281,7 +1281,7 @@
    },
    "Plaid": {
       "Polymer": {
-          "$date": "2019-06-07",
+          "@date": "2019-06-07",
           "Meds Fade": "bad",
           "Los": "",
           "Maru": "",
@@ -1297,7 +1297,7 @@
           "Praze": ""
       },
        "Greedy Baby": {
-           "$date": "2006-06-26",
+           "@date": "2006-06-26",
            "War Dialer": "bad",
            "I Citizen The Loathsome": "bad",
            "The Launching Of Big Face": "bad",
@@ -1309,7 +1309,7 @@
            "To": ""
        },
       "Spokes": {
-         "$date": "2003",
+         "@date": "2003",
          "Even Spring": "bad",
          "Crumax Rins": "bad",
          "Upona": "",
@@ -1322,7 +1322,7 @@
          "Quick Emix": ""
       },
       "Double Figure": {
-         "$date": "2001",
+         "@date": "2001",
          "Eyen": "bad",
          "Squance": "bad",
          "Assault on Precinct Zero": "bad",
@@ -1344,7 +1344,7 @@
          "Manyme": ""
       },
       "Rest Proof Clockwork": {
-         "$date": "1999",
+         "@date": "1999",
          "Shackbu": "",
          "Ralome": "good",
          "Little People": "bad",
@@ -1362,7 +1362,7 @@
          "Air Locked / Face Me": ""
       },
        "Not for Threes": {
-           "$date": "1997-10-27",
+           "@date": "1997-10-27",
            "Abla Eedio": "bad",
            "Kortisin": "bad",
            "Headspin": "bad",
@@ -1382,7 +1382,7 @@
        },
        "Mbuki Mvuki": {
            "$list": "PLN3OHGL_aRYyt_j79eSmJ6NcRtEPPX2Fi",
-           "$date": "1991",
+           "@date": "1991",
            "Anything": "bad",
            "Slice of Cheese": "bad",
            "Link": "bad",
@@ -1395,7 +1395,7 @@
    },
    "Portishead": {
       "Third": {
-         "$date": "2008",
+         "@date": "2008",
          "Silence": "good",
          "Hunter": "good",
          "Nylon Smile": "good",
@@ -1409,7 +1409,7 @@
          "Threads": "good"
       },
       "Portishead": {
-         "$date": "1997",
+         "@date": "1997",
          "Cowboys": "good",
          "All Mine": "good",
          "Undenied": "good",
@@ -1423,7 +1423,7 @@
          "Western Eyes": "good"
       },
       "Dummy": {
-         "$date": "1994",
+         "@date": "1994",
          "Mysterons": "good",
          "Sour Times": "good",
          "Strangers": "good",
@@ -1443,7 +1443,7 @@
    },
    "Portugal. The Man": {
       "Woodstock": {
-         "$date": "2017",
+         "@date": "2017",
          "Feel It Still": {
             "VPY": "105,372,195",
             "URL": "https://youtu.be/pBkHHoOIIn8"
@@ -1451,7 +1451,7 @@
          "Live in the Moment": ""
       },
       "Censored Colors": {
-         "$date": "2008",
+         "@date": "2008",
          "Lay Me Back Down": "",
          "Colors": "",
          "And I": "",
@@ -1471,7 +1471,7 @@
    },
    "Prefuse 73": {
       "Everything She Touched Turned Ampexian": {
-         "$date": "2009",
+         "@date": "2009",
          "Periodic Measurements of Infrequent Smiles": "short",
          "Hairy Faces (Stress)": "short",
          "Parachute Panador": "short",
@@ -1503,7 +1503,7 @@
          "Formal Dedications": "good"
       },
       "Preparations": {
-         "$date": "2007",
+         "@date": "2007",
          "From the East Intro": "short",
          "Beaten Thursdays": "bad",
          "Aborted Hugs": "short",
@@ -1520,7 +1520,7 @@
          "Preparation Outro Version": ""
       },
       "Security Screenings": {
-         "$date": "2006",
+         "@date": "2006",
          "The Letter ‘P’": "short",
          "With Dirt and Two Texts (Afternoon Version)": "bad",
          "Illiterate Interlude": "short",
@@ -1541,7 +1541,7 @@
          "We Leave You in a Cloud of Thick Smoke and Sleep Outro": ""
       },
       "Surrounded by Silence": {
-         "$date": "2005",
+         "@date": "2005",
          "I’ve Said All I Need to Say About Them Intro": "",
          "Hide Ya Face": "",
          "Bad Memory Interlude One": "short",
@@ -1565,7 +1565,7 @@
          "And I’m Gone": "short"
       },
       "One Word Extinguisher": {
-         "$date": "2003",
+         "@date": "2003",
          "The Wrong Side of Reflection (intro)": "short",
          "The End of Biters - International": "short",
          "Plastic": "short",
@@ -1591,7 +1591,7 @@
          "Pentagram": "good"
       },
       "Vocal Studies + Uprock Narratives": {
-         "$date": "2001",
+         "@date": "2001",
          "Radio Attack": "",
          "Nuno": "",
          "Life Death": "",
@@ -1611,7 +1611,7 @@
    },
    "Primitive Radio Gods": {
       "Rocket": {
-         "$date": "1996",
+         "@date": "1996",
          "Women": "",
          "Motherfucker": "",
          "Standing Outside a Broken Phone Booth with Money in My Hand": {
