@@ -561,22 +561,22 @@
       }
    },
    "Oneohtrix Point Never": {
-      "Age Of": {
-         "@date": "2018",
-         "Age Of": "",
-         "Babylon": "bad",
-         "Manifold": "short",
-         "The Station": "bad",
-         "Toys 2": "bad",
-         "Black Snow": "bad",
-         "myriad.industries": "short",
-         "Warning": "short",
-         "We’ll Take It": "bad",
-         "Same": "short",
-         "RayCats": "good",
-         "Still Stuff That Doesn’t Happen": "",
-         "Last Known Image of a Song": ""
-      },
+       "Age Of": {
+           "@date": "2018-05-31",
+           "Age Of": "",
+           "Babylon": "bad",
+           "Manifold": "short",
+           "The Station": "bad",
+           "Toys 2": "bad",
+           "Black Snow": "bad",
+           "myriad.industries": "short",
+           "Warning": "short",
+           "We'll Take It": "bad",
+           "Same": "short",
+           "RayCats": "good",
+           "Still Stuff That Doesn't Happen": "",
+           "Last Known Image of a Song": ""
+       },
       "Garden of Delete": {
           "@date": "2015-11-13",
           "Intro": "short",
@@ -592,47 +592,43 @@
           "Lift": "",
           "No Good": ""
       },
-      "R Plus Seven": {
-         "@date": "2013",
-         "Boring Angel": "bad",
-         "Americans": "bad",
-         "He She": "short",
-         "Inside World": "bad",
-         "Zebra": "bad",
-         "Along": "good",
-         "Problem Areas": "bad",
-         "Cryo": "short",
-         "Still Life": "good",
-         "Chrome Country": "good",
-         "Gone": "short"
-      },
-      "Replica": {
-         "@date": "2011",
-         "Andro": "",
-         "Power of Persuasion": "good",
-         "Sleep Dealer": "",
-         "Remember": "",
-         "Replica": {
-            "VPY": "103,714",
-            "URL": "https://youtu.be/hiwi7d0f91Y"
-         },
-         "Nassau": "",
-         "Submersible": "good",
-         "Up": "",
-         "Child Soldier": "",
-         "Explain": ""
-      },
-      "Returnal": {
-         "@date": "2010",
-         "Nil Admirari": "",
-         "Describing Bodies": "",
-         "Stress Waves": "good",
-         "Returnal": "good",
-         "Pelham Island Road": "",
-         "Where Does Time Go": "",
-         "Ouroboros": "short",
-         "Preyouandi": ""
-      },
+       "R Plus Seven": {
+           "@date": "2013-09-30",
+           "Boring Angel": "bad",
+           "Americans": "bad",
+           "He She": "short",
+           "Inside World": "bad",
+           "Zebra": "bad",
+           "Along": "good",
+           "Problem Areas": "bad",
+           "Cryo": "short",
+           "Still Life": "good",
+           "Chrome Country": "good"
+       },
+       "Replica": {
+           "@date": "2011-11-07",
+           "Andro": "",
+           "Power of Persuasion": "good",
+           "Sleep Dealer": "",
+           "Remember": "",
+           "Replica": "",
+           "Nassau": "",
+           "Submersible": "good",
+           "Up": "",
+           "Child Soldier": "",
+           "Explain": ""
+       },
+       "Returnal": {
+           "@date": "2010-06-28",
+           "Nil Admirari": "",
+           "Describing Bodies": "",
+           "Stress Waves": "good",
+           "Returnal": "good",
+           "Pelham Island Road": "",
+           "Where Does Time Go": "",
+           "Ouroboros": "short",
+           "Preyouandi": ""
+       },
       "Rifts": {
          "@date": "2009-10-20",
          "A Pact Between Strangers": "",
@@ -673,16 +669,17 @@
           "Emil Cioran": "",
           "Hyperdawn": ""
       },
-      "Betrayed in the Octagon": {
-         "@date": "2007",
-         "Woe Is the Transgression I": "bad",
-         "Behind the Bank": "short",
-         "Eyeballs": "short",
-         "Betrayed in the Octagon": "good",
-         "Woe Is the Transgression II": "",
-         "Parallel Minds": "",
-         "Laser to Laser": ""
-      }
+       "Betrayed in the Octagon": {
+           "@date": "2007-11-20",
+           "Weird Times Docking This Orb": "",
+           "Woe Is the Transgression I": "bad",
+           "Behind the Bank": "short",
+           "Eyeballs": "short",
+           "Betrayed in the Octagon": "good",
+           "Woe Is the Transgression II": "",
+           "Parallel Mind Overture": "",
+           "Laser to Laser": ""
+       }
    },
    "Orbital": {
       "Orbital 2": {
@@ -1614,11 +1611,7 @@
          "@date": "1996",
          "Women": "",
          "Motherfucker": "",
-         "Standing Outside a Broken Phone Booth with Money in My Hand": {
-            "rate": "good",
-            "VPY": "604,212",
-            "URL": "https://youtu.be/4XJxFAoiWSY"
-         },
+         "Standing Outside a Broken Phone Booth with Money in My Hand": "good",
          "Who Say": "",
          "The Rise and Fall of Ooo Mau": "",
          "Where the Monkey Meets the Man": "",

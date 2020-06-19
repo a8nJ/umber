@@ -957,10 +957,10 @@
           "@date": "2010-03-19",
           "Rocket": "bad",
           "Believer": "bad",
-          "Alive": "",
-          "Dreaming": "",
-          "Head First": "",
-          "Hunt": "",
+          "Alive": "bad",
+          "Dreaming": "bad",
+          "Head First": "bad",
+          "Hunt": "bad",
           "Shiny and Warm": "",
           "I Wanna Life": "",
           "Voicething": ""
@@ -975,8 +975,8 @@
            "Some People": "bad",
            "A&E": "bad",
            "Cologne Cerrone Houdini": "good",
-           "Caravan Girl": "",
-           "Monster Love": ""
+           "Caravan Girl": "bad",
+           "Monster Love": "bad"
        },
        "Supernature": {
            "@date": "2005-08-22",
