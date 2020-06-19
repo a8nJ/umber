@@ -1,7 +1,7 @@
 {
    "Radiohead": {
        "A Moon Shaped Pool": {
-           "$date": "2016-05-08",
+           "@date": "2016-05-08",
            "Burn the Witch": "",
            "Daydreaming": {
              "id": "TTAU7lLDZYU",
@@ -20,7 +20,7 @@
            "True Love Waits": ""
        },
       "In Rainbows": {
-         "$date": "2007",
+         "@date": "2007",
          "15 Step": "",
          "Bodysnatchers": "",
          "Nude": "",
@@ -33,7 +33,7 @@
          "Videotape": ""
       },
       "Hail to the Thief": {
-         "$date": "2003",
+         "@date": "2003",
          "2 + 2 = 5": "",
          "Sit Down. Stand Up.": "",
          "Sail to the Moon.": "good",
@@ -50,7 +50,7 @@
          "A Wolf at the Door.": ""
       },
       "Amnesiac": {
-         "$date": "2001",
+         "@date": "2001",
          "Packt Like Sardines in a Crushd Tin Box": "",
          "Pyramid Song": "good",
          "Pulk/Pull Revolving Doors": "",
@@ -64,7 +64,7 @@
          "Life in a Glasshouse": ""
       },
       "Kid A": {
-         "$date": "2000",
+         "@date": "2000",
          "Everything in Its Right Place": "good",
          "Kid A": "good",
          "The National Anthem": "good",
@@ -77,7 +77,7 @@
          "Motion Picture Soundtrack": ""
       },
        "OK Computer": {
-           "$date": "1997-05-21",
+           "@date": "1997-05-21",
            "Airbag": "",
            "Paranoid Android": "",
            "Subterranean Homesick Alien": "",
@@ -97,7 +97,7 @@
            "The Tourist": ""
        },
        "The Bends": {
-           "$date": "1995-03-13",
+           "@date": "1995-03-13",
            "Planet Telex": "",
            "The Bends": "",
            "High and Dry": {
@@ -117,7 +117,7 @@
            "Street Spirit (Fade Out)": ""
        },
        "Pablo Honey": {
-           "$date": "1993-02-22",
+           "@date": "1993-02-22",
            "You": "",
            "Creep": {
              "id": "XFkzRNyygfk",
@@ -139,7 +139,7 @@
    },
    "Rage Against the Machine": {
       "The Battle of Los Angeles": {
-         "$date": "1999",
+         "@date": "1999",
          "Testify": "good",
          "Guerrilla Radio": "good",
          "Calm Like a Bomb": "",
@@ -155,7 +155,7 @@
          "No Shelter": ""
       },
       "Evil Empire": {
-         "$date": "1996",
+         "@date": "1996",
          "People of the Sun": "good",
          "Bulls On Parade": "good",
          "Vietnow": "",
@@ -169,7 +169,7 @@
          "Year of tha Boomerang": ""
       },
        "Rage Against the Machine": {
-           "$date": "1992-11-06",
+           "@date": "1992-11-06",
            "Bombtrack": "",
            "Killing in the Name": {
              "id": "bWXazVhlyxQ",
@@ -189,7 +189,7 @@
    },
    "Ratatat": {
       "LP3": {
-         "$date": "2008",
+         "@date": "2008",
          "Shiller": "good",
          "Falcon Jab": "good",
          "Mi Viejo": "short",
@@ -205,7 +205,7 @@
          "Black Heroes": ""
       },
       "Classics": {
-         "$date": "2006",
+         "@date": "2006",
          "Montanita": "bad",
          "Lex": "good",
          "Gettysburg": "bad",
@@ -220,7 +220,7 @@
    },
    "Red Hot Chili Peppers": {
        "The Getaway": {
-           "$date": "2016-06-17",
+           "@date": "2016-06-17",
            "The Getaway": "",
            "Dark Necessities": {
              "id": "Q0oIoR9mLwc",
@@ -241,7 +241,7 @@
            "Dreams of a Samurai": ""
        },
        "I’m With You": {
-           "$date": "2011-08-26",
+           "@date": "2011-08-26",
            "Monarchy of Roses": "",
            "Factory of Faith": "",
            "Brendan’s Death Song": "",
@@ -263,7 +263,7 @@
            "Dance, Dance, Dance": ""
        },
        "Stadium Arcadium": {
-           "$date": "2006-05-05",
+           "@date": "2006-05-05",
            "Dani California": {
              "id": "Sb5aq5HcS1A",
              "views": "237,625,124",
@@ -299,7 +299,7 @@
            "Death of a Martian": ""
        },
        "By the Way": {
-           "$date": "2002-07-09",
+           "@date": "2002-07-09",
            "By the Way": "",
            "Universally Speaking": "",
            "This Is the Place": "",
@@ -323,7 +323,7 @@
            "Venice Queen": ""
        },
        "Californication": {
-           "$date": "1999-06-07",
+           "@date": "1999-06-07",
            "Around the World": "",
            "Parallel Universe": "",
            "Scar Tissue": "",
@@ -346,7 +346,7 @@
            "Road Trippin’": ""
        },
       "One Hot Minute": {
-         "$date": "1995",
+         "@date": "1995",
          "Warped": "",
          "Aeroplane": "good",
          "Deep Kick": "",
@@ -362,7 +362,7 @@
          "Transcending": ""
       },
        "Blood Sugar Sex Magik": {
-           "$date": "1991-09-24",
+           "@date": "1991-09-24",
            "The Power of Equality": "",
            "If You Have to Ask": "",
            "Breaking the Girl": "",
@@ -389,7 +389,7 @@
    },
    "R.E.M.": {
       "Monster": {
-         "$date": "1994",
+         "@date": "1994",
          "What’s the Frequency, Kenneth?": "good",
          "Crush With Eyeliner": "",
          "King of Comedy": "",
@@ -404,14 +404,14 @@
          "You": ""
       },
       "Automatic for the People": {
-         "$date": "1992",
+         "@date": "1992",
          "Man On The Moon": {
             "VPY": "8,055,132",
             "URL": "https://youtu.be/dLxpNiF0YKs"
          }
       },
       "Out of Time": {
-         "$date": "1991",
+         "@date": "1991",
          "Losing My Religion": {
             "VPY": "70,617,941",
             "URL": "https://youtu.be/xwtdhWltSIg"
@@ -419,7 +419,7 @@
          "Shiny Happy People": ""
       },
       "Green": {
-         "$date": "1988",
+         "@date": "1988",
          "Pop Song 89": "",
          "Get Up": "short",
          "You Are the Everything": "",
@@ -448,7 +448,7 @@
    },
    "Róisín Murphy": {
       "Overpowered": {
-         "$date": "2007",
+         "@date": "2007",
          "Overpowered": "good",
          "You Know Me Better": "good",
          "Checkin’ on Me": "good",
@@ -464,7 +464,7 @@
    },
    "Ronald Jenkees": {
       "Disorganized Fun": {
-         "$date": "2009",
+         "@date": "2009",
          "Disorganized Fun": "",
          "Fifteen Fifty": "",
          "Guitar Sound": "",
@@ -484,7 +484,7 @@
    },
    "Roosevelt": {
       "Young Romance": {
-         "$date": "2018",
+         "@date": "2018",
          "Take Me Back": "short",
          "Under the Sun": "bad",
          "Yr Love": "bad",
@@ -499,7 +499,7 @@
          "Getaway": ""
       },
       "Roosevelt": {
-         "$date": "2016",
+         "@date": "2016",
          "Intro": "short",
          "Wait Up": "",
          "Night Moves": "good",
@@ -514,7 +514,7 @@
          "Close": ""
       },
       "Elliot": {
-         "$date": "2013",
+         "@date": "2013",
          "Elliot": "good",
          "Around You": "",
          "Montreal": "good",
@@ -523,7 +523,7 @@
    },
    "Röyksopp": {
       "The Inevitable End": {
-         "$date": "2014",
+         "@date": "2014",
          "Here She Comes Again": {
             "VPY": "20,864,611",
             "URL": "https://youtu.be/rFI4JfbgOSY"
@@ -531,7 +531,7 @@
          "Monument": ""
       },
       "Melody A.M.": {
-         "$date": "2001",
+         "@date": "2001",
          "So Easy": "",
          "Eple": "good",
          "Sparks": "good",
@@ -547,7 +547,7 @@
    "Sade": {
       "$check": "2020-05-05",
       "Soldier of Love": {
-         "$date": "2010",
+         "@date": "2010",
          "The Moon and the Sky": "",
          "Soldier of Love": "good",
          "Morning Bird": "",
@@ -560,7 +560,7 @@
          "The Safest Place": "short"
       },
        "Lovers Rock": {
-           "$date": "1999-11-30",
+           "@date": "1999-11-30",
            "By Your Side": {
              "id": "C8QJmI_V3j4",
              "views": "77,649,658",
@@ -579,7 +579,7 @@
            "It's Only Love That Gets You Through": ""
        },
        "Love Deluxe": {
-           "$date": "1992-10-23",
+           "@date": "1992-10-23",
            "No Ordinary Love": {
              "id": "_WcWHZc8s2I",
              "views": "103,311,966",
@@ -596,7 +596,7 @@
            "Mermaid": ""
        },
       "Stronger Than Pride": {
-         "$date": "1988",
+         "@date": "1988",
          "Love Is Stronger Than Pride": "",
          "Paradise": "good",
          "Nothing Can Come Between Us": "good",
@@ -609,7 +609,7 @@
          "Siempre Hay Esperanza": ""
       },
       "Promise": {
-         "$date": "1985",
+         "@date": "1985",
          "Is It a Crime": "good",
          "The Sweetest Taboo": "good",
          "War of the Hearts": "",
@@ -623,7 +623,7 @@
          "Maureen": ""
       },
       "Diamond Life": {
-         "$date": "1984",
+         "@date": "1984",
          "Smooth Operator": "good",
          "Your Love Is King": "good",
          "Hang on to Your Love": "bad",
@@ -637,7 +637,7 @@
    },
    "Saint Etienne": {
       "Tales From Turnpike House": {
-         "$date": "2005",
+         "@date": "2005",
          "Side Streets": "short",
          "A Good Thing": "bad",
          "Sun in My Morning": "short",
@@ -653,7 +653,7 @@
          "Goodnight": "good"
       },
       "Tiger Bay": {
-         "$date": "1994",
+         "@date": "1994",
          "Urban Clearway": "",
          "Former Lover": "good",
          "Hug My Soul": "",
@@ -667,7 +667,7 @@
          "The Boy Scouts of America": "short"
       },
       "So Tough": {
-         "$date": "1993",
+         "@date": "1993",
          "Mario’s Cafe": "bad",
          "Railway Jam": "bad",
          "Date With Spelman": "short",
@@ -687,7 +687,7 @@
          "Join Our Club": ""
       },
       "Foxbase Alpha": {
-         "$date": "1991",
+         "@date": "1991",
          "This Is Radio Etienne": "short",
          "Only Love Can Break Your Heart": "good",
          "Wilson": "short",
@@ -705,7 +705,7 @@
    },
    "Samaris": {
       "Black Lights": {
-         "$date": "2016",
+         "@date": "2016",
          "Wanted 2 Say": "",
          "Black Lights": "",
          "Gradient Sky": "short",
@@ -717,7 +717,7 @@
          "In Deep": "good"
       },
       "Silkidrangar": {
-         "$date": "2014",
+         "@date": "2014",
          "Nótt": "good",
          "Ég vildi fegin verða": "",
          "Lífsins ólgusjór": "",
@@ -732,7 +732,7 @@
    },
    "Sarah McLachLan": {
        "Surfacing": {
-           "$date": "1997-07-15",
+           "@date": "1997-07-15",
            "Building A Mystery": "",
            "I Love You": "",
            "Sweet Surrender": "",
@@ -765,7 +765,7 @@
    },
    "Seal": {
       "Seal (II)": {
-         "$date": "1994",
+         "@date": "1994",
          "Bring It On": "",
          "Prayer for the Dying": "",
          "Dreaming in Metaphors": "",
@@ -779,7 +779,7 @@
          "Bring It On (reprise)": "short"
       },
       "Seal": {
-         "$date": "1991",
+         "@date": "1991",
          "The Beginning": "",
          "Deep Water": "",
          "Crazy": "good",
@@ -842,7 +842,7 @@
    },
    "Simian Mobile Disco": {
       "Unpatterns": {
-         "$date": "2012",
+         "@date": "2012",
          "I Waited for You": "",
          "Cerulean": "",
          "Seraphim": "good",
@@ -854,7 +854,7 @@
          "Pareidolia": ""
       },
       "Attack Decay Sustain Release": {
-         "$date": "2007",
+         "@date": "2007",
          "Sleep Deprivation": "",
          "I Got This Down": "",
          "It’s the Beat": "",
@@ -878,7 +878,7 @@
    },
    "Simple Minds": {
       "Street Fighting Years": {
-         "$date": "1989",
+         "@date": "1989",
          "Street Fighting Years": "",
          "Soul Crying Out": "bad",
          "Wall of Love": "bad",
@@ -895,7 +895,7 @@
          "When Spirits Rise": "short"
       },
       "Don’t You (Forget About Me)": {
-         "$date": "1985-03-19",
+         "@date": "1985-03-19",
          "Don’t You": {
             "VPY": "15,707,580",
             "URL": "https://youtu.be/CdqoNKCCt7A"
@@ -904,7 +904,7 @@
    },
    "Solar Fields": {
       "Mirror’s Edge Catalyst": {
-         "$date": "2016",
+         "@date": "2016",
          "Faith": "",
          "Release": "",
          "Birdman": "short",
@@ -939,7 +939,7 @@
          "Catalyst": ""
       },
       "BLUE": {
-         "$date": "2014-06-06",
+         "@date": "2014-06-06",
          "Life": "",
          "Good Times": "",
          "Air Song (remix)": "",
@@ -952,7 +952,7 @@
          "In Motion (Good Morning edit)": ""
       },
       "GREEN": {
-         "$date": "2014-06-05",
+         "@date": "2014-06-05",
          "Level Out": "",
          "Magic Eye (remix)": "",
          "Sol (remix)": "good",
@@ -965,7 +965,7 @@
          "Third Time (T version)": ""
       },
       "RED": {
-         "$date": "2014-06-04",
+         "@date": "2014-06-04",
          "Jeezlh": "bad",
          "Velvet Reptile": "good",
          "Confusion Illusion": "",
@@ -980,7 +980,7 @@
    },
    "Soul for Real": {
        "Candy Rain": {
-           "$date": "1995-03-28",
+           "@date": "1995-03-28",
            "Candy Rain": "",
            "Every Little Thing I Do": "good",
            "All in My Mind": "",
@@ -996,7 +996,7 @@
    },
    "Soul II Soul": {
        "Club Classics, Volume One": {
-           "$date": "1989-04-10",
+           "@date": "1989-04-10",
            "Keep On Movin’": "",
            "Fairplay": "",
            "Holdin’ On (Bambelela)": "",
@@ -1020,7 +1020,7 @@
    },
    "Spandau Ballet": {
       "Through the Barricades": {
-         "$date": "1986",
+         "@date": "1986",
          "Barricades – Introduction": "short",
          "Cross the Line": "bad",
          "Man in Chains": "bad",
@@ -1036,7 +1036,7 @@
          }
       },
       "True": {
-         "$date": "1983",
+         "@date": "1983",
          "Gold": "",
          "True": {
             "VPY": "10,846,841",
@@ -1046,7 +1046,7 @@
    },
    "Squarepusher": {
       "Solo Electric Bass 1": {
-         "$date": "2009-08-17",
+         "@date": "2009-08-17",
          "SEB-1.01": "short",
          "SEB-1.09": "good",
          "SEB-1.10": "short",
@@ -1061,7 +1061,7 @@
          "SEB-1.12": ""
       },
       "Numbers Lucent": {
-         "$date": "2009-01-19",
+         "@date": "2009-01-19",
          "Zounds Perspex": "bad",
          "Paradise Garage": "bad",
          "Heliacal Torch": "bad",
@@ -1070,13 +1070,13 @@
          "Illegal Dustbin": "bad"
       },
        "Venus No. 17": {
-           "$date": "2004-07-12",
+           "@date": "2004-07-12",
            "Venus No. 17": "",
            "Venus No. 17 (Acid mix)": "",
            "Tundra 4": "bad"
        },
        "Ultravisitor": {
-           "$date": "2004-03-08",
+           "@date": "2004-03-08",
            "Ultravisitor": "",
            "I Fulcrum": "",
            "Iambic 9 Poetry": "good",
@@ -1094,7 +1094,7 @@
            "Every Day I Love": "short"
        },
        "Selection Sixteen": {
-           "$date": "1999-11-08",
+           "@date": "1999-11-08",
            "The 'Eye": "short",
            "Square Rave": "bad",
            "Time Borb": "short",
@@ -1114,7 +1114,7 @@
            "Ceephax Mix (remixed by Andy Jenkinson)": ""
        },
        "Music Is Rotted One Note": {
-           "$date": "1998-10-12",
+           "@date": "1998-10-12",
            "Chunk-S": "short",
            "Don’t Go Plastic": "bad",
            "Dust Switch": "bad",
@@ -1132,7 +1132,7 @@
            "Last Ap Roach": ""
        },
       "Hard Normal Daddy": {
-         "$date": "1997",
+         "@date": "1997",
          "Coopers World": "",
          "Beep Street": "good",
          "Rustic Raver": "",
@@ -1147,7 +1147,7 @@
          "Rebus": "short"
       },
       "Feed Me Weird Things": {
-          "$date": "1996-06-03",
+          "@date": "1996-06-03",
           "Squarepusher Theme": "bad",
           "Tundra": "",
           "The Swifty": "",
@@ -1164,7 +1164,7 @@
    },
    "St. Germain": {
       "Tourist": {
-         "$date": "2000",
+         "@date": "2000",
          "Rose Rouge": "good",
          "Montego Bay Spleen": "",
          "So Flute": "",
@@ -1176,7 +1176,7 @@
          "What You Think About": ""
       },
       "Boulevard the Complete Series": {
-         "$date": "1995",
+         "@date": "1995",
          "Deep in It": "",
          "Thank U Mum (4 Everything You Did)": "good",
          "Street Scene (4 Shazz)": "",
@@ -1224,7 +1224,7 @@
    },
    "Steve Roach": {
       "Desert Solitaire": {
-         "$date": "1989",
+         "@date": "1989",
          "Flatlands": "bad",
          "Labyrinth": "bad",
          "Specter": "",
@@ -1238,7 +1238,7 @@
          "Desert Solitaire": ""
       },
       "Dreamtime Return": {
-          "$date": "1988-06-08",
+          "@date": "1988-06-08",
           "Towards the Dream": "good",
           "The Continent": "",
           "Songline": "",
@@ -1255,7 +1255,7 @@
           "The Return": ""
       },
       "Quiet Music 2": {
-         "$date": "1986",
+         "@date": "1986",
          "See Things": "",
          "Towards the Blue": "",
          "Something in Tears": "",
@@ -1265,7 +1265,7 @@
    },
    "Sting": {
       "Ten Summoner's Tales": {
-          "$date": "1993-03-09",
+          "@date": "1993-03-09",
           "If I Ever Lose My Faith in You": "",
           "Love Is Stronger Than Justice (The Munificent Seven)": "",
           "Fields of Gold": "",
@@ -1284,7 +1284,7 @@
    },
    "Stone Temple Pilots": {
       "Tiny Music… Songs From the Vatican Gift Shop": {
-          "$date": "1996-03-26",
+          "@date": "1996-03-26",
           "Press Play": "short",
           "Pop’s Love Suicide": "",
           "Tumble in the Rough": "",
@@ -1299,7 +1299,7 @@
           "Seven Caged Tigers": ""
       },
       "Purple": {
-         "$date": "1994",
+         "@date": "1994",
          "Meatplow": "",
          "Vasoline": "short",
          "Lounge Fly": "",
@@ -1313,7 +1313,7 @@
          "Kitchenware & Candybars / My Second Album": ""
       },
       "Core": {
-         "$date": "1992",
+         "@date": "1992",
          "Dead & Bloated": "",
          "Sex Type Thing": "",
          "Wicked Garden": "",
@@ -1342,7 +1342,7 @@
    },
    "Suzanne Vega": {
        "Nine Objects of Desire": {
-           "$date": "1996-09-10",
+           "@date": "1996-09-10",
            "Birth-day (Love Made Real)": "",
            "Headshots": "bad",
            "Caramel": "short",
@@ -1357,7 +1357,7 @@
            "My Favorite Plum": "short"
        },
       "99.9 F°": {
-          "$date": "1992-09-08",
+          "@date": "1992-09-08",
           "Rock in This Pocket (Song of David)": "bad",
           "Blood Makes Noise": "short",
           "In Liverpool": "bad",
@@ -1372,7 +1372,7 @@
           "Song of Sand": ""
       },
       "Days of Open Hand": {
-         "$date": "1990",
+         "@date": "1990",
          "Tired of Sleeping": "bad",
          "Men in a War": "bad",
          "Rusted Pipe": "bad",
@@ -1386,7 +1386,7 @@
          "Pilgrimage": "good"
       },
       "Solitude Standing": {
-         "$date": "1987-04",
+         "@date": "1987-04",
          "Tom’s Diner": "good",
          "Luka": "",
          "Ironbound / Fancy Poultry": "",
@@ -1400,7 +1400,7 @@
          "Tom’s Diner (reprise)": "short"
       },
       "Suzanne Vega": {
-         "$date": "1985",
+         "@date": "1985",
          "Cracking": "short",
          "Freeze Tag": "short",
          "Marlene on the Wall": "bad",
@@ -1415,7 +1415,7 @@
    },
    "System of a Down": {
        "Hypnotize": {
-           "$date": "2005-11-18",
+           "@date": "2005-11-18",
            "Attack": "",
            "Dreaming": "",
            "Kill Rock ’n Roll": "short",
@@ -1435,7 +1435,7 @@
            "Soldier Side": ""
        },
        "Mezmerize": {
-           "$date": "2005-05-16",
+           "@date": "2005-05-16",
            "Soldier Side (intro)": "short",
            "B.Y.O.B.": "",
            "Revenga": "",
@@ -1454,7 +1454,7 @@
            "Lost in Hollywood": ""
        },
        "Toxicity": {
-           "$date": "2001-08-27",
+           "@date": "2001-08-27",
            "Prison Song": "",
            "Needles": "",
            "Deer Dance": "short",
@@ -1476,7 +1476,7 @@
            "Aerials / Arto": ""
        },
        "System of a Down": {
-           "$date": "1998-06-30",
+           "@date": "1998-06-30",
            "Suite-Pee": "short",
            "Know": "",
            "Sugar": {
