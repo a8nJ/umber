@@ -1,7 +1,7 @@
 {
    "Daft Punk": {
        "Random Access Memories": {
-           "$date": "2013-05-17",
+           "@date": "2013-05-17",
            "Give Life Back to Music": "",
            "The Game of Love": "",
            "Giorgio by Moroder": "",
@@ -22,7 +22,7 @@
            "Contact": ""
        },
       "TRON Legacy": {
-         "$date": "2010",
+         "@date": "2010",
          "Overture": "short",
          "The Grid": "short",
          "The Son of Flynn": "short",
@@ -47,7 +47,7 @@
          "Finale": ""
       },
       "Alive 2007": {
-         "$date": "2007",
+         "@date": "2007",
          "Robot Rock / Oh Yeah": "",
          "Touch It / Technologic": "",
          "Television Rules the Nation / Crescendolls": "",
@@ -63,7 +63,7 @@
          "Human After All/Together/One More Time/Music Sounds Better With You": "good"
       },
       "Human After All": {
-         "$date": "2005",
+         "@date": "2005",
          "Human After All": "bad",
          "The Prime Time of Your Life": "bad",
          "Robot Rock": "bad",
@@ -76,7 +76,7 @@
          "Emotion": ""
       },
        "Discovery": {
-           "$date": "2001-02-26",
+           "@date": "2001-02-26",
            "One More Time": {
                "id": "FGBhQbmPwH8",
                "views": "231,899,105",
@@ -98,7 +98,7 @@
            "Too Long": ""
        },
        "Homework": {
-           "$date": "1996",
+           "@date": "1996",
            "Daftendirekt": "short",
            "WDPK 83.7 FM": "short",
            "Revolution 909": "",
@@ -119,7 +119,7 @@
    },
    "Dan Hess": {
       "Pilotwings 64": {
-         "$date": "1996",
+         "@date": "1996",
          "Hang Glider": "good",
          "Rocket Belt": "good",
          "Gyrocopter": "",
@@ -130,7 +130,7 @@
    },
    "Daniel Lanois": {
       "Acadie": {
-         "$date": "1989",
+         "@date": "1989",
          "Still Water": "",
          "The Maker": "",
          "O Marie": "",
@@ -147,7 +147,7 @@
    },
    "Dave Matthews Band": {
       "Stand Up": {
-         "$date": "2005",
+         "@date": "2005",
          "Dreamgirl": "",
          "Old Dirt Hill (Bring That Beat Back)": "",
          "Stand Up (for It)": "",
@@ -164,7 +164,7 @@
          "Hunger for the Great Light": ""
       },
       "Busted Stuff": {
-         "$date": "2002",
+         "@date": "2002",
          "Busted Stuff": "bad",
          "Grey Street": "good",
          "Where Are You Going?": "",
@@ -178,7 +178,7 @@
          "Bartender": ""
       },
       "Everyday": {
-         "$date": "2001",
+         "@date": "2001",
          "I Did It": "bad",
          "When the World Ends": "bad",
          "The Space Between": "bad",
@@ -193,7 +193,7 @@
          "Everyday": ""
       },
       "Before These Crowded Streets": {
-         "$date": "1998",
+         "@date": "1998",
          "Pantala Naga Pampa": "short",
          "Rapunzel": "bad",
          "The Last Stop": "bad",
@@ -207,7 +207,7 @@
          "Spoon": ""
       },
       "Crash": {
-         "$date": "1996",
+         "@date": "1996",
          "So Much to Say": "good",
          "Two Step": "",
          "Crash Into Me": "good",
@@ -222,7 +222,7 @@
          "Proudest Monkey": ""
       },
       "Under the Table and Dreaming": {
-         "$date": "1994",
+         "@date": "1994",
          "The Best of What’s Around": "",
          "What Would You Say": "good",
          "Satellite": "",
@@ -239,7 +239,7 @@
    },
    "David Bowie": {
        "★": {
-           "$date": "2016-01-08",
+           "@date": "2016-01-08",
            "Blackstar": "",
            "’Tis a Pity She Was a Whore": "",
            "Lazarus": {
@@ -254,7 +254,7 @@
            "I Can’t Give Everything Away": ""
        },
        "Let’s Dance": {
-           "$date": "1983-04-14",
+           "@date": "1983-04-14",
            "Modern Love": "",
            "China Girl": "",
            "Let’s Dance": "good",
@@ -265,7 +265,7 @@
            "Shake It": ""
        },
        "“Heroes”": {
-           "$date": "1977-10-14",
+           "@date": "1977-10-14",
            "Beauty and the Beast": "",
            "Joe the Lion": "",
            "“Heroes”": {
@@ -283,7 +283,7 @@
            "The Secret Life of Arabia": ""
        },
        "David Bowie": {
-           "$date": "1969-11-04",
+           "@date": "1969-11-04",
            "Space Oddity": {
              "id": "iYYRH4apXDo",
              "views": "57,894,465",
@@ -303,7 +303,7 @@
    },
    "Dee Montero": {
       "Headspace": {
-          "$date": "2018-11-02",
+          "@date": "2018-11-02",
           "Headspace (edit)": "",
           "Headspace (beatless mix)": "",
           "Rise (edit)": "",
@@ -315,14 +315,14 @@
    },
    "Depeche Mode": {
       "Spirit": {
-         "$date": "2017",
+         "@date": "2017",
          "Where’s the Revolution": {
             "VPY": "8,644,886",
             "URL": "https://youtu.be/jsCR05oKROA"
          }
       },
       "Ultra": {
-         "$date": "1997",
+         "@date": "1997",
          "Barrel of a Gun": "bad",
          "The Love Thieves": "bad",
          "Home": "bad",
@@ -341,7 +341,7 @@
          "Junior Painkiller": "short"
       },
       "Violator": {
-         "$date": "1990",
+         "@date": "1990",
          "Enjoy The Silence": "",
          "Personal Jesus": {
             "VPY": "9,479,143",
@@ -349,14 +349,14 @@
          }
       },
       "Music for the Masses": {
-         "$date": "1987",
+         "@date": "1987",
          "Depeche Mode - Strangelove (Official Video)": {
              "URL": "https://youtu.be/JIrm0dHbCDU",
              "VPY": "7,162,504"
          }
       },
       "Speak & Spell": {
-         "$date": "1981",
+         "@date": "1981",
          "New Life": "bad",
          "Puppets": "bad",
          "Dreaming of Me": "bad",
@@ -372,7 +372,7 @@
    },
    "Dirty Projectors": {
       "Bitte Orca": {
-         "$date": "2009",
+         "@date": "2009",
          "Cannibal Resource": "good",
          "Temecula Sunrise": "good",
          "The Bride": "short",
@@ -390,7 +390,7 @@
    },
    "Dirty Vegas": {
       "Dirty Vegas": {
-         "$date": "2002",
+         "@date": "2002",
          "I Should Know": "",
          "Ghosts": "",
          "Lost Not Found": "",
@@ -411,7 +411,7 @@
    },
    "Disturbed": {
       "Evolution": {
-         "$date": "2018",
+         "@date": "2018",
          "A Reason To Fight": {
             "VPY": "16,779,619",
             "URL": "https://youtu.be/t4382UVl0oc"
@@ -426,21 +426,21 @@
          "The Vengeful One": ""
       },
       "Immortalized": {
-         "$date": "2015",
+         "@date": "2015",
          "The Sound of Silence": {
             "VPY": "153,992,522",
             "URL": "https://youtu.be/u9Dg-g7t2l4"
          }
       },
       "Ten Thousand Fists": {
-         "$date": "2005",
+         "@date": "2005",
          "Disturbed - Stricken [Official Music Video]": {
              "URL": "https://youtu.be/3moLkjvhEu0",
              "VPY": "6,201,684"
          }
       },
        "The Sickness": {
-           "$date": "2000-03-07",
+           "@date": "2000-03-07",
            "Voices": "",
            "The Game": "",
            "Stupify": "",
@@ -462,7 +462,7 @@
    },
    "Doe Paoro": {
       "After": {
-         "$date": "2015",
+         "@date": "2015",
          "Traveling": "good",
          "Nostalgia": "bad",
          "Growth/Decay": "good",
@@ -475,7 +475,7 @@
          "Wake Up in Nowhere": ""
       },
       "Slow to Love": {
-         "$date": "2012",
+         "@date": "2012",
          "Intro": "short",
          "Born Whole": "bad",
          "I’ll Go Blind": "bad",
@@ -489,7 +489,7 @@
    },
    "Dr. Dre": {
       "2001": {
-         "$date": "1999",
+         "@date": "1999",
          "Forgot About Dre": "",
          "Still D.R.E.": {
             "VPY": "82,605,839",
@@ -498,7 +498,7 @@
          "The Next Episode": ""
       },
       "The Chronic": {
-         "$date": "1992",
+         "@date": "1992",
          "The Chronic (intro)": "short",
          "Fuck Wit Dre Day (And Everybody’s Celebratin’)": "",
          "Let Me Ride": "",
@@ -523,7 +523,7 @@
    },
    "Duke Ellington": {
       "Money Jungle": {
-         "$date": "1962",
+         "@date": "1962",
          "Money Jungle": "",
          "Fleurette Africaine": "good",
          "Very Special": "",
@@ -533,7 +533,7 @@
          "Solitude": "good"
       },
       "First Time! The Count Meets the Duke": {
-         "$date": "1961",
+         "@date": "1961",
          "Battle Royal": "",
          "To You": "good",
          "Take the “A” Train": "",
@@ -546,14 +546,14 @@
    },
    "Duran Duran": {
       "Duran Duran (The Wedding Album)": {
-         "$date": "1993",
+         "@date": "1993",
          "Duran Duran - Come Undone (Official Music Video)": {
              "URL": "https://youtu.be/Epj84QVw2rc",
              "VPY": "33,404,703"
          }
       },
       "Notorious": {
-         "$date": "1986",
+         "@date": "1986",
          "Notorious": "bad",
          "American Science": "bad",
          "Skin Trade": "bad",
@@ -568,7 +568,7 @@
    },
    "Eddie Money": {
       "Can’t Hold Back": {
-         "$date": "1985",
+         "@date": "1985",
          "Take Me Home Tonight": "good",
          "One Love": "",
          "I Wanna Go Back": "",
@@ -583,12 +583,12 @@
    },
    "Ekkah": {
       "Can’t Give It Up / Figure It Out (Night Edit)": {
-         "$date": "2016",
+         "@date": "2016",
          "Can’t Give It Up": "short",
          "Figure It Out (Night Edit)": "good"
       },
       "Last Chance to Dance": {
-         "$date": "2014",
+         "@date": "2014",
          "LAST CHANCE TO DANCE": {
             "rate": "good",
             "VPY": "50,372",
@@ -601,7 +601,7 @@
    },
    "Eli & Fur": {
       "Night Blooming Jasmine": {
-         "$date": "2018",
+         "@date": "2018",
          "Night Blooming Jasmine": "good",
          "Something Was Real": "",
          "Parfume": "",
@@ -609,18 +609,18 @@
          "Parfume (extended mix)": ""
       },
       "Chlo / Wendy Legs": {
-          "$date": "2017-03-17",
+          "@date": "2017-03-17",
           "Chlo": "",
           "Wendy Legs": "",
           "Chlo (extended mix)": "good",
           "Wendy Legs (extended mix)": ""
       },
       "Your Eyes": {
-          "$date": "2015-07-10",
+          "@date": "2015-07-10",
           "Your Eyes": "good"
       },
       "Illusions": {
-         "$date": "2013",
+         "@date": "2013",
          "Eli & Fur - You're So High": {
              "URL": "https://youtu.be/3GEqdbh8sFI",
              "VPY": "13,008,776"
@@ -629,7 +629,7 @@
    },
    "Elton John": {
       "Madman Across the Water": {
-         "$date": "1971",
+         "@date": "1971",
          "Tiny Dancer": {
             "VPY": "978,086,517",
             "URL": "https://youtu.be/S3vO8E2e6G0"
@@ -639,7 +639,7 @@
    "Emilíana Torrini": {
       "$check": "2020-05-15",
       "Tookah": {
-         "$date": "2013",
+         "@date": "2013",
          "Tookah": "bad",
          "Caterpillar": "bad",
          "Autumn Sun": "bad",
@@ -651,7 +651,7 @@
          "When Fever Breaks": ""
       },
       "Me and Armini": {
-         "$date": "2008",
+         "@date": "2008",
          "Fireheads": "",
          "Me and Armini": "good",
          "Birds": "",
@@ -666,7 +666,7 @@
          "Bleeder": ""
       },
       "Fisherman’s Woman": {
-         "$date": "2005",
+         "@date": "2005",
          "Nothing Brings Me Down": "bad",
          "Sunny Road": "good",
          "Snow": "short",
@@ -681,7 +681,7 @@
          "Serenade": ""
       },
       "Love in the Time of Science": {
-         "$date": "1999",
+         "@date": "1999",
          "To Be Free": "bad",
          "Wednesday’s Child": "good",
          "Baby Blue": "bad",
@@ -697,7 +697,7 @@
    },
    "Empress Of": {
       "I’m Your Empress Of": {
-          "$date": "2020-04-03",
+          "@date": "2020-04-03",
           "I’m Your Empress Of": "short",
           "Bit of Rain": "bad",
           "Void": "bad",
@@ -712,7 +712,7 @@
           "Awful": "short"
       },
       "Us": {
-         "$date": "2018",
+         "@date": "2018",
          "Everything to Me": "short",
          "Just the Same": "bad",
          "Trust Me Baby": "",
@@ -725,11 +725,11 @@
          "Again": ""
       },
       "Woman Is a Word": {
-         "$date": "2016",
+         "@date": "2016",
          "Woman Is a Word": "good"
       },
       "Me": {
-         "$date": "2015",
+         "@date": "2015",
          "Everything Is You": "bad",
          "Water Water": "bad",
          "Standard": "good",
@@ -742,14 +742,14 @@
          "Icon": "bad"
       },
       "Systems": {
-         "$date": "2013-08-16",
+         "@date": "2013-08-16",
          "Hat Trick": "bad",
          "No Means No": "bad",
          "Tristeza": "bad",
          "Camisa Favorita": "bad"
       },
       "Colorminutes": {
-         "$date": "2013-01-11",
+         "@date": "2013-01-11",
          "1": "short",
          "2": "short",
          "3": "short",
@@ -769,7 +769,7 @@
    },
    "Enya": {
       "A Day Without Rain": {
-         "$date": "2000",
+         "@date": "2000",
          "Only Time": {
             "VPY": "12,250,684",
             "URL": "https://youtu.be/7wfYIMyS_dI"
@@ -778,7 +778,7 @@
    },
    "Everything but the Girl": {
       "Temperamental": {
-         "$date": "1999",
+         "@date": "1999",
          "Five Fathoms": "good",
          "Low Tide of the Night": "",
          "Blame": "",
@@ -791,7 +791,7 @@
          "The Future of the Future (Stay Gold)": ""
       },
       "Amplified Heart": {
-         "$date": "1994",
+         "@date": "1994",
          "Rollercoaster": "",
          "Troubled Mind": "",
          "I Don’t Understand Anything": "",
@@ -808,7 +808,7 @@
          "Disenchanted": "short"
       },
       "Acoustic": {
-         "$date": "1992",
+         "@date": "1992",
          "Love Is Strange": "",
          "Tougher Than the Rest": "",
          "Time After Time": "",
@@ -822,7 +822,7 @@
          "Fascination (live)": ""
       },
       "Worldwide": {
-         "$date": "1991",
+         "@date": "1991",
          "Old Friends": "",
          "Understanding": "",
          "You Lift Me Up": "",
@@ -836,7 +836,7 @@
          "Feel Alright": "short"
       },
       "The Language of Life": {
-         "$date": "1990",
+         "@date": "1990",
          "Driving": "good",
          "Get Back Together": "",
          "Meet Me in the Morning": "",
