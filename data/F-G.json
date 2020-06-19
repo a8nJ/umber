@@ -881,40 +881,42 @@
       }
    },
    "Gnarls Barkley": {
-      "St. Elsewhere": {
-         "Go‐Go Gadget Gospel": "short",
-         "Gnarls Barkley - Crazy": {
-             "URL": "https://youtu.be/Qe500eIK1oA",
-             "VPY": "10,738,279"
+       "St. Elsewhere": {
+           "@date": "2006-04-24",
+           "Go‐Go Gadget Gospel": "short",
+           "Crazy": {
+             "id": "bd2B6SjMh_w",
+             "views per year": "10,164,838"
          },
-         "St. Elsewhere": "short",
-         "Gone Daddy Gone": "short",
-         "Smiley Faces": "",
-         "The Boogie Monster": "short",
-         "Feng Shui": "short",
-         "Just a Thought": "",
-         "Transformer": "short",
-         "Who Cares?": "short",
-         "On Line": "short",
-         "Necromancer": "short",
-         "Storm Coming": "",
-         "The Last Time": ""
-      },
-      "The Odd Couple": {
-         "Charity Case": "",
-         "Who’s Gonna Save My Soul": "good",
-         "Going On": "short",
-         "Run (I’m a Natural Disaster)": "short",
-         "Would Be Killer": "short",
-         "Open Book": "",
-         "Whatever": "short",
-         "Surprise": "",
-         "No Time Soon": "short",
-         "She Knows": "short",
-         "Blind Mary": "",
-         "Neighbors": "",
-         "A Little Better": ""
-      }
+           "St. Elsewhere": "short",
+           "Gone Daddy Gone": "short",
+           "Smiley Faces": "",
+           "The Boogie Monster": "short",
+           "Feng Shui": "short",
+           "Just a Thought": "",
+           "Transformer": "short",
+           "Who Cares?": "short",
+           "Online": "short",
+           "Necromancer": "short",
+           "Storm Coming": "",
+           "The Last Time": ""
+       },
+       "The Odd Couple": {
+           "@date": "2008-03-18",
+           "Charity Case": "",
+           "Who’s Gonna Save My Soul": "good",
+           "Going On": "short",
+           "Run (I’m a Natural Disaster)": "short",
+           "Would Be Killer": "short",
+           "Open Book": "",
+           "Whatever": "short",
+           "Surprise": "",
+           "No Time Soon": "short",
+           "She Knows": "short",
+           "Blind Mary": "",
+           "Neighbors": "",
+           "A Little Better": ""
+       }
    },
    "Goldfrapp": {
       "$check": "2020-05-03",
@@ -1016,42 +1018,45 @@
            "Horse Tears": "good",
            "Pilots (on a Star)": "bad",
            "U.K. Girls (Physical)": "good",
-           "Lovely Head (Miss World mix)": "",
-           "Utopia (New Ears mix)": "",
-           "Human (Calexico vocal)": "",
-           "Human (Massey’s Cro‐Magnon mix)": "",
            "Utopia (Tom Middleton’s Cosmos vocal mix)": "good"
        }
    },
    "Goo Goo Dolls": {
-      "Dizzy Up the Girl": {
-         "@date": "1998",
-         "Iris": {
-            "VPY": "19,820,856",
-            "URL": "https://youtu.be/NdYWuo9OFAw"
+       "Dizzy Up the Girl": {
+           "@date": "1998-09-22",
+           "Dizzy": "short",
+           "Slide": "",
+           "Broadway": "",
+           "January Friend": "short",
+           "Black Balloon": "",
+           "Bullet Proof": "",
+           "Amigone": "",
+           "All Eyes on Me": "",
+           "Full Forever": "short",
+           "Acoustic #3": "short",
+           "Iris": {
+             "id": "NdYWuo9OFAw",
+             "views per year": "22,787,268"
          },
-         "Slide": ""
-      },
-      "A Boy Named Goo": {
-         "@date": "1995",
-         "Long Way Down": "good",
-         "Burnin’ Up": "short",
-         "Naked": "",
-         "Flat Top": "",
-         "Impersonality": "short",
-         "Name": {
-            "rate": "good",
-            "VPY": "1,047,005",
-            "URL": "https://youtu.be/LyG3wkwKXro"
-         },
-         "Only One": "",
-         "Somethin’ Bad": "short",
-         "Ain’t That Unusual": "",
-         "So Long": "short",
-         "Eyes Wide Open": "",
-         "Disconnected": "",
-         "Slave Girl": "short"
-      }
+           "Extra Pale": "short",
+           "Hate This Place": ""
+       },
+       "A Boy Named Goo": {
+           "@date": "1994-03-15",
+           "Long Way Down": "good",
+           "Burnin' Up": "short",
+           "Naked": "",
+           "Flat Top": "",
+           "Impersonality": "short",
+           "Name": "good",
+           "Only One": "",
+           "Somethin' Bad": "short",
+           "Ain't That Unusual": "",
+           "So Long": "short",
+           "Eyes Wide Open": "",
+           "Disconnected": "",
+           "Slave Girl": "short"
+       }
    },
    "Gorillaz": {
       "The Now Now": {
