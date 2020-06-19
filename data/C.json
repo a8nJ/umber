@@ -1,7 +1,7 @@
 {
    "Cake": {
       "Fashion Nugget": {
-         "$date": "1996",
+         "@date": "1996",
          "Frank Sinatra": "good",
          "The Distance": "",
          "Friend Is a Four Letter Word": "",
@@ -20,7 +20,7 @@
    },
    "Can": {
       "Ege Bamyasi": {
-         "$date": "1972",
+         "@date": "1972",
          "Pinch": "",
          "Sing Swan Song": "",
          "One More Night": "",
@@ -32,7 +32,7 @@
    },
    "Cassie": {
        "Cassie": {
-           "$date": "2006-08-08",
+           "@date": "2006-08-08",
            "Me&U": {
              "id": "zVJ5gsLeCSM",
              "views": "71,685,439",
@@ -53,7 +53,7 @@
    },
    "Chet Faker": {
       "Built on Glass": {
-         "$date": "2014",
+         "@date": "2014",
          "1998": "",
          "Gold": {
             "VPY": "40,403,436",
@@ -63,14 +63,14 @@
    },
    "Chicago": {
       "Chicago 17": {
-         "$date": "1984",
+         "@date": "1984",
          "You’re The Inspiration": {
             "VPY": "7,406,342",
             "URL": "https://youtu.be/wM-XhQeFzW4"
          }
       },
       "Chicago X": {
-         "$date": "1976",
+         "@date": "1976",
          "Once or Twice": "",
          "You Are on My Mind": "",
          "Skin Tight": "",
@@ -88,7 +88,7 @@
          "Hope for Love": ""
       },
       "Chicago V": {
-         "$date": "1972",
+         "@date": "1972",
          "A Hit by Varèse": "",
          "All Is Well": "",
          "Now That You’ve Gone": "",
@@ -101,7 +101,7 @@
          "Alma Mater": ""
       },
       "Chicago II": {
-         "$date": "1969",
+         "@date": "1969",
          "Movin’ In": "",
          "The Road": "",
          "Poem for the People": "",
@@ -129,7 +129,7 @@
    },
    "Chicane": {
        "Somersault": {
-           "$date": "2007-07-23",
+           "@date": "2007-07-23",
            "Stoned in Love": "bad",
            "U R Always": "bad",
            "Come Tomorrow": "bad",
@@ -142,7 +142,7 @@
            "Time of Your Life": "short"
        },
       "Behind the Sun": {
-         "$date": "2000",
+         "@date": "2000",
          "Overture": "good",
          "Low Sun": "good",
          "No Ordinary Morning": "bad",
@@ -155,7 +155,7 @@
          "Andromeda": "bad"
       },
       "Far From the Maddening Crowds": {
-         "$date": "1997",
+         "@date": "1997",
          "Early": "",
          "Already There": "short",
          "Offshore (original mix)": "",
@@ -171,7 +171,7 @@
    },
    "Childish Gambino": {
       "Awaken, My Love!": {
-         "$date": "2016",
+         "@date": "2016",
          "Me and Your Mama": "",
          "Redbone": {
             "VPY": "130,783,298",
@@ -179,7 +179,7 @@
          }
       },
       "Because the Internet": {
-         "$date": "2013",
+         "@date": "2013",
          "3005": "",
          "Sweatpants": {
             "VPY": "25,128,289",
@@ -188,7 +188,7 @@
          "Telegraph Ave": ""
       },
       "Camp": {
-         "$date": "2011",
+         "@date": "2011",
          "Outside": "bad",
          "Fire Fly": "bad",
          "Bonfire": "bad",
@@ -206,14 +206,14 @@
    },
    "Chris Isaak": {
       "Heart Shaped World": {
-         "$date": "1989",
+         "@date": "1989",
          "Wicked Game": {
             "VPY": "9,828,608",
             "URL": "https://youtu.be/ib6VAJbEBjg"
          }
       },
       "Chris Isaak": {
-         "$date": "1986",
+         "@date": "1986",
          "You Owe Me Some Kind of Love": "good",
          "Heart Full of Soul": "",
          "Blue Hotel": "",
@@ -229,7 +229,7 @@
    },
    "Ciara": {
       "Basic Instinct": {
-         "$date": "2010",
+         "@date": "2010",
          "Ride": {
             "VPY": "19,725,835",
             "URL": "https://youtu.be/wl2NCXzg1FQ"
@@ -238,7 +238,7 @@
    },
    "Cocteau Twins": {
       "Milk & Kisses": {
-         "$date": "1996",
+         "@date": "1996",
          "Violaine": "bad",
          "Serpentskirt": "good",
          "Tishbite": "",
@@ -250,21 +250,21 @@
          "Treasure Hiding": "",
          "Seekers Who Are Lovers": ""
       },
-      "Four-Calendar Café": {
-         "$date": "1993",
-         "Know Who You Are at Every Age": "",
-         "Evangeline": "bad",
-         "Bluebeard": "bad",
-         "Theft, and Wandering Around Lost": "",
-         "Oil of Angels": "bad",
-         "Squeeze-Wax": "",
-         "My Truth": "",
-         "Essence": "",
-         "Summerhead": "good",
-         "Pur": ""
-      },
+       "Four-Calendar Café": {
+           "@date": "1993-11-02",
+           "Know Who You Are at Every Age": "",
+           "Evangeline": "bad",
+           "Bluebeard": "bad",
+           "Theft, and Wandering Around Lost": "",
+           "Oil of Angels": "bad",
+           "Squeeze-Wax": "",
+           "My Truth": "",
+           "Essence": "",
+           "Summerhead": "good",
+           "Pur": ""
+       },
        "Heaven or Las Vegas": {
-           "$date": "1990-08-21",
+           "@date": "1990-08-21",
            "Cherry-Coloured Funk": "bad",
            "Pitch the Baby": "bad",
            "Iceblink Luck": "bad",
@@ -277,7 +277,7 @@
            "Frou-Frou Foxes in Midsummer Fires": ""
        },
        "Blue Bell Knoll": {
-           "$date": "1988-09-19",
+           "@date": "1988-09-19",
            "Blue Bell Knoll": "",
            "Athol-Brose": "bad",
            "Carolyn's Fingers": "",
@@ -290,14 +290,14 @@
            "Ella Megalast Burls Forever": "bad"
        },
       "Love’s Easy Tears": {
-          "$date": "1986-09-01",
+          "@date": "1986-09-01",
           "Love’s Easy Tears": "good",
           "Orange Appled": "short",
           "Sigh’s Smell of Farewell": "",
           "Those Eyes, That Mouth": ""
       },
        "Victorialand": {
-           "$date": "1986-07-23",
+           "@date": "1986-07-23",
            "Lazy Calm": "good",
            "Fluffy Tufts": "",
            "Throughout the Dark Months of April and May": "good",
@@ -309,14 +309,14 @@
            "The Thinner the Air": ""
        },
        "Tiny Dynamine": {
-           "$date": "1985-11-01",
+           "@date": "1985-11-01",
            "Pink Orange Red": "good",
            "Ribbed and Veined": "good",
            "Plain Tiger": "",
            "Sultitan Itan": ""
        },
        "Treasure": {
-           "$date": "1984-10-01",
+           "@date": "1984-10-01",
            "Ivo": "good",
            "Lorelei": "bad",
            "Beatrix": "",
@@ -329,14 +329,14 @@
            "Donimo": ""
        },
       "Sunburst and Snowblind": {
-          "$date": "1983-11-07",
+          "@date": "1983-11-07",
           "Sugar Hiccup": "reissue",
           "From the Flagstones": "",
           "Hitherto": "good",
           "Because of Whirl-Jack": ""
       },
       "Head Over Heels": {
-          "$date": "1983-10-31",
+          "@date": "1983-10-31",
           "When Mama Was Moth": "",
           "Five Ten Fiftyfold": "good",
           "Sugar Hiccup": "bad",
@@ -349,7 +349,7 @@
           "Musette and Drums": "good"
       },
        "Garlands": {
-           "$date": "1982-09-01",
+           "@date": "1982-09-01",
            "Blood Bitch": "bad",
            "Wax and Wane": "bad",
            "But I’m Not": "short",
@@ -362,7 +362,7 @@
    },
    "Coldplay": {
       "A Rush of Blood to the Head": {
-         "$date": "2002",
+         "@date": "2002",
          "The Scientist": {
             "VPY": "80,172,619",
             "URL": "https://youtu.be/RB-RcX5DS5A"
@@ -372,7 +372,7 @@
    "Com Truise": {
       "Iteration": {
          "Of Your Fake Dimension": "bad",
-         "$date": "2017",
+         "@date": "2017",
          "Ephemeron": "bad",
          "Dryswch": "",
          "Isostasy": "",
@@ -389,7 +389,7 @@
          "Iteration": ""
       },
       "In Decay": {
-         "$date": "2012",
+         "@date": "2012",
          "Open": "",
          "84’ Dreamin": "",
          "Dreambender": "",
@@ -405,7 +405,7 @@
          "Closed": ""
       },
       "Galactic Melt": {
-         "$date": "2011",
+         "@date": "2011",
          "Terminal": "short",
          "VHS Sex": "bad",
          "Cathode Girls": "bad",
@@ -421,7 +421,7 @@
    },
    "Conjure One": {
       "Extraordinary Ways": {
-         "$date": "2005",
+         "@date": "2005",
          "Endless Dream": "bad",
          "Face the Music": "bad",
          "Pilgrimage": "bad",
@@ -434,7 +434,7 @@
          "Into the Escape": ""
       },
       "Conjure One": {
-         "$date": "2002",
+         "@date": "2002",
          "Damascus": "short",
          "Center of the Sun": "",
          "Tears From the Moon": {
@@ -453,7 +453,7 @@
    },
    "Counting Crows": {
       "This Desert Life": {
-         "$date": "1999",
+         "@date": "1999",
          "Hanginaround": "",
          "Mrs. Potter’s Lullaby": "",
          "Amy Hit the Atmosphere": "",
@@ -466,7 +466,7 @@
          "St. Robinson in His Cadillac Dream / Kid Things": ""
       },
       "August and Everything After": {
-         "$date": "1993",
+         "@date": "1993",
          "Mr. Jones": {
             "VPY": "13,704,250",
             "URL": "https://youtu.be/-oqAU5VxFWs"
@@ -475,7 +475,7 @@
    },
    "Crazy P": {
        "Age of the Ego": {
-           "$date": "2019-05-03",
+           "@date": "2019-05-03",
            "Is This All It Seems": "",
            "The Witness": "",
            "SOS": "",
@@ -489,7 +489,7 @@
            "Night Rain": "good"
        },
       "Walk Dance Talk Sing": {
-         "$date": "2015",
+         "@date": "2015",
          "Like a Fool": "good",
          "The Come On": "",
          "Echo": "",
@@ -503,7 +503,7 @@
          "Witch Doctor": ""
       },
       "When We On": {
-         "$date": "2011",
+         "@date": "2011",
          "Open for Service": "",
          "Changes": "",
          "Beatbox": "",
@@ -517,7 +517,7 @@
          "Future Beat": ""
       },
        "Stop Space Return": {
-           "$date": "2008-10-13",
+           "@date": "2008-10-13",
            "Stop Space Return": "",
            "Lie Lost": "",
            "Caught Up": "",
@@ -533,7 +533,7 @@
    },
    "Curve": {
       "Cuckoo": {
-         "$date": "1993",
+         "@date": "1993",
          "Missing Link": "",
          "Crystal": "",
          "Men Are From Mars, Women Are From Venus": "good",
