@@ -1,4 +1,19 @@
 {
+   "B12": {
+       "Electro-Soma": {
+           "$date": "1993-03-29",
+           "Soundtrack of Space": "",
+           "Hall of Mirrors": "bad",
+           "Mondrin": "",
+           "Obsessed": "",
+           "Bio Dimension": "",
+           "Basic Emotion": "",
+           "Metropolis": "",
+           "Obtuse": "",
+           "Telefone 529": "",
+           "Drift": ""
+       }
+   },
    "Bad Company": {
       "Bad Company": {
          "$date": "1974",
@@ -862,13 +877,27 @@
          },
          "On Bended Knee": ""
       },
-      "Cooleyhighharmony": {
-         "$date": "1991",
-         "End Of The Road": {
-            "VPY": "13,061,094",
-            "URL": "https://youtu.be/zDKO6XYXioc"
-         }
-      }
+       "Cooleyhighharmony": {
+           "$date": "1992",
+           "End of the Road (LP version)": {
+             "id": "zDKO6XYXioc",
+             "views per year": "15,186,681"
+         },
+           "Please Don’t Go": "",
+           "Lonely Heart": "",
+           "This Is My Heart": "",
+           "Uhh Ahh (sequel version)": "",
+           "It’s So Hard to Say Goodbye to Yesterday (original version)": "short",
+           "Motownphilly (remix radio edit)": "",
+           "Under Pressure": "",
+           "Sympin (remix radio edit)": "",
+           "Little Things": "",
+           "Your Love": "",
+           "Motownphilly (original version)": "",
+           "Sympin (original version)": "",
+           "Uhh Ahh (original version)": "",
+           "It’s So Hard to Say Goodbye to Yesterday (radio version)": ""
+       }
    },
    "Boz Scaggs": {
       "Dig": {

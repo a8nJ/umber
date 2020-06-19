@@ -124,10 +124,7 @@
          "Rocket Belt": "good",
          "Gyrocopter": "",
          "Jumble Hopper": "",
-         "Birdman": {
-            "VPY": 78,
-            "URL": "https://youtu.be/GJWY-mWoiM0"
-         },
+         "Birdman": "good",
          "Bravissimo!": ""
       }
    },
@@ -137,11 +134,7 @@
          "Still Water": "",
          "The Maker": "",
          "O Marie": "",
-         "Jolie Louise": {
-            "rate": "short",
-            "VPY": "99,561",
-            "URL": "https://youtu.be/mt0LDopjNbg"
-         },
+         "Jolie Louise": "short",
          "Fisherman’s Daughter": "short",
          "White Mustang II": "good",
          "Under a Stormy Sky": "short",

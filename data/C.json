@@ -478,6 +478,20 @@
       }
    },
    "Crazy P": {
+       "Age of the Ego": {
+           "$date": "2019-05-03",
+           "Is This All It Seems": "",
+           "The Witness": "",
+           "SOS": "",
+           "We Will Fuck You Up": "",
+           "Kari": "",
+           "Barefooted": "",
+           "Step Into the Light": "",
+           "Love Is With You": "",
+           "This Fire": "",
+           "Lean on Me": "",
+           "Night Rain": "good"
+       },
       "Walk Dance Talk Sing": {
          "$date": "2015",
          "Like a Fool": "good",
@@ -498,11 +512,7 @@
          "Changes": "",
          "Beatbox": "",
          "The Unbearable Lightness of Being": "",
-         "Heartbreaker": {
-            "rate": "good",
-            "VPY": "162,899",
-            "URL": "https://youtu.be/Ph5psMQoirU"
-         },
+         "Heartbreaker": "good",
          "Twisted": "",
          "Sonar": "",
          "Your Dark Energy": "",
@@ -510,6 +520,20 @@
          "Wecanonlybewhoweare": "",
          "Future Beat": ""
       }
+       "Stop Space Return": {
+           "$date": "2008-10-13",
+           "Stop Space Return": "",
+           "Lie Lost": "",
+           "Caught Up": "",
+           "Never Gonna Reach Me": "",
+           "In and Out": "good",
+           "Love on the Line": "bad",
+           "Give a Little": "bad",
+           "Wishing For": "",
+           "Too Far": "",
+           "Fascination": "",
+           "Over to You / Say Goodbye": ""
+       }
    },
    "Curve": {
       "Cuckoo": {
