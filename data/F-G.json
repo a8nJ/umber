@@ -510,32 +510,38 @@
        }
    },
    "Foreigner": {
-      "Agent Provocateur": {
-         "@date": "1984",
-         "Foreigner - 'I Want To Know What Love Is' [Official Music Video]": {
-             "URL": "https://youtu.be/raNGeq3_DtM",
-             "VPY": "18,831,918"
-         }
-      },
-      "4": {
-         "@date": "1981",
-         "Night Life": "",
-         "Juke Box Hero": "",
-         "Break It Up": "",
-         "Waiting for a Girl Like You": "good",
-         "Luanne": "",
-         "Urgent": "",
-         "I’m Gonna Win": "",
-         "Woman in Black": "",
-         "Girl on the Moon": "",
-         "Don’t Let Go": ""
-      },
+       "Agent Provocateur": {
+           "@date": "1984",
+           "Tooth and Nail": "",
+           "That Was Yesterday": "",
+           "I Want to Know What Love Is": {
+             "id": "r3Pr1_v7hsw",
+             "views per year": "73,703,307"
+         },
+           "Growing Up the Hard Way": "",
+           "Reaction to Action": "",
+           "Stranger in My Own House": "",
+           "A Love in Vain": "",
+           "Down on Love": "",
+           "Two Different Worlds": "",
+           "She’s Too Tough": ""
+       },
+       "4": {
+           "@date": "1981-06-29",
+           "Night Life": "",
+           "Juke Box Hero": "",
+           "Break It Up": "",
+           "Waiting for a Girl Like You": "good",
+           "Luanne": "",
+           "Urgent": "",
+           "I'm Gonna Win": "",
+           "Woman in Black": "",
+           "Girl on the Moon": "",
+           "Don't Let Go": ""
+       },
       "Foreigner": {
          "@date": "1977",
-         "Feels Like The First Time": {
-            "VPY": "282,733",
-            "URL": "https://youtu.be/8Tl-kOcnn1U"
-         },
+         "Feels Like The First Time": "",
          "Cold as Ice": "good",
          "Starrider": "",
          "Headknocker": "",

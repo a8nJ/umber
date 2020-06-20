@@ -1550,41 +1550,38 @@
          "Until the Morning": "good",
          "Resolution": "good"
       },
-      "The Mirror Conspiracy": {
-         "@date": "2000",
-         "Treasures": "short",
-         "Le Monde": "good",
-         "Indra": "good",
-         "Lebanese Blonde": "good",
-         "Focus on Sight": "",
-         "Air Batucada": "",
-         "Só com você": "short",
-         "Samba Tranquille": "",
-         "Shadows of Ourselves": "good",
-         "The Hong Kong Triad": "good",
-         "Illumination": "",
-         "The Mirror Conspiracy": "",
-         "Tomorrow": "good"
-      },
-      "Sounds From the Thievery Hi‐Fi": {
-         "@date": "1997",
-         "A Warning (Dub)": "short",
-         "2001 Spliff Odyssey": "bad",
-         "Shaolin Satellite": "bad",
-         "Transcendence": "bad",
-         "Universal Highness": "",
-         "Incident at Gate 7": "",
-         "Mañha": "",
-         "Scene at the Open Air Market": "short",
-         "The Glass Bead Game": "",
-         "Encounter in Bahia": "",
-         "The Foundation": "",
-         "Interlude": "short",
-         "The Oscillator": "",
-         "Assault on Babylon": "",
-         ".38.45 (A Thievery Number)": "",
-         "One": ""
-      }
+       "The Mirror Conspiracy": {
+           "@date": "2000-08-21",
+           "Treasures": "short",
+           "Le Monde": "good",
+           "Indra": "good",
+           "Lebanese Blonde": "good",
+           "Focus on Sight": "",
+           "Air Batucada": "",
+           "Só com você": "short",
+           "Samba Tranquille": "",
+           "Shadows of Ourselves": "good",
+           "The Hong Kong Triad": "good",
+           "Illumination": "",
+           "The Mirror Conspiracy": "",
+           "Tomorrow": "good"
+       },
+       "Sounds From the Thievery Hi-Fi": {
+           "@date": "1997-06-07",
+           "A Warning": "short",
+           "2001 Spliff Odyssey": "bad",
+           "Shaolin Satellite": "bad",
+           "Vivid": "",
+           "Universal Highness": "",
+           "Mañha": "",
+           "The Glass Bead Game": "",
+           "The Foundation": "",
+           "Interlude": "short",
+           "The Oscillator": "",
+           "So Vast as the Sky": "",
+           ".38.45 (A Thievery Number)": "",
+           "Walking Through Babylon": ""
+       }
    },
    "Thin Lizzy": {
       "Jailbreak": {
@@ -1594,11 +1591,7 @@
          "Running Back": "",
          "Romeo and the Lonely Girl": "",
          "Warriors": "",
-         "Boys Are Back In Town": {
-            "rate": "good",
-            "VPY": "1,205,480",
-            "URL": "https://youtu.be/hQo1HIcSVtg"
-         },
+         "Boys Are Back In Town": "good",
          "Fight or Fall": "",
          "Cowboy Song": "",
          "Emerald": ""
