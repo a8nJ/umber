@@ -1,6 +1,6 @@
 {
    "Kammerflimmer Kollektief": {
-      "There Are Actions Which We Have Neglected and Which Never Cease to Call Us": {
+      "There Are Actions Which We Have Neglected and Which Never Cease": {
          "@date": "2018",
          "Action 1 Lucid, Imperial Beach": "bad",
          "Action 2 Discharged, Quauhnáhuac": "bad",
@@ -22,34 +22,34 @@
          "Zurück zum Beton (version)": "bad",
          "Mayhem! (reprise)": "bad"
       },
-      "Teufelskamin": {
-         "@date": "2011",
-         "Coricidin Boogie": "good",
-         "Never Collapse, Always Dazzle!": "",
-         "Teufelskamin Jam 1": "",
-         "Shangrila": "short",
-         "Soft Machine": "",
-         "A Different Carmic Thermal": "",
-         "Teufelskamin Jam 2": "",
-         "Nearly Able to Fly": "",
-         "New Ghosts": "",
-         "The People United Will Never Be Defeated": "short"
-      },
-      "Wildling": {
-         "@date": "2010",
-         "Move Right In": "good",
-         "Silver Chords": "good",
-         "Aum a Go-Go": "short",
-         "In Transition (version)": "",
-         "Spookin’ the Horse": "",
-         "Blind": "short",
-         "Rotwelsch": "",
-         "Time Is the Fire in Which We Burn": "good",
-         "Cry Tuff": "",
-         "We Paint the Town Beige": "",
-         "There’s a Crack in Everything": "",
-         "Milte Hi Ankhen (aka Bird in Hand)": "short"
-      },
+       "Teufelskamin": {
+           "@date": "2011-10-28",
+           "Coricidin Boogie": "good",
+           "Never Collapse, Always Dazzle!": "",
+           "Teufelskamin Jam #1": "",
+           "Shangrila": "short",
+           "Soft Machine": "",
+           "A Different Carmic Thermal": "",
+           "Teufelskamin Jam #2": "",
+           "Nearly Able to Fly": "",
+           "New Ghosts": "",
+           "The People United Will Never Be Defeated": "short"
+       },
+       "Wildling": {
+           "@date": "2010-02-26",
+           "Move Right In": "good",
+           "Silver Chords": "good",
+           "Aum a Go-Go": "short",
+           "In Transition (version)": "",
+           "Spookin' the Horse": "",
+           "Blind": "short",
+           "Rotwelsch": "",
+           "Time Is the Fire in Which We Burn": "good",
+           "Cry Tuff": "",
+           "We Paint the Town Beige": "",
+           "There's a Crack in Everything": "",
+           "Milte Hi Ankhen (aka Bird in Hand)": "short"
+       },
       "Jinx": {
           "@date": "2007-05-18",
           "Palimpsest": "bad",
@@ -61,46 +61,44 @@
           "Nest": "short",
           "Subnarkotisch": ""
       },
-      "Cicadidae": {
-         "@date": "2003",
-         "Neumond inselhin": "good",
-         "Sie tranken Regen": "short",
-         "Über die Wasserscheide": "good",
-         "Blood": "short",
-         "Denn Nacht ist jetzt schon bald!": "good",
-         "Sie tranken Regen (version)": "bad",
-         "Mantra": "good",
-         "Eiderdaunen (gerupft)": "bad",
-         "Irgendwann Frühling": "bad",
-         "There’s a Weight on You, but You Can’t Feel It.": "good"
-      },
-      "Hysteria": {
-         "@date": "2001",
-         "Hysteria": "bad",
-         "Seen (not seen)": "bad",
-         "Engel wacht": "bad",
-         "Auguri, Auguri": "bad",
-         "Du siehst hoch; du siehst ‘Wolken’": "bad",
-         "Zikaden, vielleicht": "",
-         "Mohn!": "",
-         "Du siehst hoch; du siehst ‘Wolken’ (version)": ""
-      },
-      "Mäander": {
-          "@date": "1999",
-          "Mond?": "bad",
-          "Implodiert": "bad",
-          "Tuch": "bad",
-          "Faller": "bad",
-          "Rand": "short",
-          "Gras": "bad",
-          "Simultan": "short",
-          "Konstant": "bad",
-          "Lunger": "",
-          "Seen": "",
-          "Nachtwach": "",
-          "Horn": "",
-          "Brack": ""
-      }
+       "Cicadidae": {
+           "@date": "2003-04-14",
+           "Neumond inselhin": "good",
+           "Sie tranken Regen": "short",
+           "Über die Wasserscheide": "good",
+           "Blood": "short",
+           "...denn Nacht ist jetzt schon bald!": "good",
+           "Sie tranken Regen (version)": "bad",
+           "Mantra": "good",
+           "Eiderdaunen (gerupft)": "bad",
+           "Irgendwann: Frühling": "bad",
+           "There's a Weight on You, but You Can't Feel It.": "good"
+       },
+       "Hysteria": {
+           "@date": "2001",
+           "Hysteria": "bad",
+           "Seen (not seen)": "bad",
+           "Engel wacht": "bad",
+           "Auguri, Auguri": "bad",
+           "Du siehst hoch; du siehst 'Wolken'": "bad",
+           "Mohn!": ""
+       },
+       "Mäander": {
+           "@date": "2001-04-23",
+           "Mond?": "bad",
+           "Implodiert": "bad",
+           "Tuch": "bad",
+           "Faller": "bad",
+           "Rand": "short",
+           "Gras": "bad",
+           "Simultan": "short",
+           "Konstant": "bad",
+           "Lunger": "",
+           "Seen": "",
+           "Nachtwach": "",
+           "Horn": "",
+           "Brack": ""
+       }
    },
    "Kacey Musgraves": {
       "Golden Hour": {
