@@ -876,10 +876,7 @@
          "Sleep Deprivation": "",
          "I Got This Down": "",
          "It’s the Beat": "",
-         "Hustler": {
-            "VPY": "284,555",
-            "URL": "https://youtu.be/c0Bf6YGbc1c"
-         },
+         "Hustler": "",
          "Tits & Acid": "",
          "I Believe": "",
          "Hotdog": "",
@@ -894,31 +891,83 @@
          "Wooden (uncut)": ""
       }
    },
-   "Simple Minds": {
-      "Street Fighting Years": {
-         "@date": "1989",
-         "Street Fighting Years": "",
-         "Soul Crying Out": "bad",
-         "Wall of Love": "bad",
-         "This Is Your Land": "",
-         "Take a Step Back": "",
-         "Kick It In": "",
-         "Let It All Come Down": "",
-         "Mandela Day": "",
-         "Belfast Child": {
-            "VPY": "1,208,693",
-            "URL": "https://youtu.be/7vhhTvcLoRw"
+   "Simon & Garfunkel": {
+       "Bookends": {
+           "@date": "1968-04-03",
+           "Bookends Theme (instrumental)": "short",
+           "Save the Life of My Child": "short",
+           "America": "",
+           "Overs": "short",
+           "Voices of Old People": "short",
+           "Old Friends": "short",
+           "Bookends Theme": "short",
+           "Fakin’ It": "",
+           "Punky’s Dilemma": "short",
+           "Mrs. Robinson": {
+             "id": "9C1BCAgu2I8",
+             "views per year": "9,581,371"
          },
-         "Biko": "",
-         "When Spirits Rise": "short"
-      },
-      "Don’t You (Forget About Me)": {
-         "@date": "1985-03-19",
-         "Don’t You": {
-            "VPY": "15,707,580",
-            "URL": "https://youtu.be/CdqoNKCCt7A"
-         }
-      }
+           "A Hazy Shade of Winter": "short",
+           "At the Zoo": "short"
+       },
+       "Sounds of Silence": {
+           "@date": "1966-01-17",
+           "The Sounds of Silence": {
+             "id": "NAEppFUWLfc",
+             "views per year": "11,529,443"
+         },
+           "Leaves That Are Green": "short",
+           "Blessed": "",
+           "Kathy’s Song": "",
+           "Somewhere They Can’t Find Me": "short",
+           "Anji": "short",
+           "Richard Cory": "short",
+           "A Most Peculiar Man": "short",
+           "April Come She Will": "short",
+           "We’ve Got a Groovey Thing Goin’": "short",
+           "I Am a Rock": "short"
+       },
+       "Wednesday Morning, 3 A.M.": {
+           "@date": "1964-10-19",
+           "You Can Tell the World": "short",
+           "Last Night I Had the Strangest Dream": "short",
+           "Bleecker Street": "short",
+           "Sparrow": "short",
+           "Benedictus": "short",
+           "The Sounds of Silence": {
+             "id": "NAEppFUWLfc",
+             "views per year": "11,529,443"
+         },
+           "He Was My Brother": "short",
+           "Peggy‐O": "short",
+           "Go Tell It on the Mountain": "short",
+           "The Sun Is Burning": "short",
+           "The Times They Are A‐Changin’": "short",
+           "Wednesday Morning, 3 A.M.": "short"
+       }
+   },
+   "Simple Minds": {
+       "Street Fighting Years": {
+           "@date": "1989-05-13",
+           "Street Fighting Years": "",
+           "Soul Crying Out": "bad",
+           "Wall of Love": "bad",
+           "This Is Your Land": "",
+           "Take a Step Back": "",
+           "Kick It In": "",
+           "Let It All Come Down": "",
+           "Mandela Day": "",
+           "Belfast Child": "",
+           "Biko": ""
+       },
+       "Don’t You (Forget About Me)": {
+           "@date": "1985-03-19",
+           "Don’t You (Forget About Me)": {
+             "id": "CdqoNKCCt7A",
+             "views per year": "17,862,794"
+         },
+           "A Brass Band in African Chimes": ""
+       }
    },
    "Solar Fields": {
       "Mirror’s Edge Catalyst": {
