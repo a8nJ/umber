@@ -1442,20 +1442,20 @@
           "As Girls Go": "",
           "Song of Sand": ""
       },
-      "Days of Open Hand": {
-         "@date": "1990",
-         "Tired of Sleeping": "bad",
-         "Men in a War": "bad",
-         "Rusted Pipe": "bad",
-         "Book of Dreams": "bad",
-         "Institution Green": "bad",
-         "Those Whole Girls (Run in Grace)": "bad",
-         "Room Off the Street": "good",
-         "Big Space": "bad",
-         "Predictions": "bad",
-         "Fifty-Fifty Chance": "short",
-         "Pilgrimage": "good"
-      },
+       "Days of Open Hand": {
+           "@date": "1990-04-17",
+           "Tired of Sleeping": "bad",
+           "Men in a War": "bad",
+           "Rusted Pipe": "bad",
+           "Book of Dreams": "bad",
+           "Institution Green": "bad",
+           "Those Whole Girls (Run in Grace)": "bad",
+           "Room Off the Street": "good",
+           "Big Space": "bad",
+           "Predictions": "bad",
+           "Fifty-Fifty Chance": "short",
+           "Pilgrimage": "good"
+       },
       "Solitude Standing": {
          "@date": "1987-04",
          "Tom’s Diner": "good",
@@ -1470,19 +1470,19 @@
          "Wooden Horse (Caspar Hauser’s Song)": "",
          "Tom’s Diner (reprise)": "short"
       },
-      "Suzanne Vega": {
-         "@date": "1985",
-         "Cracking": "short",
-         "Freeze Tag": "short",
-         "Marlene on the Wall": "bad",
-         "Small Blue Thing": "good",
-         "Straight Lines": "good",
-         "Undertow": "bad",
-         "Some Journey": "good",
-         "The Queen and the Soldier": "bad",
-         "Knight Moves": "",
-         "Neighborhood Girls": ""
-      }
+       "Suzanne Vega": {
+           "@date": "1985-06-12",
+           "Cracking": "short",
+           "Freeze Tag": "short",
+           "Marlene on the Wall": "bad",
+           "Small Blue Thing": "good",
+           "Straight Lines": "good",
+           "Undertow": "bad",
+           "Some Journey": "good",
+           "The Queen and the Soldier": "bad",
+           "Knight Moves": "",
+           "Neighborhood Girls": ""
+       }
    },
    "System of a Down": {
        "Hypnotize": {
