@@ -227,65 +227,51 @@
        }
    },
    "Fleetwood Mac": {
-      "Tango in the Night": {
-         "@date": "1987",
-         "Big Love": "",
-         "Seven Wonders": "",
-         "Everywhere": "good",
-         "Caroline": "",
-         "Tango in the Night": "",
-         "Mystified": "",
-         "Little Lies": "good",
-         "Family Man": "",
-         "Welcome to the Room… Sara": "",
-         "Isn’t It Midnight": "",
-         "When I See You Again": "",
-         "You and I, Part II": "short"
-      },
-      "Mirage": {
-         "@date": "1982",
-         "Love in Store": "",
-         "Can’t Go Back": "short",
-         "That’s Alright": "",
-         "Book of Love": "",
-         "Gypsy": {
+       "Tango in the Night": {
+           "@date": "1987-04-09",
+           "Big Love": "",
+           "Seven Wonders": "",
+           "Everywhere": "good",
+           "Caroline": "",
+           "Tango in the Night": "",
+           "Mystified": "",
+           "Little Lies": "good",
+           "Family Man": "",
+           "Welcome to the Room… Sara": "",
+           "Isn’t It Midnight": "",
+           "When I See You Again": "",
+           "You and I, Part II": "short"
+       },
+       "Mirage": {
+           "@date": "1982-06-18",
+           "Love in Store": "",
+           "Can’t Go Back": "short",
+           "That’s Alright": "",
+           "Book of Love": "",
+           "Gypsy": {
              "id": "mwgg1Pu6cNg",
-             "views": "23,925,564",
-             "published": "2018-09-27",
-             "views per year": "14,589,002"
+             "views per year": "15,086,631"
          },
-         "Only Over You": "",
-         "Empire State": "short",
-         "Straight Back": "",
-         "Hold Me": "",
-         "Oh Diane": "short",
-         "Eyes of the World": "",
-         "Wish You Were Here": ""
-      },
+           "Only Over You": "",
+           "Empire State": "short",
+           "Straight Back": "",
+           "Hold Me": "",
+           "Oh Diane": "short",
+           "Eyes of the World": "",
+           "Wish You Were Here": ""
+       },
        "Rumours": {
            "@date": "1977-02-04",
            "Second Hand News": "short",
-           "Dreams": {
-             "id": "mrZRURcb1cM",
-             "views": "125,475,803",
-             "published": "2011-04-18",
-             "views per year": "13,812,549"
-         },
+           "Dreams": "",
            "Never Going Back Again": "short",
            "Don’t Stop": "",
            "Go Your Own Way": {
              "id": "6ul-cZyuYq4",
-             "views": "129,805,305",
-             "published": "2010-04-21",
-             "views per year": "12,883,529"
+             "views per year": "12,825,630"
          },
            "Songbird": "",
-           "The Chain": {
-             "id": "JDG2m5hN1vo",
-             "views": "74,700,848",
-             "published": "2017-07-05",
-             "views per year": "26,034,814"
-         },
+           "The Chain": "",
            "You Make Loving Fun": "",
            "I Don’t Want to Know": "",
            "Oh Daddy": "",

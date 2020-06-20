@@ -349,22 +349,22 @@
            "Right on Time": "short",
            "Road Trippin’": ""
        },
-      "One Hot Minute": {
-         "@date": "1995",
-         "Warped": "",
-         "Aeroplane": "good",
-         "Deep Kick": "",
-         "My Friends": "",
-         "Coffee Shop": "",
-         "Pea": "short",
-         "One Big Mob": "",
-         "Walkabout": "",
-         "Tearjerker": "",
-         "One Hot Minute": "",
-         "Falling Into Grace": "",
-         "Shallow Be Thy Game": "",
-         "Transcending": ""
-      },
+       "One Hot Minute": {
+           "@date": "1995-09-08",
+           "Warped": "",
+           "Aeroplane": "good",
+           "Deep Kick": "",
+           "My Friends": "",
+           "Coffee Shop": "",
+           "Pea": "short",
+           "One Big Mob": "",
+           "Walkabout": "",
+           "Tearjerker": "",
+           "One Hot Minute": "",
+           "Falling Into Grace": "",
+           "Shallow Be Thy Game": "",
+           "Transcending": ""
+       },
        "Blood Sugar Sex Magik": {
            "@date": "1991-09-24",
            "The Power of Equality": "",

@@ -600,14 +600,14 @@
       }
    },
    "Eli & Fur": {
-      "Night Blooming Jasmine": {
-         "@date": "2018",
-         "Night Blooming Jasmine": "good",
-         "Something Was Real": "",
-         "Parfume": "",
-         "Honest": "",
-         "Parfume (extended mix)": ""
-      },
+       "Night Blooming Jasmine": {
+           "@date": "2018-07-13",
+           "Night Blooming Jasmine": "good",
+           "Something Was Real": "",
+           "Parfume": "",
+           "Honest": "",
+           "Parfume (extended mix)": ""
+       },
       "Chlo / Wendy Legs": {
           "@date": "2017-03-17",
           "Chlo": "",
@@ -615,17 +615,20 @@
           "Chlo (extended mix)": "good",
           "Wendy Legs (extended mix)": ""
       },
-      "Your Eyes": {
-          "@date": "2015-07-10",
-          "Your Eyes": "good"
-      },
-      "Illusions": {
-         "@date": "2013",
-         "Eli & Fur - You're So High": {
-             "URL": "https://youtu.be/3GEqdbh8sFI",
-             "VPY": "13,008,776"
-         }
-      }
+       "Your Eyes": {
+           "@date": "2015-06-24",
+           "Your Eyes": "good"
+       },
+       "Illusions": {
+           "@date": "2013-07-22",
+           "You're so High": {
+             "id": "3GEqdbh8sFI",
+             "views per year": "12,114,614"
+         },
+           "The Game": "",
+           "Free Your Mind": "",
+           "Like the Way": ""
+       }
    },
    "Elton John": {
       "Madman Across the Water": {
