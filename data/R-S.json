@@ -793,10 +793,7 @@
    },
    "Secret Sun": {
       "Cold Coast": {
-         "Passing Cars": {
-            "VPY": "3,686",
-            "URL": "https://youtu.be/WRLlc36hsoU"
-         },
+         "Passing Cars": "",
          "Cold Coast": "good",
          "Can’t You See": "",
          "My Messenger": "",
@@ -807,6 +804,27 @@
          "Stay Still": "",
          "Crashing Waves": ""
       }
+   },
+   "Shawn Colvin": {
+       "Crazy": {
+           "@date": "2006",
+           "Crazy": "good"
+       },
+       "A Few Small Repairs": {
+           "@date": "1996-10-01",
+           "Sunny Came Home": "",
+           "Get Out of This House": "bad",
+           "The Facts About Jimmy": "",
+           "You and the Mona Lisa": "",
+           "Trouble": "",
+           "I Want It Back": "",
+           "If I Were Brave": "",
+           "Wichita Skyline": "",
+           "84,000 Different Delusions": "",
+           "Suicide Alley": "",
+           "New Thing Now": "",
+           "Nothin' on Me": ""
+       }
    },
    "She Keeps Bees": {
       "Minisink Hotel": {

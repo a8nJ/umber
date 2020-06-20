@@ -449,41 +449,56 @@
       }
    },
    "Will Smith": {
-      "Big Willie Style": {
-         "@date": "1997",
-         "Will Smith - Gettin' Jiggy Wit It (Official Video)": {
-             "URL": "https://youtu.be/3JcmQONgXJM",
-             "VPY": "7,473,372"
-         }
-      }
+       "Big Willie Style": {
+           "@date": "1997-11-25",
+           "Intro": "short",
+           "Y’all Know": "",
+           "Gettin’ Jiggy Wit It": {
+             "id": "3JcmQONgXJM",
+             "views per year": "7,828,650"
+         },
+           "Candy": "",
+           "Chasing Forever": "",
+           "Keith B‐Real I (interlude)": "short",
+           "Don’t Say Nothin’": "",
+           "Miami": "",
+           "Yes Yes Y’all": "",
+           "I Loved You": "",
+           "Keith B‐Real II (interlude)": "short",
+           "It’s All Good": "",
+           "Just the Two of Us": "",
+           "Keith B‐Real III (interlude)": "short",
+           "Big Willie Style": "",
+           "Men in Black": ""
+       }
    },
    "Wye Oak": {
-      "Civilian": {
-         "@date": "2011",
-         "Two Small Deaths": "",
-         "The Alter": "",
-         "Holy Holy": "",
-         "Dogs Eyes": "",
-         "Civilian": "good",
-         "Fish": "",
-         "Plains": "",
-         "Hot as Day": "",
-         "We Were Wealth": "",
-         "Doubt": "short"
-      },
-      "The Knot": {
-         "@date": "2009",
-         "Milk and Honey": "short",
-         "For Prayer": "",
-         "Take It In": "",
-         "Siamese": "",
-         "Talking About Money": "",
-         "Mary Is Mary": "good",
-         "Tattoo": "",
-         "I Want for Nothing": "",
-         "That I Do": "",
-         "Sight, Flight": ""
-      },
+       "Civilian": {
+           "@date": "2011-03-07",
+           "Two Small Deaths": "",
+           "The Alter": "",
+           "Holy Holy": "",
+           "Dogs Eyes": "",
+           "Civilian": "good",
+           "Fish": "",
+           "Plains": "",
+           "Hot as Day": "",
+           "We Were Wealth": "",
+           "Doubt": "short"
+       },
+       "The Knot": {
+           "@date": "2009-07-21",
+           "Milk and Honey": "short",
+           "For Prayer": "",
+           "Take It In": "",
+           "Siamese": "",
+           "Talking About Money": "",
+           "Mary Is Mary": "good",
+           "Tattoo": "",
+           "I Want for Nothing": "",
+           "That I Do": "",
+           "Sight, Flight": ""
+       },
       "If Children": {
           "@date": "2008-04-08",
           "Please Concrete": "bad",
