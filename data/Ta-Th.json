@@ -1270,52 +1270,48 @@
       }
    },
    "The Sundays": {
-      "Static & Silence": {
-         "@date": "1997",
-         "Summertime": "",
-         "Homeward": "",
-         "Folk Song": "good",
-         "She": "",
-         "When I’m Thinking About You": "",
-         "I Can’t Wait": "short",
-         "Another Flavour": "",
-         "Leave This City": "",
-         "Your Eyes": "short",
-         "Cry": "",
-         "Monochrome": ""
-      },
-      "Blind": {
-         "@date": "1992",
-         "I Feel": "",
-         "Goodbye": "good",
-         "Life & Soul": "short",
-         "More": "short",
-         "On Earth": "short",
-         "God Made Me": "bad",
-         "Love": "bad",
-         "What Do You Think?": "",
-         "24 Hours": "",
-         "Blood on My Hands": "",
-         "Medicine": "",
-         "Wild Horses": {
-            "rate": "good",
-            "URL": "https://youtu.be/BiyCkSOF1pc",
-            "VPY": "598,193"
-         }
-      },
-      "Reading, Writing and Arithmetic": {
-         "@date": "1990",
-         "Skin & Bones": "bad",
-         "Here’s Where the Story Ends": "good",
-         "Can’t Be Sure": "good",
-         "I Won": "bad",
-         "Hideous Towns": "bad",
-         "You’re Not the Only One I Know": "good",
-         "A Certain Someone": "bad",
-         "I Kicked a Boy": "short",
-         "My Finest Hour": "bad",
-         "Joy": "bad"
-      }
+       "Static & Silence": {
+           "@date": "1997-09-22",
+           "Summertime": "",
+           "Homeward": "",
+           "Folk Song": "good",
+           "She": "",
+           "When I’m Thinking About You": "",
+           "I Can’t Wait": "short",
+           "Another Flavour": "",
+           "Leave This City": "",
+           "Your Eyes": "short",
+           "Cry": "",
+           "Monochrome": ""
+       },
+       "Blind": {
+           "@date": "1992-10-20",
+           "I Feel": "",
+           "Goodbye": "good",
+           "Life & Soul": "short",
+           "More": "short",
+           "On Earth": "short",
+           "God Made Me": "bad",
+           "Love": "bad",
+           "What Do You Think?": "",
+           "24 Hours": "",
+           "Blood on My Hands": "",
+           "Medicine": "",
+           "Wild Horses": "good"
+       },
+       "Reading, Writing and Arithmetic": {
+           "@date": "1990-04-16",
+           "Skin & Bones": "bad",
+           "Here's Where the Story Ends": "good",
+           "Can't Be Sure": "good",
+           "I Won": "bad",
+           "Hideous Towns": "bad",
+           "You're Not the Only One I Know": "good",
+           "A Certain Someone": "bad",
+           "I Kicked a Boy": "short",
+           "My Finest Hour": "bad",
+           "Joy": "bad"
+       }
    },
    "The Wallflowers": {
       "Bringing Down the Horse": {

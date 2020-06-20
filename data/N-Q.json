@@ -561,7 +561,8 @@
       }
    },
    "Oneohtrix Point Never": {
-       "Age Of": {
+      "@check": "2020-06-19",
+      "Age Of": {
            "@date": "2018-05-31",
            "Age Of": "",
            "Babylon": "bad",
@@ -638,7 +639,7 @@
          "Disconnecting Entirely": "short",
          "Eyeballs": "short",
          "Grief and Repetition": "short",
-         "I Know It’s Taking Pictures From Another Plane (Inside Your Sun)": "short",
+         "I Know It’s Taking Pictures From Another Plane": "short",
          "KGB Nights": "",
          "Lovergirls Precinct": "short",
          "Melancholy Descriptions of Simple 3D Environments": "",
@@ -670,14 +671,13 @@
           "Hyperdawn": ""
       },
        "Betrayed in the Octagon": {
-           "@date": "2007-11-20",
-           "Weird Times Docking This Orb": "",
+           "@date": "2009-03",
            "Woe Is the Transgression I": "bad",
            "Behind the Bank": "short",
            "Eyeballs": "short",
            "Betrayed in the Octagon": "good",
-           "Woe Is the Transgression II": "",
-           "Parallel Mind Overture": "",
+           "Woe Is the Transgression II": "bad",
+           "Parallel Minds": "good",
            "Laser to Laser": ""
        }
    },

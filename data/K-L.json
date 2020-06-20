@@ -806,56 +806,52 @@
       }
    },
    "Lisa Loeb": {
-      "Hello Lisa": {
-         "@date": "2002",
-         "Did That": "bad",
-         "Underdog": "bad",
-         "You Don’t Know Me": "bad",
-         "Drops Me Down": "bad",
-         "The Way It Really Is": "bad",
-         "Bring Me Up": "",
-         "What Am I Supposed to Say": "",
-         "Everyday": "",
-         "Someone You Should Know": "",
-         "Payback": "",
-         "Take Me Back": "",
-         "What Am I Supposed to Say (acoustic)": ""
-      },
-      "Firecracker": {
-         "@date": "1997",
-         "I Do": "good",
-         "Falling in Love": "",
-         "Truthfully": "short",
-         "Let’s Forget About It": "short",
-         "How": "",
-         "Furious Rose": "",
-         "Wishing Heart": "short",
-         "Dance With the Angels": "",
-         "Jake": "",
-         "This": "",
-         "Split Second": "short",
-         "Firecracker": ""
-      },
-      "Tails": {
-         "@date": "1995",
-         "It’s Over": "bad",
-         "Snow Day": "good",
-         "Taffy": "bad",
-         "When All the Stars Were Falling": "short",
-         "Do You Sleep?": "good",
-         "Hurricane": "bad",
-         "Rose-Colored Times": "bad",
-         "Sandalwood": "short",
-         "Alone": "short",
-         "Waiting for Wednesday": "bad",
-         "Lisa Listen": "",
-         "Garden of Delights": "short",
-         "Stay": {
-            "rate": "good",
-            "URL": "https://youtu.be/ka9mCmx9Jhs",
-            "VPY": "539,129"
-         }
-      }
+       "Hello Lisa": {
+           "@date": "2002-10-08",
+           "Did That": "bad",
+           "Underdog": "bad",
+           "You Don't Know Me": "bad",
+           "Drops Me Down": "bad",
+           "The Way It Really Is": "bad",
+           "Bring Me Up": "",
+           "What Am I Supposed to Say": "",
+           "Everyday": "",
+           "Someone You Should Know": "",
+           "Payback": "",
+           "Take Me Back": "",
+           "What Am I Supposed to Say (acoustic)": ""
+       },
+       "Firecracker": {
+           "@date": "1997-11-11",
+           "I Do": "good",
+           "Falling in Love": "",
+           "Truthfully": "short",
+           "Let's Forget About It": "short",
+           "How": "",
+           "Furious Rose": "",
+           "Wishing Heart": "short",
+           "Dance With the Angels": "",
+           "Jake": "",
+           "This": "",
+           "Split Second": "short",
+           "Firecracker": ""
+       },
+       "Tails": {
+           "@date": "1995-09-26",
+           "It’s Over": "bad",
+           "Snow Day": "good",
+           "Taffy": "bad",
+           "When All the Stars Were Falling": "short",
+           "Do You Sleep?": "good",
+           "Hurricane": "bad",
+           "Rose-Colored Times": "bad",
+           "Sandalwood": "short",
+           "Alone": "short",
+           "Waiting for Wednesday": "bad",
+           "Lisa Listen": "",
+           "Garden of Delights": "short",
+           "Stay": "good"
+       }
    },
    "Lisa Stansfield": {
       "Affection": {
