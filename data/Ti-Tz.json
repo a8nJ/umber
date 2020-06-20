@@ -746,72 +746,73 @@
       }
    },
    "Tycho": {
-      "Epoch": {
-         "@date": "2016",
-         "Glider": "bad",
-         "Horizon": "bad",
-         "Slack": "bad",
-         "Receiver": "bad",
-         "Epoch": "",
-         "Division": "",
-         "Source": "",
-         "Local": "short",
-         "Rings": "",
-         "Continuum": "short",
-         "Field": "short"
-      },
-      "Awake": {
-         "@date": "2014",
-         "Awake": "good",
-         "Montana": "",
-         "L": "",
-         "Dye": "",
-         "See": "",
-         "Apogee": "",
-         "Spectre": "",
-         "Plains": ""
-      },
-      "Dive": {
-         "@date": "2011",
-         "A Walk": {
-            "rate": "bad",
-            "VPY": "2,862,988",
-            "URL": "https://youtu.be/mehLx_Fjv_c"
-         },
-         "Hours": "bad",
-         "Daydream": "good",
-         "Dive": "bad",
-         "Coastal Brake": "good",
-         "Ascension": "",
-         "Melanine": "short",
-         "Adrift": "",
-         "Epigram": "short",
-         "Elegy": "good"
-      },
-      "Past Is Prologue / Sunrise Projector": {
-         "@date": "2006",
-         "A Circular Reeducation": "good",
-         "Brother": "short",
-         "Cloud Generator": "good",
-         "Dictaphone’s Lament": "bad",
-         "From Home": "good",
-         "Lapse": "good",
-         "Overlook": "good",
-         "Past Is Prologue": "good",
-         "PBS": "good",
-         "Phoenix Cylinder": "short",
-         "Send and Receive": "good",
-         "Sunrise Calendar": "bad",
-         "Sunrise Projector": "bad",
-         "The Disconnect": "bad"
-      },
-      "The Science of Patterns": {
-         "@date": "2002",
-         "Dream as a Memory": "bad",
-         "Human Condition": "bad",
-         "Red Bridge": "bad",
-         "Systems": "good",
-         "In the End": "bad"
-      }
+       "Epoch": {
+           "@date": "2016-09-30",
+           "Glider": "bad",
+           "Horizon": "bad",
+           "Slack": "bad",
+           "Receiver": "bad",
+           "Epoch": "",
+           "Division": "",
+           "Source": "",
+           "Local": "short",
+           "Rings": "",
+           "Continuum": "short",
+           "Field": "short"
+       },
+       "Awake": {
+           "@date": "2014-03-18",
+           "Awake": "good",
+           "Montana": "",
+           "L": "",
+           "Dye": "",
+           "See": "",
+           "Apogee": "",
+           "Spectre": "",
+           "Plains": ""
+       },
+       "Dive": {
+           "@date": "2011-10-04",
+           "A Walk": "bad",
+           "Hours": "bad",
+           "Daydream": "good",
+           "Dive": "bad",
+           "Coastal Brake": "good",
+           "Ascension": "",
+           "Melanine": "short",
+           "Adrift": "",
+           "Epigram": "short",
+           "Elegy": "good"
+       },
+       "Past Is Prologue": {
+           "@date": "2006-10-25",
+           "From Home": "good",
+           "Sunrise Projector": "bad",
+           "Dictaphone's Lament": "good",
+           "PBS": "good",
+           "Send and Receive": "good",
+           "Brother": "short",
+           "A Circular Reeducation": "good",
+           "Past Is Prologue": "good",
+           "Cloud Generator": "good",
+           "The Disconnect": "bad",
+           "A Circular Reeducation (Dusty Brown remix)": "",
+           "Send and Receive (Chachi Jones remix)": "",
+           "Sunrise Projector (Nautilis remix)": ""
+       },
+       "The Science of Patterns": {
+           "@date": "2007",
+           "Dream as a Memory": "bad",
+           "Human Condition": "bad",
+           "Red Bridge": "bad",
+           "Systems": "good",
+           "In the End": "bad"
+       },
+       "Sunrise Projector": {
+           "@date": "2004-09-24",
+           "Overlook": "good",
+           "Lapse": "good",
+           "Sunrise Calendar": "good"
+       }
    }
 }

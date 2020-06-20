@@ -395,31 +395,29 @@
       }
    },
    "Bicep": {
-      "Bicep": {
-         "@date": "2017",
-         "Orca": "",
-         "Glue": {
-            "rate": "good",
-            "VPY": "5,275,555",
-            "URL": "https://youtu.be/A7ZxRs45tTg"
-         },
-         "Kites": "",
-         "Vespa": "short",
-         "Ayaya": "",
-         "Spring": "",
-         "Drift": "",
-         "Opal": "",
-         "Rain": "",
-         "Ayr": "",
-         "Vale": "",
-         "Aura": ""
-      },
-      "Dahlia": {
-         "@date": "2015",
-         "Dahlia": "good",
-         "Rays": "bad",
-         "Seagulls": ""
-      }
+       "Bicep": {
+           "@date": "2017-09-01",
+           "Orca": "",
+           "Glue": "good",
+           "Kites": "bad",
+           "Vespa": "short",
+           "Ayaya": "",
+           "Spring": "",
+           "Drift": "",
+           "Opal": "",
+           "Rain": "",
+           "Ayr": "",
+           "Vale": "",
+           "Aura": ""
+       },
+       "Dahlia": {
+           "@date": "2015-09-25",
+           "Dahlia": "good",
+           "Seagulls": "",
+           "Rays": "good",
+           "Go (Flanger mix)": "",
+           "Go (Bicep's Liquid mix)": ""
+       }
    },
    "Big Boi": {
       "Boomiverse": {
