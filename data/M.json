@@ -1,6 +1,6 @@
 {
    "M83": {
-      "$check": "2020-05-15",
+      "@check": "2020-05-15",
       "DSVII": {
           "@date": "2019-09-20",
           "Hell Riders": "",
@@ -441,7 +441,7 @@
       }
    },
    "Mandalay": {
-      "$check": "2020-06-11",
+      "@check": "2020-06-11",
       "Instinct": {
           "@date": "2000",
           "Not Seventeen": "bad",
@@ -563,7 +563,7 @@
        }
    },
    "Massive Attack": {
-      "$check": "2020-06-14",
+      "@check": "2020-06-14",
        "Ritual Spirit": {
            "@date": "2016-01-28",
            "Dead Editors": "",

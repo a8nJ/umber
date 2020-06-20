@@ -164,7 +164,7 @@
        }
    },
    "Fleet Foxes": {
-      "$check": "2020-06-06",
+      "@check": "2020-06-06",
       "Crack‐Up": {
          "@date": "2017-06-16",
          "I Am All That I Need / Arroyo Seco / Thumbprint Scar": "",
@@ -308,38 +308,37 @@
            "Apoptose, Pt. 1": "short",
            "Apoptose, Pt. 2": "short"
        },
-      "Reflections - Mojave Desert": {
-         "@date": "2017",
-         "Mojave Desert": "short",
-         "Silurian Blue": "good",
-         "Kites": "bad",
-         "Kelso Dunes": "good",
-         "Lucerne Valley": "bad"
-      },
-      "Kuiper": {
-         "@date": "2016",
-         "Kuiper": "bad",
-         "For Marmish Part II": "good"
-      },
-      "Elaenia": {
-         "@date": "2015",
-         "Nespole": "good",
-         "Silhouettes (I, II & III)": "",
-         "Elaenia": "",
-         "Argenté": "",
-         "Thin Air": "",
-         "For Marmish": "good",
-         "Peroration Six": "",
-         "Precursor": ""
-      },
-      "Shadows EP": {
-         "@date": "2011",
-         "Myrtle Avenue": "good",
-         "Obfuse": "bad",
-         "Realise": "bad",
-         "ARP3": "good",
-         "Sais": "bad"
-      }
+       "Reflections - Mojave Desert": {
+           "@date": "2017-06-30",
+           "Mojave Desert": "short",
+           "Silurian Blue": "good",
+           "Kites": "bad",
+           "Kelso Dunes": "good",
+           "Lucerne Valley": "bad"
+       },
+       "Kuiper": {
+           "@date": "2016-07-19",
+           "Kuiper": "bad",
+           "For Marmish Part II": "good"
+       },
+       "Elaenia": {
+           "@date": "2015-11-06",
+           "Nespole": "good",
+           "Silhouettes (I, II & III)": "",
+           "Elaenia": "",
+           "Argenté": "",
+           "Thin Air": "",
+           "For Marmish": "good",
+           "Peroration Six": ""
+       },
+       "Shadows EP": {
+           "@date": "2011-11-21",
+           "Myrtle Avenue": "good",
+           "Obfuse": "bad",
+           "Realise": "bad",
+           "ARP3": "good",
+           "Sais": "bad"
+       }
    },
    "Foghat": {
       "Fool for the City": {
@@ -919,7 +918,7 @@
        }
    },
    "Goldfrapp": {
-      "$check": "2020-05-03",
+      "@check": "2020-05-03",
        "Silver Eye": {
            "@date": "2017-03-31",
            "Anymore": "bad",
@@ -1120,7 +1119,7 @@
       }
    },
    "Gotan Project": {
-      "$check": "2020-05-15",
+      "@check": "2020-05-15",
       "Tango 3.0": {
          "@date": "2010",
          "Tango Square": "good",
@@ -1250,7 +1249,7 @@
        }
    },
    "Grizzly Bear": {
-      "$check": "2020-05-07",
+      "@check": "2020-05-07",
       "Painted Ruins": {
          "@date": "2017",
          "Wasted Acres": "short",
@@ -1407,7 +1406,7 @@
       },
       "Vertigo": {
          "@date": "1999-05-24",
-         "$URL": "youtube.com/playlist?list=OLAK5uy_nsfi00gDj8c8bhccR_d5W89Yh3SkGJyjY",
+         "@URL": "youtube.com/playlist?list=OLAK5uy_nsfi00gDj8c8bhccR_d5W89Yh3SkGJyjY",
          "Chicago": "bad",
          "Whatever, Whenever": "bad",
          "Dusk You & Me": "bad",

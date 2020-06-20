@@ -631,7 +631,7 @@
       }
    },
    "Zero 7": {
-      "$check": "2020-06-15",
+      "@check": "2020-06-15",
       "Yeah Ghost": {
          "@date": "2009",
          "Count Me Out": "short",

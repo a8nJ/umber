@@ -319,7 +319,7 @@
       }
    },
    "The Cinematic Orchestra": {
-      "$check": "2020-05-17",
+      "@check": "2020-05-17",
       "To Believe": {
          "@date": "2019",
          "To Believe": "bad",
@@ -1189,7 +1189,7 @@
        }
    },
    "The Smiths": {
-      "$check": "2020-05-07",
+      "@check": "2020-05-07",
       "Strangeways, Here We Come": {
          "@date": "1987",
          "A Rush and a Push and the Land Is Ours": "good",

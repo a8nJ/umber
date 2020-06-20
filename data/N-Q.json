@@ -290,7 +290,7 @@
       }
    },
    "Nightmares on Wax": {
-      "$check": "2020-05-21",
+      "@check": "2020-05-21",
       "Shape the Future": {
          "@date": "2018",
          "Back to Nature": "good",
@@ -520,7 +520,7 @@
       }
    },
    "Olive": {
-      "$check": "2020-05-17",
+      "@check": "2020-05-17",
       "Trickle": {
           "@date": "2000-05-30",
           "Love Affair": "bad",
@@ -1378,7 +1378,6 @@
            "Milh": "good"
        },
        "Mbuki Mvuki": {
-           "$list": "PLN3OHGL_aRYyt_j79eSmJ6NcRtEPPX2Fi",
            "@date": "1991",
            "Anything": "bad",
            "Slice of Cheese": "bad",

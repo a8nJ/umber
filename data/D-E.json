@@ -637,7 +637,7 @@
       }
    },
    "Emilíana Torrini": {
-      "$check": "2020-05-15",
+      "@check": "2020-05-15",
       "Tookah": {
          "@date": "2013",
          "Tookah": "bad",

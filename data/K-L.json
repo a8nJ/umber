@@ -838,7 +838,7 @@
        },
        "Tails": {
            "@date": "1995-09-26",
-           "It’s Over": "bad",
+           "It’s Over": "good",
            "Snow Day": "good",
            "Taffy": "bad",
            "When All the Stars Were Falling": "short",
@@ -859,11 +859,7 @@
          "Mighty Love": "",
          "Sincerity": "",
          "The Love in Me": "",
-         "All Around the World": {
-            "rate": "good",
-            "VPY": "3,954,179",
-            "URL": "https://youtu.be/JVuuatjHGnY"
-         },
+         "All Around the World": "good",
          "What Did I Do to You?": "",
          "Live Together": "",
          "You Can’t Deny It": "",

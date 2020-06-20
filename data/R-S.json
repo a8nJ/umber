@@ -545,7 +545,7 @@
       }
    },
    "Sade": {
-      "$check": "2020-05-05",
+      "@check": "2020-05-05",
       "Soldier of Love": {
          "@date": "2010",
          "The Moon and the Sky": "",

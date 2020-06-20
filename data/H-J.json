@@ -329,7 +329,7 @@
       }
    },
    "Imogen Heap": {
-      "$check": "2020-06-15",
+      "@check": "2020-06-15",
       "Sparks": {
          "@date": "2014",
          "You Know Where to Find Me": "good",
@@ -468,7 +468,7 @@
        }
    },
    "Interpol": {
-      "$check": "2020-05-07",
+      "@check": "2020-05-07",
       "Marauder": {
          "@date": "2018",
          "If You Really Love Nothing": "",
@@ -1481,7 +1481,7 @@
       }
    },
    "Julia Holter": {
-      "$check": "2020-05-18",
+      "@check": "2020-05-18",
       "Aviary": {
            "@date": "2018-10-26",
            "Turn the Light On": "bad",
