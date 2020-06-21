@@ -1613,39 +1613,55 @@
       }
    },
    "Third Eye Blind": {
-      "Blue": {
-         "@date": "1999",
-         "Anything": "short",
-         "Wounded": "bad",
-         "10 Days Late": "bad",
-         "Never Let You Go": "bad",
-         "Deep Inside of You": "bad",
-         "1000 Julys": "bad",
-         "An Ode to Maybe": "short",
-         "The Red Summer Sun": "bad",
-         "Camouflage": "bad",
-         "Farther": "bad",
-         "Darkness": "bad",
-         "Darwin / The Red Summer Sun (extended coda)": "",
-         "Slow Motion": ""
-      },
-      "Third Eye Blind": {
-         "@date": "1997",
-         "Losing a Whole Year": "",
-         "Narcolepsy": "",
-         "Semi‐Charmed Life": "",
-         "Jumper": "good",
-         "Graduate": "",
-         "How’s It Going to Be": "good",
-         "Thanks a Lot": "",
-         "Burning Man": "",
-         "Good for You": "",
-         "London": "",
-         "I Want You": "",
-         "The Background": "",
-         "Motorcycle Drive By": "",
-         "God of Wine": ""
-      }
+       "Out of the Vein": {
+           "@date": "2003-05-13",
+           "Faster": "",
+           "Blinded": "bad",
+           "Forget Myself": "",
+           "Danger": "",
+           "Crystal Baller": "",
+           "My Hit and Run": "",
+           "Misfits": "",
+           "Can’t Get Away": "",
+           "Wake for Young Souls": "",
+           "Palm Reader": "",
+           "Self Righteous": "",
+           "Company": "",
+           "Good Man / Another Life": ""
+       },
+       "Blue": {
+           "@date": "1999-11-23",
+           "Anything": "short",
+           "Wounded": "bad",
+           "10 Days Late": "bad",
+           "Never Let You Go": "bad",
+           "Deep Inside of You": "bad",
+           "1000 Julys": "bad",
+           "An Ode to Maybe": "short",
+           "The Red Summer Sun": "bad",
+           "Camouflage": "bad",
+           "Farther": "bad",
+           "Darkness": "bad",
+           "Darwin": "",
+           "Slow Motion (instrumental) / The Red Summer Sun (reprise)": ""
+       },
+       "Third Eye Blind": {
+           "@date": "1997-04-08",
+           "Losing a Whole Year": "",
+           "Narcolepsy": "",
+           "Semi‐Charmed Life": "",
+           "Jumper": "good",
+           "Graduate": "",
+           "How’s It Going to Be": "good",
+           "Thanks a Lot": "",
+           "Burning Man": "",
+           "Good for You": "",
+           "London": "",
+           "I Want You": "",
+           "The Background": "",
+           "Motorcycle Drive By": "",
+           "God of Wine": ""
+       }
    },
    "Thunderball": {
        "12 Mile High": {

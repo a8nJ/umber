@@ -462,9 +462,7 @@
          "White as Diamonds": "",
          "Age Old Blue": "",
          "To Be Still": "",
-         "Take Us Back": {
-            "rate": "good"
-         },
+         "Take Us Back": "good",
          "The Alder Trees": "",
          "My Brambles": "",
          "The Ocean": "",
@@ -532,13 +530,28 @@
        }
    },
    "Alicia Keys": {
-      "Songs in A Minor": {
-         "@date": "2001",
-         "Fallin’": {
-            "VPY": "17,037,786",
-            "URL": "https://youtu.be/Urdlvw0SSEc"
-         }
-      }
+       "Songs in A minor": {
+           "@date": "2001-06-05",
+           "Piano & I": "short",
+           "Girlfriend": "",
+           "How Come You Don’t Call Me": "",
+           "Fallin’": {
+             "id": "Urdlvw0SSEc",
+             "views per year": "18,913,081"
+         },
+           "Troubles": "",
+           "Rock Wit U": "",
+           "A Woman's Worth": "",
+           "Jane Doe": "",
+           "Goodbye": "",
+           "The Life": "",
+           "Mr. Man": "",
+           "Never Felt This Way (interlude)": "short",
+           "Butterflyz": "",
+           "Why Do I Feel So Sad": "",
+           "Caged Bird": "",
+           "Lovin’ U": ""
+       }
    },
    "America": {
       "Homecoming": {
