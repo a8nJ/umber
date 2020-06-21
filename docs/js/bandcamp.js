@@ -16,7 +16,7 @@ export function f_bandcamp(s_id_2, s_id_3, s_title) {
    o_a.href = 'https://bandcamp.com/EmbeddedPlayer?' + s_param + '#' + s_title;
    // <img>
    const o_img = document.createElement('img');
-   o_img.src = 'https://f4.bcbits.com/img/' + s_id_3 + '_16.jpg';
+   o_img.src = 'https://f4.bcbits.com/img/' + s_id_3 + '_5.jpg';
    // return
    o_a.append(o_img);
    return o_a;
