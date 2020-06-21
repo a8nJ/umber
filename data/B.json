@@ -503,33 +503,33 @@
          "Harm of Will": "",
          "Unison": ""
       },
-      "Homogenic": {
-         "@date": "1997",
-         "Hunter": "good",
-         "Jóga": "good",
-         "Unravel": "good",
-         "Bachelorette": "good",
-         "All Neon Like": "bad",
-         "5 Years": "bad",
-         "Immature": "good",
-         "Alarm Call": "bad",
-         "Pluto": "bad",
-         "All Is Full of Love": "good"
-      },
-      "Post": {
-         "@date": "1995",
-         "Army of Me": "good",
-         "Hyper‐Ballad": "bad",
-         "The Modern Things": "bad",
-         "It’s Oh So Quiet": "good",
-         "Enjoy": "bad",
-         "You’ve Been Flirting Again": "short",
-         "Isobel": "good",
-         "Possibly Maybe": "bad",
-         "I Miss You": "bad",
-         "Cover Me": "short",
-         "Headphones": "bad"
-      },
+       "Homogenic": {
+           "@date": "1997-09-22",
+           "Hunter": "good",
+           "Jóga": "good",
+           "Unravel": "good",
+           "Bachelorette": "good",
+           "All Neon Like": "bad",
+           "5 Years": "bad",
+           "Immature": "good",
+           "Alarm Call": "bad",
+           "Pluto": "bad",
+           "All Is Full of Love": "good"
+       },
+       "Post": {
+           "@date": "1995-06-09",
+           "Army of Me": "good",
+           "Hyper‐Ballad": "bad",
+           "The Modern Things": "bad",
+           "It’s Oh So Quiet": "good",
+           "Enjoy": "bad",
+           "You’ve Been Flirting Again": "short",
+           "Isobel": "good",
+           "Possibly Maybe": "bad",
+           "I Miss You": "bad",
+           "Cover Me": "short",
+           "Headphones": "bad"
+       },
        "Debut": {
            "@date": "1993-07-12",
            "Human Behaviour": "bad",
@@ -547,40 +547,63 @@
        }
    },
    "Blink 182": {
-      "California": {
-         "@date": "2016",
-         "Bored to Death": "",
-         "She’s Out of Her Mind": {
-            "VPY": "7,762,070",
-            "URL": "https://youtu.be/krpm0v_486k"
-         }
-      },
-      "blink-182": {
-         "@date": "2003",
-         "Always": "",
-         "I Miss You": {
-            "VPY": "21,749,165",
-            "URL": "https://youtu.be/s1tAYmMjLdY"
-         }
-      },
-      "Take Off Your Pants and Jacket": {
-         "@date": "2001",
-         "First Date": {
-            "VPY": "13,177,324",
-            "URL": "https://youtu.be/vVy9Lgpg1m8"
+       "blink‐182": {
+           "@date": "2003-11-18",
+           "Feeling This": "short",
+           "Obvious": "short",
+           "I Miss You": {
+             "id": "s1tAYmMjLdY",
+             "views per year": "23,422,228"
          },
-         "Stay Together for the Kids": "",
-         "The Rock Show": ""
-      },
-      "Enema of the State": {
-         "@date": "1999",
-         "Adam’s Song": "",
-         "All The Small Things": {
-            "VPY": "21,774,492",
-            "URL": "https://youtu.be/9Ht5RZpzPqw"
+           "Violence": "",
+           "Stockholm Syndrome": "short",
+           "Down": "",
+           "The Fallen Interlude": "short",
+           "Go": "short",
+           "Asthenia": "",
+           "Always": "",
+           "Easy Target": "short",
+           "All of This": "",
+           "Here’s Your Letter": "short",
+           "I’m Lost Without You": ""
+       },
+       "Take Off Your Pants and Jacket": {
+           "@date": "2001-01-01",
+           "Anthem Part Two": "",
+           "Online Songs": "short",
+           "First Date": {
+             "id": "vVy9Lgpg1m8",
+             "views per year": "13,849,870"
          },
-         "What’s My Age Again?": ""
-      }
+           "Happy Holidays": "short",
+           "Story of a Lonely Guy": "",
+           "The Rock Show": "short",
+           "Stay Together for the Kids": "",
+           "Roller Coaster": "short",
+           "Reckless Abandon": "",
+           "Every Time I Look for You": "",
+           "Give Me One Good Reason": "",
+           "Shut Up": "",
+           "Please Take Me Home": ""
+       },
+       "Enema of the State": {
+           "@date": "1999-06-01",
+           "Dumpweed": "short",
+           "Don’t Leave Me": "short",
+           "Aliens Exist": "",
+           "Going Away to College": "short",
+           "What’s My Age Again?": "short",
+           "Dysentery Gary": "short",
+           "Adam’s Song": "",
+           "All the Small Things": {
+             "id": "9Ht5RZpzPqw",
+             "views per year": "23,080,683"
+         },
+           "The Party Song": "short",
+           "Mutt": "",
+           "Wendy Clear": "short",
+           "Anthem": ""
+       }
    },
    "Blood Orange": {
       "@check": "2020-05-04",
