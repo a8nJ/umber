@@ -651,18 +651,18 @@
          "Sly": "good",
          "Heat Miser": "bad"
       },
-      "Blue Lines": {
-         "@date": "1991",
-         "Safe From Harm": "good",
-         "One Love": "bad",
-         "Blue Lines": "bad",
-         "Be Thankful for What You’ve Got": "good",
-         "Five Man Army": "good",
-         "Unfinished Sympathy": "good",
-         "Daydreaming": "bad",
-         "Lately": "good",
-         "Hymn of the Big Wheel": "bad"
-      }
+       "Blue Lines": {
+           "@date": "1991-04-08",
+           "Safe From Harm": "good",
+           "One Love": "bad",
+           "Blue Lines": "bad",
+           "Be Thankful for What You’ve Got": "good",
+           "Five Man Army": "good",
+           "Unfinished Sympathy": "good",
+           "Daydreaming": "bad",
+           "Lately": "good",
+           "Hymn of the Big Wheel": "bad"
+       }
    },
    "Matchbox Twenty": {
        "Yourself or Someone Like You": {
