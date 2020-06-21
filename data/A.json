@@ -18,14 +18,15 @@
       }
    },
    "9 Lazy 9": {
-       "Bedsofaland": {
+      "@check": "2020-06-21",
+      "Bedsofaland": {
            "@date": "2009-12-15",
            "Hotwire": "short",
            "Russian Spring": "short",
-           "Endless": "",
-           "Smoke Rings": "",
+           "Endless": "bad",
+           "Smoke Rings": "bad",
            "Mano Nera": "good",
-           "Bedsofaland": "",
+           "Bedsofaland": "good",
            "Cruiser": "",
            "The Leopard": "short",
            "One Cylinder": "short",

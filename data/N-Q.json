@@ -30,44 +30,72 @@
       }
    },
    "Nancy Sinatra": {
-      "How Does That Grab You?": {
-         "@date": "1966",
-         "Bang Bang": {
-            "VPY": "7,231,985",
-            "URL": "https://youtu.be/Ppz0Yp-lE0g"
-         }
-      },
-      "Boots": {
-         "@date": "1966",
-         "These Boots Are Made for Walkin’": {
-            "VPY": "14,140,176",
-            "URL": "https://youtu.be/SbyAZQ45uww"
-         }
-      }
+       "How Does That Grab You?": {
+           "@date": "1966",
+           "Not the Lovin' Kind": "",
+           "The Shadow of Your Smile": "short",
+           "Sorry 'Bout That": "short",
+           "Time": "",
+           "Sand": "",
+           "Crying Time": "",
+           "Baby Cried All Night Long": "",
+           "Let It Be Me": "",
+           "Call Me": "short",
+           "How Does That Grab You, Darlin'?": "short",
+           "Bang, Bang": "good"
+       },
+       "Boots": {
+           "@date": "1966",
+           "As Tears Go By": "short",
+           "Day Tripper": "",
+           "I Move Around": "short",
+           "It Ain’t Me Babe": "short",
+           "These Boots Are Made for Walkin’": {
+             "id": "SbyAZQ45uww",
+             "views per year": "14,027,379"
+         },
+           "In My Room": "short",
+           "Lies": "short",
+           "So Long, Babe": "",
+           "Flowers on the Wall": "short",
+           "If He’d Love Me": "short",
+           "Run for Your Life": "short"
+       }
    },
    "Natalie Imbruglia": {
-      "White Lilies Island": {
-         "@date": "2001",
-         "That Day": "",
-         "Beauty on the Fire": "",
-         "Satellite": "",
-         "Do You Love?": "",
-         "Wrong Impression": "good",
-         "Goodbye": "",
-         "Everything Goes": "",
-         "Hurricane": "",
-         "Sunlight": "",
-         "Talk in Tongues": "",
-         "Butterflies": "",
-         "Come September": ""
-      },
-      "Left of the Middle": {
-         "@date": "1997",
-         "Torn": {
-            "VPY": "17,820,167",
-            "URL": "https://youtu.be/VV1XWJN3nJo"
-         }
-      }
+       "White Lilies Island": {
+           "@date": "2001-11-05",
+           "That Day": "",
+           "Beauty on the Fire": "",
+           "Satellite": "",
+           "Do You Love?": "",
+           "Wrong Impression": "good",
+           "Goodbye": "",
+           "Everything Goes": "",
+           "Hurricane": "",
+           "Sunlight": "",
+           "Talk in Tongues": "",
+           "Butterflies": "",
+           "Come September": ""
+       },
+       "Left of the Middle": {
+           "@date": "1997-11-24",
+           "Torn": {
+             "id": "VV1XWJN3nJo",
+             "views per year": "18,168,368"
+         },
+           "One More Addiction": "",
+           "Big Mistake": "",
+           "Leave Me Alone": "",
+           "Intuition": "",
+           "Smoke": "",
+           "Pigeons and Crumbs": "",
+           "Don’t You Think?": "",
+           "Impressed": "",
+           "Wishing I Was There": "",
+           "City": "",
+           "Left of the Middle": ""
+       }
    },
    "Natalie Merchant": {
       "Motherland": {
