@@ -816,23 +816,22 @@
            "Stone Dead Forever": "",
            "Too Late Too Late": ""
        },
-      "Load": {
-         "Ain’t My Bitch": "",
-         "2 X 4": "",
-         "The House Jack Built": "",
-         "Until It Sleeps": "good",
-         "King Nothing": "good",
-         "Hero of the Day": "",
-         "Bleeding Me": "good",
-         "Cure": "",
-         "Poor Twisted Me": "",
-         "Wasting My Hate": "",
-         "Mama Said": "",
-         "Thorn Within": "",
-         "Ronnie": "",
-         "The Outlaw Torn": "",
-         "@date": "1996"
-      },
+       "Load": {
+           "@date": "1996",
+           "Ain’t My Bitch": "",
+           "2 X 4": "",
+           "The House Jack Built": "",
+           "Until It Sleeps": "good",
+           "King Nothing": "good",
+           "Hero of the Day": "",
+           "Bleeding Me": "good",
+           "Cure": "",
+           "Poor Twisted Me": "",
+           "Wasting My Hate": "",
+           "Thorn Within": "",
+           "Ronnie": "",
+           "The Outlaw Torn": ""
+       },
        "Metallica": {
            "@date": "1991-08-12",
            "Enter Sandman": {
