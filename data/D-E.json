@@ -589,11 +589,7 @@
       },
       "Last Chance to Dance": {
          "@date": "2014",
-         "LAST CHANCE TO DANCE": {
-            "rate": "good",
-            "VPY": "50,372",
-            "URL": "https://youtu.be/gvM1a72Dcqw"
-         },
+         "LAST CHANCE TO DANCE": "good",
          "Holiday Blues (demo)": "",
          "Ex-Change (demo)": "short",
          "Only U 4 Me (demo)": "short"
@@ -631,13 +627,21 @@
        }
    },
    "Elton John": {
-      "Madman Across the Water": {
-         "@date": "1971",
-         "Tiny Dancer": {
-            "VPY": "978,086,517",
-            "URL": "https://youtu.be/S3vO8E2e6G0"
-         }
-      }
+       "Madman Across the Water": {
+           "@date": "1971-11-05",
+           "Tiny Dancer": {
+             "id": "yYcyacLRPNs",
+             "views per year": "10,516,598"
+         },
+           "Levon": "",
+           "Razor Face": "",
+           "Madman Across the Water": "",
+           "Indian Sunset": "",
+           "Holiday Inn": "",
+           "Rotten Peaches": "",
+           "All the Nasties": "",
+           "Goodbye": "short"
+       }
    },
    "Emilíana Torrini": {
       "@check": "2020-05-15",

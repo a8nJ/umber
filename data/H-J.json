@@ -1,32 +1,32 @@
 {
    "Harold Budd": {
-      "Jane 12-21": {
-         "@date": "2014",
-         "Jane 12": "bad",
-         "Jane 13": "bad",
-         "Jane 14": "bad",
-         "Jane 15": "short",
-         "Jane 16 (For Pale Saints)": "good",
-         "Jane 17": "short",
-         "Jane 18": "short",
-         "Jane 19": "bad",
-         "Jane 20": "bad",
-         "Jane 21": "short"
-      },
-      "Jane 1-11": {
-         "@date": "2013",
-         "Jane 1": "bad",
-         "Jane 2": "good",
-         "Jane 3": "good",
-         "Jane 4": "good",
-         "Jane 5": "",
-         "Jane 6": "",
-         "Jane 7": "",
-         "Jane 8": "good",
-         "Jane 9": "short",
-         "Jane 10": "",
-         "Jane 11": ""
-      },
+       "Jane 12-21": {
+           "@date": "2014-09",
+           "Jane 12": "bad",
+           "Jane 13": "bad",
+           "Jane 14": "bad",
+           "Jane 15": "short",
+           "Jane 16 (For Pale Saints)": "good",
+           "Jane 17": "short",
+           "Jane 18": "short",
+           "Jane 19": "bad",
+           "Jane 20": "bad",
+           "Jane 21": "short"
+       },
+       "Jane 1-11": {
+           "@date": "2013-05-27",
+           "Jane 1": "bad",
+           "Jane 2": "good",
+           "Jane 3": "good",
+           "Jane 4": "good",
+           "Jane 5": "",
+           "Jane 6": "",
+           "Jane 7": "",
+           "Jane 8": "good",
+           "Jane 9": "short",
+           "Jane 10": "",
+           "Jane 11": ""
+       },
       "Bandits of Stature": {
           "@date": "2012-11-27",
           "Merry-Go-Round: The Dream of the Girl at the Lonely Desert ": "short",
@@ -44,18 +44,18 @@
           "String Quartet 2003: Llano": "short",
           "String Quartet 2003: Babylon Balboa": "short"
       },
-      "Bordeaux": {
-         "@date": "2011",
-         "Gaze": "",
-         "Deva C": "",
-         "The Names of Those Never Here": "good",
-         "So Many Short Years Ago": "",
-         "The Belles of Saint Andrew": "",
-         "Radiant City": "",
-         "L’Aventure": "good",
-         "Smiling Apart": "",
-         "Southern Shore": ""
-      },
+       "Bordeaux": {
+           "@date": "2011-02-07",
+           "Gaze": "",
+           "Deva C": "",
+           "The Names of Those Never Here": "good",
+           "So Many Short Years Ago": "",
+           "The Belles of Saint Andrew": "",
+           "Radiant City": "",
+           "L’Aventure": "good",
+           "Smiling Apart": "",
+           "Southern Shore": ""
+       },
       "After the Night Falls": {
           "@date": "2007-06-11",
           "How Distant Your Heart": "bad",
@@ -148,42 +148,51 @@
          "Coyote": "short",
          "The Kiss": "bad"
       },
-      "The Pearl": {
-         "@date": "1984",
-         "Late October": "",
-         "A Stream With Bright Fish": "",
-         "The Silver Ball": "",
-         "Against the Sky": "good",
-         "Lost in the Humming Air": "",
-         "Dark-Eyed Sister": "",
-         "Their Memories": "short",
-         "The Pearl": "",
-         "Foreshadowed": "",
-         "An Echo of Night": "short",
-         "Still Return": ""
-      },
-      "Ambient 2: The Plateaux of Mirror": {
-          "@date": "1980",
-          "First Light": "bad",
-          "Steal Away": "short",
-          "The Plateaux of Mirror": "",
-          "Above Chiangmai": "short",
-          "An Arc of Doves": "",
-          "Not Yet Remembered": "",
-          "The Chill Air": "short",
-          "Among Fields of Crystal": "",
-          "Wind in Lonely Fences": "",
-          "Failing Light": ""
-      }
+       "The Pearl": {
+           "@date": "1984-08",
+           "Late October": "",
+           "A Stream With Bright Fish": "",
+           "The Silver Ball": "",
+           "Against the Sky": "good",
+           "Lost in the Humming Air": "",
+           "Dark-Eyed Sister": "",
+           "Their Memories": "short",
+           "The Pearl": "",
+           "Foreshadowed": "",
+           "An Echo of Night": "short",
+           "Still Return": ""
+       },
+       "Ambient 2: The Plateaux of Mirror": {
+           "@date": "1980",
+           "First Light": "bad",
+           "Steal Away": "short",
+           "The Plateaux of Mirror": "",
+           "Above Chiangmai": "short",
+           "An Arc of Doves": "",
+           "Not Yet Remembered": "",
+           "The Chill Air": "short",
+           "Among Fields of Crystal": "",
+           "Wind in Lonely Fences": "",
+           "Failing Light": ""
+       }
    },
    "Heart": {
-      "Bad Animals": {
-         "@date": "1987",
-         "Alone": {
-            "VPY": "17,146,245",
-            "URL": "https://youtu.be/1Cw1ng75KP0"
-         }
-      },
+       "Bad Animals": {
+           "@date": "1987-06-05",
+           "Who Will You Run To": "",
+           "Alone": {
+             "id": "1Cw1ng75KP0",
+             "views per year": "19,474,146"
+         },
+           "There’s the Girl": "",
+           "I Want You So Bad": "",
+           "Wait for an Answer": "",
+           "Bad Animals": "",
+           "You Ain’t So Tough": "",
+           "Strangers of the Heart": "",
+           "Easy Target": "",
+           "R.S.V.P.": ""
+       },
       "Dog & Butterfly": {
          "@date": "1978",
          "Cook With Fire": "",
