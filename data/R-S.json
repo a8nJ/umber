@@ -640,72 +640,70 @@
       }
    },
    "Saint Etienne": {
-      "Tales From Turnpike House": {
-         "@date": "2005",
-         "Side Streets": "short",
-         "A Good Thing": "bad",
-         "Sun in My Morning": "short",
-         "Milk Bottle Symphony": "bad",
-         "Dream Lover": "good",
-         "Lightning Strikes Twice": "",
-         "Slow Down at the Castle": "good",
-         "Oh My": "",
-         "Last Orders for Gary Stead": "",
-         "I’m Falling": "",
-         "Stars Above Us": "",
-         "Teenage Winter": "",
-         "Goodnight": "good"
-      },
-      "Tiger Bay": {
-         "@date": "1994",
-         "Urban Clearway": "",
-         "Former Lover": "good",
-         "Hug My Soul": "",
-         "Like a Motorway": "",
-         "On the Shore": "",
-         "Marble Lions": "",
-         "Pale Movie": "",
-         "Cool Kids of Death": "",
-         "Western Wind": "short",
-         "Tankerville": "",
-         "The Boy Scouts of America": "short"
-      },
-      "So Tough": {
-         "@date": "1993",
-         "Mario’s Cafe": "bad",
-         "Railway Jam": "bad",
-         "Date With Spelman": "short",
-         "Calico": "bad",
-         "Avenue": "bad",
-         "You’re in a Bad Way": "bad",
-         "Memo to Pricey": "short",
-         "Hobart Paving": "",
-         "Leafhound": "",
-         "Clock Milk": "short",
-         "Conchita Martinez": "",
-         "No Rainbows for Me": "",
-         "Here Come Clown Feet": "short",
-         "Junk the Morgue": "",
-         "Who Do You Think You Are": "",
-         "Chicken Soup": "short",
-         "Join Our Club": ""
-      },
-      "Foxbase Alpha": {
-         "@date": "1991",
-         "This Is Radio Etienne": "short",
-         "Only Love Can Break Your Heart": "good",
-         "Wilson": "short",
-         "Carnt Sleep": "good",
-         "Girl VII": "",
-         "Spring": "good",
-         "She’s the One": "",
-         "Stoned to Say the Least": "",
-         "Nothing Can Stop Us": "good",
-         "Etienne Gonna Die": "short",
-         "London Belongs to Me": "",
-         "Like the Swallow": "",
-         "Dilworth’s Theme": "short"
-      }
+       "Tales From Turnpike House": {
+           "@date": "2006-01-24",
+           "Side Streets": "short",
+           "A Good Thing": "bad",
+           "Sun in My Morning": "short",
+           "Milk Bottle Symphony": "bad",
+           "Dream Lover": "good",
+           "Lightning Strikes Twice": "",
+           "Slow Down at the Castle": "good",
+           "Oh My": "",
+           "Last Orders for Gary Stead": "",
+           "I'm Falling": "",
+           "Stars Above Us": "",
+           "Teenage Winter": "",
+           "Goodnight": "good"
+       },
+       "Tiger Bay": {
+           "@date": "1994-02-28",
+           "Urban Clearway": "",
+           "Former Lover": "good",
+           "Hug My Soul": "",
+           "Like a Motorway": "",
+           "On the Shore": "",
+           "Marble Lions": "",
+           "Pale Movie": "",
+           "Cool Kids of Death": "",
+           "Western Wind": "short",
+           "Tankerville": "",
+           "The Boy Scouts of America": "short"
+       },
+       "So Tough": {
+           "@date": "1993-02-22",
+           "Mario's Cafe": "bad",
+           "Railway Jam": "bad",
+           "Date With Spelman": "short",
+           "Calico": "bad",
+           "Avenue": "bad",
+           "You're in a Bad Way": "short",
+           "Memo to Pricey": "short",
+           "Hobart Paving": "",
+           "Leafhound": "",
+           "Clock Milk": "short",
+           "Conchita Martinez": "",
+           "No Rainbows for Me": "",
+           "Here Come Clown Feet": "short",
+           "Junk the Morgue": "",
+           "Chicken Soup": "short"
+       },
+       "Foxbase Alpha": {
+           "@date": "1991-10-14",
+           "This Is Radio Etienne": "short",
+           "Only Love Can Break Your Heart": "good",
+           "Wilson": "short",
+           "Carnt Sleep": "good",
+           "Girl VII": "",
+           "Spring": "good",
+           "She's the One": "",
+           "Stoned to Say the Least": "",
+           "Nothing Can Stop Us": "good",
+           "Etienne Gonna Die": "short",
+           "London Belongs to Me": "",
+           "Like the Swallow": "",
+           "Dilworth's Theme": "short"
+       }
    },
    "Samaris": {
       "Black Lights": {
@@ -1100,20 +1098,22 @@
          "Fight for Ourselves": "bad",
          "Swept": "bad",
          "Snakes and Lovers": "bad",
-         "Through the Barricades": {
-            "rate": "bad",
-            "VPY": "1,906,472",
-            "URL": "https://youtu.be/yn7HXmzxqV8"
-         }
+         "Through the Barricades": "bad"
       },
-      "True": {
-         "@date": "1983",
-         "Gold": "",
-         "True": {
-            "VPY": "10,846,841",
-            "URL": "https://youtu.be/AR8D2yqgQ1U"
+       "True": {
+           "@date": "1983",
+           "Pleasure": "",
+           "Communication": "",
+           "Code of Love": "",
+           "Gold": "",
+           "Lifeline": "",
+           "Heaven Is a Secret": "",
+           "Foundation": "",
+           "True": {
+             "id": "AR8D2yqgQ1U",
+             "views per year": "12,091,747"
          }
-      }
+       }
    },
    "Squarepusher": {
       "Solo Electric Bass 1": {
