@@ -56,21 +56,21 @@
           "Peach Sky": "",
           "Mountains": ""
       },
-      "The Bride": {
-         "@date": "2016",
-         "I Do": "short",
-         "Joe’s Dream": "good",
-         "In God’s House": "",
-         "Honeymooning Alone": "",
-         "Sunday Love": "",
-         "Never Forgive the Angels": "",
-         "Close Encounters": "",
-         "Widow’s Peak": "",
-         "Land’s End": "",
-         "If I Knew": "",
-         "I Will Love Again": "",
-         "In Your Bed": ""
-      },
+       "The Bride": {
+           "@date": "2016-07-01",
+           "I Do": "short",
+           "Joe’s Dream": "good",
+           "In God’s House": "",
+           "Honeymooning Alone": "",
+           "Sunday Love": "",
+           "Never Forgive the Angels": "",
+           "Close Encounters": "",
+           "Widow’s Peak": "",
+           "Land’s End": "",
+           "If I Knew": "",
+           "I Will Love Again": "",
+           "In Your Bed": ""
+       },
        "The Haunted Man": {
            "@date": "2012-10-15",
            "Lilies": "bad",
@@ -123,33 +123,34 @@
        }
    },
    "Beach House": {
-      "Depression Cherry": {
-         "@date": "2015",
-         "BEACH HOUSE // Space Song": {
-             "URL": "https://youtu.be/f9X1C7pTu-M",
-             "VPY": "8,862,411"
-         }
-      },
-      "Bloom": {
-         "@date": "2012",
-         "Myth": {
-            "VPY": "9,745,854",
-            "URL": "https://youtu.be/3lIyDxfUhxM"
-         }
-      },
-      "Teen Dream": {
-         "@date": "2010",
-         "Zebra": "good",
-         "Silver Soul": "",
-         "Norway": "good",
-         "Walk in the Park": "",
-         "Used to Be": "",
-         "Lover of Mine": "good",
-         "Better Times": "",
-         "10 Mile Stereo": "",
-         "Real Love": "good",
-         "Take Care": "good"
-      }
+       "Depression Cherry": {
+           "@date": "2015-08-28",
+           "Levitation": "",
+           "Sparks": "",
+           "Space Song": {
+             "id": "f9X1C7pTu-M",
+             "views per year": "8,698,120"
+         },
+           "Beyond Love": "",
+           "10:37": "",
+           "PPP": "",
+           "Wildflower": "",
+           "Bluebird": "",
+           "Days of Candy": ""
+       },
+       "Teen Dream": {
+           "@date": "2010-01-22",
+           "Zebra": "good",
+           "Silver Soul": "",
+           "Norway": "good",
+           "Walk in the Park": "",
+           "Used to Be": "",
+           "Lover of Mine": "good",
+           "Better Times": "",
+           "10 Mile Stereo": "",
+           "Real Love": "good",
+           "Take Care": "good"
+       }
    },
    "Beastie Boys": {
       "To the 5 Boroughs": {
@@ -622,38 +623,38 @@
          "I Know": "",
          "Better Numb": ""
       },
-      "Cupid Deluxe": {
-         "@date": "2013",
-         "Chamakay": "good",
-         "You’re Not Good Enough": "good",
-         "Uncle ACE": "good",
-         "No Right Thing": "bad",
-         "It Is What It Is": "good",
-         "Chosen": "good",
-         "Clipped On": "bad",
-         "Always Let U Down": "good",
-         "On the Line": "good",
-         "High Street": "short",
-         "Time Will Tell": "bad"
-      },
-      "Coastal Grooves": {
-         "@date": "2011",
-         "Forget It": "bad",
-         "Sutphin Boulevard": "good",
-         "I’m Sorry We Lied": "good",
-         "Can We Go Inside Now?": "good",
-         "S’cooled": "good",
-         "Complete Failure": "bad",
-         "Instantly Blank (The Goodness)": "short",
-         "The Complete Knock": "bad",
-         "Are You Sure You’re Really Busy?": "bad",
-         "Champagne Coast": "bad"
-      },
-      "Blood Orange": {
-         "@date": "2010",
-         "Dinner": "good",
-         "Bad Girls": "good"
-      }
+       "Cupid Deluxe": {
+           "@date": "2013-11-18",
+           "Chamakay": "good",
+           "You’re Not Good Enough": "good",
+           "Uncle ACE": "good",
+           "No Right Thing": "bad",
+           "It Is What It Is": "good",
+           "Chosen": "good",
+           "Clipped On": "bad",
+           "Always Let U Down": "good",
+           "On the Line": "good",
+           "High Street": "short",
+           "Time Will Tell": "bad"
+       },
+       "Coastal Grooves": {
+           "@date": "2011-08-08",
+           "Forget It": "bad",
+           "Sutphin Boulevard": "good",
+           "I’m Sorry We Lied": "good",
+           "Can We Go Inside Now?": "good",
+           "S’cooled": "good",
+           "Complete Failure": "bad",
+           "Instantly Blank (The Goodness)": "short",
+           "The Complete Knock": "bad",
+           "Are You Sure You’re Really Busy?": "bad",
+           "Champagne Coast": "bad"
+       },
+       "Blood Orange": {
+           "@date": "2011",
+           "Dinner": "good",
+           "Bad Girls": "good"
+       }
    },
    "Boards of Canada": {
       "@check": "2020-05-21",
