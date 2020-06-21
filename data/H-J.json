@@ -331,39 +331,39 @@
    },
    "Imogen Heap": {
       "@check": "2020-06-15",
-      "Sparks": {
-         "@date": "2014",
-         "You Know Where to Find Me": "good",
-         "Entanglement": "",
-         "The Listening Chair": "",
-         "Cycle Song": "short",
-         "Telemiscommunications": "",
-         "Lifeline": "",
-         "Neglected Space": "",
-         "Minds Without Fear": "",
-         "Me the Machine": "",
-         "Run‐Time": "",
-         "Climb to Sakteng": "",
-         "The Beast": "",
-         "Xizi She Knows": "",
-         "Propeller Seeds": ""
-      },
-      "Ellipse": {
-         "@date": "2009",
-         "First Train Home": "bad",
-         "Wait It Out": "bad",
-         "Earth": "bad",
-         "Little Bird": "bad",
-         "Swoon": "bad",
-         "Tidal": "bad",
-         "Between Sheets": "short",
-         "2-1": "good",
-         "Bad Body Double": "bad",
-         "Aha!": "short",
-         "The Fire": "short",
-         "Canvas": "good",
-         "Half Life": ""
-      },
+       "Sparks": {
+           "@date": "2014-08-17",
+           "You Know Where to Find Me": "good",
+           "Entanglement": "",
+           "The Listening Chair": "",
+           "Cycle Song": "short",
+           "Telemiscommunications": "",
+           "Lifeline": "",
+           "Neglected Space": "",
+           "Minds Without Fear": "",
+           "Me the Machine": "",
+           "Run‐Time": "",
+           "Climb to Sakteng": "",
+           "The Beast": "",
+           "Xizi She Knows": "",
+           "Propeller Seeds": ""
+       },
+       "Ellipse": {
+           "@date": "2009-08-24",
+           "First Train Home": "bad",
+           "Wait It Out": "bad",
+           "Earth": "bad",
+           "Little Bird": "bad",
+           "Swoon": "bad",
+           "Tidal": "bad",
+           "Between Sheets": "short",
+           "2-1": "good",
+           "Bad Body Double": "bad",
+           "Aha!": "short",
+           "The Fire": "short",
+           "Canvas": "good",
+           "Half Life": ""
+       },
       "Speak for Yourself": {
           "@date": "2005-07-18",
           "Headlock": "",
@@ -379,20 +379,20 @@
           "Closing In": "good",
           "The Moment I Said It": ""
       },
-      "i Megaphone": {
-         "@date": "1998",
-         "Getting Scared": "bad",
-         "Sweet Religion": "bad",
-         "Oh Me, Oh My": "bad",
-         "Shine": "bad",
-         "Whatever": "bad",
-         "Angry Angel": "bad",
-         "Candlelight": "good",
-         "Rake It In": "bad",
-         "Come Here Boy": "bad",
-         "Useless": "",
-         "Sleep": ""
-      }
+       "i Megaphone": {
+           "@date": "1998-06-16",
+           "Getting Scared": "bad",
+           "Sweet Religion": "bad",
+           "Oh Me, Oh My": "bad",
+           "Shine": "bad",
+           "Whatever": "bad",
+           "Angry Angel": "bad",
+           "Candlelight": "good",
+           "Rake It In": "bad",
+           "Come Here Boy": "bad",
+           "Useless": "",
+           "Sleep": ""
+       }
    },
    "Incubus": {
       "Light Grenades": {
@@ -982,6 +982,19 @@
       }
    },
    "JAWS": {
+       "The Ceiling": {
+           "@date": "2019-04-05",
+           "Driving at Night": "bad",
+           "Feel": "bad",
+           "Do You Remember?": "bad",
+           "Fear": "good",
+           "End of the World": "",
+           "Patience": "",
+           "Looking / Passing": "",
+           "The Ceiling": "",
+           "Please Be Kind": "",
+           "January": ""
+       },
       "Simplicity": {
           "@date": "2016-11-04",
           "Just a Boy": "bad",
@@ -1459,27 +1472,39 @@
       }
    },
    "Joy Division": {
-      "Love Will Tear Us Apart": {
-         "@date": "1980",
-         "Love Will Tear Us Apart": {
-            "VPY": "9,197,387",
-            "URL": "https://youtu.be/zuuObGsB0No"
+       "Closer": {
+           "@date": "1980-07-18",
+           "Atrocity Exhibition": "bad",
+           "Isolation": "short",
+           "Passover": "",
+           "Colony": "",
+           "A Means to an End": "",
+           "Heart and Soul": "",
+           "Twenty Four Hours": "",
+           "The Eternal": "",
+           "Decades": ""
+       },
+       "Love Will Tear Us Apart": {
+           "@date": "1980-04-18",
+           "Love Will Tear Us Apart": {
+             "id": "zuuObGsB0No",
+             "views per year": "9,188,185"
          },
-         "These Days": ""
-      },
-      "Unknown Pleasures": {
-         "@date": "1979",
-         "Disorder": "good",
-         "Day of the Lords": "good",
-         "Candidate": "",
-         "Insight": "",
-         "New Dawn Fades": "good",
-         "She’s Lost Control": "",
-         "Shadowplay": "good",
-         "Wilderness": "short",
-         "Interzone": "short",
-         "I Remember Nothing": ""
-      }
+           "These Days": ""
+       },
+       "Unknown Pleasures": {
+           "@date": "1979-06-15",
+           "Disorder": "good",
+           "Day of the Lords": "good",
+           "Candidate": "",
+           "Insight": "",
+           "New Dawn Fades": "good",
+           "She’s Lost Control": "",
+           "Shadowplay": "good",
+           "Wilderness": "short",
+           "Interzone": "short",
+           "I Remember Nothing": ""
+       }
    },
    "Julia Holter": {
       "@check": "2020-05-18",
