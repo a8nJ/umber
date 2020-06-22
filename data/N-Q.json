@@ -244,12 +244,24 @@
       }
    },
    "New Radicals": {
-      "Maybe You’ve Been Brainwashed Too": {
-         "You Get What You Give": {
-            "VPY": "7,184,230",
-            "URL": "https://youtu.be/DL7-CKirWZE"
-         }
-      }
+       "Maybe You’ve Been Brainwashed Too.": {
+           "@date": "1998-10-20",
+           "Mother We Just Can’t Get Enough": "",
+           "You Get What You Give": {
+             "id": "DL7-CKirWZE",
+             "views per year": "8,594,569"
+         },
+           "I Hope I Didn’t Just Give Away the Ending": "",
+           "I Don’t Wanna Die Anymore": "",
+           "Jehovah Made This Whole Joint for You": "",
+           "Someday We’ll Know": "",
+           "Maybe You’ve Been Brainwashed Too": "",
+           "In Need of a Miracle": "",
+           "Gotta Stay High": "",
+           "Technicolor Lover": "",
+           "Flowers": "",
+           "Crying Like a Church on Monday": ""
+       }
    },
    "Nicolas Jaar": {
       "Cenizas": {
@@ -447,30 +459,62 @@
        }
    },
    "Nirvana": {
-      "MTV Unplugged": {
-         "@date": "1994",
-         "The Man Who Sold The World": {
-            "VPY": "24,614,437",
-            "URL": "https://youtu.be/fregObNcHC8"
-         }
-      },
-      "In Utero": {
-         "@date": "1993",
-         "Heart-Shaped Box": {
-            "VPY": "16,781,101",
-            "URL": "https://youtu.be/n6P0SitRwy8"
-         }
-      },
-      "Nevermind": {
-         "@date": "1991",
-         "Come As You Are": "",
-         "In Bloom": "",
-         "Lithium": "",
-         "Smells Like Teen Spirit": {
-            "VPY": "91,497,950",
-            "URL": "https://youtu.be/hTWKbfoikeg"
-         }
-      }
+       "MTV Unplugged in New York": {
+           "@date": "1994-11-01",
+           "About a Girl": "",
+           "Come as You Are": "",
+           "Jesus Doesn’t Want Me for a Sunbeam": "",
+           "The Man Who Sold the World": {
+             "id": "fregObNcHC8",
+             "views per year": "27,275,492"
+         },
+           "Pennyroyal Tea": "",
+           "Dumb": "short",
+           "Polly": "",
+           "On a Plain": "",
+           "Something in the Way": "",
+           "Plateau": "",
+           "Oh Me": "",
+           "Lake of Fire": "short",
+           "All Apologies": "",
+           "Where Did You Sleep Last Night": ""
+       },
+       "In Utero": {
+           "@date": "1993-09-21",
+           "Serve the Servants": "",
+           "Scentless Apprentice": "",
+           "Heart-Shaped Box": {
+             "id": "n6P0SitRwy8",
+             "views per year": "16,652,069"
+         },
+           "Rape Me": "short",
+           "Frances Farmer Will Have Her Revenge on Seattle": "",
+           "Dumb": "short",
+           "Very Ape": "short",
+           "Milk It": "",
+           "Pennyroyal Tea": "",
+           "Radio Friendly Unit Shifter": "",
+           "tourette's": "short",
+           "All Apologies / Gallons of Rubbing Alcohol Flow Through the Strip": ""
+       },
+       "Nevermind": {
+           "@date": "1991-09-23",
+           "Smells Like Teen Spirit": {
+             "id": "hTWKbfoikeg",
+             "views per year": "98,114,804"
+         },
+           "In Bloom": "",
+           "Come as You Are": "",
+           "Breed": "",
+           "Lithium": "",
+           "Polly": "short",
+           "Territorial Pissings": "short",
+           "Drain You": "",
+           "Lounge Act": "short",
+           "Stay Away": "",
+           "On a Plain": "",
+           "Something in the Way / Endless, Nameless": ""
+       }
    },
    "Norah Jones": {
       "The Fall": {
