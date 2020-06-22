@@ -367,7 +367,7 @@
            "The Projectionist": "short",
            "Melody": "short",
            "Dawn": "bad",
-           "The Awakening of a Woman (Burnout)": "good",
+           "The Awakening of a Woman (Burnout)": "bad",
            "Reel Life (Evolution II)": "good",
            "Postlude": "short",
            "Evolution (Versao Portuense)": "bad",
@@ -385,7 +385,7 @@
        "Every Day": {
            "@date": "2002-04-27",
            "All That You Give": "good",
-           "Burn Out": "",
+           "Burn Out": "good",
            "Flite": "",
            "Evolution": "",
            "Man With the Movie Camera": "",
@@ -398,10 +398,10 @@
            "@date": "1999-09-01",
            "Ode to the Big Sea": "bad",
            "Night of the Iguana": "bad",
-           "Channel 1 Suite": "",
+           "Channel 1 Suite": "bad",
            "Bluebirds": "bad",
            "And Relax!": "good",
-           "Diabolus": ""
+           "Diabolus": "bad"
        }
    },
    "The Cinematics": {
