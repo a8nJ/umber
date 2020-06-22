@@ -247,19 +247,20 @@
        }
    },
    "Cocteau Twins": {
+      "@check": "2020-06-21",
       "Milk & Kisses": {
-         "@date": "1996",
-         "Violaine": "bad",
-         "Serpentskirt": "good",
-         "Tishbite": "",
-         "Half‐Gifts": "",
-         "Calfskin Smack": "",
-         "Rilkean Heart": "",
-         "Ups": "",
-         "Eperdu": "",
-         "Treasure Hiding": "",
-         "Seekers Who Are Lovers": ""
-      },
+           "@date": "1996-05-14",
+           "Violaine": "bad",
+           "Serpentskirt": "good",
+           "Tishbite": "",
+           "Half-Gifts": "",
+           "Calfskin Smack": "",
+           "Rilkean Heart": "",
+           "Ups": "",
+           "Eperdu": "",
+           "Treasure Hiding": "",
+           "Seekers Who Are Lovers": ""
+       },
        "Four-Calendar Café": {
            "@date": "1993-11-02",
            "Know Who You Are at Every Age": "",
@@ -352,10 +353,10 @@
           "Sugar Hiccup": "bad",
           "In Our Angelhood": "good",
           "Glass Candle Grenades": "short",
-          "In the Gold Dust Rush": "",
+          "In the Gold Dust Rush": "bad",
           "The Tinderbox (of a Heart)": "good",
           "Multifoiled": "short",
-          "My Love Paramour": "",
+          "My Love Paramour": "bad",
           "Musette and Drums": "good"
       },
        "Garlands": {
