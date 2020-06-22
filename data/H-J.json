@@ -96,25 +96,43 @@
           "Reini": "bad",
           "Ghost Cloud": "short"
       },
-    "Luxa": {
-        "@date": "1996-09-24",
-        "Niki D.": "good",
-        "A Sidelong Glance From My Round Nefertiti": "",
-        "Agnes Martin": "",
-        "Anish Kapoor": "short",
-        "Paul McCarthy": "",
-        "Serge Poliakoff": "",
-        "Djinn": "short",
-        "Porphyry": "short",
-        "How Dark the Response to Our Slipping Away": "short",
-        "Nove Alberi": "",
-        "Chet": "",
-        "Mandan": "",
-        "Feral": "",
-        "Grace": "",
-        "Marion Brown (Sweet Earth Flying)": "short",
-        "Steven Brown (Pleasure)": ""
-    },
+       "Avalon Sutra": {
+           "@date": "2005-01-05",
+           "Arabesque 3": "short",
+           "It's Steeper Near the Roses (For David Sylvian)": "short",
+           "L'Enfant perdu": "short",
+           "Chrysalis Nu (To Barney's Memory)": "short",
+           "Three Faces West (Billy Al Bengston's)": "short",
+           "Arabesque 2": "bad",
+           "Little Heart": "bad",
+           "How Vacantly You Stare at Me": "bad",
+           "A Walk in the Park With Nancy (In Memory)": "bad",
+           "Rue Casimir Delavigne (For Daniel Lentz)": "bad",
+           "Arabesque 1": "short",
+           "Porcelain Ginger": "short",
+           "Faraon": "short",
+           "As Long as I Can Hold My Breath": "bad",
+           "As Long As I Can Hold MY Breath (By Night)": "long"
+       },
+      "Luxa": {
+         "@date": "1996-09-24",
+         "Niki D.": "good",
+         "A Sidelong Glance From My Round Nefertiti": "",
+         "Agnes Martin": "",
+         "Anish Kapoor": "short",
+         "Paul McCarthy": "",
+         "Serge Poliakoff": "",
+         "Djinn": "short",
+         "Porphyry": "short",
+         "How Dark the Response to Our Slipping Away": "short",
+         "Nove Alberi": "",
+         "Chet": "",
+         "Mandan": "",
+         "Feral": "",
+         "Grace": "",
+         "Marion Brown (Sweet Earth Flying)": "short",
+         "Steven Brown (Pleasure)": ""
+      },
       "Through the Hill": {
          "@date": "1994",
          "Hand 19": "short",
@@ -193,30 +211,30 @@
            "Easy Target": "",
            "R.S.V.P.": ""
        },
-      "Dog & Butterfly": {
-         "@date": "1978",
-         "Cook With Fire": "",
-         "High Time": "",
-         "Hijinx": "",
-         "Straight On": "good",
-         "Dog & Butterfly": "",
-         "Lighter Touch": "",
-         "Nada One": "",
-         "Mistral Wind": ""
-      },
-      "Little Queen": {
-         "@date": "1977",
-         "Barracuda": "good",
-         "Love Alive": "",
-         "Sylvan Song": "short",
-         "Dream of the Archer": "",
-         "Kick It Out": "short",
-         "Little Queen": "",
-         "Treat Me Well": "",
-         "Say Hello": "",
-         "Cry to Me": "short",
-         "Go On Cry": ""
-      }
+       "Dog & Butterfly": {
+           "@date": "1978-10-07",
+           "Cook With Fire": "",
+           "High Time": "",
+           "Hijinx": "",
+           "Straight On": "good",
+           "Dog & Butterfly": "",
+           "Lighter Touch": "",
+           "Nada One": "",
+           "Mistral Wind": ""
+       },
+       "Little Queen": {
+           "@date": "1977-05-15",
+           "Barracuda": "good",
+           "Love Alive": "",
+           "Sylvan Song": "short",
+           "Dream of the Archer": "",
+           "Kick It Out": "short",
+           "Little Queen": "",
+           "Treat Me Well": "",
+           "Say Hello": "",
+           "Cry to Me": "short",
+           "Go On Cry": ""
+       }
    },
    "Hem": {
       "Departure & Farewell": {

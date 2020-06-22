@@ -228,13 +228,23 @@
       }
    },
    "Ciara": {
-      "Basic Instinct": {
-         "@date": "2010",
-         "Ride": {
-            "VPY": "19,725,835",
-            "URL": "https://youtu.be/wl2NCXzg1FQ"
-         }
-      }
+       "Basic Instinct": {
+           "@date": "2010-12-13",
+           "Basic Instinct (U Got Me)": "",
+           "Ride": {
+             "id": "Lp6W4aK1sbs",
+             "views per year": "18,854,398"
+         },
+           "Gimmie Dat": "",
+           "Heavy Rotation": "",
+           "Girls Get Your Money": "",
+           "Yeah I Know": "",
+           "Speechless": "",
+           "You Can Get It": "",
+           "Turn It Up": "",
+           "Wants for Dinner": "",
+           "I Run It": ""
+       }
    },
    "Cocteau Twins": {
       "Milk & Kisses": {
@@ -361,13 +371,23 @@
        }
    },
    "Coldplay": {
-      "A Rush of Blood to the Head": {
-         "@date": "2002",
-         "The Scientist": {
-            "VPY": "80,172,619",
-            "URL": "https://youtu.be/RB-RcX5DS5A"
-         }
-      }
+       "A Rush of Blood to the Head": {
+           "@date": "2002-08-26",
+           "Politik": "",
+           "In My Place": "",
+           "God Put a Smile Upon Your Face": "",
+           "The Scientist": {
+             "id": "RB-RcX5DS5A",
+             "views per year": "91,516,299"
+         },
+           "Clocks": "",
+           "Daylight": "",
+           "Green Eyes": "",
+           "Warning Sign": "",
+           "A Whisper": "",
+           "A Rush of Blood to the Head": "",
+           "Amsterdam": ""
+       }
    },
    "Com Truise": {
       "Iteration": {
