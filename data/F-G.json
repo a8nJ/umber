@@ -933,9 +933,9 @@
        "Tales of Us": {
            "@date": "2013-12-12",
            "Jo": "good",
-           "Annabel": "",
-           "Drew": "",
-           "Ulla": "",
+           "Annabel": "bad",
+           "Drew": "bad",
+           "Ulla": "bad",
            "Alvar": "",
            "Thea": "",
            "Simone": "",
@@ -959,8 +959,8 @@
           "Head First": "bad",
           "Hunt": "bad",
           "Shiny and Warm": "bad",
-          "I Wanna Life": "",
-          "Voicething": ""
+          "I Wanna Life": "bad",
+          "Voicething": "bad"
       },
        "Seventh Tree": {
            "@date": "2008-02-25",

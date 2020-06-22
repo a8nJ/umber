@@ -794,18 +794,19 @@
       }
    },
    "Secret Sun": {
-      "Cold Coast": {
-         "Passing Cars": "",
-         "Cold Coast": "good",
-         "Can’t You See": "",
-         "My Messenger": "",
-         "NHNT": "",
-         "Feather": "",
-         "Don’t Behave": "",
-         "City": "",
-         "Stay Still": "",
-         "Crashing Waves": ""
-      }
+       "Cold Coast": {
+           "@date": "2014-09-30",
+           "Passing Cars": "",
+           "Cold Coast": "good",
+           "Can't You See": "bad",
+           "My Messenger": "bad",
+           "NHNT": "bad",
+           "Feather": "bad",
+           "Don't Behave": "bad",
+           "City": "",
+           "Stay Still": "",
+           "Crashing Waves": ""
+       }
    },
    "Shawn Colvin": {
        "Crazy": {

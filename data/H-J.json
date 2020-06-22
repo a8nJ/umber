@@ -114,6 +114,19 @@
            "As Long as I Can Hold My Breath": "bad",
            "As Long As I Can Hold MY Breath (By Night)": "long"
        },
+       "La Bella Vista": {
+           "@date": "2003",
+           "Bell Tower": "short",
+           "Campanile": "bad",
+           "The Rose": "bad",
+           "Stones": "short",
+           "Her Face": "bad",
+           "Children's Game Beyond Our Reach": "short",
+           "The Avenue": "bad",
+           "Bird Charmer": "short",
+           "Other Flowers": "bad",
+           "Il Leopardo Delle Nevi": ""
+       },
       "Luxa": {
          "@date": "1996-09-24",
          "Niki D.": "good",
