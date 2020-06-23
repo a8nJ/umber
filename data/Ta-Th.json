@@ -111,6 +111,41 @@
            "Listen": ""
        }
    },
+   "Télépopmusik": {
+       "Angel Milk": {
+           "@date": "2005-02-22",
+           "Don’t Look Back": "good",
+           "Stop Running Away": "short",
+           "Anyway": "short",
+           "Into Everything": "",
+           "Love’s Almighty": "",
+           "Last Train to Wherever": "",
+           "Brighton Beach": "",
+           "Close": "",
+           "Swamp": "short",
+           "Nothing’s Burning": "",
+           "Ambushed": "short",
+           "Hollywood on My Toothpaste": "",
+           "Tuesday": "short",
+           "Another Day": "",
+           "15 Minutes": ""
+       },
+       "Genetic World": {
+           "@date": "2001-05-21",
+           "Breathe": "good",
+           "Love Can Damage Your Health": "",
+           "Yesterday Was a Lie": "",
+           "Da Hoola (Soda-Pop mix)": "",
+           "Free": "",
+           "Animal Man": "",
+           "Dance Me": "",
+           "Let's Go Again": "",
+           "Genetic World": "",
+           "Smile": "",
+           "Trishika": "",
+           "L'Incertitude d'Heisenberg": ""
+       }
+   },
    "The Black Dog": {
        "Music for Real Airports": {
            "@date": "2010-05-10",

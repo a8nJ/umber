@@ -294,29 +294,36 @@
       }
    },
    "Kings of Convenience": {
-      "Riot on an Empty Street": {
-         "Homesick": "",
-         "Misread": {
-            "rate": "good",
-            "VPY": "1,766,969",
-            "URL": "https://youtu.be/WOxE7IRizjI"
-         },
-         "Cayman Islands": "good",
-         "Stay Out of Trouble": "",
-         "Know-How": "",
-         "Sorry or Please": "",
-         "Love Is No Big Truth": "",
-         "I’d Rather Dance With You": "",
-         "Live Long": "short",
-         "Surprise Ice": "",
-         "Gold in the Air of Summer": "good",
-         "The Build-Up": ""
-      }
-   },
-   "Koda": {
-      "Waking": {
-         "Waking": "good"
-      }
+       "Riot on an Empty Street": {
+           "@date": "2004-06-21",
+           "Homesick": "",
+           "Misread": "good",
+           "Cayman Islands": "good",
+           "Stay Out of Trouble": "",
+           "Know-How": "",
+           "Sorry or Please": "",
+           "Love Is No Big Truth": "",
+           "I'd Rather Dance With You": "",
+           "Live Long": "short",
+           "Surprise Ice": "",
+           "Gold in the Air of Summer": "good",
+           "The Build-Up": ""
+       },
+       "Quiet Is the New Loud": {
+           "@date": "2001-01-29",
+           "Winning a Battle, Losing the War": "bad",
+           "Toxic Girl": "bad",
+           "Singing Softly to Me": "good",
+           "I Don’t Know What I Can Save You From": "",
+           "Failure": "",
+           "The Weight of My Words": "",
+           "The Girl From Back Then": "short",
+           "Leaning Against the Wall": "",
+           "Little Kids": "",
+           "Summer on the Westhill": "",
+           "The Passenger": "",
+           "Parallel Lines": ""
+       }
    },
    "Koji Kondo": {
       "The Legend of Zelda The Wind Waker": {
