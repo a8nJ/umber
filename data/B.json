@@ -471,6 +471,19 @@
       }
    },
    "Björk": {
+       "Volta": {
+           "@date": "2007-05-07",
+           "Earth Intruders": "bad",
+           "Wanderlust": "",
+           "The Dull Flame of Desire": "",
+           "Innocence": "",
+           "I See Who You Are": "",
+           "Vertebræ by Vertebræ": "",
+           "Pneumonia": "",
+           "Hope": "",
+           "Declare Independence": "",
+           "My Juvenile": ""
+       },
        "Medúlla": {
            "@date": "2004-08-30",
            "Pleasure Is All Mine": "bad",
@@ -488,21 +501,21 @@
            "Miðvikudags": "short",
            "Triumph of a Heart": ""
        },
-      "Vespertine": {
-         "@date": "2001",
-         "Hidden Place": "bad",
-         "Cocoon": "bad",
-         "It’s Not Up to You": "bad",
-         "Undo": "bad",
-         "Pagan Poetry": "bad",
-         "Frosti": "short",
-         "Aurora": "good",
-         "An Echo, a Stain": "",
-         "Sun in My Mouth": "short",
-         "Heirloom": "",
-         "Harm of Will": "",
-         "Unison": ""
-      },
+       "Vespertine": {
+           "@date": "2001-08-27",
+           "Hidden Place": "bad",
+           "Cocoon": "bad",
+           "It’s Not Up to You": "bad",
+           "Undo": "bad",
+           "Pagan Poetry": "bad",
+           "Frosti": "short",
+           "Aurora": "good",
+           "An Echo, a Stain": "",
+           "Sun in My Mouth": "short",
+           "Heirloom": "",
+           "Harm of Will": "",
+           "Unison": ""
+       },
        "Homogenic": {
            "@date": "1997-09-22",
            "Hunter": "good",
@@ -543,7 +556,7 @@
            "Come to Me": "good",
            "Violently Happy": "bad",
            "The Anchor Song": "good",
-            "Play Dead": "good"
+           "Play Dead": "good"
        }
    },
    "Blink 182": {
@@ -806,52 +819,52 @@
    },
    "Bonobo": {
       "@check": "2020-04-26",
-      "Migration": {
-         "@date": "2017",
-         "Migration": "bad",
-         "Break Apart": "bad",
-         "Outlier": "bad",
-         "Grains": "bad",
-         "Second Sun": "bad",
-         "Surface": "",
-         "Bambro Koyo Ganda": "",
-         "Kerala": "",
-         "Ontario": "",
-         "No Reason": "",
-         "7th Sevens": "",
-         "Figures": ""
-      },
-      "The North Borders": {
-         "@date": "2013",
-         "First Fires": "",
-         "Emkay": "",
-         "Cirrus": "good",
-         "Heaven for the Sinner": "bad",
-         "Sapphire": "good",
-         "Jets": "",
-         "Towers": "",
-         "Don’t Wait": "",
-         "Know You": "",
-         "Antenna": "bad",
-         "Ten Tigers": "",
-         "Transits": "",
-         "Pieces": ""
-      },
-      "Black Sands": {
-         "@date": "2010",
-         "Prelude": "short",
-         "Kiara": "good",
-         "Kong": "bad",
-         "Eyesdown": "good",
-         "El Toro": "good",
-         "We Could Forever": "good",
-         "1009": "good",
-         "All in Forms": "bad",
-         "The Keeper": "bad",
-         "Stay the Same": "good",
-         "Animals": "good",
-         "Black Sands": "good"
-      },
+       "Migration": {
+           "@date": "2017-01-13",
+           "Migration": "bad",
+           "Break Apart": "bad",
+           "Outlier": "bad",
+           "Grains": "bad",
+           "Second Sun": "bad",
+           "Surface": "",
+           "Bambro Koyo Ganda": "",
+           "Kerala": "",
+           "Ontario": "",
+           "No Reason": "",
+           "7th Sevens": "",
+           "Figures": ""
+       },
+       "The North Borders": {
+           "@date": "2013-03-21",
+           "First Fires": "",
+           "Emkay": "",
+           "Cirrus": "good",
+           "Heaven for the Sinner": "bad",
+           "Sapphire": "good",
+           "Jets": "",
+           "Towers": "bad",
+           "Don’t Wait": "bad",
+           "Know You": "bad",
+           "Antenna": "bad",
+           "Ten Tigers": "",
+           "Transits": "",
+           "Pieces": ""
+       },
+       "Black Sands": {
+           "@date": "2010-03-29",
+           "Prelude": "short",
+           "Kiara": "good",
+           "Kong": "bad",
+           "Eyesdown": "good",
+           "El Toro": "good",
+           "We Could Forever": "good",
+           "1009": "good",
+           "All in Forms": "bad",
+           "The Keeper": "short",
+           "Stay the Same": "good",
+           "Animals": "good",
+           "Black Sands": "good"
+       },
        "Days to Come": {
            "@date": "2006-10-02",
            "Intro": "short",
