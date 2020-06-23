@@ -146,7 +146,7 @@
    "Kate Bush": {
       "The Sensual World": {
           "@date": "1989-10-17",
-          "The Sensual World": "yes",
+          "The Sensual World": "good",
           "Love and Anger": "",
           "The Fog": "",
           "Reaching Out": "",
@@ -157,50 +157,50 @@
           "Rocket’s Tail": "",
           "This Woman’s Work": ""
       },
-      "Hounds of Love": {
-         "@date": "1985",
-         "Running Up That Hill": "good",
-         "Hounds of Love": "bad",
-         "The Big Sky": "bad",
-         "Mother Stands for Comfort": "bad",
-         "Cloudbusting": "good",
-         "And Dream of Sheep": "short",
-         "Under Ice": "short",
-         "Waking the Witch": "bad",
-         "Watching You Without Me": "bad",
-         "Jig of Life": "bad",
-         "Hello Earth": "bad",
-         "The Morning Fog": "short"
-      },
-      "The Dreaming": {
-         "@date": "1982",
-         "Sat in Your Lap": "bad",
-         "There Goes a Tenner": "bad",
-         "Pull Out the Pin": "bad",
-         "Suspended in Gaffa": "bad",
-         "Leave It Open": "bad",
-         "The Dreaming": "bad",
-         "Night of the Swallow": "bad",
-         "All the Love": "bad",
-         "Houdini": "bad",
-         "Get Out of My House": ""
-      },
-      "The Kick Inside": {
-         "@date": "1978",
-         "Moving": "bad",
-         "The Saxophone Song": "bad",
-         "Strange Phenomena": "short",
-         "Kite": "short",
-         "The Man With the Child in His Eyes": "short",
-         "Wuthering Heights": "bad",
-         "James and the Cold Gun": "bad",
-         "Feel It": "bad",
-         "Oh to Be in Love": "bad",
-         "L’Amour Looks Something Like You": "short",
-         "Them Heavy People": "bad",
-         "Room for the Life": "bad",
-         "The Kick Inside": "bad"
-      }
+       "Hounds of Love": {
+           "@date": "1985-09-16",
+           "Running Up That Hill (A Deal With God)": "good",
+           "Hounds of Love": "bad",
+           "The Big Sky": "bad",
+           "Mother Stands for Comfort": "bad",
+           "Cloudbusting": "good",
+           "And Dream of Sheep": "short",
+           "Under Ice": "short",
+           "Waking the Witch": "bad",
+           "Watching You Without Me": "bad",
+           "Jig of Life": "bad",
+           "Hello Earth": "bad",
+           "The Morning Fog": "short"
+       },
+       "The Dreaming": {
+           "@date": "1982-09-13",
+           "Sat in Your Lap": "bad",
+           "There Goes a Tenner": "bad",
+           "Pull Out the Pin": "bad",
+           "Suspended in Gaffa": "bad",
+           "Leave It Open": "bad",
+           "The Dreaming": "bad",
+           "Night of the Swallow": "bad",
+           "All the Love": "bad",
+           "Houdini": "bad",
+           "Get Out of My House": ""
+       },
+       "The Kick Inside": {
+           "@date": "1978-02-17",
+           "Moving": "bad",
+           "The Saxophone Song": "bad",
+           "Strange Phenomena": "short",
+           "Kite": "short",
+           "The Man With the Child in His Eyes": "short",
+           "Wuthering Heights": "bad",
+           "James and the Cold Gun": "bad",
+           "Feel It": "bad",
+           "Oh to Be in Love": "bad",
+           "L'Amour Looks Something Like You": "short",
+           "Them Heavy People": "bad",
+           "Room for the Life": "bad",
+           "The Kick Inside": "bad"
+       }
    },
    "Kelly Bailey": {
       "Portal 2": {

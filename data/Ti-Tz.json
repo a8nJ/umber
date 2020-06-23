@@ -767,6 +767,17 @@
       }
    },
    "Tycho": {
+       "Weather": {
+           "@date": "2019-07-12",
+           "Easy": "good",
+           "Pink & Blue": "",
+           "Japan": "",
+           "Into the Woods": "",
+           "Skate": "",
+           "For How Long": "",
+           "No Stress": "",
+           "Weather": ""
+       },
        "Epoch": {
            "@date": "2016-09-30",
            "Glider": "bad",
@@ -805,6 +816,14 @@
            "Epigram": "short",
            "Elegy": "good"
        },
+       "The Science of Patterns": {
+           "@date": "2007",
+           "Dream as a Memory": "bad",
+           "Human Condition": "bad",
+           "Red Bridge": "bad",
+           "Systems": "good",
+           "In the End": "bad"
+       },
        "Past Is Prologue": {
            "@date": "2006-10-25",
            "From Home": "good",
@@ -820,14 +839,6 @@
            "A Circular Reeducation (Dusty Brown remix)": "",
            "Send and Receive (Chachi Jones remix)": "",
            "Sunrise Projector (Nautilis remix)": ""
-       },
-       "The Science of Patterns": {
-           "@date": "2007",
-           "Dream as a Memory": "bad",
-           "Human Condition": "bad",
-           "Red Bridge": "bad",
-           "Systems": "good",
-           "In the End": "bad"
        },
        "Sunrise Projector": {
            "@date": "2004-09-24",
