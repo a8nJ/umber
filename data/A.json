@@ -707,11 +707,7 @@
       "Heart in Motion": {
          "@date": "1991",
          "Good for Me": "",
-         "Baby Baby": {
-            "rate": "good",
-            "VPY": "857,822",
-            "URL": "https://youtu.be/vMXuuYnoRdI"
-         },
+         "Baby Baby": "good",
          "Every Heartbeat": "",
          "That’s What Love Is For": "",
          "Ask Me": "",
@@ -890,7 +886,7 @@
       "On": {
           "@date": "1993-11-15",
           "On": "good",
-          "73-Yips": "",
+          "73-Yips": "bad",
           "D-Scape": "",
           "Xepha": ""
       },
