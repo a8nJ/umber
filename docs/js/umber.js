@@ -62,10 +62,6 @@ function f2_data(a_table) {
 }
 
 function f3_figure(a_row) {
-   // elements
-   const o_figcap = document.createElement('figcaption');
-   const o_figure = document.createElement('figure');
-   const o_time = document.createElement('time');
    // column 0
    const s_id_1 = a_row[0];
    // column 1
@@ -80,30 +76,39 @@ function f3_figure(a_row) {
    }
    // column 3
    const s_title = a_row[3];
-   // begin
-   let o_a;
+   let m;
    switch (s_site) {
    case 'b':
-      o_a = f_bandcamp(s_id_2, s_id_3, s_title);
+      m = f_bandcamp(s_id_2, s_id_3);
       break;
    case 'm4a':
    case 'mp3':
    case 'mp4':
-      o_a = f_backblaze(s_id_1, s_id_2);
+      m = f_backblaze(s_id_1, s_id_2);
       break;
    case 's':
-      o_a = f_soundcloud(s_id_2, s_id_3, s_title);
+      m = f_soundcloud(s_id_2, s_id_3);
       break;
    case 'y':
-      o_a = f_youtube(s_id_2, s_title);
+      m = f_youtube(s_id_2);
    }
-   // end
-   o_a.target = '_blank';
-   o_figcap.textContent = s_title;
+   // part 1
+   const o_temp = document.querySelector('#temp');
+   // part 2
+   const o_fig = o_temp.content.cloneNode(true);
+   // part 3
+   const o_cap_a = o_fig.querySelector('figcaption a');
+   const o_img = o_fig.querySelector('img');
+   const o_img_a = o_fig.querySelector('a');
+   const o_time = o_fig.querySelector('time');
+   o_cap_a.href = m.href;
+   o_cap_a.target = '_blank';
+   o_cap_a.textContent = s_title;
+   o_img.src = m.src;
+   o_img_a.href = m.href;
+   o_img_a.target = '_blank';
    o_time.textContent = 'released ' + s_year + ' - posted ' + f_date(s_id_1);
-   o_a.append(o_figcap);
-   o_figure.append(o_a, o_time);
-   return o_figure;
+   return o_fig;
 }
 
 fetch('/umber/umber.json').then(f1_json).then(f2_data);

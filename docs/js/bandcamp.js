@@ -1,23 +1,19 @@
 'use strict';
 
-export function f_bandcamp(s_id_2, s_id_3, s_title) {
-   // <a>
-   const o_a = document.createElement('a');
-   const m_param = {
-      track: s_id_2,
-      // required when protocol is not "file:"
-      ref: '',
-      // these are not required, but they look nicer
-      artwork: 'small',
-      size: 'large'
-   };
-   const s_param = new URLSearchParams(m_param).toString();
+export function f_bandcamp(s_id_2, s_id_3) {
+   const m_in = {};
+   // optional
+   m_in.artwork = 'small';
+   // required when protocol is not "file:"
+   m_in.ref = '';
+   // optional
+   m_in.size = 'large';
+   // required
+   m_in.track = s_id_2;
+   const s_in = new URLSearchParams(m_in).toString();
+   const m_out = {};
    // case sensitive
-   o_a.href = 'https://bandcamp.com/EmbeddedPlayer?' + s_param + '#' + s_title;
-   // <img>
-   const o_img = document.createElement('img');
-   o_img.src = 'https://f4.bcbits.com/img/' + s_id_3 + '_5.jpg';
-   // return
-   o_a.append(o_img);
-   return o_a;
+   m_out.href = 'https://bandcamp.com/EmbeddedPlayer?' + s_in;
+   m_out.src = 'https://f4.bcbits.com/img/' + s_id_3 + '_5.jpg';
+   return m_out;
 }
