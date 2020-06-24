@@ -493,7 +493,7 @@
            "Öll birtan": "short",
            "Who Is It (Carry My Joy on the Left, Carry My Pain": "bad",
            "Submarine": "bad",
-           "Desired Constellation": "",
+           "Desired Constellation": "bad",
            "Oceania": "",
            "Sonnets/Unrealities XI": "short",
            "Ancestors": "",
@@ -510,11 +510,11 @@
            "Pagan Poetry": "bad",
            "Frosti": "short",
            "Aurora": "good",
-           "An Echo, a Stain": "",
+           "An Echo, a Stain": "bad",
            "Sun in My Mouth": "short",
-           "Heirloom": "",
-           "Harm of Will": "",
-           "Unison": ""
+           "Heirloom": "bad",
+           "Harm of Will": "bad",
+           "Unison": "bad"
        },
        "Homogenic": {
            "@date": "1997-09-22",
