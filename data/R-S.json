@@ -706,31 +706,46 @@
        }
    },
    "Samaris": {
-      "Black Lights": {
-         "@date": "2016",
-         "Wanted 2 Say": "",
-         "Black Lights": "",
-         "Gradient Sky": "short",
-         "T3mp0": "good",
-         "I Will": "",
-         "R4vin": "",
-         "3y3": "",
-         "T4ngled": "",
-         "In Deep": "good"
-      },
-      "Silkidrangar": {
-         "@date": "2014",
-         "Nótt": "good",
-         "Ég vildi fegin verða": "",
-         "Lífsins ólgusjór": "",
-         "Tíbrá": "",
-         "Brennur stjarna": "",
-         "Máninn og bróðir hans": "",
-         "Þótt hann rigni": "",
-         "Hafið": "",
-         "Hrafnar": "",
-         "Vögguljóð": ""
-      }
+       "Black Lights": {
+           "@date": "2016-06-10",
+           "Wanted 2 Say": "",
+           "Black Lights": "",
+           "Gradient Sky": "short",
+           "T3mp0": "good",
+           "I Will": "",
+           "R4vin": "",
+           "3y3": "",
+           "T4ngled": "",
+           "In Deep": "good"
+       },
+       "Silkidrangar": {
+           "@date": "2014-05-05",
+           "Nótt": "good",
+           "Ég vildi fegin verða": "",
+           "Lífsins ólgusjór": "",
+           "Tíbrá": "",
+           "Brennur stjarna": "",
+           "Máninn og bróðir hans": "",
+           "Þótt hann rigni": "",
+           "Hafið": "",
+           "Hrafnar": "",
+           "Vögguljóð": ""
+       },
+       "Samaris": {
+           "@date": "2013-07-29",
+           "Hljóma Þú": "good",
+           "Viltu Vitrast": "",
+           "Góða Tungl": "",
+           "Stofnar Falla": "",
+           "Vöggudub": "",
+           "Sólhvörf I": "",
+           "Sólhvörf II": "",
+           "Kælan Mikla": "",
+           "Hljóma Þú (Muted remix)": "",
+           "Viltu Vitrast (Opinberun Futuregrapher's remix)": "",
+           "Góða Tungl (DJ Arfi remix)": "",
+           "Stofnar Falla (Subminimal remix)": ""
+       }
    },
    "Sarah McLachLan": {
        "Surfacing": {

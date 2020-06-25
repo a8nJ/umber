@@ -70,7 +70,7 @@ function f3_figure(a_row) {
    const a_host = a_row[2].split('/');
    const s_site = a_host[0];
    const s_id_2 = a_host[1];
-   let s_id_3;
+   let s_id_3 = '';
    if (a_host.length == 3) {
       s_id_3 = a_host[2];
    }
@@ -90,7 +90,7 @@ function f3_figure(a_row) {
       m = f_soundcloud(s_id_2, s_id_3);
       break;
    case 'y':
-      m = f_youtube(s_id_2);
+      m = f_youtube(s_id_2, s_id_3);
    }
    // part 1
    const o_temp = document.querySelector('#temp');
