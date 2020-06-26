@@ -6,56 +6,99 @@
    font-family: "Overpass";
    src: url("/umber/fonts/overpass.woff2");
 }
-#newer, #older, .repo {
-   color: #c82121;
-}
-#newer, #older, form {
-   margin-left: 25px;
-   margin-right: 25px;
-}
-.repo, footer, main {
-   font-family: Overpass;
-}
-.repo, h1 {
-   margin: 0 50px;
-}
-.repo, main {
-   font-size: large;
-}
-a {
-   text-decoration: none;
+figure > a, header {
+   align-items: center; /* vertical */
 }
 body {
    background: radial-gradient(#dee1ec 80%, #becbff);
 }
-figure {
+h1 {
+   color: #0d0cb5;
+}
+#newer, #older, .repo {
+   color: #c82121;
+}
+figure > a, footer, header, main {
+   display: flex;
+}
+figure, img {
    flex-basis: 426px;
-   margin: 12px 8px;
+}
+img {
+   flex-shrink: 0;
+}
+footer, header, main {
+   flex-wrap: wrap;
+}
+h1 {
+   font-family: "Miller Display Italic";
+}
+.repo, footer, main {
+   font-family: "Overpass";
+}
+h1 {
+   font-size: 3em;
+}
+.repo, main {
+   font-size: large;
 }
 footer {
    font-size: xx-large;
-   margin-bottom: 8px;
 }
-footer, header, main {
-   display: flex;
-   flex-wrap: wrap;
+figure > a {
+   height: 240px;
+}
+figure > a, footer, header, main {
    justify-content: center; /* horizontal */
 }
-h1 {
-   color: #0d0cb5;
-   font-family: "Miller Display Italic";
-   font-size: 3em;
+.repo, h1 {
+   margin-bottom: 0;
+}
+footer, header {
+   margin-bottom: 8px;
+}
+figure {
+   margin-bottom: 12px;
+}
+figure, header {
+   margin-left: 8px;
+}
+#newer, #older, form {
+   margin-left: 25px;
+}
+.repo, h1 {
+   margin-left: 50px;
+}
+figure, header {
+   margin-right: 8px;
+}
+#newer, #older, form {
+   margin-right: 25px;
+}
+.repo, h1 {
+   margin-right: 50px;
+}
+.repo, h1 {
+   margin-top: 0;
+}
+figcaption {
+   margin-top: 6px;
 }
 header {
-   align-items: center; /* vertical */
-   margin: 8px;
+   margin-top: 8px;
 }
-img {
-   height: 240px;
-   object-fit: cover;
-   width: 100%;
+figure {
+   margin-top: 12px;
+}
+figure, figure > a {
+   overflow: hidden;
 }
 input {
    text-align: center;
+}
+a {
+   text-decoration: none;
+}
+input {
    vertical-align: middle;
 }
