@@ -133,11 +133,7 @@
          "Wonder": "good",
          "Beloved Wife": "",
          "River": "",
-         "Carnival": {
-            "rate": "good",
-            "VPY": "559,819",
-            "URL": "https://youtu.be/VQ_Wqtnlv4U"
-         },
+         "Carnival": "good",
          "I May Know the Word": "",
          "The Letter": "short",
          "Cowboy Romance": "",
@@ -147,13 +143,19 @@
       }
    },
    "Neil Young": {
-      "Harvest": {
-         "Neil Young - Heart Of Gold": {
-             "URL": "https://youtu.be/Eh44QPT1mPE",
-             "VPY": "6,433,460"
-         },
-         "Old Man": ""
-      }
+       "Harvest": {
+           "@date": "1972-02-14",
+           "Out on the Weekend": "",
+           "Harvest": "",
+           "A Man Needs a Maid": "",
+           "Heart of Gold": "good",
+           "Are You Ready for the Country?": "",
+           "Old Man": "",
+           "There’s a World": "short",
+           "Alabama": "",
+           "The Needle and the Damage Done": "short",
+           "Words (Between the Lines of Age)": ""
+       }
    },
    "Nelly Furtado": {
        "Loose": {
@@ -353,11 +355,11 @@
           "So Here We Are": "good",
           "Be, I Do": "bad",
           "Master Plan": "bad",
-          "Luna 2": "",
-          "Now Is the Time": "",
-          "Give Thx": "",
-          "Eye (Can’t See)": "",
-          "Tapestry": "",
+          "Luna 2": "bad",
+          "Now Is the Time": "bad",
+          "Give Thx": "bad",
+          "Eye (Can’t See)": "bad",
+          "Tapestry": "bad",
           "There 4U": "",
           "Om Sweet H(Om)E": ""
       },
