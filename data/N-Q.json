@@ -98,49 +98,63 @@
        }
    },
    "Natalie Merchant": {
-      "Motherland": {
-         "@date": "2001",
-         "This House Is on Fire": "bad",
-         "Motherland": "bad",
-         "Saint Judas": "bad",
-         "Put the Law on You": "bad",
-         "Build a Levee": "bad",
-         "Golden Boy": "",
-         "Henry Darger": "",
-         "The Worst Thing": "",
-         "Tell Yourself": "",
-         "Just Can’t Last": "",
-         "Not in This Life": "",
-         "I’m Not Gonna Beg": ""
-      },
-      "Ophelia": {
-         "@date": "1998",
-         "Ophelia": "",
-         "Life Is Sweet": "",
-         "Kind & Generous": "good",
-         "Frozen Charlotte": "",
-         "My Skin": "",
-         "Break Your Heart": "",
-         "King of May": "",
-         "Thick as Thieves": "",
-         "Effigy": "short",
-         "The Living": "",
-         "When They Ring the Golden Bells": ""
-      },
-      "Tigerlily": {
-         "@date": "1995",
-         "San Andreas Fault": "",
-         "Wonder": "good",
-         "Beloved Wife": "",
-         "River": "",
-         "Carnival": "good",
-         "I May Know the Word": "",
-         "The Letter": "short",
-         "Cowboy Romance": "",
-         "Jealousy": "short",
-         "Where I Go": "",
-         "Seven Years": ""
-      }
+       "The House Carpenter’s Daughter": {
+           "@date": "2003-09-16",
+           "Sally Ann": "bad",
+           "Which Side Are You On?": "bad",
+           "Crazy Man Michael": "bad",
+           "Diver Boy": "bad",
+           "Weeping Pilgrim": "",
+           "Soldier, Soldier": "",
+           "Bury Me Under the Weeping Willow": "",
+           "House Carpenter": "",
+           "Owensboro": "",
+           "Down on Penny’s Farm": "",
+           "Poor Wayfaring Stranger": ""
+       },
+       "Motherland": {
+           "@date": "2001-11-13",
+           "This House Is on Fire": "bad",
+           "Motherland": "bad",
+           "Saint Judas": "bad",
+           "Put the Law on You": "bad",
+           "Build a Levee": "bad",
+           "Golden Boy": "",
+           "Henry Darger": "",
+           "The Worst Thing": "",
+           "Tell Yourself": "",
+           "Just Can’t Last": "",
+           "Not in This Life": "",
+           "I’m Not Gonna Beg": ""
+       },
+       "Ophelia": {
+           "@date": "1998-05-19",
+           "Ophelia": "",
+           "Life Is Sweet": "",
+           "Kind & Generous": "good",
+           "Frozen Charlotte": "",
+           "My Skin": "",
+           "Break Your Heart": "",
+           "King of May": "",
+           "Thick as Thieves": "",
+           "Effigy": "short",
+           "The Living": "",
+           "When They Ring the Golden Bells / Ophelia (reprise)": ""
+       },
+       "Tigerlily": {
+           "@date": "1995-06-16",
+           "San Andreas Fault": "",
+           "Wonder": "good",
+           "Beloved Wife": "",
+           "River": "",
+           "Carnival": "good",
+           "I May Know the Word": "",
+           "The Letter": "short",
+           "Cowboy Romance": "",
+           "Jealousy": "short",
+           "Where I Go": "",
+           "Seven Years": ""
+       }
    },
    "Neil Young": {
        "Harvest": {

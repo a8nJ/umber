@@ -454,45 +454,52 @@
          "Forever Lost": "",
          "Into the Escape": ""
       },
-      "Conjure One": {
-         "@date": "2002",
-         "Damascus": "short",
-         "Center of the Sun": "",
-         "Tears From the Moon": {
-            "VPY": "163,821",
-            "URL": "https://youtu.be/4w0hHxrj7do"
-         },
-         "Tidal Pool": "good",
-         "Manic Star": "",
-         "Redemption": "",
-         "Years": "",
-         "Make a Wish": "",
-         "Pandora": "good",
-         "Sleep": "",
-         "Premonition (reprise)": ""
-      }
+       "Conjure One": {
+           "@date": "2002-09-17",
+           "Damascus": "short",
+           "Center of the Sun": "",
+           "Tears From the Moon": "",
+           "Tidal Pool": "good",
+           "Manic Star": "",
+           "Redemption": "",
+           "Years": "",
+           "Make a Wish": "",
+           "Pandora": "good",
+           "Sleep": "",
+           "Premonition (reprise)": ""
+       }
    },
    "Counting Crows": {
-      "This Desert Life": {
-         "@date": "1999",
-         "Hanginaround": "",
-         "Mrs. Potter’s Lullaby": "",
-         "Amy Hit the Atmosphere": "",
-         "Four Days": "",
-         "All My Friends": "",
-         "High Life": "",
-         "Colorblind": "good",
-         "I Wish I Was a Girl": "",
-         "Speedway": "",
-         "St. Robinson in His Cadillac Dream / Kid Things": ""
-      },
-      "August and Everything After": {
-         "@date": "1993",
-         "Mr. Jones": {
-            "VPY": "13,704,250",
-            "URL": "https://youtu.be/-oqAU5VxFWs"
-         }
-      }
+       "This Desert Life": {
+           "@date": "1999-11-01",
+           "Hanginaround": "",
+           "Mrs. Potter’s Lullaby": "",
+           "Amy Hit the Atmosphere": "",
+           "Four Days": "",
+           "All My Friends": "",
+           "High Life": "",
+           "Colorblind": "good",
+           "I Wish I Was a Girl": "",
+           "Speedway": "",
+           "St. Robinson in His Cadillac Dream / Kid Things": ""
+       },
+       "August and Everything After": {
+           "@date": "1993-09-14",
+           "Round Here": "",
+           "Omaha": "",
+           "Mr. Jones": {
+             "id": "-oqAU5VxFWs",
+             "views per year": "16,201,008"
+         },
+           "Perfect Blue Buildings": "",
+           "Anna Begins": "",
+           "Time and Time Again": "",
+           "Rain King": "",
+           "Sullivan Street": "",
+           "Ghost Train": "",
+           "Raining in Baltimore": "",
+           "A Murder of One": ""
+       }
    },
    "Crazy P": {
        "Age of the Ego": {
