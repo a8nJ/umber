@@ -567,9 +567,7 @@
            "@date": "1999-11-30",
            "By Your Side": {
              "id": "C8QJmI_V3j4",
-             "views": "77,649,658",
-             "published": "2009-12-11",
-             "views per year": "7,405,101"
+             "views per year": "7,418,773"
          },
            "Flow": "",
            "King of Sorrow": "",
@@ -586,9 +584,7 @@
            "@date": "1992-10-23",
            "No Ordinary Love": {
              "id": "_WcWHZc8s2I",
-             "views": "103,311,966",
-             "published": "2009-12-11",
-             "views per year": "9,852,401"
+             "views per year": "9,867,013"
          },
            "Feel No Pain": "",
            "I Couldn’t Love You More": "",
@@ -599,45 +595,45 @@
            "Bullet Proof Soul": "",
            "Mermaid": ""
        },
-      "Stronger Than Pride": {
-         "@date": "1988",
-         "Love Is Stronger Than Pride": "",
-         "Paradise": "good",
-         "Nothing Can Come Between Us": "good",
-         "Haunt Me": "",
-         "Turn My Back on You": "",
-         "Keep Looking": "",
-         "Clean Heart": "",
-         "Give It Up": "",
-         "I Never Thought I’d See the Day": "",
-         "Siempre Hay Esperanza": ""
-      },
-      "Promise": {
-         "@date": "1985",
-         "Is It a Crime": "good",
-         "The Sweetest Taboo": "good",
-         "War of the Hearts": "",
-         "You’re Not the Man": "",
-         "Jezebel": "",
-         "Mr. Wrong": "short",
-         "Punch Drunk": "",
-         "Never as Good as the First Time": "",
-         "Fear": "",
-         "Tar Baby": "",
-         "Maureen": ""
-      },
-      "Diamond Life": {
-         "@date": "1984",
-         "Smooth Operator": "good",
-         "Your Love Is King": "good",
-         "Hang on to Your Love": "bad",
-         "Frankie’s First Affair": "bad",
-         "When Am I Going to Make a Living": "bad",
-         "Cherry Pie": "good",
-         "Sally": "good",
-         "I Will Be Your Friend": "good",
-         "Why Can’t We Live Together?": ""
-      }
+       "Stronger Than Pride": {
+           "@date": "1988-04-29",
+           "Love Is Stronger Than Pride": "",
+           "Paradise": "good",
+           "Nothing Can Come Between Us": "good",
+           "Haunt Me": "",
+           "Turn My Back on You": "",
+           "Keep Looking": "",
+           "Clean Heart": "",
+           "Give It Up": "",
+           "I Never Thought I'd See the Day": "",
+           "Siempre Hay Esperanza": ""
+       },
+       "Promise": {
+           "@date": "1985-11-16",
+           "Is It a Crime": "good",
+           "The Sweetest Taboo": "good",
+           "War of the Hearts": "",
+           "You're Not the Man": "",
+           "Jezebel": "",
+           "Mr. Wrong": "short",
+           "Punch Drunk": "",
+           "Never as Good as the First Time": "good",
+           "Fear": "",
+           "Tar Baby": "",
+           "Maureen": ""
+       },
+       "Diamond Life": {
+           "@date": "1984-07-28",
+           "Smooth Operator": "good",
+           "Your Love Is King": "good",
+           "Hang on to Your Love": "bad",
+           "Frankie’s First Affair": "bad",
+           "When Am I Going to Make a Living": "bad",
+           "Cherry Pie": "good",
+           "Sally": "good",
+           "I Will Be Your Friend": "good",
+           "Why Can’t We Live Together?": ""
+       }
    },
    "Saint Etienne": {
        "Tales From Turnpike House": {

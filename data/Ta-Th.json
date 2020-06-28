@@ -699,10 +699,7 @@
          "Wild, Sweet and Cool": "good",
          "Roll It Up": "good",
          "Murder": "",
-         "Name of the Game": {
-            "VPY": "293,737",
-            "URL": "https://youtu.be/A12-KN5UijA"
-         },
+         "Name of the Game": "",
          "The Winner": "",
          "Ready for Action": "",
          "Ten Miles Back": "",
@@ -710,30 +707,26 @@
          "Blowout": "",
          "Tough Guy": ""
       },
-      "Vegas": {
-         "@date": "1997",
-         "Trip Like I Do": "good",
-         "Busy Child": "good",
-         "Cherry Twist": "good",
-         "High Roller": "good",
-         "Comin’ Back": "good",
-         "Keep Hope Alive": "good",
-         "Vapor Trail": "",
-         "She’s My Pusher": "",
-         "Jaded": "good",
-         "Bad Stone": "good"
-      }
+       "Vegas": {
+           "@date": "1997-08-26",
+           "Trip Like I Do": "good",
+           "Busy Child": "good",
+           "Cherry Twist": "good",
+           "High Roller": "good",
+           "Comin' Back": "good",
+           "Keep Hope Alive": "good",
+           "Vapor Trail": "",
+           "She's My Pusher": "",
+           "Jaded": "good",
+           "Bad Stone": "good"
+       }
    },
    "The Cure": {
       "Disintegration": {
          "Plainsong": "",
          "Pictures of You": "good",
          "Closedown": "",
-         "Lovesong": {
-            "rate": "good",
-            "VPY": "2,040,934",
-            "URL": "https://youtu.be/hXCKLJGLENs"
-         },
+         "Lovesong": "good",
          "Lullaby": "good",
          "Fascination Street": "",
          "Prayers for Rain": "",
