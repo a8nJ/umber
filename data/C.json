@@ -441,19 +441,33 @@
       }
    },
    "Conjure One": {
-      "Extraordinary Ways": {
-         "@date": "2005",
-         "Endless Dream": "bad",
-         "Face the Music": "bad",
-         "Pilgrimage": "bad",
-         "One Word": "bad",
-         "I Believe": "bad",
-         "Beyond Being": "",
-         "Extraordinary Way": "",
-         "Dying Light": "",
-         "Forever Lost": "",
-         "Into the Escape": ""
-      },
+       "Exilarch": {
+           "@date": "2010-10-19",
+           "Like Ice": "bad",
+           "Places That Don't Exist": "",
+           "Zephyr": "",
+           "Nargis": "",
+           "Nomadic Code": "",
+           "The Distance": "",
+           "I Dream in Colour": "",
+           "Demon Inside": "",
+           "Existential Exile": "",
+           "Run for Cover": "",
+           "Oligarch": ""
+       },
+       "Extraordinary Ways": {
+           "@date": "2005-08-30",
+           "Endless Dream": "bad",
+           "Face the Music": "bad",
+           "Pilgrimage": "bad",
+           "One Word": "bad",
+           "I Believe": "bad",
+           "Beyond Being": "",
+           "Extraordinary Way": "",
+           "Dying Light": "",
+           "Forever Lost": "",
+           "Into the Escape": ""
+       },
        "Conjure One": {
            "@date": "2002-09-17",
            "Damascus": "short",

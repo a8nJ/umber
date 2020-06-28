@@ -584,6 +584,19 @@
       }
    },
    "Amon Tobin": {
+       "Long Stories": {
+           "@date": "2019-10-25",
+           "One Shy Morning": "bad",
+           "Full Panther": "",
+           "Sounds Like Moths": "",
+           "Red Moon": "",
+           "Clear for Blue": "",
+           "Long Stories": "",
+           "Dust for a Duster": "",
+           "Brushed Aluminium Reeds": "",
+           "Atkinson Sky": "",
+           "Feed": ""
+       },
       "Fear in a Handful of Dust": {
           "@date": "2019-04-26",
           "On a Hilltop Sat the Moon": "good",
@@ -704,20 +717,20 @@
        }
    },
    "Amy Grant": {
-      "Heart in Motion": {
-         "@date": "1991",
-         "Good for Me": "",
-         "Baby Baby": "good",
-         "Every Heartbeat": "",
-         "That’s What Love Is For": "",
-         "Ask Me": "",
-         "Galileo": "",
-         "You’re Not Alone": "",
-         "Hats": "",
-         "I Will Remember You": "",
-         "How Can We See That Far": "",
-         "Hope Set High": "short"
-      }
+       "Heart in Motion": {
+           "@date": "1991-03-05",
+           "Good for Me": "",
+           "Baby Baby": "good",
+           "Every Heartbeat": "",
+           "That’s What Love Is For": "",
+           "Ask Me": "",
+           "Galileo": "",
+           "You’re Not Alone": "",
+           "Hats": "",
+           "I Will Remember You": "",
+           "How Can We See That Far": "",
+           "Hope Set High": "short"
+       }
    },
    "Aphex Twin": {
       "@check": "2020-04-26",

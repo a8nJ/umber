@@ -842,29 +842,38 @@
       }
    },
    "Genesis": {
-      "Invisible Touch": {
-         "Invisible Touch": "",
-         "Tonight, Tonight, Tonight": "",
-         "Land of Confusion": {
-            "rate": "good",
-            "VPY": "511,888",
-            "URL": "https://youtu.be/QHmH1xQ2Pf4"
-         },
-         "In Too Deep": "",
-         "Anything She Does": "",
-         "Domino Part One In the Glow of the Night - Part Two The Last Domino": "",
-         "Throwing It All Away": "",
-         "The Brazilian": ""
-      }
+       "We Can’t Dance": {
+           "@date": "1991-11-11",
+           "No Son of Mine": "",
+           "Jesus He Knows Me": "",
+           "Driving the Last Spike": "",
+           "I Can’t Dance": "good",
+           "Never a Time": "",
+           "Dreaming While You Sleep": "",
+           "Tell Me Why": "",
+           "Living Forever": "",
+           "Hold On My Heart": "",
+           "Way of the World": "",
+           "Since I Lost You": "",
+           "Fading Lights": ""
+       },
+       "Invisible Touch": {
+           "@date": "1986-06-01",
+           "Invisible Touch": "",
+           "Tonight, Tonight, Tonight": "",
+           "Land of Confusion": "good",
+           "In Too Deep": "",
+           "Anything She Does": "",
+           "Domino: Part One: In the Glow of the Night - Part Two: The Last Domino": "",
+           "Throwing It All Away": "",
+           "The Brazilian": ""
+       }
    },
    "Gin Blossoms": {
       "New Miserable Experience": {
           "@date": "1992-08-04",
           "Lost Horizons": "",
-          "Hey Jealousy": {
-            "rate": "good",
-            "URL": "https://www.youtube.com/watch?v=ah5gAkna3jI"
-         },
+          "Hey Jealousy": "good",
           "Mrs. Rita": "",
           "Until I Fall Away": "",
           "Hold Me Down": "",
