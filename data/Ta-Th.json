@@ -79,30 +79,28 @@
        }
    },
    "Tears for Fears": {
-      "Raoul and the Kings of Spain": {
-         "@date": "1995",
-         "Raoul and the Kings of Spain": "bad",
-         "Falling Down": "bad",
-         "Secrets": "bad",
-         "God’s Mistake": "bad",
-         "Sketches of Pain": "good",
-         "Los reyes Católicos": "short",
-         "Sorry": "bad",
-         "Humdrum and Humble": "bad",
-         "I Choose You": "bad",
-         "Don’t Drink the Water": "bad",
-         "Me and My Big Ideas": "bad",
-         "Los reyes Católicos (reprise)": "bad"
-      },
+       "Raoul and the Kings of Spain": {
+           "@date": "1995-10-06",
+           "Raoul and the Kings of Spain": "bad",
+           "Falling Down": "bad",
+           "Secrets": "bad",
+           "God's Mistake": "bad",
+           "Sketches of Pain": "good",
+           "Los reyes Católicos": "short",
+           "Sorry": "bad",
+           "Humdrum and Humble": "bad",
+           "I Choose You": "bad",
+           "Don't Drink the Water": "bad",
+           "Me and My Big Ideas": "bad",
+           "Los reyes Católicos (reprise)": "bad"
+       },
        "Songs From the Big Chair": {
            "@date": "1985-02-17",
            "Shout": "",
            "The Working Hour": "",
            "Everybody Wants to Rule the World": {
              "id": "aGCdLKXNF3w",
-             "views": "80,030,627",
-             "published": "2013-08-09",
-             "views per year": "11,796,282"
+             "views per year": "12,235,956"
          },
            "Mothers Talk": "",
            "I Believe": "",
