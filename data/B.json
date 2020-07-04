@@ -279,22 +279,22 @@
       }
    },
    "Beirut": {
-      "The Flying Club Cup": {
-         "@date": "2007",
-         "A Call to Arms": "short",
-         "Nantes": "",
-         "A Sunday Smile": "",
-         "Guyamas Sonora": "",
-         "La banlieue": "short",
-         "Cliquot": "good",
-         "The Penalty": "short",
-         "Forks and Knives (La Fête)": "good",
-         "In the Mausoleum": "good",
-         "Un dernier verre (pour la route)": "short",
-         "Cherbourg": "good",
-         "St. Apollonia": "short",
-         "The Flying Club Cup": ""
-      }
+       "The Flying Club Cup": {
+           "@date": "2007-10-08",
+           "A Call to Arms": "short",
+           "Nantes": "",
+           "A Sunday Smile": "",
+           "Guyamas Sonora": "",
+           "La Banlieue": "short",
+           "Cliquot": "good",
+           "The Penalty": "short",
+           "Forks and Knives (La Fête)": "good",
+           "In the Mausoleum": "good",
+           "Un dernier verre (Pour la route)": "short",
+           "Cherbourg": "good",
+           "St. Apollonia": "short",
+           "The Flying Club Cup": ""
+       }
    },
    "Bell Biv DeVoe": {
       "Poison": {
