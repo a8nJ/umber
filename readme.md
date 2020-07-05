@@ -8,11 +8,13 @@
 >
 > Massive Attack
 
-Internet audio
+Music website
 
-## Author
+**Author**:
 
 Steven Penny
+
+**Links**:
 
 - <https://ampl.fi>
 - <https://gorillavsbear.net>
