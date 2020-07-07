@@ -781,15 +781,51 @@
       }
    },
    "OutKast": {
-      "Speakerboxxx / The Love Below": {
-         "@date": "2003",
-         "Hey Ya!": {
-            "VPY": "42,094,987",
-            "URL": "https://youtu.be/PWgvGjAhvIw"
+       "Speakerboxxx / The Love Below": {
+           "@date": "2003-09-23",
+           "Intro": "short",
+           "GhettoMusick": "",
+           "Unhappy": "",
+           "Bowtie": "",
+           "The Way You Move": "",
+           "The Rooster": "",
+           "Bust": "",
+           "War": "short",
+           "Church": "",
+           "Bamboo (interlude)": "short",
+           "Tomb of the Boom": "",
+           "E-Mac (interlude)": "short",
+           "Knowing": "",
+           "Flip Flop Rock": "",
+           "Interlude": "short",
+           "Reset": "",
+           "D-Boi (interlude)": "short",
+           "Last Call": "",
+           "Bowtie (postlude)": "short",
+           "The Love Below (intro)": "short",
+           "Love Hater": "short",
+           "God (interlude)": "short",
+           "Happy Valentine’s Day": "",
+           "Spread": "",
+           "Where Are My Panties?": "short",
+           "Prototype": "",
+           "She Lives in My Lap": "",
+           "Hey Ya!": {
+             "id": "PWgvGjAhvIw",
+             "views per year": "43,181,863"
          },
-         "Roses": "",
-         "The Way You Move": ""
-      },
+           "Roses": "",
+           "Good Day, Good Sir": "short",
+           "Behold a Lady": "",
+           "Pink & Blue": "",
+           "Love in War": "",
+           "She’s Alive": "",
+           "Dracula’s Wedding": "short",
+           "My Favorite Things": "",
+           "Take Off Your Cool": "short",
+           "Vibrate": "",
+           "A Life in the Day of Benjamin André (Incomplete)": ""
+       },
        "Stankonia": {
            "@date": "2000-10-23",
            "Intro": "short",
@@ -838,15 +874,33 @@
            "13th Floor/Growing Old": ""
        }
    },
+   "P. Diddy": {
+       "We Invented the Remix": {
+           "@date": "2002-05-14",
+           "Intro": "short",
+           "Special Delivery (remix)": "",
+           "I Need a Girl, Part Two": {
+             "id": "zGUttrXgzLI",
+             "views per year": "14,088,657"
+         },
+           "Bad Boy for Life (remix)": "",
+           "I Need a Girl, Part One": "",
+           "The Remix Phenomenon (interlude)": "short",
+           "Unfoolish": "",
+           "Dance With Me (remix) / Peaches & Cream (remix)": "",
+           "No More Drama (remix)": "",
+           "So Complete (remix)": "",
+           "Notorious B.I.G. (remix)": "",
+           "That's Crazy (remix)": "",
+           "Woke Up in the Morning (remix)": "",
+           "You Gets No Love (remix)": ""
+       }
+   },
    "Pastel Ghost": {
       "ABYSS": {
          "PRISM": "",
          "EMBRACE": "",
-         "CLOUDS": {
-            "rate": "good",
-            "VPY": "24,003",
-            "URL": "https://youtu.be/qn2L9M7kfHE"
-         },
+         "CLOUDS": "good",
          "SHADOWS": "",
          "SKELETON": "",
          "DARK BEACH": "",

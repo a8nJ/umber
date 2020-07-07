@@ -325,15 +325,15 @@
        },
        "Talkie Walkie": {
            "@date": "2004-01-26",
-           "Venus": "",
+           "Venus": "bad",
            "Cherry Blossom Girl": "bad",
            "Run": "bad",
            "Universal Traveler": "bad",
            "Mike Mills": "bad",
-           "Surfing on a Rocket": "",
-           "Another Day": "",
-           "Alpha Beta Gaga": "",
-           "Biological": "",
+           "Surfing on a Rocket": "bad",
+           "Another Day": "bad",
+           "Alpha Beta Gaga": "bad",
+           "Biological": "bad",
            "Alone in Kyoto": "good"
        },
        "10 000 Hz Legend": {
