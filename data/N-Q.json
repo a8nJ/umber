@@ -280,6 +280,7 @@
        }
    },
    "Nicolas Jaar": {
+      "@check": "2020-07-06",
       "Cenizas": {
           "@date": "2020-03-27",
           "Vanish": "good",
@@ -318,28 +319,28 @@
          "Mistress": "good",
          "Fight": ""
       },
-      "Space Is Only Noise": {
-         "@date": "2011",
-         "Être": "bad",
-         "Colomb": "bad",
-         "Sunflower": "short",
-         "Too Many Kids Finding Rain in the Dust": "bad",
-         "Keep Me There": "bad",
-         "Problems With the Sun": "bad",
-         "Space Is Only Noise If You Can See": "",
-         "Almost Fell": "short",
-         "Balance Her in Between Your Eyes": "",
-         "Specters of the Future": "short",
-         "Trace": "short",
-         "Variations": "",
-         "^tre": "short"
-      },
-      "Love You Gotta Lose Again": {
-         "@date": "2010",
-         "WOUH": "good",
-         "Love You Gotta Lose Again": "",
-         "Don’t Believe the Hype": "short"
-      }
+       "Space Is Only Noise": {
+           "@date": "2011-01-31",
+           "Être": "bad",
+           "Colomb": "bad",
+           "Sunflower": "short",
+           "Too Many Kids Finding Rain in the Dust": "bad",
+           "Keep Me There": "bad",
+           "Problems With the Sun": "bad",
+           "Space Is Only Noise If You Can See": "",
+           "Almost Fell": "short",
+           "Balance Her in Between Your Eyes": "",
+           "Specters of the Future": "short",
+           "Trace": "short",
+           "Variations": "",
+           "^tre": "short"
+       },
+       "Love You Gotta Lose Again EP": {
+           "@date": "2010-09",
+           "WOUH": "good",
+           "Love You Gotta Lose Again": "bad",
+           "Don't Believe the Hype": "short"
+       }
    },
    "Nightmares on Wax": {
       "@check": "2020-05-21",

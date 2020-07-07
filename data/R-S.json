@@ -1333,20 +1333,20 @@
       }
    },
    "Steve Roach": {
-      "Desert Solitaire": {
-         "@date": "1989",
-         "Flatlands": "bad",
-         "Labyrinth": "bad",
-         "Specter": "",
-         "The Canyon’s Embrace": "",
-         "Cloud of Promise": "",
-         "Knowledge & Dust": "",
-         "Shiprock": "",
-         "Highnoon": "",
-         "Empty Time": "",
-         "From the Heart of Darkness": "",
-         "Desert Solitaire": ""
-      },
+       "Desert Solitaire": {
+           "@date": "1989-10-11",
+           "Flatlands": "bad",
+           "Labyrinth": "bad",
+           "Specter": "",
+           "The Canyon’s Embrace": "",
+           "Cloud of Promise": "",
+           "Knowledge & Dust": "",
+           "Shiprock": "",
+           "Highnoon": "",
+           "Empty Time": "",
+           "From the Heart of Darkness": "",
+           "Desert Solitaire": ""
+       },
       "Dreamtime Return": {
           "@date": "1988-06-08",
           "Towards the Dream": "good",
@@ -1364,6 +1364,18 @@
           "Red Twilight With the Old Ones": "",
           "The Return": ""
       },
+       "Empetus": {
+           "@date": "1986",
+           "Arrival": "",
+           "Seeking": "bad",
+           "Conquest": "",
+           "Empowerment": "",
+           "Twilight Heat": "",
+           "Merge": "",
+           "Urge": "",
+           "Distance Is Near": "short",
+           "The Memory": ""
+       },
       "Quiet Music 2": {
          "@date": "1986",
          "See Things": "",
