@@ -775,13 +775,37 @@
       }
    },
    "Enya": {
-      "A Day Without Rain": {
-         "@date": "2000",
-         "Only Time": {
-            "VPY": "12,250,684",
-            "URL": "https://youtu.be/7wfYIMyS_dI"
-         }
-      }
+       "A Day Without Rain": {
+           "@date": "2000-11-20",
+           "A Day Without Rain": "short",
+           "Wild Child": "",
+           "Only Time": {
+             "id": "7wfYIMyS_dI",
+             "views per year": "13,719,882"
+         },
+           "Tempus Vernum": "short",
+           "Deora Ar Mo Chroí": "short",
+           "Flora's Secret": "",
+           "Fallen Embers": "short",
+           "Silver Inches": "short",
+           "Pilgrim": "",
+           "One by One": "",
+           "Lazy Days": ""
+       },
+       "Watermark": {
+           "@date": "1988-09-19",
+           "Watermark": "short",
+           "Cursum Perficio": "",
+           "On Your Shore": "",
+           "Storms in Africa": "",
+           "Exile": "",
+           "Miss Clare Remembers": "short",
+           "Orinoco Flow": "good",
+           "Evening Falls…": "",
+           "River": "",
+           "The Longships": "",
+           "Na Laetha Geal M’Óige": ""
+       }
    },
    "Everything but the Girl": {
       "Temperamental": {

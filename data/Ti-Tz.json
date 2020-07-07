@@ -593,7 +593,8 @@
        }
    },
    "Toro y Moi": {
-       "Outer Peace": {
+      "@check": "2020-07-07",
+      "Outer Peace": {
            "@date": "2019-01-18",
            "Fading": "bad",
            "Ordinary Pleasure": "bad",
@@ -668,7 +669,7 @@
           "@date": "2010-02-02",
           "Blessa": "short",
           "Minors": "good",
-          "Imprint After": "",
+          "Imprint After": "good",
           "Lissoms": "short",
           "Fax Shadow": "short",
           "Thanks Vision": "",
@@ -680,49 +681,61 @@
       }
    },
    "Tosca": {
-      "Dehli9": {
-         "@date": "2003",
-         "Oscar": "good",
-         "Me & Yoko Ono": "",
-         "Gute Laune": "",
-         "Mango di Bango": "",
-         "Wonderful": "",
-         "Every Day & Every Night": "",
-         "Dave Dudley": "",
-         "Rolf Royce": "",
-         "Sperl": "",
-         "La Vendeuse des Chaussures des Femmes, Part 1": "",
-         "D-Moll (Session 1)": "",
-         "Einschlaf (Session 2)": "short",
-         "Wien in E (Session 3)": "",
-         "Schwimmer (Session 4)": "",
-         "1504 / 7 (Session 5)": "",
-         "Slow Hell (Session 6)": "",
-         "Song (Session 7)": "short",
-         "Romanze in Es (Session 8)": "short",
-         "Fluß (Session 9)": "",
-         "Ping (Session 10)": "",
-         "2504 / 1 (Session 11)": "",
-         "Piano 1 (Session 12)": ""
-      },
-      "Suzuki": {
-         "@date": "2000",
-         "Pearl In": "short",
-         "Suzuki": {
-            "VPY": "289,417",
-            "URL": "https://youtu.be/mNk9cbJqtjs"
-         },
-         "Annanas": "",
-         "Orozco": "",
-         "Busenfreund": "good",
-         "Honey": "",
-         "Boss on the Boat": "",
-         "John Tomes": "",
-         "Ocean Beat": "",
-         "The Key": "",
-         "Doris Dub": "",
-         "Pearl Off": ""
-      }
+       "J.A.C.": {
+           "@date": "2005-05-31",
+           "Rondo Acapricio": "good",
+           "Heidi Bruehl": "",
+           "Superrob": "",
+           "John Lee Huber": "",
+           "Pyjama": "",
+           "The Big Sleep": "",
+           "Damentag": "",
+           "Naschkatze": "",
+           "Züri": "",
+           "Sala": "",
+           "Forte": "",
+           "No More Olives": ""
+       },
+       "Dehli9": {
+           "@date": "2003-02-25",
+           "Oscar": "good",
+           "Me & Yoko Ono": "",
+           "Gute Laune": "",
+           "Mango di Bango": "",
+           "Wonderful": "",
+           "Every Day & Every Night": "",
+           "Dave Dudley": "",
+           "Rolf Royce": "",
+           "Sperl": "",
+           "La Vendeuse des Chaussures des Femmes, Part 1": "",
+           "D-Moll (Session 1)": "",
+           "Einschlaf (Session 2)": "short",
+           "Wien in E (Session 3)": "",
+           "Schwimmer (Session 4)": "",
+           "1504 / 7 (Session 5)": "",
+           "Slow Hell (Session 6)": "",
+           "Song (Session 7)": "short",
+           "Romanze in Es (Session 8)": "short",
+           "Fluß (Session 9)": "",
+           "Ping (Session 10)": "",
+           "2504 / 1 (Session 11)": "",
+           "Piano 1 (Session 12)": ""
+       },
+       "Suzuki": {
+           "@date": "2000-03-06",
+           "Pearl In": "short",
+           "Suzuki": "",
+           "Annanas": "",
+           "Orozco": "",
+           "Busenfreund": "good",
+           "Honey": "",
+           "Boss on the Boat": "",
+           "John Tomes": "",
+           "Ocean Beat": "",
+           "The Key": "",
+           "Doris Dub": "",
+           "Pearl Off": ""
+       }
    },
    "Tricky": {
        "Blowback": {
