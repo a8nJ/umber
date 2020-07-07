@@ -808,76 +808,72 @@
        }
    },
    "Everything but the Girl": {
-      "Temperamental": {
-         "@date": "1999",
-         "Five Fathoms": "good",
-         "Low Tide of the Night": "",
-         "Blame": "",
-         "Hatfield 1980": "",
-         "Temperamental": "",
-         "Compression": "",
-         "Downhill Racer": "",
-         "Lullaby of Clubland": "",
-         "No Difference": "",
-         "The Future of the Future (Stay Gold)": ""
-      },
-      "Amplified Heart": {
-         "@date": "1994",
-         "Rollercoaster": "",
-         "Troubled Mind": "",
-         "I Don’t Understand Anything": "",
-         "Walking to You": "",
-         "Get Me": "",
-         "Missing": {
-            "rate": "good",
-            "VPY": "2,556,051",
-            "URL": "https://youtu.be/Q4sPkS8b62Q"
-         },
-         "Two Star": "",
-         "We Walk the Same Line": "",
-         "25th December": "",
-         "Disenchanted": "short"
-      },
-      "Acoustic": {
-         "@date": "1992",
-         "Love Is Strange": "",
-         "Tougher Than the Rest": "",
-         "Time After Time": "",
-         "Alison": "",
-         "Downtown Train": "",
-         "Driving": "good",
-         "One Place": "",
-         "Apron Strings (live)": "short",
-         "Me and Bobby D": "",
-         "Come On Home": "",
-         "Fascination (live)": ""
-      },
-      "Worldwide": {
-         "@date": "1991",
-         "Old Friends": "",
-         "Understanding": "",
-         "You Lift Me Up": "",
-         "Talk to Me Like the Sea": "",
-         "British Summertime": "good",
-         "Twin Cities": "",
-         "Frozen River": "",
-         "One Place": "",
-         "Politics Aside": "",
-         "Boxing and Pop Music": "",
-         "Feel Alright": "short"
-      },
-      "The Language of Life": {
-         "@date": "1990",
-         "Driving": "good",
-         "Get Back Together": "",
-         "Meet Me in the Morning": "",
-         "Me and Bobby D": "",
-         "The Language of Life": "",
-         "Take Me": "",
-         "Imagining America": "",
-         "Letting Love Go": "",
-         "My Baby Don’t Love Me": "",
-         "The Road": ""
-      }
+       "Temperamental": {
+           "@date": "1999-08-28",
+           "Five Fathoms": "good",
+           "Low Tide of the Night": "",
+           "Blame": "",
+           "Hatfield 1980": "",
+           "Temperamental": "",
+           "Compression": "",
+           "Downhill Racer": "",
+           "Lullaby of Clubland": "",
+           "No Difference": "",
+           "The Future of the Future (Stay Gold)": ""
+       },
+       "Amplified Heart": {
+           "@date": "1994-07-19",
+           "Rollercoaster": "",
+           "Troubled Mind": "",
+           "I Don’t Understand Anything": "",
+           "Walking to You": "",
+           "Get Me": "",
+           "Missing": "good",
+           "Two Star": "",
+           "We Walk the Same Line": "",
+           "25th December": "",
+           "Disenchanted": "short"
+       },
+       "Acoustic": {
+           "@date": "1992-06-02",
+           "Love Is Strange": "",
+           "Tougher Than the Rest": "",
+           "Time After Time": "",
+           "Alison": "",
+           "Downtown Train": "",
+           "Driving": "good",
+           "One Place": "",
+           "Apron Strings (live)": "short",
+           "Me and Bobby D": "",
+           "Come On Home": "",
+           "Fascination (live)": ""
+       },
+       "Worldwide": {
+           "@date": "1991-10-01",
+           "Old Friends": "",
+           "Understanding": "",
+           "You Lift Me Up": "",
+           "Talk to Me Like the Sea": "",
+           "British Summertime": "good",
+           "Twin Cities": "",
+           "Frozen River": "",
+           "One Place": "",
+           "Politics Aside": "",
+           "Boxing and Pop Music": "",
+           "Feel Alright": "short"
+       },
+       "The Language of Life": {
+           "@date": "1990-02-05",
+           "Driving": "good",
+           "Get Back Together": "",
+           "Meet Me in the Morning": "",
+           "Me and Bobby D": "",
+           "The Language of Life": "",
+           "Take Me": "",
+           "Imagining America": "",
+           "Letting Love Go": "",
+           "My Baby Don’t Love Me": "",
+           "The Road": ""
+       }
    }
 }
