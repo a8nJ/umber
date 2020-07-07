@@ -639,6 +639,23 @@
            "Minetta Creek": "short",
            "Smoke": "bad"
        },
+       "Angel’s Pulse": {
+           "@date": "2019-07-12",
+           "I Wanna C U": "short",
+           "Something to Do": "short",
+           "Dark & Handsome": "short",
+           "Benzo": "bad",
+           "Birmingham": "short",
+           "Good for You": "short",
+           "Baby Florence (Figure)": "short",
+           "Gold Teeth": "",
+           "Berlin": "short",
+           "Tuesday Feeling (Choose to Stay)": "short",
+           "Seven Hours, Part 1": "short",
+           "Take It Back": "",
+           "Happiness": "short",
+           "Today": "short"
+       },
        "Freetown Sound": {
            "@date": "2016-06-28",
            "By Ourselves": "short",
@@ -652,11 +669,11 @@
            "Desirée": "good",
            "Hands Up": "bad",
            "Hadron Collider": "bad",
-           "Squash Squash": "",
-           "Juicy 1-4": "",
-           "Better Than Me": "",
+           "Squash Squash": "bad",
+           "Juicy 1-4": "bad",
+           "Better Than Me": "bad",
            "Thank You": "good",
-           "I Know": "",
+           "I Know": "good",
            "Better Numb": ""
        },
        "Cupid Deluxe": {

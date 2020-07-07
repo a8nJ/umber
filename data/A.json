@@ -270,7 +270,14 @@
           ".942937": "",
           ".1993841": "",
           "AFX 6/B": "short"
-      }
+      },
+       "Analogue Bubblebath": {
+           "@date": "1991-09",
+           "Analogue Bubblebath": "",
+           "Isopropophlex": "bad",
+           "Entrance to Exit (feat. Schizophrenia)": "",
+           "AFX 2": ""
+       }
    },
    "Air": {
       "@check": "2020-05-06",
@@ -873,7 +880,7 @@
          "(8) Blur (5:02)": "good",
          "(9) Weathered Stone (6:45)": "bad",
          "(10) Tree (9:48)": "good",
-         "(11) Domino (7:09)": "",
+         "(11) Domino (7:09)": "bad",
          "(12) White Blur 1 (2:37)": "short",
          "(13) Blue Calx (7:16)": "good",
          "(14) Parallel Stripes (7:55)": "",
@@ -891,16 +898,16 @@
       },
       "On Remixes": {
           "@date": "1993-11-15",
-          "On (D-Scape mix)": "",
+          "On (D-Scape mix)": "bad",
           "On (Reload mix)": "good",
           "On (μ-Ziq mix)": "good",
-          "On (28 mix)": ""
+          "On (28 mix)": "bad"
       },
       "On": {
           "@date": "1993-11-15",
           "On": "good",
           "73-Yips": "bad",
-          "D-Scape": "",
+          "D-Scape": "bad",
           "Xepha": "bad"
       },
       "Selected Ambient Works 85–92": {

@@ -170,7 +170,8 @@
        }
    },
    "Madonna": {
-       "Madame X": {
+      "@check": "2020-07-07",
+      "Madame X": {
            "@date": "2019-06-14",
            "Medellín": "",
            "Dark Ballet": "",
@@ -272,21 +273,33 @@
            "Push": "",
            "Like It or Not": ""
        },
-      "Music": {
-         "@date": "2000",
-         "Music": "good",
-         "Impressive Instant": "bad",
-         "Runaway Lover": "bad",
-         "I Deserve It": "bad",
-         "Amazing": "bad",
-         "Nobody’s Perfect": "bad",
-         "Don’t Tell Me": "good",
-         "What It Feels Like for a Girl": "",
-         "Paradise (Not for Me)": "",
-         "Gone": "",
-         "American Pie": "",
-         "Cyber-Raga": ""
-      },
+       "American Life": {
+           "@date": "2003-04-21",
+           "American Life": "bad",
+           "Hollywood": "",
+           "I'm So Stupid": "",
+           "Love Profusion": "",
+           "Nobody Knows Me": "",
+           "Nothing Fails": "",
+           "Intervention": "",
+           "X-Static Process": "",
+           "Mother and Father": "",
+           "Die Another Day": "bad",
+           "Easy Ride": ""
+       },
+       "Music": {
+           "@date": "2000-09-19",
+           "Music": "good",
+           "Impressive Instant": "bad",
+           "Runaway Lover": "bad",
+           "I Deserve It": "bad",
+           "Amazing": "bad",
+           "Nobody’s Perfect": "bad",
+           "Don’t Tell Me": "good",
+           "What It Feels Like for a Girl": "",
+           "Paradise (Not for Me)": "",
+           "Gone": ""
+       },
        "Ray of Light": {
            "@date": "1998-02-23",
            "Drowned World / Substitute for Love": "",
@@ -434,7 +447,7 @@
           "@date": "1983-07-26",
           "Lucky Star": "good",
           "Borderline": "good",
-          "Burning Up": "",
+          "Burning Up": "bad",
           "I Know It": "",
           "Holiday": "good",
           "Think of Me": "",
@@ -639,7 +652,7 @@
           "Inertia Creeps": "good",
           "Exchange": "",
           "Dissolved Girl": "good",
-          "Man Next Door": "",
+          "Man Next Door": "good",
           "Black Milk": "good",
           "Mezzanine": "",
           "Group Four": "",
