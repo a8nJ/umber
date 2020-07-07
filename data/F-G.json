@@ -766,22 +766,29 @@
       }
    },
    "Fugees": {
-      "The Score": {
-         "Fu-Gee-La": "",
-         "Killing Me Softly with His Song": "",
-         "Ready or Not": {
-            "VPY": "14,642,911",
-            "URL": "https://youtu.be/aIXyKmElvv8"
-         }
-      }
+       "The Score": {
+           "@date": "1996-04-24",
+           "Red Intro": "short",
+           "How Many Mics": "",
+           "Ready Or Not": {
+             "id": "aIXyKmElvv8",
+             "views per year": "15,188,460"
+         },
+           "Zealots": "",
+           "The Beast": "",
+           "Fu-Gee-La": "",
+           "Family Business": "",
+           "Killing Me Softly": "",
+           "The Score": "",
+           "The Mask": "",
+           "Cowboys": "",
+           "No Woman, No Cry": "",
+           "Manifest/Outro": ""
+       }
    },
    "Funkadelic": {
       "Maggot Brain": {
-         "Maggot Brain": {
-            "rate": "good",
-            "VPY": "683,197",
-            "URL": "https://youtu.be/dh3bleXWaCk"
-         },
+         "Maggot Brain": "good",
          "Can You Get to That": "short",
          "Hit It and Quit It": "",
          "You and Your Folks, Me and My Folks": "",
@@ -839,7 +846,25 @@
           "Theme Music for Nothing": "bad",
           "I’m Such a Small Thing": "bad",
           "Going Down": "good"
-      }
+      },
+       "Hed Phone Sex": {
+           "@date": "1995-05",
+           "A Word of Vice": "short",
+           "B Monkey": "bad",
+           "Dubble": "",
+           "King Ashabanapal, Part 1": "",
+           "Deep": "",
+           "King Ashabanapal, Part 2": "",
+           "Michael's Little Friend": "short",
+           "White Slave": "short",
+           "Poseathon": "",
+           "Wicked, Cruel, Nasty and Bad": "",
+           "Pork Albumen": "short",
+           "The Softest Thing in the World (Motorway Accident)": "",
+           "Something Wonderful": "",
+           "Tiny Kangaroo Dolphin (From Hell)": "short",
+           "Long Road": ""
+       }
    },
    "Genesis": {
        "We Can’t Dance": {

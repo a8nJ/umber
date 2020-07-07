@@ -965,20 +965,20 @@
        }
    },
    "Boz Scaggs": {
-      "Dig": {
-         "@date": "2001",
-         "Payday": "",
-         "Sarah": "",
-         "Miss Riddle": "",
-         "I Just Go": "",
-         "Get on the Natch": "",
-         "Desire": "",
-         "Call That Love": "",
-         "King of El Paso": "",
-         "You’re Not": "",
-         "Vanishing Point": "",
-         "Thanks to You": "good"
-      },
+       "Dig": {
+           "@date": "2001-09-11",
+           "Payday": "",
+           "Sarah": "",
+           "Miss Riddle": "",
+           "I Just Go": "",
+           "Get on the Natch": "",
+           "Desire": "",
+           "Call That Love": "",
+           "King of El Paso": "",
+           "You're Not": "",
+           "Vanishing Point": "",
+           "Thanks to You": "good"
+       },
       "Come On Home": {
          "@date": "1997",
          "It All Went Down the Drain": "bad",
@@ -1012,13 +1012,24 @@
       }
    },
    "Britney Spears": {
-      "Blackout": {
-         "@date": "2007",
-         "Britney Spears - Break The Ice": {
-             "URL": "https://youtu.be/eQFIKP9rGhQ",
-             "VPY": "6,786,358"
-         }
-      }
+       "Blackout": {
+           "@date": "2007-10-27",
+           "Gimme More": {
+             "id": "elueA2rofoo",
+             "views per year": "17,436,908"
+         },
+           "Piece of Me": "",
+           "Radar": "",
+           "Break the Ice": "",
+           "Heaven on Earth": "",
+           "Get Naked (I Got a Plan)": "",
+           "Freakshow": "short",
+           "Toy Soldier": "",
+           "Hot as Ice": "",
+           "Ooh Ooh Baby": "",
+           "Perfect Lover": "",
+           "Why Should I Be Sad": ""
+       }
    },
    "Bruce Hornsby": {
       "Harbor Lights": {
