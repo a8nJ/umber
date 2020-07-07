@@ -311,8 +311,8 @@
       },
       "Nymphs": {
          "@date": "2016-09-23",
-         "Don’t Break My Love": "",
-         "Why Didn’t You Save Me": "",
+         "Don’t Break My Love": "bad",
+         "Why Didn’t You Save Me": "bad",
          "The Three Sides of Audrey and Why She’s All Alone Now": "",
          "No One Is Looking at U": "",
          "Swim": "",
@@ -327,12 +327,12 @@
            "Too Many Kids Finding Rain in the Dust": "bad",
            "Keep Me There": "bad",
            "Problems With the Sun": "bad",
-           "Space Is Only Noise If You Can See": "",
+           "Space Is Only Noise If You Can See": "bad",
            "Almost Fell": "short",
-           "Balance Her in Between Your Eyes": "",
+           "Balance Her in Between Your Eyes": "bad",
            "Specters of the Future": "short",
            "Trace": "short",
-           "Variations": "",
+           "Variations": "bad",
            "^tre": "short"
        },
        "Love You Gotta Lose Again EP": {
@@ -790,30 +790,53 @@
          "Roses": "",
          "The Way You Move": ""
       },
-      "Stankonia": {
-         "@date": "2000",
-         "Ms. Jackson": {
-            "VPY": "32,944,721",
-            "URL": "https://youtu.be/YSwT1uaMvUY"
-         }
-      },
-      "ATLiens": {
-         "@date": "1996",
-         "You May Die (intro)": "short",
-         "Two Dope Boyz (in a Cadillac)": "short",
-         "ATLiens": "",
-         "Wheelz of Steel": "",
-         "Jazzy Belle": "",
-         "Elevators (Me & You)": "good",
-         "Ova da Wudz": "",
-         "Babylon": "",
-         "Wailin’": "short",
-         "Mainstream": "",
-         "Decatur Psalm": "",
-         "Millennium": "",
-         "E.T. (Extraterrestrial)": "",
-         "13th Floor/Growing Old": ""
-      }
+       "Stankonia": {
+           "@date": "2000-10-23",
+           "Intro": "short",
+           "Gasoline Dreams": "",
+           "I'm Cool (interlude)": "short",
+           "So Fresh, So Clean": "",
+           "Ms. Jackson": {
+             "id": "YSwT1uaMvUY",
+             "views per year": "29,929,701"
+         },
+           "Snappin' & Trappin'": "",
+           "D.F. (interlude)": "short",
+           "Spaghetti Junction": "",
+           "Kim & Cookie (interlude)": "short",
+           "I'll Call Before I Come": "",
+           "B.O.B.": "",
+           "Xplosion": "",
+           "Good Hair (interlude)": "short",
+           "We Luv Deez Hoez": "",
+           "Humble Mumble": "",
+           "Drinkin' Again (interlude)": "short",
+           "?": "short",
+           "Red Velvet": "",
+           "Cruisin' in the ATL (interlude)": "short",
+           "Gangsta Shit": "",
+           "Toilet Tisha": "",
+           "Slum Beautiful": "",
+           "Pre-Nump (interlude)": "short",
+           "Stankonia (Stanklove)": ""
+       },
+       "ATLiens": {
+           "@date": "1996-08-26",
+           "You May Die (intro)": "short",
+           "Two Dope Boyz (in a Cadillac)": "short",
+           "ATLiens": "",
+           "Wheelz of Steel": "",
+           "Jazzy Belle": "",
+           "Elevators (Me & You)": "good",
+           "Ova da Wudz": "",
+           "Babylon": "",
+           "Wailin’": "short",
+           "Mainstream": "",
+           "Decatur Psalm": "",
+           "Millennium": "",
+           "E.T. (Extraterrestrial)": "",
+           "13th Floor/Growing Old": ""
+       }
    },
    "Pastel Ghost": {
       "ABYSS": {
