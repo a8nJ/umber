@@ -116,22 +116,21 @@
        }
    },
    "Flamingosis": {
-      "Great Hair": {
-         "@date": "2016",
-         "Hidden Attraction": "short",
-         "Frugal Livin’": "short",
-         "Riding the L": "",
-         "Getting Close to You": "good",
-         "I Met a Funky Lady": "",
-         "Saturday Night Fever": "",
-         "Momento": "short",
-         "I’ll Be There": "",
-         "Oakland": "short",
-         "Sun Whisperer": "",
-         "Breakfast Poutine": "short",
-         "Snacks on Snacks": "",
-         "Elevator Pass": "short"
-      },
+       "Great Hair": {
+           "@date": "2016-02-12",
+           "Hidden Attraction": "short",
+           "Frugal Livin’": "short",
+           "Getting Close to You": "good",
+           "I Met a Funky Lady": "",
+           "Saturday Night Fever": "",
+           "Momento": "short",
+           "I’ll Be There": "",
+           "Oakland": "short",
+           "Sun Whisperer": "",
+           "Breakfast Poutine": "short",
+           "Snacks on Snacks": "",
+           "Elevator Pass": "short"
+       },
        "Pleasure Palette": {
            "@date": "2015-08-18",
            "Pleasure Palette": "short",
@@ -147,6 +146,24 @@
            "Little Fling": "short",
            "Football Head": "good"
        },
+       "Newski": {
+           "@date": "2015-06-01",
+           "Holiday": "short",
+           "Taken": "",
+           "Hey Girl, u like rising crust pizza?": "bad",
+           "If Only": "bad",
+           "One For Madlib": "",
+           "Nardis (Reprise)": "short",
+           "Sunday": "",
+           "Trippin'": "short",
+           "Tacos": "short",
+           "Aries": "short",
+           "All I Know": "",
+           "Never Again": "",
+           "KahunaStyle": "short",
+           "A Touch of Spring": "",
+           "Summer Solstice": ""
+       },
        "Kahunastyle": {
            "@date": "2015-02-16",
            "Stay Humble": "short",
@@ -161,6 +178,21 @@
            "Cheer Up": "",
            "Helping Hand": "short",
            "Bushwick Boogie": ""
+       },
+       "Flamingosis": {
+           "@date": "2014-01-20",
+           "Rose Bowl (Intro)": "short",
+           "Porno Music": "short",
+           "Those Eyes": "bad",
+           "All Night Long": "short",
+           "Two Hearts": "bad",
+           "I Like It (Interlude)": "short",
+           "Feels": "short",
+           "Broken": "bad",
+           "Santa Cruz": "short",
+           "Still Lonely": "short",
+           "Surface": "short",
+           "Rose Bowl (Rollergirl Bootleg)": "short"
        }
    },
    "Fleet Foxes": {

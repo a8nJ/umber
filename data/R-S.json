@@ -164,7 +164,7 @@
            "Revolver": "",
            "Snakecharmer": "",
            "Tire Me": "",
-           "Down Rodeo": "",
+           "Down Rodeo": "good",
            "Without a Face": "",
            "Wind Below": "",
            "Roll Right": "",
@@ -172,21 +172,19 @@
        },
        "Rage Against the Machine": {
            "@date": "1992-11-06",
-           "Bombtrack": "",
+           "Bombtrack": "@",
            "Killing in the Name": {
              "id": "bWXazVhlyxQ",
-             "views": "127,611,238",
-             "published": "2011-03-26",
              "views per year": "13,900,986"
          },
-           "Take the Power Back": "",
-           "Settle for Nothing": "",
-           "Bullet in the Head": "",
-           "Know Your Enemy": "",
-           "Wake Up": "",
-           "Fistful of Steel": "",
-           "Township Rebellion": "",
-           "Freedom": ""
+           "Take the Power Back": "@",
+           "Settle for Nothing": "@",
+           "Bullet in the Head": "@",
+           "Know Your Enemy": "@",
+           "Wake Up": "@",
+           "Fistful of Steel": "@",
+           "Township Rebellion": "@",
+           "Freedom": "@"
        }
    },
    "Ratatat": {
@@ -1452,6 +1450,20 @@
        }
    },
    "Stone Temple Pilots": {
+       "№4": {
+           "@date": "1999-10-26",
+           "Down": "bad",
+           "Heaven & Hot Rods": "",
+           "Pruno": "",
+           "Church on Tuesday": "",
+           "Sour Girl": "",
+           "No Way Out": "",
+           "Sex & Violence": "short",
+           "Glide": "",
+           "I Got You": "",
+           "MC5": "short",
+           "Atlanta": ""
+       },
       "Tiny Music… Songs From the Vatican Gift Shop": {
           "@date": "1996-03-26",
           "Press Play": "short",
