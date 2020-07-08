@@ -375,13 +375,22 @@
        }
    },
    "Alannah Myles": {
-      "Alannah Myles": {
-         "@date": "1989",
-         "Black Velvet": {
-            "VPY": "9,350,914",
-            "URL": "https://youtu.be/tT4d1LQy4es"
-         }
-      }
+       "Alannah Myles": {
+           "@date": "1989-03-28",
+           "Still Got This Thing": "",
+           "Love Is": "",
+           "Black Velvet": {
+             "id": "tT4d1LQy4es",
+             "views per year": "12,586,758"
+         },
+           "Rock This Joint": "",
+           "Lover of Mine": "",
+           "Kick Start My Heart": "",
+           "If You Want To": "",
+           "Just One Kiss": "",
+           "Who Loves You": "",
+           "Hurry Make Love": "short"
+       }
    },
    "Aleksi Perälä": {
       "Resonance": {

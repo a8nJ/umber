@@ -1113,28 +1113,49 @@
        }
    },
    "Gorillaz": {
-      "The Now Now": {
-         "@date": "2018",
-         "Humility": {
-            "VPY": "69,322,117",
-            "URL": "https://youtu.be/E5yFcdPAGv0"
+       "The Now Now": {
+           "@date": "2018-06-29",
+           "Humility": {
+             "id": "E5yFcdPAGv0",
+             "views per year": "38,925,678"
          },
-         "Tranz": {
-            "VPY": "49,788,375",
-            "URL": "https://youtu.be/E2Q52cVx7Bo"
-         }
-      },
-      "Humanz": {
-         "@date": "2017",
-         "Andromeda": {
-            "VPY": "24,213,804",
-            "URL": "https://youtu.be/9W44NWYwa1g"
+           "Tranz": "short",
+           "Hollywood": "",
+           "Kansas": "",
+           "Sorcererz": "",
+           "Idaho": "",
+           "Lake Zurich": "",
+           "Magic City": "",
+           "Fire Flies": "",
+           "One Percent": "short",
+           "Souk Eye": ""
+       },
+       "Humanz": {
+           "@date": "2017-04-28",
+           "Intro: I Switched My Robot Off": "short",
+           "Ascension": {
+             "id": "hBA0PUQCvIA",
+             "views per year": "7,009,876"
          },
-         "Saturnz Barz": {
-            "VPY": "39,375,302",
-            "URL": "https://youtu.be/5qJp6xlKEug"
-         }
-      },
+           "Strobelite": "",
+           "Saturnz Barz": "",
+           "Momentz": "",
+           "Interlude: The Non‐Conformist Oath": "short",
+           "Submission": "",
+           "Charger": "",
+           "Interlude: Elevator Going Up": "short",
+           "Andromeda": "",
+           "Busted and Blue": "",
+           "Interlude: Talk Radio": "short",
+           "Carnival": "short",
+           "Let Me Out": "short",
+           "Interlude: Penthouse": "short",
+           "Sex Murder Party": "",
+           "She’s My Collar": "",
+           "Interlude: The Elephant": "short",
+           "Hallelujah Money": "",
+           "We Got the Power": "short"
+       },
        "Plastic Beach": {
            "@date": "2010-03-05",
            "Orchestral Intro": "short",
@@ -1231,19 +1252,23 @@
          "Domingo": "",
          "Paris, Texas": "good"
       },
-      "La revancha del tango": {
-         "@date": "2001",
-         "Queremos paz": "good",
-         "Época": "bad",
-         "Chunga’s Revenge": "bad",
-         "Tríptico": "bad",
-         "Santa Maria": "bad",
-         "Una música brutal": "good",
-         "El capitalismo foráneo": "good",
-         "Last Tango in Paris": "",
-         "La del ruso": "",
-         "Vuelvo al sur": ""
-      }
+       "La Revancha del Tango": {
+           "@date": "2002-10-14",
+           "Queremos paz": "good",
+           "Época": "bad",
+           "Chunga's Revenge": "bad",
+           "Tríptico": "bad",
+           "Santa María (del Buen Ayre)": "bad",
+           "Una música brutal": "good",
+           "El capitalismo foráneo": "good",
+           "Last Tango in Paris": "good",
+           "La del ruso": "",
+           "Vuelvo al sur": "",
+           "Santa María (del Buen Ayre) (Pepe Braddock mix)": "",
+           "El capitalismo foráneo (Antipop Consortium Kushite mix)": "",
+           "Santa María (del Buen Ayre) (Tom Middleton Cosmos mix)": "",
+           "El capitalismo foráneo (Antipop Consortium La Lucha mix)": ""
+       }
    },
    "Green Day": {
        "Father of All Motherfuckers": {
