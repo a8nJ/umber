@@ -694,27 +694,18 @@
          "You Could Ruin My Day": "good",
          "Hilarious Movie of the 90’s": "bad"
       },
-      "Dialogue": {
-         "@date": "1999",
-         "The Space of Two Weeks": "good",
-         "Chiron": "bad",
-         "Alambradas": "short",
-         "3.3 Degrees From the Pole": "bad",
-         "Misnomer": "",
-         "Liquefaction": "bad",
-         "She Scanned": "",
-         "Calamine": "good",
-         "The Butterfly Effect": ""
-      }
-   },
-   "Foy Vance": {
-      "Live at Bangor Abbey": {
-         "Be the Song": "",
-         "Make it rain": {
-            "VPY": "8,003,040",
-            "URL": "https://youtu.be/hD5hIqeKNVE"
-         }
-      }
+       "Dialogue": {
+           "@date": "1999-02-15",
+           "The Space of Two Weeks": "good",
+           "Chiron": "bad",
+           "Alambradas": "short",
+           "3.3 Degrees From the Pole": "bad",
+           "Misnomer": "good",
+           "Liquefaction": "bad",
+           "She Scanned": "good",
+           "Calamine": "good",
+           "The Butterfly Effect": ""
+       }
    },
    "Frankie Rose": {
       "Cage Tropical": {
@@ -1144,43 +1135,70 @@
             "URL": "https://youtu.be/5qJp6xlKEug"
          }
       },
-      "Plastic Beach": {
-         "@date": "2010",
-         "On Melancholy Hill": {
-            "VPY": "14,525,087",
-            "URL": "https://youtu.be/04mfKJWDSzI"
+       "Plastic Beach": {
+           "@date": "2010-03-05",
+           "Orchestral Intro": "short",
+           "Welcome to the World of the Plastic Beach": "",
+           "White Flag": "",
+           "Rhinestone Eyes": "",
+           "Stylo": {
+             "id": "nhPaWIeULKk",
+             "views per year": "10,332,777"
          },
-         "Stylo": {
-            "VPY": "10,408,741",
-            "URL": "https://youtu.be/nhPaWIeULKk"
-         }
-      },
-      "Demon Days": {
-         "@date": "2005",
-         "DARE": {
-            "VPY": "15,207,223",
-            "URL": "https://youtu.be/uAOR6ib95kQ"
+           "Superfast Jellyfish": "short",
+           "Empire Ants": "",
+           "Glitter Freeze": "",
+           "Some Kind of Nature": "",
+           "On Melancholy Hill": "",
+           "Broken": "",
+           "Sweepstakes": "",
+           "Plastic Beach": "",
+           "To Binge": "",
+           "Cloud of Unknowing": "",
+           "Pirate Jet": "short"
+       },
+       "Demon Days": {
+           "@date": "2005-05-20",
+           "Intro": "short",
+           "Last Living Souls": "",
+           "Kids With Guns": "",
+           "O Green World": "",
+           "Dirty Harry": {
+             "id": "cLnkQAeMbIM",
+             "views per year": "10,410,719"
          },
-         "Dirty Harry": {
-            "VPY": "9,680,827",
-            "URL": "https://youtu.be/cLnkQAeMbIM"
+           "Feel Good Inc.": "",
+           "El mañana": "",
+           "Every Planet We Reach Is Dead": "",
+           "November Has Come": "short",
+           "All Alone": "",
+           "White Light": "short",
+           "DARE": "",
+           "Fire Coming Out of the Monkey’s Head": "",
+           "Don’t Get Lost in Heaven": "short",
+           "Demon Days": ""
+       },
+       "Gorillaz": {
+           "@date": "2001-03-26",
+           "Re-Hash": "",
+           "5/4": "short",
+           "Tomorrow Comes Today": "",
+           "New Genious (Brother)": "",
+           "Clint Eastwood": {
+             "id": "1V_xRb0x9aw",
+             "views per year": "83,426,786"
          },
-         "Feel Good Inc": {
-            "VPY": "98,994,981",
-            "URL": "https://youtu.be/HyHNuVaZJ-k"
-         }
-      },
-      "Gorillaz": {
-         "@date": "2001",
-         "19-2000": {
-            "VPY": "21,040,483",
-            "URL": "https://youtu.be/WXR-bCF5dbM"
-         },
-         "Clint Eastwood": {
-            "VPY": "73,751,523",
-            "URL": "https://youtu.be/1V_xRb0x9aw"
-         }
-      }
+           "Man Research (Clapper)": "",
+           "Punk": "short",
+           "Sound Check (Gravity)": "",
+           "Double Bass": "",
+           "Rock the House": "",
+           "19-2000": "",
+           "Latin Simone (¿Qué Pasa Contigo?)": "",
+           "Starshine": "",
+           "Slow Country": "",
+           "M1 A1 / Clint Eastwood (Ed Case refix)": ""
+       }
    },
    "Gotan Project": {
       "@check": "2020-05-15",
