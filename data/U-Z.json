@@ -431,21 +431,78 @@
            "Midnight Special": "short"
        }
    },
+   "Vanilla": {
+       "Origin": {
+           "@date": "2015-09-20",
+           "Past, Present & Future (Intro)": "short",
+           "Dreamcatcher": "",
+           "Arrow": "",
+           "Nana": "",
+           "Footsteps": "",
+           "All In My Mind": "",
+           "Golden": "",
+           "Summer": "",
+           "Whispering": "",
+           "Origin": "",
+           "Traveller": "",
+           "Swept Away": "",
+           "Sunrise": "",
+           "Fuji": "good",
+           "Rainy Day": "",
+           "Gigi": "",
+           "That Dream Again": ""
+       }
+   },
    "Warren G": {
-      "Regulate... G Funk Era": {
-         "Regulate": {
-            "VPY": "19,524,457",
-            "URL": "https://youtu.be/1plPyJdXKIY"
-         }
-      }
+       "Regulate… G Funk Era": {
+           "@date": "1994-06-07",
+           "Regulate": {
+             "id": "1plPyJdXKIY",
+             "views per year": "20,413,006"
+         },
+           "Do You See": "",
+           "Gangsta Sermon": "short",
+           "Recognize": "",
+           "Super Soul Sis": "short",
+           "’94 Ho Draft": "short",
+           "So Many Ways": "",
+           "This D.J.": "",
+           "This Is the Shack": "",
+           "What’s Next": "",
+           "And Ya Don’t Stop": "",
+           "Runnin’ Wit No Breaks": ""
+       }
    },
    "Weezer": {
-      "Weezer (blue album)": {
-         "Say It Ain’t So": {
-            "VPY": "8,507,855",
-            "URL": "https://youtu.be/ENXvZ9YRjbo"
-         }
-      }
+       "Pinkerton": {
+           "@date": "1996-08-24",
+           "Tired of Sex": "",
+           "Getchoo": "short",
+           "No Other One": "",
+           "Why Bother?": "short",
+           "Across the Sea": "",
+           "The Good Life": "",
+           "El Scorcho": "",
+           "Pink Triangle": "good",
+           "Falling for You": "",
+           "Butterfly": "short"
+       },
+       "Weezer": {
+           "@date": "1994-05-10",
+           "My Name Is Jonas": "",
+           "No One Else": "",
+           "The World Has Turned and Left Me Here": "",
+           "Buddy Holly": "short",
+           "Undone – The Sweater Song": "",
+           "Surf Wax America": "",
+           "Say It Ain’t So": {
+             "id": "ENXvZ9YRjbo",
+             "views per year": "8,910,782"
+         },
+           "In the Garage": "",
+           "Holiday": "",
+           "Only in Dreams": ""
+       }
    },
    "Wilco": {
       "The Whole Love": {
