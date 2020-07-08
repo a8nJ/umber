@@ -437,38 +437,64 @@
       }
    },
    "Korn": {
-      "The Serenity of Suffering": {
-         "@date": "2016",
-         "Black Is the Soul": "",
-         "Insane": "",
-         "Rotting In Vain": {
-            "VPY": "8,645,316",
-            "URL": "https://youtu.be/nq9j1qkj2Vc"
-         }
-      },
-      "See You on the Other Side": {
-         "@date": "2005",
-         "Coming Undone": {
-            "VPY": "7,180,498",
-            "URL": "https://youtu.be/CSJXle3LP_Q"
-         }
-      },
-      "Issues": {
-         "@date": "1999",
-         "Falling Away from Me": {
-            "VPY": "8,648,063",
-            "URL": "https://youtu.be/2s3iGpDqQpQ"
+       "The Serenity of Suffering": {
+           "@date": "2016-10-21",
+           "Insane": "",
+           "Rotting in Vain": {
+             "id": "nq9j1qkj2Vc",
+             "views per year": "7,129,271"
          },
-         "Somebody Someone": ""
-      },
-      "Follow the Leader": {
-         "@date": "1998",
-         "Freak On a Leash": {
-            "VPY": "16,280,786",
-            "URL": "https://youtu.be/jRGrNDV2mKc"
+           "Black Is the Soul": "",
+           "The Hating": "",
+           "A Different World": "",
+           "Take Me": "",
+           "Everything Falls Apart": "",
+           "Die Yet Another Night": "",
+           "When You’re Not There": "",
+           "Next in Line": "",
+           "Please Come for Me": "short"
+       },
+       "Issues": {
+           "@date": "1999-11-15",
+           "Dead": "short",
+           "Falling Away From Me": {
+             "id": "2s3iGpDqQpQ",
+             "views per year": "8,940,419"
          },
-         "Got the Life": ""
-      }
+           "Trash": "",
+           "4 U": "short",
+           "Beg for Me": "",
+           "Make Me Bad": "",
+           "It’s Gonna Go Away": "short",
+           "Wake Up": "",
+           "Am I Going Crazy": "short",
+           "Hey Daddy": "",
+           "Somebody Someone": "",
+           "No Way": "",
+           "Let’s Get This Party Started": "",
+           "Wish You Could Be Me": "short",
+           "Counting": "",
+           "Dirty": ""
+       },
+       "Follow the Leader": {
+           "@date": "1998-08-17",
+           "It’s On!": "",
+           "Freak on a Leash": {
+             "id": "jRGrNDV2mKc",
+             "views per year": "17,255,753"
+         },
+           "Got the Life": "",
+           "Dead Bodies Everywhere": "",
+           "Children of the Korn": "",
+           "B.B.K.": "",
+           "Pretty": "",
+           "All in the Family": "",
+           "Reclaim My Place": "",
+           "Justin": "",
+           "Seed": "",
+           "Cameltosis": "",
+           "My Gift to You / Earache My Eye": ""
+       }
    },
    "Kruder & Dorfmeister": {
       "G-Stoned": {

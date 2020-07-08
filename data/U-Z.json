@@ -392,13 +392,6 @@
       }
    },
    "Van Morrison": {
-      "Poetic Champions Compose": {
-         "@date": "1987",
-         "Someone Like You": {
-            "VPY": "1,793,331",
-            "URL": "https://youtu.be/UfmkgQRmmeE"
-         }
-      },
       "Moondance": {
          "@date": "1970",
          "And It Stoned Me": "",
@@ -423,13 +416,20 @@
          "Ballerina": "",
          "Slim Slow Slider": "good"
       },
-      "Blowin’ Your Mind!": {
-         "@date": "1967",
-         "Van Morrison - Brown Eyed Girl (Audio)": {
-             "URL": "https://youtu.be/UfmkgQRmmeE",
-             "VPY": "8,782,500"
-         }
-      }
+       "Blowin’ Your Mind!": {
+           "@date": "1967",
+           "Brown Eyed Girl": {
+             "id": "UfmkgQRmmeE",
+             "views per year": "8,938,238"
+         },
+           "He Ain’t Give You None": "",
+           "T.B. Sheets": "",
+           "Spanish Rose": "",
+           "Goodbye Baby (Baby Goodbye)": "short",
+           "Ro Ro Rosey": "",
+           "Who Drove the Red Sports Car?": "",
+           "Midnight Special": "short"
+       }
    },
    "Warren G": {
       "Regulate... G Funk Era": {
