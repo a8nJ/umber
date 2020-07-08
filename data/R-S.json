@@ -1386,6 +1386,22 @@
       }
    },
    "Sting": {
+       "Brand New Day": {
+           "@date": "1999-09-27",
+           "A Thousand Years": "",
+           "Desert Rose": {
+             "id": "C3lWwBslWqg",
+             "views per year": "15,536,018"
+         },
+           "Big Lie Small World": "",
+           "After the Rain Has Fallen": "",
+           "Perfect Love... Gone Wrong": "",
+           "Tomorrow We'll See": "",
+           "Prelude to the End of the Game": "short",
+           "Fill Her Up": "",
+           "Ghost Story": "",
+           "Brand New Day": ""
+       },
        "Ten Summoner’s Tales": {
            "@date": "1993-03-09",
            "If I Ever Lose My Faith in You": "",
@@ -1402,6 +1418,37 @@
          },
            "Something the Boy Said": "",
            "Epilogue (Nothing ’Bout Me)": ""
+       },
+       "…Nothing Like the Sun": {
+           "@date": "1987-10-01",
+           "The Lazarus Heart": "",
+           "Be Still My Beating Heart": "",
+           "Englishman in New York": {
+             "id": "d27gTrPPAyk",
+             "views per year": "20,792,438"
+         },
+           "History Will Teach Us Nothing": "",
+           "They Dance Alone (Cueca solo)": "",
+           "Fragile": "",
+           "We’ll Be Together": "",
+           "Straight to My Heart": "",
+           "Rock Steady": "",
+           "Sister Moon": "",
+           "Little Wing": "",
+           "The Secret Marriage": "short"
+       },
+       "The Dream of the Blue Turtles": {
+           "@date": "1985-06-01",
+           "If You Love Somebody Set Them Free": "good",
+           "Love Is the Seventh Wave": "",
+           "Russians": "",
+           "Children's Crusade": "",
+           "Shadows in the Rain": "",
+           "We Work the Black Seam": "",
+           "Consider Me Gone": "",
+           "The Dream of the Blue Turtles": "short",
+           "Moon Over Bourbon Street": "",
+           "Fortress Around Your Heart": ""
        }
    },
    "Stone Temple Pilots": {
@@ -1420,47 +1467,35 @@
           "Daisy": "short",
           "Seven Caged Tigers": ""
       },
-      "Purple": {
-         "@date": "1994",
-         "Meatplow": "",
-         "Vasoline": "short",
-         "Lounge Fly": "",
-         "Interstate Love Song": "good",
-         "Still Remains": "",
-         "Pretty Penny": "",
-         "Silvergun Superman": "",
-         "Big Empty": "good",
-         "Unglued": "short",
-         "Army Ants": "",
-         "Kitchenware & Candybars / My Second Album": ""
-      },
-      "Core": {
-         "@date": "1992",
-         "Dead & Bloated": "",
-         "Sex Type Thing": "",
-         "Wicked Garden": "",
-         "No Memory": "short",
-         "Sin": "",
-         "Naked Sunday": "",
-         "Creep": "good",
-         "Piece of Pie": "",
-         "Plush": "good",
-         "Wet My Bed": "short",
-         "Crackerman": "",
-         "Where the River Goes": ""
-      }
-   },
-   "Stwo": {
-      "D.T.S.N.T.": {
-         "Far from Home": "short",
-         "Haunted": "good",
-         "Insecure": "",
-         "Fill the Void": "",
-         "Angeles": "",
-         "Out At Night": "",
-         "All Alone": "good",
-         "Blue Sky": ""
-      }
+       "Purple": {
+           "@date": "1994-06-07",
+           "Meatplow": "",
+           "Vasoline": "short",
+           "Lounge Fly": "",
+           "Interstate Love Song": "good",
+           "Still Remains": "",
+           "Pretty Penny": "",
+           "Silvergun Superman": "",
+           "Big Empty": "good",
+           "Unglued": "short",
+           "Army Ants": "",
+           "Kitchenware & Candybars / My Second Album": ""
+       },
+       "Core": {
+           "@date": "1992-09-29",
+           "Dead & Bloated": "",
+           "Sex Type Thing": "",
+           "Wicked Garden": "",
+           "No Memory": "short",
+           "Sin": "",
+           "Naked Sunday": "",
+           "Creep": "good",
+           "Piece of Pie": "",
+           "Plush": "good",
+           "Wet My Bed": "short",
+           "Crackerman": "",
+           "Where the River Goes": ""
+       }
    },
    "Suzanne Vega": {
        "Nine Objects of Desire": {
