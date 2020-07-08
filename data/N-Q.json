@@ -361,9 +361,9 @@
        "Ground Floor": {
            "@date": "2016-11-25",
            "World Inside": "bad",
-           "Scratch That!": "",
-           "Reclaim the Balcony": "",
-           "Dirty Triumphant": ""
+           "Scratch That!": "bad",
+           "Reclaim the Balcony": "bad",
+           "Dirty Triumphant": "bad"
        },
       "Feelin’ Good": {
           "@date": "2013-09-16",
@@ -375,8 +375,8 @@
           "Give Thx": "bad",
           "Eye (Can’t See)": "bad",
           "Tapestry": "bad",
-          "There 4U": "",
-          "Om Sweet H(Om)E": ""
+          "There 4U": "bad",
+          "Om Sweet H(Om)E": "bad"
       },
        "Thought So…": {
            "@date": "2008-08-25",
