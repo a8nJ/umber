@@ -1144,6 +1144,21 @@
        }
    },
    "Bush": {
+       "The Sea of Memories": {
+           "@date": "2011-09-13",
+           "The Mirror of the Signs": "bad",
+           "The Sound of Winter": "",
+           "All My Life": "",
+           "The Afterlife": "",
+           "All Night Doctors": "",
+           "Baby Come Home": "",
+           "Red Light": "",
+           "She’s a Stallion": "",
+           "I Believe in You": "",
+           "Stand Up": "",
+           "The Heart of the Matter": "",
+           "Be Still My Love": ""
+       },
       "Golden State": {
           "@date": "2001-10-23",
           "Solutions": "bad",
@@ -1159,52 +1174,51 @@
           "Out of This World": "",
           "Float": ""
       },
-      "The Science of Things": {
-         "@date": "1999",
-         "Warm Machine": "bad",
-         "Jesus Online": "bad",
-         "The Chemicals Between Us": "good",
-         "English Fire": "bad",
-         "Spacetravel": "bad",
-         "40 Miles From the Sun": "bad",
-         "Prizefighter": "bad",
-         "The Disease of the Dancing Cats": "bad",
-         "Altered States": "bad",
-         "Dead Meat": "bad",
-         "Letting the Cables Sleep": "bad",
-         "Mindchanger": "bad"
-      },
-      "Razorblade Suitcase": {
-         "@date": "1996",
-         "Personal Holloway": "bad",
-         "Greedy Fly": "bad",
-         "Swallowed": "bad",
-         "Insect Kin": "bad",
-         "Cold Contagious": "bad",
-         "A Tendency to Start Fires": "",
-         "Mouth": "",
-         "Straight No Chaser": "",
-         "History": "",
-         "Synapse": "",
-         "Communicator": "",
-         "Bonedriven": "",
-         "Distant Voices": ""
-      },
-      "Sixteen Stone": {
-         "@date": "1994",
-         "Everything Zen": "good",
-         "Swim": "",
-         "Bomb": "",
-         "Little Things": "good",
-         "Comedown": "good",
-         "Body": "",
-         "Machinehead": "good",
-         "Testosterone": "",
-         "Monkey": "",
-         "Glycerine": "",
-         "Alien": "",
-         "X‐Girlfriend": "short",
-         "Comedown (acoustic)": ""
-      }
+       "The Science of Things": {
+           "@date": "1999-10-26",
+           "Warm Machine": "bad",
+           "Jesus Online": "bad",
+           "The Chemicals Between Us": "good",
+           "English Fire": "bad",
+           "Spacetravel": "bad",
+           "40 Miles From the Sun": "bad",
+           "Prizefighter": "bad",
+           "The Disease of the Dancing Cats": "bad",
+           "Altered States": "bad",
+           "Dead Meat": "bad",
+           "Letting the Cables Sleep": "bad",
+           "Mindchanger": "bad"
+       },
+       "Razorblade Suitcase": {
+           "@date": "1996-11-19",
+           "Personal Holloway": "bad",
+           "Greedy Fly": "bad",
+           "Swallowed": "bad",
+           "Insect Kin": "bad",
+           "Cold Contagious": "bad",
+           "A Tendency to Start Fires": "",
+           "Mouth": "",
+           "Straight No Chaser": "",
+           "History": "",
+           "Synapse": "",
+           "Communicator": "",
+           "Bonedriven": "",
+           "Distant Voices / [unknown]": ""
+       },
+       "Sixteen Stone": {
+           "@date": "1994-12-06",
+           "Everything Zen": "good",
+           "Swim": "",
+           "Bomb": "",
+           "Little Things": "good",
+           "Comedown": "good",
+           "Body": "",
+           "Machinehead": "good",
+           "Testosterone": "",
+           "Monkey": "",
+           "Glycerine": "",
+           "Alien": "",
+           "X‐Girlfriend": "short"
+       }
    }
 }
