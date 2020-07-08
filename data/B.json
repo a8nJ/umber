@@ -861,13 +861,13 @@
            "Cirrus": "good",
            "Heaven for the Sinner": "bad",
            "Sapphire": "good",
-           "Jets": "",
+           "Jets": "bad",
            "Towers": "bad",
            "Don’t Wait": "bad",
            "Know You": "bad",
            "Antenna": "bad",
-           "Ten Tigers": "",
-           "Transits": "",
+           "Ten Tigers": "bad",
+           "Transits": "good",
            "Pieces": ""
        },
        "Black Sands": {

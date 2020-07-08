@@ -629,8 +629,8 @@
          "You’re Not Alone": "good",
          "Falling": "bad",
          "Outlaw": "bad",
-         "Blood Red Tears": "",
-         "Curious": "",
+         "Blood Red Tears": "bad",
+         "Curious": "bad",
          "You Are Nothing": "",
          "Muted": ""
       }
