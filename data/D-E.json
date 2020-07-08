@@ -703,6 +703,7 @@
        }
    },
    "Empress Of": {
+      "@check": "2020-07-07",
       "I’m Your Empress Of": {
           "@date": "2020-04-03",
           "I’m Your Empress Of": "short",
@@ -718,19 +719,19 @@
           "Hold Me Like Water": "short",
           "Awful": "short"
       },
-      "Us": {
-         "@date": "2018",
-         "Everything to Me": "short",
-         "Just the Same": "bad",
-         "Trust Me Baby": "",
-         "Love for Me": "",
-         "I Don’t Even Smoke Weed": "",
-         "Timberlands": "",
-         "I’ve Got Love": "",
-         "All for Nothing": "",
-         "When I’m With Him": "",
-         "Again": ""
-      },
+       "Us": {
+           "@date": "2018-10-19",
+           "Everything to Me": "short",
+           "Just the Same": "bad",
+           "Trust Me Baby": "bad",
+           "Love for Me": "bad",
+           "I Don't Even Smoke Weed": "bad",
+           "Timberlands": "bad",
+           "I've Got Love": "bad",
+           "All for Nothing": "",
+           "When I'm With Him": "",
+           "Again": ""
+       },
        "Woman Is a Word": {
            "@date": "2016-03-14",
            "Woman Is a Word": "good"
@@ -772,7 +773,12 @@
          "13": "short",
          "14": "short",
          "15": "short"
-      }
+      },
+       "Champagne": {
+           "@date": "2012-11-05",
+           "Champagne": "short",
+           "Don't Tell Me": "bad"
+       }
    },
    "Enya": {
        "A Day Without Rain": {

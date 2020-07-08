@@ -19,8 +19,6 @@
            "The Great Curve": "",
            "Once in a Lifetime": {
              "id": "5IsSpAOD6K8",
-             "views": "28,370,357",
-             "published": "2018-02-02",
              "views per year": "12,026,085"
          },
            "Houses in Motion": "",
@@ -41,8 +39,6 @@
            "First Week/Last Week…Carefree": "",
            "Psycho Killer": {
              "id": "O52jAYa4Pm8",
-             "views": "116,721,417",
-             "published": "2010-01-17",
              "views per year": "11,214,173"
          },
            "Pulled Up": ""
@@ -1271,68 +1267,64 @@
    },
    "The Smiths": {
       "@check": "2020-05-07",
-      "Strangeways, Here We Come": {
-         "@date": "1987",
-         "A Rush and a Push and the Land Is Ours": "good",
-         "I Started Something I Couldn’t Finish": "",
-         "Death of a Disco Dancer": "",
-         "Girlfriend in a Coma": "short",
-         "Stop Me If You Think You’ve Heard This One Before": "",
-         "Last Night I Dreamt That Somebody Loved Me": "",
-         "Unhappy Birthday": "short",
-         "Paint a Vulgar Picture": "",
-         "Death at One’s Elbow": "short",
-         "I Won’t Share You": "short"
-      },
-      "The Queen Is Dead": {
-         "@date": "1986",
-         "The Queen Is Dead": "bad",
-         "Frankly, Mr. Shankly": "short",
-         "I Know It’s Over": "good",
-         "Never Had No One Ever": "",
-         "Cemetry Gates": "short",
-         "Bigmouth Strikes Again": "",
-         "The Boy With the Thorn in His Side": "",
-         "Vicar in a Tutu": "short",
-         "There Is a Light That Never Goes Out": {
+       "Strangeways, Here We Come": {
+           "@date": "1987-09-22",
+           "A Rush and a Push and the Land Is Ours": "good",
+           "I Started Something I Couldn’t Finish": "bad",
+           "Death of a Disco Dancer": "",
+           "Girlfriend in a Coma": "short",
+           "Stop Me If You Think You’ve Heard This One Before": "",
+           "Last Night I Dreamt That Somebody Loved Me": "",
+           "Unhappy Birthday": "short",
+           "Paint a Vulgar Picture": "",
+           "Death at One’s Elbow": "short",
+           "I Won’t Share You": "short"
+       },
+       "The Queen Is Dead": {
+           "@date": "1986-06-16",
+           "The Queen Is Dead": "@",
+           "Frankly, Mr. Shankly": "short",
+           "I Know It’s Over": "@",
+           "Never Had No One Ever": "@",
+           "Cemetry Gates": "short",
+           "Bigmouth Strikes Again": "@",
+           "The Boy With the Thorn in His Side": "@",
+           "Vicar in a Tutu": "short",
+           "There Is a Light That Never Goes Out": {
              "id": "siO6dkqidc4",
-             "views": "11,632,160",
-             "published": "2018-11-12",
-             "views per year": "7,627,731"
+             "views per year": "8,076,612"
          },
-         "Some Girls Are Bigger Than Others": ""
-      },
-      "Meat Is Murder": {
-         "@date": "1985",
-         "The Headmaster Ritual": "bad",
-         "Rusholme Ruffians": "",
-         "I Want the One I Can’t Have": "",
-         "What She Said": "short",
-         "That Joke Isn’t Funny Anymore": "",
-         "How Soon Is Now?": "good",
-         "Nowhere Fast": "short",
-         "Well I Wonder": "good",
-         "Barbarism Begins at Home": "good",
-         "Meat Is Murder": ""
-      },
+           "Some Girls Are Bigger Than Others": "@"
+       },
+       "Meat Is Murder": {
+           "@date": "1985-02-11",
+           "The Headmaster Ritual": "bad",
+           "Rusholme Ruffians": "bad",
+           "I Want the One I Can’t Have": "bad",
+           "What She Said": "short",
+           "That Joke Isn’t Funny Anymore": "bad",
+           "How Soon Is Now?": "good",
+           "Nowhere Fast": "short",
+           "Well I Wonder": "good",
+           "Barbarism Begins at Home": "good",
+           "Meat Is Murder": "bad"
+       },
        "The Smiths": {
            "@date": "1984-02-20",
-           "Reel Around the Fountain": "",
-           "You’ve Got Everything Now": "",
-           "Miserable Lie": "",
-           "Pretty Girls Make Graves": "",
-           "The Hand That Rocks the Cradle": "",
+           "Reel Around the Fountain": "@",
+           "You’ve Got Everything Now": "@",
+           "Miserable Lie": "@",
+           "Pretty Girls Make Graves": "@",
+           "The Hand That Rocks the Cradle": "@",
            "This Charming Man": {
              "id": "cJRP3LRcUFg",
-             "views": "53,149,218",
-             "published": "2014-02-06",
              "views per year": "8,451,350"
          },
-           "Still Ill": "",
-           "Hand in Glove": "",
-           "What Difference Does It Make?": "",
-           "I Don’t Owe You Anything": "",
-           "Suffer Little Children": ""
+           "Still Ill": "@",
+           "Hand in Glove": "@",
+           "What Difference Does It Make?": "@",
+           "I Don’t Owe You Anything": "@",
+           "Suffer Little Children": "@"
        }
    },
    "The Stranglers": {
