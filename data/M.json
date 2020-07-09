@@ -529,14 +529,40 @@
          },
          "@date": "1997"
       },
-      "Daydream": {
-         "@date": "1995",
-         "Always Be My Baby": {
-            "VPY": "15,209,697",
-            "URL": "https://youtu.be/LfRNRymrv9k"
+       "Daydream": {
+           "@date": "1995-09-27",
+           "Fantasy": "",
+           "Underneath the Stars": "",
+           "One Sweet Day": {
+             "id": "UXxRyNvTPr8",
+             "views per year": "18,574,154"
          },
-        "Fantasy": ""
-      },
+           "Open Arms": "",
+           "Always Be My Baby": "",
+           "I Am Free": "",
+           "When I Saw You": "",
+           "Long Ago": "",
+           "Melt Away": "",
+           "Forever": "",
+           "Daydream Interlude (Fantasy Sweet Dub mix)": "",
+           "Looking In": ""
+       },
+       "Merry Christmas": {
+           "@date": "1994-11-01",
+           "Silent Night": "",
+           "All I Want for Christmas Is You": {
+             "id": "aAkMkVFwAoo",
+             "views per year": "67,051,847"
+         },
+           "O Holy Night": "",
+           "Christmas (Baby Please Come Home)": "short",
+           "Miss You Most (at Christmas Time)": "",
+           "Joy to the World": "",
+           "Jesus Born on This Day": "",
+           "Santa Claus Is Comin’ to Town": "",
+           "Hark! The Herald Angels Sing / Gloria (in Excelsis Deo)": "",
+           "Jesus Oh What a Wonderful Child": ""
+       },
       "Merry Christmas": {
          "All I Want For Christmas Is You": {
             "VPY": "57,340,677",
