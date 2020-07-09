@@ -796,29 +796,29 @@
        }
    },
    "Matt Lange": {
-      "Staccato": {
-         "Staccato (original mix)": "",
-         "Ether (original mix)": "good",
-         "Underscore (original mix)": "good",
-         "@date": "2014-07-14"
-      },
-      "I Can’t Forgive / Inverse / This Is How It Is": {
-         "I Can’t Forgive (original mix)": "good",
-         "Inverse (original mix)": "good",
-         "This Is How It Is (original mix)": "good",
-         "@date": "2014-03-24"
-      },
-      "Way You Know / Only You": {
-         "Way You Know": "good",
-         "Only You": "",
-         "@date": "2013"
-      },
-      "Rift": {
-         "Rift (original mix)": "good",
-         "Rift (Andrew Bayer remix)": "",
-         "Rift (Kerry Leva undo)": "",
-         "@date": "2011"
-      }
+       "Staccato EP": {
+           "@date": "2014-07-14",
+           "Staccato": "",
+           "Ether": "good",
+           "Underscore": "good"
+       },
+       "I Can't Forgive / Inverse / This Is How It Is": {
+           "@date": "2014-03-24",
+           "I Can't Forgive (original mix)": "good",
+           "Inverse (original mix)": "good",
+           "This Is How It Is (original mix)": "good"
+       },
+       "Way You Know / Only You": {
+           "@date": "2013-09-02",
+           "Way You Know": "good",
+           "Only You": ""
+       },
+       "Rift": {
+           "@date": "2011-04-18",
+           "Rift (original mix)": "good",
+           "Rift (Andrew Bayer remix)": "",
+           "Rift (Kerry Leva undo)": ""
+       }
    },
    "Mazzy Star": {
       "Among My Swan": {
@@ -851,22 +851,22 @@
       }
    },
    "Meramek": {
-      "Know Me": {
-         "@date": "2015",
-         "Know Me (original mix)": "good"
-      },
-      "Only You EP": {
-         "@date": "2014",
-         "Only You": "good",
-         "Bounce": "",
-         "Stepping Stones (original mix)": ""
-      },
-      "Feeling / Maybe / FWD": {
-         "@date": "2013",
-         "Feeling": "good",
-         "Maybe": "",
-         "FWD": ""
-      }
+       "Know Me": {
+           "@date": "2015-10-09",
+           "Know Me (original mix)": "good"
+       },
+       "Only You EP": {
+           "@date": "2014-10-27",
+           "Only You (original mix)": "good",
+           "Bounce (original mix)": "",
+           "Stepping Stones (original mix)": ""
+       },
+       "Feeling / Maybe / FWD": {
+           "@date": "2013-10-07",
+           "Feeling (original mix)": "good",
+           "Maybe (original mix)": "",
+           "FWD (original mix)": ""
+       }
    },
    "Metallica": {
        "Hardwired… to Self‐Destruct": {

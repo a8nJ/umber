@@ -986,31 +986,19 @@
       }
    },
    "Lykke Li": {
-       "so sad so sexy": {
-           "@date": "2018-06-08",
-           "hard rain": "bad",
-           "deep end": "",
-           "two nights": "",
-           "last piece": "",
-           "jaguars in the air": "",
-           "sex money feelings die": "short",
-           "so sad so sexy": "",
-           "better alone": "",
-           "bad woman": "",
-           "utopia": ""
+      "@check": "2020-07-09",
+       "I Never Learn": {
+           "@date": "2014-05-02",
+           "I Never Learn": "short",
+           "No Rest for the Wicked": "bad bad",
+           "Just Like a Dream": "bad bad",
+           "Silver Line": "bad bad",
+           "Gunshot": "bad bad",
+           "Love Me Like I’m Not Made of Stone": "bad bad",
+           "Never Gonna Love Again": "bad",
+           "Heart of Steel": "bad",
+           "Sleeping Alone": "short"
        },
-      "I Never Learn": {
-         "@date": "2014",
-         "I Never Learn": "bad",
-         "No Rest for the Wicked": "bad",
-         "Just Like a Dream": "bad",
-         "Silver Line": "bad",
-         "Gunshot": "bad",
-         "Love Me Like I’m Not Made of Stone": "bad",
-         "Never Gonna Love Again": "bad",
-         "Heart of Steel": "bad",
-         "Sleeping Alone": "short"
-      },
        "Wounded Rhymes": {
            "@date": "2010-02-28",
            "Youth Knows No Pain": "short",
@@ -1018,15 +1006,15 @@
              "id": "vZYbEL06lEU",
              "views per year": "7,527,626"
          },
-           "Love Out of Lust": "",
-           "Unrequited Love": "",
-           "Get Some": "",
-           "Rich Kids Blues": "",
-           "Sadness Is a Blessing": "",
-           "I Know Places": "",
-           "Jerome": "",
-           "Silent My Song": "",
-           "I Follow Rivers (The Magician remix)": ""
+           "Love Out of Lust": "@",
+           "Unrequited Love": "@",
+           "Get Some": "@",
+           "Rich Kids Blues": "@",
+           "Sadness Is a Blessing": "@",
+           "I Know Places": "@",
+           "Jerome": "@",
+           "Silent My Song": "@",
+           "I Follow Rivers (The Magician remix)": "@"
        },
        "Youth Novels": {
            "@date": "2008-01-30",
