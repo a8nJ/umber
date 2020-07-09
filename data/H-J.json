@@ -1676,18 +1676,18 @@
          "Moni Mon Amie": "",
          "Monocular Eyes": "short"
       },
-      "Loud City Song": {
-         "@date": "2013",
-         "World": "bad",
-         "Maxim’s I": "bad",
-         "Horns Surrounding Me": "good",
-         "In the Green Wild": "bad",
-         "Hello Stranger": "good",
-         "Maxim’s II": "bad",
-         "He’s Running Through My Eyes": "short",
-         "This Is a True Heart": "good",
-         "City Appearing": "bad"
-      },
+       "Loud City Song": {
+           "@date": "2013-08-19",
+           "World": "bad",
+           "Maxim’s I": "bad",
+           "Horns Surrounding Me": "good",
+           "In the Green Wild": "bad",
+           "Hello Stranger": "good",
+           "Maxim’s II": "bad",
+           "He’s Running Through My Eyes": "short",
+           "This Is a True Heart": "good",
+           "City Appearing": "bad"
+       },
       "Ekstasis": {
           "@date": "2012-03-06",
           "Marienbad": "bad",
@@ -1701,49 +1701,66 @@
           "Goddess Eyes I": "bad",
           "This Is Ekstasis": "bad"
       },
-      "Tragedy": {
-         "@date": "2011",
-         "Introduction": "bad",
-         "Try to Make Yourself a Work of Art": "bad",
-         "The Falling Age": "bad",
-         "Goddess Eyes": "bad",
-         "Interlude": "short",
-         "Celebration": "bad",
-         "So Lillies": "bad",
-         "Finale": "bad"
-      }
+       "Tragedy": {
+           "@date": "2011-08",
+           "Try to Make Yourself a Work of Art": "bad",
+           "The Falling Age": "bad",
+           "Goddess Eyes": "bad",
+           "Celebration": "bad",
+           "So Lillies": "bad",
+           "Finale": "bad"
+       }
    },
    "Julianna Barwick": {
-      "Nepenthe": {
-         "@date": "2013",
-         "Offing": "",
-         "The Harbinger": "",
-         "One Half": {
-            "VPY": "43,565",
-            "URL": "https://youtu.be/kIQVjRCL6jI"
-         },
-         "Look Into Your Own Mind": "",
-         "Pyrrhic": "good",
-         "Labyrinthine": "",
-         "Forever": "good",
-         "Adventurer of the Family": "short",
-         "Crystal Lake": "",
-         "Waving to You": "short"
-      },
-      "The Magic Place": {
-         "@date": "2011",
-         "Envelop": "bad",
-         "Keep Up the Good Work": "bad",
-         "The Magic Place": "bad",
-         "Cloak": "bad",
-         "White Flag": "bad",
-         "Vow": "",
-         "Bob in Your Gait": "",
-         "Prizewinning": "",
-         "Flown": ""
-      }
+       "Nepenthe": {
+           "@date": "2013-07-20",
+           "Offing": "",
+           "The Harbinger": "",
+           "One Half": "",
+           "Look Into Your Own Mind": "",
+           "Pyrrhic": "good",
+           "Labyrinthine": "",
+           "Forever": "good",
+           "Adventurer of the Family": "short",
+           "Crystal Lake": "",
+           "Waving to You": "short"
+       },
+       "The Magic Place": {
+           "@date": "2011-02-11",
+           "Envelop": "bad",
+           "Keep Up the Good Work": "bad",
+           "The Magic Place": "bad",
+           "Cloak": "bad",
+           "White Flag": "bad",
+           "Vow": "",
+           "Bob in Your Gait": "",
+           "Prizewinning": "",
+           "Flown": ""
+       }
    },
    "Justin Timberlake": {
+       "Man of the Woods": {
+           "@date": "2018-01-29",
+           "Filthy": {
+             "id": "gA-NDZb29I4",
+             "views per year": "29,598,084"
+         },
+           "Midnight Summer Jam": "",
+           "Sauce": "",
+           "Man of the Woods": "",
+           "Higher Higher": "",
+           "Wave": "",
+           "Supplies": "",
+           "Morning Light": "",
+           "Say Something": "",
+           "Hers (interlude)": "short",
+           "Flannel": "",
+           "Montana": "",
+           "Breeze Off the Pond": "",
+           "Livin’ Off the Land": "",
+           "The Hard Stuff": "",
+           "Young Man": ""
+       },
       "Man of the Woods": {
          "@date": "2018",
          "Filthy": "",
