@@ -1303,29 +1303,40 @@
       }
    },
    "St. Germain": {
-      "Tourist": {
-         "@date": "2000",
-         "Rose Rouge": "good",
-         "Montego Bay Spleen": "",
-         "So Flute": "",
-         "Land of": "",
-         "Latin Note": "",
-         "Sure Thing": "",
-         "Pont des Arts": "",
-         "La Goutte d’Or": "",
-         "What You Think About": ""
-      },
-      "Boulevard the Complete Series": {
-         "@date": "1995",
-         "Deep in It": "",
-         "Thank U Mum (4 Everything You Did)": "good",
-         "Street Scene (4 Shazz)": "",
-         "Easy to Remember": "",
-         "Sentimental Mood": "",
-         "What’s New?": "",
-         "Dub Experience II": "",
-         "Forget It": ""
-      }
+       "St Germain": {
+           "@date": "2015-10-09",
+           "Real Blues": "good",
+           "Sittin' Here": "",
+           "Hanky-Panky": "",
+           "Voilà": "",
+           "Family Tree": "",
+           "How Dare You": "",
+           "Mary L.": "",
+           "Forget Me Not": ""
+       },
+       "Tourist": {
+           "@date": "2000-05-05",
+           "Rose Rouge": "good",
+           "Montego Bay Spleen": "",
+           "So Flute": "",
+           "La Goutte D'or": "",
+           "Sure Thing": "",
+           "Pont Des Arts": "",
+           "Latin Note": "",
+           "Land of...": "",
+           "What You Think About...": ""
+       },
+       "Boulevard: The Complete Series": {
+           "@date": "1995-07-24",
+           "Deep in It": "",
+           "Thank U Mum (4 Everything You Did)": "good",
+           "Street Scene (4 Shazz)": "long",
+           "Easy to Remember": "",
+           "Sentimental Mood": "",
+           "What’s New?": "",
+           "Dub Experience II": "",
+           "Forget It": ""
+       }
    },
    "St. Vincent": {
       "Actor": {

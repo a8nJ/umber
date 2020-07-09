@@ -59,6 +59,14 @@
          "Cloudburst Flight": "good",
          "Thru Metamorphic Rocks": "bad"
       },
+       "Cyclone": {
+           "@date": "1978-02",
+           "Bent Cold Sidewalk": "",
+           "Rising Runner Missed By Endless Sender": "",
+           "Madrigal Meridian": "long",
+           "Haunted Heights": "",
+           "Baryll Blue": ""
+       },
        "Stratosfear": {
            "@date": "1976-10",
            "Stratosfear": "bad",
@@ -72,6 +80,13 @@
            "Mysterious Semblance at the Strand of Nightmares": "bad",
            "Movements of a Visionary": "bad",
            "Sequent 'C'": "short"
+       },
+       "Atem": {
+           "@date": "1973-03",
+           "Atem": "long",
+           "Fauni-gena": "bad",
+           "Circulation of Events": "",
+           "Wahn": ""
        }
    },
    "Tears for Fears": {

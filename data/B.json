@@ -1115,7 +1115,7 @@
            "@date": "2007-11-05",
            "[untitled]": "short",
            "Archangel": "bad",
-           "Near Dark": "",
+           "Near Dark": "good",
            "Ghost Hardware": "good",
            "Endorphin": "short",
            "Etched Headplate": "",
@@ -1137,10 +1137,10 @@
            "Southern Comfort": "good",
            "U Hurt Me": "good",
            "Gutted": "good",
-           "Forgive": "",
-           "Broken Home": "",
-           "Prayer": "",
-           "Pirates": "",
+           "Forgive": "bad",
+           "Broken Home": "bad",
+           "Prayer": "bad",
+           "Pirates": "bad",
            "Untitled 2": "short"
        }
    },

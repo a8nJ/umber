@@ -544,14 +544,22 @@
          },
          "@date": "1994"
       },
-      "Music Box": {
-         "Hero": {
-            "VPY": "23,152,721",
-            "URL": "https://youtu.be/0IA3ZvCkRkQ"
+       "Music Box": {
+           "@date": "1993-09-17",
+           "Dreamlover": "",
+           "Hero": {
+             "id": "0IA3ZvCkRkQ",
+             "views per year": "23,839,457"
          },
-         "Without You": "",
-         "@date": "1993"
-      }
+           "Anytime You Need a Friend": "",
+           "Music Box": "",
+           "Now That I Know": "",
+           "Never Forget You": "",
+           "Without You": "",
+           "Just to Hold You Once Again": "",
+           "I've Been Thinking About You": "",
+           "All I've Ever Wanted": ""
+       }
    },
    "Mark Morrison": {
        "Return of theMack": {
