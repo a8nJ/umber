@@ -498,30 +498,87 @@
       }
    },
    "Mariah Carey": {
-      "Memoirs of an Imperfect Angel": {
-         "I Want To Know What Love Is": {
-            "VPY": "13,849,877",
-            "URL": "https://youtu.be/gCadlN8fexk"
+       "Memoirs of an Imperfect Angel": {
+           "@date": "2009-10-05",
+           "Betcha Gon' Know (The Prologue)": "",
+           "Obsessed": {
+             "id": "H1Yt0xJKDY8",
+             "views per year": "13,182,572"
          },
-         "Obsessed": "",
-         "@date": "2009"
-      },
-      "E=MC²": {
-         "Bye Bye": "",
-         "Touch My Body": {
-            "VPY": "17,998,651",
-            "URL": "https://youtu.be/9b8erWuBA44"
+           "H.A.T.E.U.": "",
+           "Candy Bling": "",
+           "Ribbon": "",
+           "Inseparable": "",
+           "Standing O": "",
+           "It's a Wrap": "",
+           "Up Out My Face": "",
+           "Up Out My Face (The Reprise)": "short",
+           "More Than Just Friends": "",
+           "The Impossible": "",
+           "The Impossible (The Reprise)": "short",
+           "Angel (The Prelude)": "short",
+           "Angels Cry": "",
+           "Languishing (The Interlude)": "short",
+           "I Want to Know What Love Is": ""
+       },
+       "E=MC²": {
+           "@date": "2008-04-11",
+           "Migrate": "",
+           "Touch My Body": {
+             "id": "9b8erWuBA44",
+             "views per year": "17,355,992"
          },
-         "@date": "2008"
-      },
-      "The Emancipation of Mimi": {
-         "Don’t Forget About Us": "",
-         "We Belong Together": {
-            "VPY": "37,118,971",
-            "URL": "https://youtu.be/0habxsuXW4g"
+           "Cruise Control": "",
+           "I Stay in Love": "",
+           "Side Effects": "",
+           "I'm That Chick": "",
+           "Love Story": "",
+           "I'll Be Lovin' U Long Time": "",
+           "Last Kiss": "",
+           "Thanx 4 Nothin'": "",
+           "O.O.C.": "",
+           "For the Record": "",
+           "Bye Bye": "",
+           "I Wish You Well": ""
+       },
+       "The Emancipation of Mimi": {
+           "@date": "2005-04-04",
+           "It’s Like That": "",
+           "We Belong Together": {
+             "id": "0habxsuXW4g",
+             "views per year": "38,093,925"
          },
-         "@date": "2005"
-      },
+           "Shake It Off": "",
+           "Mine Again": "",
+           "Say Somethin’": "",
+           "Stay the Night": "",
+           "Get Your Number": "",
+           "One and Only": "",
+           "Circles": "",
+           "Your Girl": "short",
+           "I Wish You Knew": "",
+           "To the Floor": "",
+           "Joy Ride": "",
+           "Fly Like a Bird": ""
+       },
+       "Butterfly": {
+           "@date": "1997-09-16",
+           "Honey": "",
+           "Butterfly": "",
+           "My All": {
+             "id": "mIhI23gBBPQ",
+             "views per year": "14,409,999"
+         },
+           "The Roof": "",
+           "Fourth of July": "",
+           "Breakdown": "",
+           "Babydoll": "",
+           "Close My Eyes": "",
+           "Whenever You Call": "",
+           "Fly Away (Butterfly reprise)": "",
+           "The Beautiful Ones": "",
+           "Outside": ""
+       },
       "Butterfly": {
          "My All": {
             "VPY": "13,670,261",
