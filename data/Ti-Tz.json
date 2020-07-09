@@ -672,7 +672,7 @@
            "Got Blinded": "bad",
            "How I Know": "bad",
            "Light Black": "bad",
-           "Still Sound": "",
+           "Still Sound": "bad",
            "Good Hold": "short",
            "Elise": ""
        },
@@ -683,12 +683,12 @@
           "Imprint After": "good",
           "Lissoms": "short",
           "Fax Shadow": "short",
-          "Thanks Vision": "",
+          "Thanks Vision": "bad",
           "Freak Love": "short",
           "Talamak": "short",
-          "You Hid": "",
-          "Low Shoulder": "",
-          "Causers of This / Timed Pleasure": ""
+          "You Hid": "bad",
+          "Low Shoulder": "bad",
+          "Causers of This / Timed Pleasure": "bad"
       }
    },
    "Tosca": {
