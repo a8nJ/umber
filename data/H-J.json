@@ -1651,31 +1651,31 @@
            "I Shall Love 1": "",
            "Why Sad Song": ""
        },
-      "Have You in My Wilderness": {
-         "@date": "2015",
-         "Feel You": "good",
-         "Silhouette": "",
-         "How Long?": "",
-         "Lucette Stranded on the Island": "",
-         "Sea Calls Me Home": "",
-         "Night Song": "",
-         "Everytime Boots": "",
-         "Betsy on the Roof": "",
-         "Vasquez": "",
-         "Have You in My Wilderness": ""
-      },
-      "Maria": {
-         "@date": "2014",
-         "Maria": "good",
-         "2HB": "",
-         "A Gold Thunder": "short",
-         "Für Felix": "short",
-         "In the Same Room": "short",
-         "Je Vivroie Liement": "short",
-         "Minerals": "",
-         "Moni Mon Amie": "",
-         "Monocular Eyes": "short"
-      },
+       "Have You in My Wilderness": {
+           "@date": "2015-09-25",
+           "Feel You": "good",
+           "Silhouette": "",
+           "How Long?": "",
+           "Lucette Stranded on the Island": "",
+           "Sea Calls Me Home": "",
+           "Night Song": "",
+           "Everytime Boots": "",
+           "Betsy on the Roof": "",
+           "Vasquez": "",
+           "Have You in My Wilderness": ""
+       },
+       "Maria": {
+           "@date": "2014-02-25",
+           "Maria": "good",
+           "2HB": "",
+           "A Gold Thunder": "short",
+           "Für Felix": "short",
+           "In the Same Room": "short",
+           "Je Vivroie Liement": "short",
+           "Minerals": "",
+           "Moni Mon Amie": "",
+           "Monocular Eyes": "short"
+       },
        "Loud City Song": {
            "@date": "2013-08-19",
            "World": "bad",
@@ -1690,7 +1690,7 @@
        },
       "Ekstasis": {
           "@date": "2012-03-06",
-          "Marienbad": "bad",
+          "Marienbad": "bad bad",
           "Our Sorrows": "bad",
           "In the Same Room": "bad",
           "Boy in the Moon": "bad",
@@ -1702,13 +1702,15 @@
           "This Is Ekstasis": "bad"
       },
        "Tragedy": {
-           "@date": "2011-08",
-           "Try to Make Yourself a Work of Art": "bad",
-           "The Falling Age": "bad",
-           "Goddess Eyes": "bad",
-           "Celebration": "bad",
-           "So Lillies": "bad",
-           "Finale": "bad"
+           "@date": "2011-08-30",
+           "Introduction": "bad bad",
+           "Try to Make Yourself a Work of Art": "bad bad",
+           "The Falling Age": "bad bad",
+           "Goddess Eyes": "bad bad",
+           "Interlude": "short",
+           "Celebration": "bad bad",
+           "So Lillies": "bad bad",
+           "Finale": "bad bad"
        }
    },
    "Julianna Barwick": {

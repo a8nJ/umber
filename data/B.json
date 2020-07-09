@@ -474,7 +474,7 @@
        "Volta": {
            "@date": "2007-05-07",
            "Earth Intruders": "bad",
-           "Wanderlust": "",
+           "Wanderlust": "bad",
            "The Dull Flame of Desire": "",
            "Innocence": "",
            "I See Who You Are": "",
@@ -494,12 +494,12 @@
            "Who Is It (Carry My Joy on the Left, Carry My Pain": "bad",
            "Submarine": "bad",
            "Desired Constellation": "bad",
-           "Oceania": "",
+           "Oceania": "bad",
            "Sonnets/Unrealities XI": "short",
-           "Ancestors": "",
-           "Mouth’s Cradle": "",
+           "Ancestors": "bad",
+           "Mouth’s Cradle": "bad",
            "Miðvikudags": "short",
-           "Triumph of a Heart": ""
+           "Triumph of a Heart": "bad"
        },
        "Vespertine": {
            "@date": "2001-08-27",
