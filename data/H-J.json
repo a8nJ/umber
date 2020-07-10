@@ -1,6 +1,7 @@
 {
    "Harold Budd": {
-       "Jane 12-21": {
+      "@channel": "UCD_irSJt5hBidim8LYmC3EQ",
+      "Jane 12-21": {
            "@date": "2014-09",
            "Jane 12": "bad",
            "Jane 13": "bad",
@@ -218,7 +219,7 @@
            "@date": "1980",
            "First Light": "bad",
            "Steal Away": "short",
-           "The Plateaux of Mirror": "",
+           "The Plateaux of Mirror": "good",
            "Above Chiangmai": "short",
            "An Arc of Doves": "",
            "Not Yet Remembered": "",
@@ -231,8 +232,8 @@
            "@date": "1978",
            "Bismillahi 'Rrahman 'Rrahim": "long",
            "Let Us Go Into the House of the Lord / Butterfly Sunday": "bad",
-           "Rosetti Noise / The Crystal Garden and a Coda": "",
-           "Juno": ""
+           "Rosetti Noise / The Crystal Garden and a Coda": "bad",
+           "Juno": "bad"
        }
    },
    "Heart": {
@@ -736,9 +737,9 @@
        "Meet Next Life": {
            "@date": "2004-02-09",
            "Birds Over Barges": "bad",
-           "First Date - Jumble Sale": "",
-           "One Man Abandon": "",
-           "Gurnard": "",
+           "First Date - Jumble Sale": "bad",
+           "One Man Abandon": "bad",
+           "Gurnard": "bad",
            "The Race to Be First Home": "",
            "Gunnera": "good",
            "Iron Eyes": "",

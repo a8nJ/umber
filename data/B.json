@@ -364,20 +364,20 @@
            "Otter Shadows": "short",
            "Watching Thus, The Heron Is All Pool": "short"
        },
-      "Silver Wilkinson": {
-         "@date": "2013",
-         "The First Daffodils": "short",
-         "Dye the Water Green": "good",
-         "Wulf": "short",
-         "Mirroring All": "",
-         "À tout à l’heure": "",
-         "Sycamore Silhouetting": "",
-         "You": "",
-         "Raincoat": "",
-         "Look at Orion!": "",
-         "Business Park": "",
-         "You Won’t Remember...": ""
-      },
+       "Silver Wilkinson": {
+           "@date": "2013-05-13",
+           "The First Daffodils": "short",
+           "Dye the Water Green": "good",
+           "Wulf": "short",
+           "Mirroring All": "",
+           "À tout à l'heure": "",
+           "Sycamore Silhouetting": "",
+           "You": "",
+           "Raincoat": "",
+           "Look at Orion!": "",
+           "Business Park": "",
+           "You Won't Remember...": ""
+       },
       "Ambivalence Avenue": {
          "@date": "2009-06-22",
          "Ambivalence Avenue": "",
@@ -411,7 +411,24 @@
          "Top Soil": "short",
          "Thatched": "",
          "The Garden Shelter": ""
-      }
+      },
+       "Hand Cranked": {
+           "@date": "2006-03-07",
+           "The Cranking House": "short",
+           "Cherry Go Round": "bad",
+           "Quantock": "bad",
+           "Black Country Blue": "short",
+           "Marram": "short",
+           "Aberriw": "short",
+           "Zoopraxiphone": "bad",
+           "Dyfi": "bad",
+           "Ffwrnais": "bad",
+           "Woodington": "",
+           "Above the Rooftops": "",
+           "Snowbow": "",
+           "Maroon Lagoon": "short",
+           "Overgrown": ""
+       }
    },
    "Bicep": {
        "Bicep": {

@@ -623,20 +623,24 @@
        }
    },
    "Lenny Kravitz": {
-      "Raise Vibration": {
-         "@date": "2018",
-         "Low": {
-            "VPY": "38,900,177",
-            "URL": "https://youtu.be/BilaShsQphM"
-         }
-      },
-      "Strut": {
-         "@date": "2014",
-         "Lenny Kravitz - The Chamber (Explicit)": {
-             "URL": "https://youtu.be/jAHlQ77lm10",
-             "VPY": "6,021,497"
-         }
-      },
+       "Raise Vibration": {
+           "@date": "2018-09-07",
+           "We Can Get It All Together": "",
+           "Low": {
+             "id": "BilaShsQphM",
+             "views per year": "30,661,907"
+         },
+           "Who Really Are the Monsters?": "",
+           "Raise Vibration": "",
+           "Johnny Cash": "",
+           "Here to Love": "",
+           "It’s Enough": "",
+           "5 More Days ’til Summer": "",
+           "The Majesty of Love": "",
+           "Gold Dust": "",
+           "Ride": "",
+           "I’ll Always Be Inside Your Soul": ""
+       },
       "5": {
          "@date": "1999-06-01",
          "Live": "",
@@ -646,10 +650,7 @@
          "If You Can’t Say No": "",
          "Thinking of You": "",
          "Take Time": "",
-         "Fly Away": {
-            "VPY": "5,872,138",
-            "URL": "https://youtu.be/EvuL5jyCHOw"
-         },
+         "Fly Away": "",
          "It’s Your Life": "",
          "Straight Cold Player": "",
          "Little Girl’s Eyes": "",
@@ -658,20 +659,20 @@
          "American Woman": "good",
          "Without You": ""
       },
-      "Are You Gonna Go My Way": {
-         "@date": "1993",
-         "Are You Gonna Go My Way": "good",
-         "Believe": "",
-         "Come on and Love Me": "",
-         "Heaven Help": "",
-         "Just Be a Woman": "",
-         "Is There Any Love in Your Heart": "",
-         "Black Girl": "",
-         "My Love": "",
-         "Sugar": "",
-         "Sister": "",
-         "Eleutheria": ""
-      }
+       "Are You Gonna Go My Way": {
+           "@date": "1993-03-01",
+           "Are You Gonna Go My Way": "good",
+           "Believe": "",
+           "Come on and Love Me": "",
+           "Heaven Help": "",
+           "Just Be a Woman": "",
+           "Is There Any Love in Your Heart": "",
+           "Black Girl": "",
+           "My Love": "",
+           "Sugar": "",
+           "Sister": "",
+           "Eleutheria": ""
+       }
    },
    "Leon Vynehall": {
       "@check": "2020-06-26",
