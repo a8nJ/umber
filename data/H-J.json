@@ -552,49 +552,32 @@
    },
    "Interpol": {
       "@check": "2020-05-07",
-      "Marauder": {
-         "@date": "2018",
-         "If You Really Love Nothing": "",
-         "The Rover": "",
-         "Complications": "",
-         "Flight of Fancy": "",
-         "Stay in Touch": "",
-         "Interlude 1": "short",
-         "Mountain Child": "",
-         "NYSMAW": "",
-         "Surveillance": "",
-         "Number 10": "",
-         "Party’s Over": "",
-         "Interlude 2": "short",
-         "It Probably Matters": ""
-      },
-      "El Pintor": {
-         "@date": "2014",
-         "All the Rage Back Home": "good",
-         "My Desire": "good",
-         "Anywhere": "",
-         "Same Town, New Story": "",
-         "My Blue Supreme": "",
-         "Everything Is Wrong": "good",
-         "Breaker 1": "",
-         "Ancient Ways": "",
-         "Tidal Wave": "",
-         "Twice as Hard": ""
-      },
-      "Interpol": {
-         "@date": "2010",
-         "Success": "bad",
-         "Memory Serves": "bad",
-         "Summer Well": "bad",
-         "Lights": "bad",
-         "Barricade": "bad",
-         "Always Malaise (The Man I Am)": "",
-         "Safe Without": "",
-         "Try It On": "",
-         "All of the Ways": "",
-         "The Undoing": "",
-         "Gavilan": ""
-      },
+       "El Pintor": {
+           "@date": "2014-09-08",
+           "All the Rage Back Home": "good",
+           "My Desire": "good",
+           "Anywhere": "",
+           "Same Town, New Story": "",
+           "My Blue Supreme": "",
+           "Everything Is Wrong": "good",
+           "Breaker 1": "",
+           "Ancient Ways": "",
+           "Tidal Wave": "",
+           "Twice as Hard": ""
+       },
+       "Interpol": {
+           "@date": "2010-09-07",
+           "Success": "bad",
+           "Memory Serves": "bad",
+           "Summer Well": "bad",
+           "Lights": "bad",
+           "Barricade": "bad",
+           "Always Malaise (The Man I Am)": "",
+           "Safe Without": "",
+           "Try It On": "",
+           "All of the Ways": "",
+           "The Undoing": ""
+       },
        "Our Love to Admire": {
            "@date": "2007-07-09",
            "Pioneer to the Falls": "good",
@@ -643,25 +626,21 @@
        }
    },
    "INXS": {
-      "Kick": {
-         "@date": "1987",
-         "Guns in the Sky": "short",
-         "New Sensation": "",
-         "Devil Inside": "",
-         "Need You Tonight": "good",
-         "Mediate": "short",
-         "The Loved One": "",
-         "Wild Life": "",
-         "Never Tear Us Apart": {
-            "rate": "good",
-            "VPY": "5,341,920",
-            "URL": "https://youtu.be/mjvBH48V3Pk"
-         },
-         "Mystify": "",
-         "Kick": "",
-         "Calling All Nations": "",
-         "Tiny Daggers": ""
-      }
+       "Kick": {
+           "@date": "1987-10-02",
+           "Guns in the Sky": "short",
+           "New Sensation": "",
+           "Devil Inside": "",
+           "Need You Tonight": "good",
+           "Mediate": "short",
+           "The Loved One": "",
+           "Wild Life": "",
+           "Never Tear Us Apart": "good",
+           "Mystify": "",
+           "Kick": "",
+           "Calling All Nations": "",
+           "Tiny Daggers": ""
+       }
    },
    "Iron & Wine": {
       "The Shepherd's Dog": {
@@ -679,21 +658,21 @@
           "Peace Beneath the City": "",
           "Flightless Bird, American Mouth": ""
       },
-      "Our Endless Numbered Days": {
-         "@date": "2004",
-         "On Your Wings": "",
-         "Naked as We Came": "short",
-         "Cinder and Smoke": "good",
-         "Sunset Soon Forgotten": "",
-         "Teeth in the Grass": "short",
-         "Love and Some Verses": "",
-         "Radio War": "short",
-         "Each Coming Night": "",
-         "Free Until They Cut Me Down": "",
-         "Fever Dream": "",
-         "Sodom, South Georgia": "",
-         "Passing Afternoon": ""
-      },
+       "Our Endless Numbered Days": {
+           "@date": "2004-03-23",
+           "On Your Wings": "",
+           "Naked as We Came": "short",
+           "Cinder and Smoke": "good",
+           "Sunset Soon Forgotten": "",
+           "Teeth in the Grass": "short",
+           "Love and Some Verses": "",
+           "Radio War": "short",
+           "Each Coming Night": "",
+           "Free Until They Cut Me Down": "",
+           "Fever Dream": "",
+           "Sodom, South Georgia": "",
+           "Passing Afternoon": ""
+       },
        "The Creek Drank the Cradle": {
            "@date": "2002-09-24",
            "Lion's Mane": "short",
