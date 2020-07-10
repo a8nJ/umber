@@ -878,70 +878,70 @@
          "Noctourniquet": "",
          "Zed and Two Naughts": ""
       },
-      "Octahedron": {
-         "@date": "2009",
-         "Since We’ve Been Wrong": "good",
-         "Teflon": "good",
-         "Halo of Nembutals": "bad",
-         "With Twilight as My Guide": "good",
-         "Cotopaxi": "",
-         "Desperate Graves": "",
-         "Copernicus": "good",
-         "Luciforms": ""
-      },
-      "The Bedlam in Goliath": {
-         "@date": "2007",
-         "Aberinkula": "",
-         "Metatron": "good",
-         "Ilyena": "good",
-         "Wax Simulacra": "short",
-         "Goliath": "",
-         "Tourniquet Man": "short",
-         "Cavalettas": "good",
-         "Agadez": "good",
-         "Askepios": "",
-         "Ouroborous": "",
-         "Soothsayer": "good",
-         "Conjugal Burns": ""
-      },
-      "Amputechture": {
-         "@date": "2006",
-         "Vicarious Atonement": "good",
-         "Tetragrammaton": "good",
-         "Vermicide": "",
-         "Meccamputechture": "",
-         "Asilos Magdalena": "",
-         "Viscera Eyes": "",
-         "Day of the Baphomets": "",
-         "El Ciervo Vulnerado": ""
-      },
-      "Frances the Mute": {
-         "@date": "2005",
-         "Cygnus....Vismund Cygnus": "good",
-         "The Widow": "good",
-         "L’Via L’Viaquez": "",
-         "Miranda That Ghost Just Isn’t Holy Anymore": "",
-         "Cassandra Gemini": "good"
-      },
-      "De‐Loused in the Comatorium": {
-         "@date": "2003",
-         "Son et lumiere": "short",
-         "Inertiatic ESP": "good",
-         "Roulette Dares (The Haunt Of)": "",
-         "Tira me a las arañas": "short",
-         "Drunkship of Lanterns": "good",
-         "Eriatarka": "good",
-         "Cicatriz ESP": "good",
-         "This Apparatus Must Be Unearthed": "",
-         "Televators": "",
-         "Take the Veil Cerpin Taxt": "good"
-      },
-      "Tremulant EP": {
-         "@date": "2002",
-         "Cut That City": "bad",
-         "Concertina": "bad",
-         "Eunuch Provocateur": "good"
-      }
+       "Octahedron": {
+           "@date": "2009-06-22",
+           "Since We’ve Been Wrong": "good",
+           "Teflon": "good",
+           "Halo of Nembutals": "bad",
+           "With Twilight as My Guide": "good",
+           "Cotopaxi": "",
+           "Desperate Graves": "",
+           "Copernicus": "good",
+           "Luciforms": ""
+       },
+       "The Bedlam in Goliath": {
+           "@date": "2008-01-29",
+           "Aberinkula": "",
+           "Metatron": "good",
+           "Ilyena": "good",
+           "Wax Simulacra": "short",
+           "Goliath": "",
+           "Tourniquet Man": "short",
+           "Cavalettas": "good",
+           "Agadez": "good",
+           "Askepios": "",
+           "Ouroborous": "",
+           "Soothsayer": "good",
+           "Conjugal Burns": ""
+       },
+       "Amputechture": {
+           "@date": "2006-09-11",
+           "Vicarious Atonement": "good",
+           "Tetragrammaton": "good",
+           "Vermicide": "",
+           "Meccamputechture": "",
+           "Asilos Magdalena": "",
+           "Viscera Eyes": "",
+           "Day of the Baphomets": "",
+           "El Ciervo Vulnerado": ""
+       },
+       "Frances the Mute": {
+           "@date": "2005-03-01",
+           "Cygnus....Vismund Cygnus": "good",
+           "The Widow": "good",
+           "L’Via L’Viaquez": "",
+           "Miranda That Ghost Just Isn’t Holy Anymore": "",
+           "Cassandra Gemini": "good"
+       },
+       "De-Loused in the Comatorium": {
+           "@date": "2003-06-23",
+           "Son et lumiere": "short",
+           "Inertiatic ESP": "good",
+           "Roulette Dares (The Haunt Of)": "",
+           "Tira me a las arañas": "short",
+           "Drunkship of Lanterns": "good",
+           "Eriatarka": "good",
+           "Cicatriz ESP": "good",
+           "This Apparatus Must Be Unearthed": "",
+           "Televators": "",
+           "Take the Veil Cerpin Taxt": "good"
+       },
+       "Tremulant EP": {
+           "@date": "2002-05-02",
+           "Cut That City": "bad",
+           "Concertina": "bad",
+           "Eunuch Provocateur": "good"
+       }
    },
    "The Midnight": {
        "Nocturnal": {
