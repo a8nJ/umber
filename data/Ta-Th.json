@@ -1019,72 +1019,84 @@
             "URL": "https://youtu.be/OMOGaugKpzs"
          }
       },
-      "Zenyattà Mondatta": {
-         "@date": "1980",
-         "Don’t Stand So Close to Me": "",
-         "Driven to Tears": "good",
-         "When the World Is Running Down, You Make the Best of What’s Still Around": "",
-         "Canary in a Coalmine": "short",
-         "Voices Inside My Head": "",
-         "Bombs Away": "",
-         "De Do Do Do, De Da Da Da": "",
-         "Behind My Camel": "short",
-         "Man in a Suitcase": "short",
-         "Shadows in the Rain": "",
-         "The Other Way of Stopping": ""
-      },
-      "Reggatta de Blanc": {
-         "@date": "1979",
-         "Message In a Bottle Video": {
-            "rate": "good",
-            "VPY": "5,572,785",
-            "URL": "https://youtu.be/MbXWrmQW-OE"
+       "Zenyattà Mondatta": {
+           "@date": "1980-10-03",
+           "Don't Stand So Close to Me": "",
+           "Driven to Tears": "good",
+           "When the World Is Running Down, You Make the Best of What's Still Around": "",
+           "Canary in a Coalmine": "short",
+           "Voices Inside My Head": "",
+           "Bombs Away": "",
+           "De Do Do Do, De Da Da Da": "",
+           "Behind My Camel": "short",
+           "Man in a Suitcase": "short",
+           "Shadows in the Rain": "",
+           "The Other Way of Stopping": ""
+       },
+       "Reggatta de Blanc": {
+           "@date": "1979-10-05",
+           "Message in a Bottle": "good",
+           "Reggatta de Blanc": "",
+           "It's Alright for You": "",
+           "Bring on the Night": "",
+           "Deathwish": "",
+           "Walking on the Moon": "",
+           "On Any Other Day": "short",
+           "The Bed's Too Big Without You": "",
+           "Contact": "short",
+           "Does Everyone Stare": "",
+           "No Time This Time": ""
+       },
+       "Outlandos d'Amour": {
+           "@date": "1978",
+           "Next to You": "short",
+           "So Lonely": "",
+           "Roxanne": {
+             "id": "3T1c7GkzRQQ",
+             "views per year": "9,626,846"
          },
-         "Reggatta de Blanc": "",
-         "It’s Alright for You": "",
-         "Bring on the Night": "",
-         "Deathwish": "",
-         "Walking on the Moon": "",
-         "On Any Other Day": "short",
-         "The Bed’s Too Big Without You": "",
-         "Contact": "short",
-         "Does Everyone Stare": "",
-         "No Time This Time": ""
-      },
-      "Outlandos d’Amour": {
-         "@date": "1978",
-         "Roxanne": {
-            "VPY": "8,176,400",
-            "URL": "https://youtu.be/3T1c7GkzRQQ"
-         }
-      }
+           "Hole in My Life": "",
+           "Peanuts": "",
+           "Can't Stand Losing You": "",
+           "Truth Hits Everybody": "short",
+           "Born in the 50's": "",
+           "Be My Girl-Sally": "",
+           "Masoko Tanga": ""
+       }
    },
    "The Prodigy": {
-      "The Fat of the Land": {
-         "@date": "1997",
-         "Breathe": "",
-         "Climbatize": "",
-         "Firestarter": {
-            "VPY": "10,199,906",
-            "URL": "https://youtu.be/wmin5WkOuPw"
-         }
-      },
-      "Music for the Jilted Generation": {
-         "@date": "1994",
-         "Intro": "short",
-         "Break & Enter": "",
-         "Their Law": "",
-         "Full Throttle": "",
-         "voodoo people": "bad",
-         "Speedway (Theme From Fastlane)": "",
-         "The Heat (The Energy)": "",
-         "Poison": "",
-         "No Good (Start the Dance)": "",
-         "One Love (edit)": "",
-         "The Narcotic Suite 3 Kilos": "",
-         "The Narcotic Suite Skylined": "",
-         "The Narcotic Suite Claustrophobic Sting": ""
-      }
+       "The Fat of the Land": {
+           "@date": "1997-06-30",
+           "Smack My Bitch Up": "",
+           "Breathe": "",
+           "Diesel Power": "",
+           "Funky Shit": "",
+           "Serial Thrilla": "",
+           "Mindfields": "",
+           "Narayan": "",
+           "Firestarter": {
+             "id": "wmin5WkOuPw",
+             "views per year": "10,431,914"
+         },
+           "Climbatize": "",
+           "Fuel My Fire": ""
+       },
+       "Music for the Jilted Generation": {
+           "@date": "1994-07-04",
+           "Intro": "short",
+           "Break & Enter": "",
+           "Their Law": "",
+           "Full Throttle": "",
+           "Voodoo People": "bad",
+           "Speedway (Theme From Fastlane)": "",
+           "The Heat (The Energy)": "",
+           "Poison": "",
+           "No Good (Start the Dance)": "",
+           "One Love (edit)": "",
+           "The Narcotic Suite: 3 Kilos": "",
+           "The Narcotic Suite: Skylined": "",
+           "The Narcotic Suite: Claustrophobic Sting": ""
+       }
    },
    "The Range": {
        "Nonfiction": {
