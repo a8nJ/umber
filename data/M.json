@@ -1049,27 +1049,66 @@
        }
    },
    "Michael Jackson": {
-      "Xscape": {
+       "XSCAPE": {
+           "@date": "2014-05-09",
+           "Love Never Felt So Good": {
+             "id": "oG08ukJPtR8",
+             "views per year": "45,469,162"
+         },
+           "Chicago": "",
+           "Loving You": "",
+           "A Place With No Name": "",
+           "Slave to the Rhythm": "",
+           "Do You Know Where Your Children Are": "",
+           "Blue Gangsta": "",
+           "Xscape": ""
+       },
          "Slave To The Rhythm": {
             "VPY": "13,740,849",
             "URL": "https://youtu.be/jDRTghGZ7XU"
          },
-         "@date": "2014"
-      },
-      "Michael": {
+       "Michael": {
+           "@date": "2010-12-13",
+           "Hold My Hand": {
+             "id": "-oCCnxBos10",
+             "views per year": "10,938,763"
+         },
+           "Hollywood Tonight": "",
+           "Keep Your Head Up": "",
+           "(I Like) The Way You Love Me": "",
+           "Monster": "",
+           "Best of Joy": "",
+           "Breaking News": "",
+           "(I Can't Make It) Another Day": "",
+           "Behind the Mask": "",
+           "Much Too Soon": "short"
+       },
          "Hold My Hand": {
             "VPY": "11,633,050",
             "URL": "https://youtu.be/-oCCnxBos10"
          },
-         "@date": "2010"
-      },
-      "Invincible": {
-         "You Rock My World": {
-            "VPY": "15,017,917",
-            "URL": "https://youtu.be/1-7ABIM2qjU"
+       "Invincible": {
+           "@date": "2001-10-29",
+           "Unbreakable": "",
+           "Heartbreaker": "",
+           "Invincible": "",
+           "Break of Dawn": "",
+           "Heaven Can Wait": "",
+           "You Rock My World": {
+             "id": "1-7ABIM2qjU",
+             "views per year": "15,392,630"
          },
-         "@date": "2001"
-      },
+           "Butterflies": "",
+           "Speechless": "",
+           "2000 Watts": "",
+           "You Are My Life": "",
+           "Privacy": "",
+           "Don't Walk Away": "",
+           "Cry": "",
+           "The Lost Children": "",
+           "Whatever Happens": "",
+           "Threatened": ""
+       },
        "HIStory: Past, Present and Future, Book I": {
            "@date": "1995-06-19",
            "Billie Jean": "reissue",
@@ -1213,11 +1252,7 @@
       "Play": {
          "Honey": "",
          "Find My Baby": "",
-         "porcelain": {
-            "rate": "good",
-            "VPY": "2,541,264",
-            "URL": "https://youtu.be/QhZnEagfjTQ"
-         },
+         "porcelain": "good",
          "Why Does My Heart Feel So Bad?": "",
          "South Side": "",
          "Rushing": "",
@@ -1240,11 +1275,7 @@
       "We Were Dead Before the Ship Even Sank": {
          "@date": "2007",
          "March Into the Sea": "bad",
-         "Dashboard": {
-            "rate": "bad",
-            "VPY": "1,579,646",
-            "URL": "https://youtu.be/penvn9VL32Y"
-         },
+         "Dashboard": "bad",
          "Fire It Up": "bad",
          "Florida": "short",
          "Parting of the Sensory": "bad",
@@ -1258,14 +1289,28 @@
          "People as Places as People": "bad",
          "Invisible": "bad"
       },
-      "Good News for People Who Love Bad News": {
-         "@date": "2004",
-         "Float On": {
-            "VPY": "7,530,975",
-            "URL": "https://youtu.be/CTAud5O7Qqk"
+       "Good News for People Who Love Bad News": {
+           "@date": "2004-04-06",
+           "Horn Intro": "short",
+           "The World at Large": "",
+           "Float On": {
+             "id": "CTAud5O7Qqk",
+             "views per year": "7,739,156"
          },
-         "Ocean Breathes Salty": ""
-      }
+           "Ocean Breathes Salty": "",
+           "Dig Your Grave": "short",
+           "Bury Me With It": "",
+           "Dance Hall": "short",
+           "Bukowski": "",
+           "This Devil’s Workday": "short",
+           "The View": "",
+           "Satin in a Coffin": "short",
+           "Interlude (Milo)": "short",
+           "Blame It on the Tetons": "",
+           "Black Cadillacs": "short",
+           "One Chance": "",
+           "The Good Times Are Killing Me": ""
+       }
    },
    "Moe Turk": {
       "Deep Emotion": {
