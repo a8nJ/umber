@@ -358,50 +358,65 @@
          "Junk of the Hearts": "",
          "Nil": "short"
       },
-      "First Band on the Moon": {
-         "@date": "1996",
-         "Lovefool": {
-            "VPY": "8,086,193",
-            "URL": "https://youtu.be/NI6aOFI7hms"
-         }
-      }
+       "First Band on the Moon": {
+           "@date": "1996-08-12",
+           "Your New Cuckoo": "",
+           "Been It": "",
+           "Heartbreaker": "",
+           "Happy Meal II": "short",
+           "Never Recover": "",
+           "Step on Me": "",
+           "Lovefool": {
+             "id": "NI6aOFI7hms",
+             "views per year": "9,298,212"
+         },
+           "Losers": "",
+           "Iron Man": "",
+           "Great Divide": "",
+           "Choke": ""
+       }
    },
    "The Cars": {
-      "Heartbeat City": {
-         "@date": "1984",
-         "Drive": {
-            "VPY": "7,067,292",
-            "URL": "https://youtu.be/xuZA6qiJVfU"
-         }
-      },
-      "Shake It Up": {
-         "@date": "1981",
-         "Since You’re Gone": "bad",
-         "Shake It Up": "bad",
-         "I’m Not the One": "bad",
-         "Victim of Love": "bad",
-         "Cruiser": "bad",
-         "A Dream Away": "bad",
-         "This Could Be Love": "bad",
-         "Think It Over": "bad",
-         "Maybe Baby": "bad"
-      },
-      "The Cars": {
-         "@date": "1978",
-         "Good Times Roll": "bad",
-         "My Best Friend’s Girl": "bad",
-         "Just What I Needed": {
-            "rate": "bad",
-            "VPY": "2,477,612",
-            "URL": "https://youtu.be/Z5-rdr0qhWk"
+       "Heartbeat City": {
+           "@date": "1984-03-13",
+           "Hello Again": "",
+           "Looking for Love": "",
+           "Magic": "",
+           "Drive": {
+             "id": "xuZA6qiJVfU",
+             "views per year": "10,014,599"
          },
-         "I’m in Touch With Your World": "",
-         "Don’t Cha Stop": "",
-         "You’re All I’ve Got Tonight": "",
-         "Bye Bye Love": "",
-         "Moving in Stereo": "",
-         "All Mixed Up": ""
-      }
+           "Stranger Eyes": "",
+           "You Might Think": "",
+           "It's Not the Night": "",
+           "Why Can't I Have You": "",
+           "I Refuse": "",
+           "Heartbeat City": ""
+       },
+       "Shake It Up": {
+           "@date": "1981-11",
+           "Since You’re Gone": "bad",
+           "Shake It Up": "bad",
+           "I’m Not the One": "bad",
+           "Victim of Love": "bad",
+           "Cruiser": "bad",
+           "A Dream Away": "bad",
+           "This Could Be Love": "bad",
+           "Think It Over": "bad",
+           "Maybe Baby": "bad"
+       },
+       "The Cars": {
+           "@date": "1978-06-06",
+           "Good Times Roll": "bad",
+           "My Best Friend's Girl": "bad",
+           "Just What I Needed": "bad",
+           "I'm in Touch With Your World": "",
+           "Don't Cha Stop": "",
+           "You're All I've Got Tonight": "",
+           "Bye Bye Love": "",
+           "Moving in Stereo": "",
+           "All Mixed Up": ""
+       }
    },
    "The Cinematic Orchestra": {
       "@check": "2020-05-17",
@@ -464,7 +479,7 @@
            "@date": "2002-04-27",
            "All That You Give": "good",
            "Burn Out": "good",
-           "Flite": "",
+           "Flite": "bad",
            "Evolution": "",
            "Man With the Movie Camera": "",
            "All Things to All Men": "",

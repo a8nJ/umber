@@ -1048,14 +1048,6 @@
            "Every Wall Is a Door": ""
        }
    },
-   "Michael Bublé": {
-      "It’s Time": {
-         "Feeling Good": {
-            "VPY": "11,271,894",
-            "URL": "https://youtu.be/Edwsf-8F3sI"
-         }
-      }
-   },
    "Michael Jackson": {
       "Xscape": {
          "Slave To The Rhythm": {
@@ -1095,22 +1087,27 @@
          "Human Nature": "",
          "@date": "1982"
       },
-      "Off the Wall": {
-         "Don’t Stop ’Til You Get Enough": {
-            "VPY": "21,897,798",
-            "URL": "https://youtu.be/yURRmWtbTbo"
+       "Off the Wall": {
+           "@date": "1979-08-10",
+           "Don’t Stop ’til You Get Enough": {
+             "id": "yURRmWtbTbo",
+             "views per year": "23,421,499"
          },
-         "@date": "1979"
-      }
+           "Rock With You": "",
+           "Workin’ Day and Night": "",
+           "Get on the Floor": "",
+           "Off the Wall": "",
+           "Girlfriend": "",
+           "She’s Out of My Life": "",
+           "I Can’t Help It": "",
+           "It’s the Falling in Love": "",
+           "Burn This Disco Out": ""
+       }
    },
    "Michael McDonald": {
       "If That’s What It Takes": {
          "Playin’ by the Rules": "",
-         "I Keep Forgettin’": {
-            "rate": "good",
-            "VPY": "1,474,782",
-            "URL": "https://youtu.be/cjqOsYRQI0o"
-         },
+         "I Keep Forgettin’": "good",
          "Love Lies": "",
          "I Gotta Try": "",
          "I Can Let Go Now": "short",

@@ -310,14 +310,14 @@
        },
        "Pocket Symphony": {
            "@date": "2007-03-05",
-           "Space Maker": "",
+           "Space Maker": "bad",
            "Once Upon a Time": "bad",
            "One Hell of a Party": "bad",
            "Napalm Love": "bad",
            "Mayfair Song": "bad",
            "Left Bank": "good",
            "Photograph": "bad",
-           "Mer du Japon": "",
+           "Mer du Japon": "bad",
            "Lost Message": "",
            "Somewhere Between Waking and Sleeping": "",
            "Redhead Girl": "",
@@ -567,8 +567,6 @@
            "Angry Chair": "",
            "Would?": {
              "id": "Nco_kh8xJDs",
-             "views": "85,507,660",
-             "published": "2010-03-01",
              "views per year": "8,344,022"
          }
        },
@@ -577,8 +575,6 @@
            "We Die Young": "short",
            "Man in the Box": {
              "id": "TAqZb52sgpU",
-             "views": "98,148,109",
-             "published": "2009-10-25",
              "views per year": "9,263,203"
          },
            "Sea of Sorrow": "",
