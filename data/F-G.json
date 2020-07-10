@@ -311,7 +311,8 @@
        }
    },
    "Floating Points": {
-       "Crush": {
+      "@check": "2020-07-09",
+      "Crush": {
            "@date": "2019-10-18",
            "Falaise": "bad",
            "Last Bloom": "bad",
@@ -342,12 +343,17 @@
        "Elaenia": {
            "@date": "2015-11-06",
            "Nespole": "good",
-           "Silhouettes (I, II & III)": "",
+           "Silhouettes (I, II & III)": "good",
            "Elaenia": "",
            "Argenté": "",
            "Thin Air": "",
            "For Marmish": "good",
            "Peroration Six": ""
+       },
+       "King Bromeliad / Montparnasse": {
+           "@date": "2014-06-23",
+           "King Bromeliad": "bad",
+           "Montparnasse": "bad"
        },
        "Shadows EP": {
            "@date": "2011-11-21",
@@ -360,8 +366,8 @@
        "Vacuum EP": {
            "@date": "2009-09-03",
            "Vacuum Boogie": "good",
-           "Truly": "",
-           "Argonaute II": ""
+           "Truly": "bad",
+           "Argonaute II": "bad"
        }
    },
    "Foghat": {
@@ -369,11 +375,7 @@
          "@date": "1974",
          "Fool for the City": "",
          "My Babe": "",
-         "Slow Ride": {
-            "rate": "good",
-            "VPY": "3,467,643",
-            "URL": "https://youtu.be/GcCNcgoyG_0"
-         },
+         "Slow Ride": "good",
          "Terraplane Blues": "",
          "Save Your Loving (for Me)": "",
          "Drive Me Home": "",
