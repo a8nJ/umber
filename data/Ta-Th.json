@@ -801,14 +801,22 @@
        }
    },
    "The Doors": {
-      "L.A. Woman": {
-         "@date": "1971",
-         "L.A. Woman": "",
-         "Riders on the Storm": {
-            "VPY": "13,120,374",
-            "URL": "https://youtu.be/lS-af9Q-zvQ"
+       "L.A. Woman": {
+           "@date": "1971-04",
+           "The Changeling": "",
+           "Love Her Madly": "",
+           "Been Down So Long": "",
+           "Cars Hiss by My Window": "",
+           "L.A. Woman": "",
+           "L’America": "",
+           "Hyacinth House": "",
+           "Crawling King Snake": "",
+           "The WASP (Texas Radio and the Big Beat)": "",
+           "Riders on the Storm": {
+             "id": "iv8GW1GaoIc",
+             "views per year": "10,113,178"
          }
-      },
+       },
        "Morrison Hotel": {
            "@date": "1970-02",
            "Roadhouse Blues": "bad",
@@ -825,20 +833,20 @@
        }
    },
    "The Kinks": {
-      "Word of Mouth": {
-         "@date": "1984",
-         "Do It Again": "",
-         "Word of Mouth": "",
-         "Good Day": "",
-         "Living on a Thin Line": "good",
-         "Sold Me Out": "",
-         "Massive Reductions": "",
-         "Guilty": "",
-         "Too Hot": "",
-         "Missing Persons": "short",
-         "Summer’s Gone": "",
-         "Going Solo": ""
-      },
+       "Word of Mouth": {
+           "@date": "1984-11-19",
+           "Do It Again": "",
+           "Word of Mouth": "",
+           "Good Day": "",
+           "Living on a Thin Line": "good",
+           "Sold Me Out": "",
+           "Massive Reductions": "",
+           "Guilty": "",
+           "Too Hot": "",
+           "Missing Persons": "short",
+           "Summer's Gone": "",
+           "Going Solo": ""
+       },
        "State of Confusion": {
            "@date": "1983-05-24",
            "State of Confusion": "bad",
@@ -910,11 +918,7 @@
       "Frances the Mute": {
          "@date": "2005",
          "Cygnus....Vismund Cygnus": "good",
-         "The Widow": {
-            "rate": "good",
-            "VPY": "638,261",
-            "URL": "https://youtu.be/VUBQLnEGHNk"
-         },
+         "The Widow": "good",
          "L’Via L’Viaquez": "",
          "Miranda That Ghost Just Isn’t Holy Anymore": "",
          "Cassandra Gemini": "good"
@@ -952,10 +956,7 @@
       },
       "Endless Summer": {
          "@date": "2016",
-         "Endless Summer": {
-            "VPY": "742,368",
-            "URL": "https://youtu.be/_pUL7u-mYqA"
-         },
+         "Endless Summer": "",
          "Sunset": "good",
          "Daytona": "",
          "Jason": "",
@@ -1009,15 +1010,6 @@
            "What Was Was Over": "",
            "Seven Thirty Seven / Shoe Glue": ""
        }
-   },
-   "The Notorious B.I.G.": {
-      "Life After Death": {
-         "@date": "1997",
-         "The Notorious B.I.G. - Mo Money Mo Problems": {
-             "URL": "https://youtu.be/gUhRKVIjJtw",
-             "VPY": "6,807,845"
-         }
-      }
    },
    "The Police": {
       "Synchronicity": {
@@ -1083,11 +1075,7 @@
          "Break & Enter": "",
          "Their Law": "",
          "Full Throttle": "",
-         "voodoo people": {
-            "rate": "bad",
-            "VPY": "2,661,490",
-            "URL": "https://youtu.be/-Fz85FE0KtQ"
-         },
+         "voodoo people": "bad",
          "Speedway (Theme From Fastlane)": "",
          "The Heat (The Energy)": "",
          "Poison": "",
@@ -1099,28 +1087,40 @@
       }
    },
    "The Range": {
-      "Nonfiction": {
-         "Loftmane": "good",
-         "Everything But": "",
-         "The One": "",
-         "Jamie": "",
-         "Seneca": "",
-         "FM Myth": "short",
-         "Hamiltonian": "",
-         "Postie": "good",
-         "Sad Song": "",
-         "Telescope": "",
-         "Metal Swing": ""
-      }
+       "Nonfiction": {
+           "@date": "2013-10-11",
+           "Loftmane": "good",
+           "Everything But": "",
+           "The One": "",
+           "Jamie": "",
+           "Seneca": "",
+           "FM Myth": "short",
+           "Hamiltonian": "",
+           "Postie": "good",
+           "Sad Song": "",
+           "Telescope": "",
+           "Metal Swing": ""
+       }
    },
    "The Rolling Stones": {
-      "Blue & Lonesome": {
-         "@date": "2016",
-         "Ride ’Em On Down": {
-            "VPY": "10,705,563",
-            "URL": "https://youtu.be/qEuV82GqQnE"
-         }
-      },
+       "Blue & Lonesome": {
+           "@date": "2016-12-01",
+           "Just Your Fool": "short",
+           "Commit a Crime": "",
+           "Blue and Lonesome": "",
+           "All of Your Love": "",
+           "I Gotta Go": "",
+           "Everybody Knows About My Good Thing": "",
+           "Ride ’Em On Down": {
+             "id": "qEuV82GqQnE",
+             "views per year": "8,513,012"
+         },
+           "Hate to See You Go": "",
+           "Hoo Doo Blues": "short",
+           "Little Rain": "",
+           "Just Like I Treat You": "",
+           "I Can’t Quit You Baby": ""
+       },
        "Bridges to Babylon": {
            "@date": "1997-09-27",
            "Flip the Switch": "",
