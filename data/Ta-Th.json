@@ -944,57 +944,57 @@
       }
    },
    "The Midnight": {
-      "Nocturnal": {
-         "@date": "2017",
-         "Shadows": "",
-         "Crystalline": "",
-         "Collateral": "good",
-         "River of Darkness": "",
-         "Nocturnal": "",
-         "Light Years": "",
-         "Tokyo Night Train": ""
-      },
-      "Endless Summer": {
-         "@date": "2016",
-         "Endless Summer": "",
-         "Sunset": "good",
-         "Daytona": "",
-         "Jason": "",
-         "Synthetic": "",
-         "The Equaliser (Not Alone)": "",
-         "The Comeback Kid": "",
-         "Vampires": "",
-         "Crockett’s Revenge": "",
-         "Nighthawks": "",
-         "Lonely City": "",
-         "Memories": "good"
-      },
-      "Days of Thunder (the instrumentals)": {
-         "@date": "2016",
-         "The Years (prologue) (instrumental)": "",
-         "Gloria (instrumental)": "",
-         "WeMoveForward (instrumental)": "",
-         "Days of Thunder (instrumental)": "good",
-         "Kick Drums & Red Wine (instrumental)": "",
-         "Los Angeles (instrumental)": ""
-      }
+       "Nocturnal": {
+           "@date": "2017-10-13",
+           "Shadows": "",
+           "Crystalline": "",
+           "Collateral": "good",
+           "River of Darkness": "",
+           "Nocturnal": "",
+           "Light Years": "",
+           "Tokyo Night Train": ""
+       },
+       "Endless Summer": {
+           "@date": "2016-08-05",
+           "Endless Summer": "",
+           "Sunset": "good",
+           "Daytona": "",
+           "Jason": "",
+           "Synthetic": "",
+           "The Equaliser (Not Alone)": "",
+           "The Comeback Kid": "",
+           "Vampires": "",
+           "Crockett’s Revenge": "",
+           "Nighthawks": "",
+           "Lonely City": "",
+           "Memories": "good"
+       },
+       "Days of Thunder: The Instrumentals": {
+           "@date": "2016-03-20",
+           "The Years (prologue) (instrumental)": "",
+           "Gloria (instrumental)": "",
+           "WeMoveForward (instrumental)": "",
+           "Days of Thunder (instrumental)": "good",
+           "Kick Drums & Red Wine (instrumental)": "",
+           "Los Angeles (instrumental)": ""
+       }
    },
    "The Mighty Mighty Bosstones": {
-      "Let’s Face It": {
-         "@date": "1997",
-         "Noise Brigade": "short",
-         "The Rascal King": "short",
-         "Royal Oil": "short",
-         "The Impression That I Get": "good",
-         "Let’s Face It": "short",
-         "That Bug Bit Me": "short",
-         "Another Drinkin’ Song": "",
-         "Numbered Days": "",
-         "Break So Easily": "short",
-         "Nevermind Me": "",
-         "Desensitized": "short",
-         "1‐2‐8": "short"
-      },
+       "Let’s Face It": {
+           "@date": "1997-03-11",
+           "Noise Brigade": "short",
+           "The Rascal King": "short",
+           "Royal Oil": "short",
+           "The Impression That I Get": "good",
+           "Let’s Face It": "short",
+           "That Bug Bit Me": "short",
+           "Another Drinkin’ Song": "",
+           "Numbered Days": "",
+           "Break So Easily": "short",
+           "Nevermind Me": "",
+           "Desensitized": "short",
+           "1-2-8": "short"
+       },
        "Don’t Know How to Party": {
            "@date": "1993-05-18",
            "Our Only Weapon": "bad",
@@ -1012,13 +1012,22 @@
        }
    },
    "The Police": {
-      "Synchronicity": {
-         "@date": "1983",
-         "Every Breath You Take": {
-            "VPY": "70,115,315",
-            "URL": "https://youtu.be/OMOGaugKpzs"
-         }
-      },
+       "Synchronicity": {
+           "@date": "1983",
+           "Synchronicity I": "",
+           "Walking in Your Footsteps": "",
+           "O My God": "",
+           "Mother": "",
+           "Miss Gradenko": "short",
+           "Synchronicity II": "",
+           "Every Breath You Take": {
+             "id": "OMOGaugKpzs",
+             "views per year": "74,122,505"
+         },
+           "King of Pain": "",
+           "Wrapped Around Your Finger": "",
+           "Tea in the Sahara": ""
+       },
        "Zenyattà Mondatta": {
            "@date": "1980-10-03",
            "Don't Stand So Close to Me": "",
