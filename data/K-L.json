@@ -216,6 +216,24 @@
            "The Kick Inside": "bad"
        }
    },
+   "Keep Shelly in Athens": {
+       "Bright Morning": {
+           "@date": "2016-05-10",
+           "Bright Morning": "",
+           "Blue Rooms": "good"
+       },
+       "Now I’m Ready": {
+           "@date": "2015-10-16",
+           "Fractals": "good",
+           "Silent Rain": "",
+           "Now I’m Ready": "",
+           "Line 4 (Orange)": "",
+           "Benighted": "",
+           "Hollow Man": "",
+           "Nobody": "good",
+           "Hunter": ""
+       }
+   },
    "Kelly Bailey": {
       "Portal 2": {
          "@date": "2011",

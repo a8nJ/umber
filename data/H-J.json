@@ -464,6 +464,34 @@
        }
    },
    "Incubus": {
+       "8": {
+           "@date": "2017-04-21",
+           "No Fun": "bad",
+           "Nimble Bastard": "",
+           "State of the Art": "",
+           "Glitterbomb": "",
+           "Undefeated": "",
+           "Loneliest": "",
+           "When I Became a Man": "short",
+           "Familiar Faces": "",
+           "Love in a Time of Surveillance": "",
+           "Make No Sound in the Digital Forest": "",
+           "Throw Out the Map": ""
+       },
+       "If Not Now, When?": {
+           "@date": "2011-07-08",
+           "If Not Now, When?": "bad",
+           "Promises, Promises": "",
+           "Friends and Lovers": "",
+           "Thieves": "",
+           "Isadore": "",
+           "The Original": "",
+           "Defiance": "short",
+           "In the Company of Wolves": "",
+           "Switchblade": "",
+           "Adolescents": "",
+           "Tomorrow's Food": ""
+       },
        "Light Grenades": {
            "@date": "2006-11-24",
            "Quicksand": "short",
@@ -515,40 +543,37 @@
        },
        "Make Yourself": {
            "@date": "1999-10-26",
-           "Privilege": "",
-           "Nowhere Fast": "",
-           "Consequence": "",
-           "The Warmth": "",
-           "When It Comes": "",
-           "Stellar": "",
-           "Make Yourself": "",
+           "Privilege": "@",
+           "Nowhere Fast": "@",
+           "Consequence": "@",
+           "The Warmth": "@",
+           "When It Comes": "@",
+           "Stellar": "@",
+           "Make Yourself": "@",
            "Drive": {
              "id": "fgT9zGkiLig",
-             "views": "122,823,854",
-             "published": "2009-10-25",
              "views per year": "11,533,580"
          },
-           "Clean": "",
-           "Battlestar Scralatchtica": "",
+           "Clean": "@",
+           "Battlestar Scralatchtica": "@",
            "I Miss You": "short",
-           "Pardon Me": "",
-           "Out From Under": ""
+           "Pardon Me": "@",
+           "Out From Under": "@"
        },
        "S.C.I.E.N.C.E.": {
-           "@date": "1997",
-           "Redefine": "",
-           "Vitamin": "",
-           "New Skin": "",
-           "Idiot Box": "",
-           "Glass": "",
+           "@date": "1997-09-09",
+           "Redefine": "bad",
+           "Vitamin": "bad",
+           "New Skin": "bad",
+           "Idiot Box": "bad",
+           "Glass": "bad",
            "Magic Medicine": "",
            "A Certain Shade of Green": "",
            "Favorite Things": "",
            "Summer Romance (Anti-Gravity Love Song)": "good",
            "Nebula": "",
            "Deep Inside": "",
-           "Calgone": "",
-           "Jose Loves Kate Moss, Part 1": ""
+           "Calgone / Jose Loves Kate Moss, Part 1": "long"
        }
    },
    "Interpol": {
