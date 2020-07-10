@@ -1144,26 +1144,22 @@
             "URL": "https://youtu.be/qEuV82GqQnE"
          }
       },
-      "Bridges to Babylon": {
-         "@date": "1997",
-         "Flip the Switch": "",
-         "Anybody Seen My Baby": {
-            "rate": "good",
-            "VPY": "5,230,007",
-            "URL": "https://youtu.be/BinwuzZVjnE"
-         },
-         "Low Down": "",
-         "Already Over Me": "",
-         "Gunface": "",
-         "You Don’t Have to Mean It": "",
-         "Out of Control": "",
-         "Saint of Me": "",
-         "Might as Well Get Juiced": "",
-         "Always Suffering": "",
-         "Too Tight": "",
-         "Thief in the Night": "",
-         "How Can I Stop": ""
-      },
+       "Bridges to Babylon": {
+           "@date": "1997-09-27",
+           "Flip the Switch": "",
+           "Anybody Seen My Baby?": "good",
+           "Low Down": "",
+           "Already Over Me": "",
+           "Gunface": "",
+           "You Don’t Have to Mean It": "",
+           "Out of Control": "",
+           "Saint of Me": "",
+           "Might as Well Get Juiced": "",
+           "Always Suffering": "",
+           "Too Tight": "",
+           "Thief in the Night": "",
+           "How Can I Stop": ""
+       },
       "Voodoo Lounge": {
           "@date": "1994-07-11",
           "Love Is Strong": "",
@@ -1182,46 +1178,63 @@
           "Thru and Thru": "good",
           "Mean Disposition": ""
       },
-      "Some Girls": {
-         "@date": "1978",
-         "Miss You": "good",
-         "When the Whip Comes Down": "",
-         "Just My Imagination (Running Away With Me)": "",
-         "Some Girls": "",
-         "Lies": "",
-         "Far Away Eyes": "",
-         "Respectable": "",
-         "Before They Make Me Run": "",
-         "Beast of Burden": "",
-         "Shattered": ""
-      },
-      "Goats Head Soup": {
-         "@date": "1973",
-         "Angie": {
-            "VPY": "8,808,013",
-            "URL": "https://youtu.be/K5_EBAzIPJM"
-         }
-      },
-      "Sticky Fingers": {
-         "@date": "1971",
-         "Brown Sugar": "",
-         "Sway": "",
-         "Wild Horses": "good",
-         "Can’t You Hear Me Knocking": "",
-         "You Gotta Move": "short",
-         "Bitch": "",
-         "I Got the Blues": "",
-         "Sister Morphine": "",
-         "Dead Flowers": "",
-         "Moonlight Mile": "good"
-      },
-      "Let It Bleed": {
-         "@date": "1969",
-         "Gimme Shelter": {
-            "VPY": "14,006,926",
-            "URL": "https://youtu.be/RbmS3tQJ7Os"
-         }
-      },
+       "Some Girls": {
+           "@date": "1978-06-09",
+           "Miss You": "good",
+           "When the Whip Comes Down": "",
+           "Just My Imagination (Running Away With Me)": "",
+           "Some Girls": "",
+           "Lies": "",
+           "Far Away Eyes": "",
+           "Respectable": "",
+           "Before They Make Me Run": "",
+           "Beast of Burden": "",
+           "Shattered": ""
+       },
+       "Goats Head Soup": {
+           "@date": "1973-08-31",
+           "Dancing With Mr. D.": "",
+           "100 Years Ago": "",
+           "Coming Down Again": "",
+           "Doo Doo Doo Doo Doo (Heartbreaker)": "",
+           "Angie": {
+             "id": "K5_EBAzIPJM",
+             "views per year": "9,908,059"
+         },
+           "Silver Train": "",
+           "Hide Your Love": "",
+           "Winter": "",
+           "Can You Hear the Music": "",
+           "Star Star": ""
+       },
+       "Sticky Fingers": {
+           "@date": "1971-04-23",
+           "Brown Sugar": "",
+           "Sway": "",
+           "Wild Horses": "good",
+           "Can’t You Hear Me Knocking": "",
+           "You Gotta Move": "short",
+           "Bitch": "",
+           "I Got the Blues": "",
+           "Sister Morphine": "",
+           "Dead Flowers": "",
+           "Moonlight Mile": "good"
+       },
+       "Let It Bleed": {
+           "@date": "1969-11-29",
+           "Gimme Shelter": {
+             "id": "RbmS3tQJ7Os",
+             "views per year": "14,494,170"
+         },
+           "Love in Vain": "",
+           "Country Honk": "",
+           "Live With Me": "",
+           "Let It Bleed": "",
+           "Midnight Rambler": "",
+           "You Got the Silver": "short",
+           "Monkey Man": "",
+           "You Can’t Always Get What You Want": ""
+       },
        "Aftermath": {
            "@date": "1966-06-20",
            "Paint It, Black": {
