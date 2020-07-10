@@ -776,11 +776,7 @@
          "@date": "1959",
          "Blue Rondo à la Turk": "",
          "Strange Meadow Lark": "",
-         "Take Five": {
-            "rate": "good",
-            "VPY": "5,677,036",
-            "URL": "https://youtu.be/vmDDOFXSgAs"
-         },
+         "Take Five": "good",
          "Three to Get Ready": "",
          "Kathy’s Waltz": "",
          "Everybody’s Jumpin’": "",
@@ -1226,20 +1222,41 @@
             "URL": "https://youtu.be/RbmS3tQJ7Os"
          }
       },
-      "Aftermath": {
-         "@date": "1966",
-         "Paint It, Black": {
-            "VPY": "58,616,027",
-            "URL": "https://youtu.be/O4irXQhgMqg"
-         }
-      },
-      "Out of Our Heads": {
-         "@date": "1965",
-         "Satisfaction": {
-            "VPY": "18,248,667",
-            "URL": "https://youtu.be/nrIPxlFzDi0"
-         }
-      }
+       "Aftermath": {
+           "@date": "1966-06-20",
+           "Paint It, Black": {
+             "id": "O4irXQhgMqg",
+             "views per year": "61,303,161"
+         },
+           "Stupid Girl": "short",
+           "Lady Jane": "",
+           "Under My Thumb": "",
+           "Doncha Bother Me": "short",
+           "Think": "",
+           "Flight 505": "",
+           "High and Dry": "",
+           "It’s Not Easy": "short",
+           "I Am Waiting": "",
+           "Going Home": ""
+       },
+       "Out of Our Heads": {
+           "@date": "1965-07-30",
+           "Mercy Mercy": "short",
+           "Hitch Hike": "short",
+           "The Last Time": "",
+           "That’s How Strong My Love Is": "short",
+           "Good Times": "short",
+           "I’m All Right": "short",
+           "Satisfaction": {
+             "id": "nrIPxlFzDi0",
+             "views per year": "19,306,124"
+         },
+           "Cry to Me": "",
+           "The Under Assistant West Coast Promotion Man": "",
+           "Play With Fire": "short",
+           "The Spider and the Fly": "",
+           "One More Try": "short"
+       }
    },
    "The Smashing Pumpkins": {
        "Mellon Collie and the Infinite Sadness": {

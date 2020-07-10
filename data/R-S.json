@@ -1148,13 +1148,27 @@
        }
    },
    "Soundgarden": {
-      "Superunknown": {
-         "Black Hole Sun": {
-            "VPY": "15,187,988",
-            "URL": "https://youtu.be/3mbBbFH9fAg"
+       "Superunknown": {
+           "@date": "1994-03-08",
+           "Let Me Drown": "",
+           "My Wave": "",
+           "Fell on Black Days": "",
+           "Mailman": "",
+           "Superunknown": "",
+           "Head Down": "",
+           "Black Hole Sun": {
+             "id": "3mbBbFH9fAg",
+             "views per year": "16,022,919"
          },
-         "Fell On Black Days": ""
-      }
+           "Spoonman": "",
+           "Limo Wreck": "",
+           "The Day I Tried to Live": "",
+           "Kickstand": "short",
+           "Fresh Tendrils": "",
+           "4th of July": "",
+           "Half": "short",
+           "Like Suicide": ""
+       }
    },
    "Spandau Ballet": {
       "Through the Barricades": {
@@ -1180,7 +1194,7 @@
            "Foundation": "",
            "True": {
              "id": "AR8D2yqgQ1U",
-             "views per year": "12,091,747"
+             "views per year": "12,165,911"
          }
        }
    },
@@ -1232,6 +1246,19 @@
            "Tetra-Sync": "",
            "Tommib Help Buss": "short",
            "Every Day I Love": "short"
+       },
+       "Go Plastic": {
+           "@date": "2001-06-25",
+           "My Red Hot Car": "bad",
+           "Boneville Occident": "bad",
+           "Go! Spastic": "bad",
+           "Metteng Excuske v1.2": "short",
+           "The Exploding Psychology": "bad",
+           "I Wish You Could Talk": "bad",
+           "Greenways Trajectory": "",
+           "Tommib": "short",
+           "My Fucking Sound": "",
+           "Plaistow Flex Out": ""
        },
        "Selection Sixteen": {
            "@date": "1999-11-08",
