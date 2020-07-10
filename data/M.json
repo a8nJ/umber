@@ -1070,23 +1070,93 @@
          },
          "@date": "2001"
       },
-      "HIStory Past, Present and Future, Book I": {
-         "Earth Song": "",
-         "@date": "1995"
-      },
-      "Dangerous": {
-         "Black or White": "",
-         "@date": "1991"
-      },
-      "Bad": {
-         "Bad": "",
-         "@date": "1987"
-      },
-      "Thriller": {
-         "Beat It": "",
-         "Human Nature": "",
-         "@date": "1982"
-      },
+       "HIStory: Past, Present and Future, Book I": {
+           "@date": "1995-06-19",
+           "Billie Jean": "reissue",
+           "The Way You Make Me Feel": "reissue",
+           "Black or White": "reissue",
+           "Rock With You": "reissue",
+           "She’s Out of My Life": "",
+           "Bad": "",
+           "I Just Can’t Stop Loving You": "",
+           "Man in the Mirror": "",
+           "Thriller": "",
+           "Beat It": "",
+           "The Girl Is Mine": "",
+           "Remember the Time": "",
+           "Don’t Stop ’til You Get Enough": "",
+           "Wanna Be Startin’ Somethin’": "",
+           "Heal the World": "",
+           "Scream": "",
+           "They Don’t Care About Us": "",
+           "Stranger in Moscow": "",
+           "This Time Around": "",
+           "Earth Song": "",
+           "D.S.": "",
+           "Money": "",
+           "Come Together": "",
+           "You Are Not Alone": {
+             "id": "pAyKJAtDNCw",
+             "views per year": "20,952,605"
+         },
+           "Childhood (theme from “Free Willy 2”)": "",
+           "Tabloid Junkie": "",
+           "2 Bad": "",
+           "HIStory": "",
+           "Little Susie": "",
+           "Smile": ""
+       },
+       "Dangerous": {
+           "@date": "1991-11-25",
+           "Jam": "",
+           "Why You Wanna Trip on Me": "",
+           "In the Closet": "",
+           "She Drives Me Wild": "",
+           "Remember the Time": {
+             "id": "LeiFF0gvqcc",
+             "views per year": "33,983,081"
+         },
+           "Can’t Let Her Get Away": "",
+           "Heal the World": "",
+           "Black or White": "",
+           "Who Is It": "",
+           "Give In to Me": "",
+           "Will You Be There": "",
+           "Keep the Faith": "",
+           "Gone Too Soon": "",
+           "Dangerous": ""
+       },
+       "Bad": {
+           "@date": "1987-08-31",
+           "Bad": {
+             "id": "dsUXAEzaC3Q",
+             "views per year": "30,284,945"
+         },
+           "The Way You Make Me Feel": "",
+           "Speed Demon": "",
+           "Liberian Girl": "",
+           "Just Good Friends": "",
+           "Another Part of Me": "",
+           "Man in the Mirror": "",
+           "I Just Can’t Stop Loving You": "",
+           "Dirty Diana": "",
+           "Smooth Criminal": ""
+       },
+       "Thriller": {
+           "@date": "1982-11-30",
+           "Wanna Be Startin’ Somethin’": "",
+           "Baby Be Mine": "",
+           "The Girl Is Mine": "",
+           "Thriller": {
+             "id": "sOnqjkJTMaA",
+             "views per year": "62,185,313"
+         },
+           "Beat It": "",
+           "Billie Jean": "",
+           "Human Nature": "",
+           "P.Y.T. (Pretty Young Thing)": "",
+           "The Lady in My Life": ""
+       },
        "Off the Wall": {
            "@date": "1979-08-10",
            "Don’t Stop ’til You Get Enough": {
