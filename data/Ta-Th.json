@@ -746,18 +746,19 @@
        }
    },
    "The Cure": {
-      "Disintegration": {
-         "Plainsong": "",
-         "Pictures of You": "good",
-         "Closedown": "",
-         "Lovesong": "good",
-         "Lullaby": "good",
-         "Fascination Street": "",
-         "Prayers for Rain": "",
-         "The Same Deep Water as You": "",
-         "Disintegration": "",
-         "Untitled": ""
-      }
+       "Disintegration": {
+           "@date": "1989-05-01",
+           "Plainsong": "",
+           "Pictures of You": "good",
+           "Closedown": "",
+           "Lovesong": "good",
+           "Lullaby": "good",
+           "Fascination Street": "",
+           "Prayers for Rain": "",
+           "The Same Deep Water as You": "",
+           "Disintegration": "",
+           "Untitled": ""
+       }
    },
    "The Dave Brubeck Quartet": {
       "Time Further Out": {
@@ -784,19 +785,20 @@
       }
    },
    "The Doobie Brothers": {
-      "The Captain and Me": {
-         "Natural Thing": "",
-         "Long Train Runnin’": "good",
-         "China Grove": "",
-         "Dark Eyed Cajun Woman": "",
-         "Clear as the Driven Snow": "",
-         "Without You": "",
-         "South City Midnight Lady": "",
-         "Evil Woman": "",
-         "Busted Down Around O’Connelly Corners": "short",
-         "Ukiah": "",
-         "The Captain and Me": ""
-      }
+       "The Captain and Me": {
+           "@date": "1973-03-02",
+           "Natural Thing": "",
+           "Long Train Runnin’": "good",
+           "China Grove": "",
+           "Dark Eyed Cajun Woman": "",
+           "Clear as the Driven Snow": "",
+           "Without You": "",
+           "South City Midnight Lady": "",
+           "Evil Woman": "",
+           "Busted Down Around O’Connelly Corners": "short",
+           "Ukiah": "",
+           "The Captain and Me": ""
+       }
    },
    "The Doors": {
       "L.A. Woman": {
@@ -807,45 +809,20 @@
             "URL": "https://youtu.be/lS-af9Q-zvQ"
          }
       },
-      "Morrison Hotel": {
-         "@date": "1970",
-         "Roadhouse Blues": {
-            "rate": "bad",
-            "VPY": "785,933",
-            "URL": "https://youtu.be/BgQg3J7xU1k"
-         },
-         "Waiting for the Sun": "bad",
-         "You Make Me Real": "short",
-         "Peace Frog": "short",
-         "Blue Sunday": "short",
-         "Ship of Fools": "bad",
-         "Land Ho!": "bad",
-         "The Spy": "bad",
-         "Queen of the Highway": "short",
-         "Indian Summer": "short",
-         "Maggie M’Gill": "bad"
-      }
-   },
-   "The Handsome Family": {
-      "Singing Bones": {
-         "The Forgotten Lake": "",
-         "Gail With the Golden Hair": "",
-         "24-Hour Store": "",
-         "The Bottomless Hole": "",
-         "Far From Any Road": {
-            "rate": "good",
-            "VPY": "5,755,278",
-            "URL": "https://youtu.be/p4zluA60hjs"
-         },
-         "If the World Should End in Fire": "short",
-         "A Shadow Underneath": "",
-         "Dry Bones": "",
-         "Fallen Peaches": "short",
-         "Whitehaven": "short",
-         "Sleepy": "",
-         "The Song of a Hundred Toads": "short",
-         "If the World Should End in Ice": "short"
-      }
+       "Morrison Hotel": {
+           "@date": "1970-02",
+           "Roadhouse Blues": "bad",
+           "Waiting for the Sun": "bad",
+           "You Make Me Real": "short",
+           "Peace Frog": "short",
+           "Blue Sunday": "short",
+           "Ship of Fools": "bad",
+           "Land Ho!": "bad",
+           "The Spy": "bad",
+           "Queen of the Highway": "short",
+           "Indian Summer": "short",
+           "Maggie M’Gill": "bad"
+       }
    },
    "The Kinks": {
       "Word of Mouth": {
