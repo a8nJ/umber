@@ -574,6 +574,26 @@
       }
    },
    "Four Tet": {
+      "@check": "2020-07-11",
+      "Sixteen Oceans": {
+           "@date": "2020-03-13",
+           "School": "good",
+           "Baby": "",
+           "Harpsichord": "short",
+           "Teenage Birdsong": "",
+           "Romantics": "",
+           "Love Salad": "",
+           "Insect Near Piha Beach": "",
+           "Hi Hello": "short",
+           "ISTM": "short",
+           "Something in the Sadness": "",
+           "1993 Band Practice": "short",
+           "Green": "",
+           "Bubbles at Overlook 25th March 2019": "short",
+           "4T Recordings": "",
+           "This Is for You": "short",
+           "Mama Teaches Sanskrit": ""
+       },
        "New Energy": {
            "@date": "2017-09-29",
            "Alap": "short",
@@ -602,6 +622,11 @@
            "Field": "",
            "Both When I Am Alone and When We Both Are": "",
            "Castles Made of Sand": ""
+       },
+       "Morning / Evening": {
+           "@date": "2015-06-21",
+           "Morning Side": "long",
+           "Evening Side": "bad"
        },
        "Beautiful Rewind": {
            "@date": "2013-10-03",

@@ -676,10 +676,10 @@
            "Dead Things": "bad",
            "Unemployed in Summertime": "good",
            "Easy": "good",
-           "Fingertips": "",
-           "Telepathy": "",
-           "Tuna Fish": "",
-           "Summerbreeze": "",
+           "Fingertips": "bad",
+           "Telepathy": "bad",
+           "Tuna Fish": "bad",
+           "Summerbreeze": "good",
            "Sea People": "short"
        }
    },
