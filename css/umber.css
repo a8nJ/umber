@@ -50,9 +50,11 @@ main {
 h1 {
    font-size: 3em;
 }
-.repo,
 main {
    font-size: large;
+}
+.repo {
+   font-size: x-large;
 }
 footer {
    font-size: xx-large;
