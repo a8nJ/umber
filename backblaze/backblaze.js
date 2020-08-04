@@ -6,18 +6,20 @@ function f1_json(o_resp) {
 }
 
 function f2_listen(a_table) {
+   // part 1
    const a_row = a_table.find(f3_track);
-   const s_date = a_row[0];
-   const s_year = a_row[1].toString();
+   // part 2
    const a_id = a_row[2].split('/');
+   const o_date = document.getElementById('date');
+   const o_vid = document.getElementById('vid');
+   const s_date = a_row[0];
    const s_ext = a_id[0];
    const s_pos = a_id[1];
    const s_title = a_row[3];
-   document.title = s_title + ' / Backblaze player';
+   const s_year = a_row[1].toString();
    document.getElementById('track').textContent = s_title;
-   const o_date = document.getElementById('date');
+   document.title = s_title + ' / Backblaze player';
    o_date.textContent = 'released ' + s_year + ' - posted ' + f_date(s_date);
-   const o_vid = document.getElementById('vid');
    o_vid.src = 'https://f002.backblazeb2.com/file/0Tl4aD/' +
    s_date + '.' + s_ext;
    // need this for audio files
