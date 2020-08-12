@@ -14,10 +14,9 @@ function f2_data(a_table) {
    // 1. filter
    if (o_par.has('q')) {
       const s_query = o_par.get('q');
-      const o_re = RegExp(s_query, 'i');
       function f_filter(a_row) {
          const s_row = a_row.join();
-         return o_re.test(s_row);
+         return RegExp(s_query, 'i').test(s_row);
       }
       a_table = a_table.filter(f_filter);
    }
