@@ -20,6 +20,5 @@ Steven Penny
 - <https://gorillavsbear.net>
 - <https://internet4000.com>
 - <https://jellyfin.org>
-- <https://newtube.app>
 - <https://pitchfork.com>
 - <https://remixrotation.com>
