@@ -10,10 +10,10 @@ export function f_bandcamp(s_id_2, s_id_3) {
    m_in.size = 'large';
    // required
    m_in.track = s_id_2;
-   const s_in = new URLSearchParams(m_in).toString();
    const m_out = {};
    // case sensitive
-   m_out.href = 'https://bandcamp.com/EmbeddedPlayer?' + s_in;
+   const o = new URLSearchParams(m_in);
+   m_out.href = 'https://bandcamp.com/EmbeddedPlayer?' + o.toString();
    m_out.src = 'https://f4.bcbits.com/img/' + s_id_3 + '_5.jpg';
    return m_out;
 }
