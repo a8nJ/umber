@@ -13,17 +13,15 @@ function f2_listen(a_table) {
    const o_date = document.getElementById('date');
    const o_vid = document.getElementById('vid');
    const s_date = a_row[0];
-   const s_ext = a_id[0];
-   const s_pos = a_id[1];
+   const s_path = 'https://f002.backblazeb2.com/file/0Tl4aD';
    const s_title = a_row[3];
    const s_year = a_row[1].toString();
    document.getElementById('track').textContent = s_title;
    document.title = s_title + ' / Backblaze player';
    o_date.textContent = 'released ' + s_year + ' - posted ' + f_date(s_date);
-   o_vid.src = 'https://f002.backblazeb2.com/file/0Tl4aD/' +
-   s_date + '.' + s_ext;
    // need this for audio files
-   o_vid.poster = 'https://f002.backblazeb2.com/file/0Tl4aD/' + s_pos + '.jpg';
+   o_vid.poster = s_path + '/' + a_id[1] + '.jpg';
+   o_vid.src = s_path + '/' + s_date + '.' + a_id[0];
 }
 
 function f3_track(a_row) {
