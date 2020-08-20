@@ -33,7 +33,7 @@ function f2_data(a_table) {
          n_begin = 0;
       }
    }
-   const n_page = 12;
+   const n_page = 24;
    const a_slice = a_table.slice(n_begin, n_begin + n_page);
    const o_figs = document.getElementById('figures');
    for (const a_row of a_slice) {
