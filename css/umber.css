@@ -79,27 +79,27 @@ header {
 figure {
    margin-bottom: 12px;
 }
-figure,
-header {
-   margin-left: 8px;
-}
 #newer,
 #older,
 form {
-   margin-left: 25px;
+   margin-left: 6%;
+}
+figure,
+header {
+   margin-left: 8px;
 }
 .repo,
 h1 {
    margin-left: 50px;
 }
-figure,
-header {
-   margin-right: 8px;
-}
 #newer,
 #older,
 form {
-   margin-right: 25px;
+   margin-right: 6%;
+}
+figure,
+header {
+   margin-right: 8px;
 }
 .repo,
 h1 {
