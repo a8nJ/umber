@@ -81,29 +81,25 @@ figure {
 }
 #newer,
 #older,
-form {
+.repo,
+form,
+h1 {
    margin-left: 6%;
 }
 figure,
 header {
    margin-left: 8px;
 }
-.repo,
-h1 {
-   margin-left: 50px;
-}
 #newer,
 #older,
-form {
+.repo,
+form,
+h1 {
    margin-right: 6%;
 }
 figure,
 header {
    margin-right: 8px;
-}
-.repo,
-h1 {
-   margin-right: 50px;
 }
 .repo,
 h1 {
