@@ -72,11 +72,11 @@ main {
 h1 {
    margin-bottom: 0;
 }
-footer,
 header {
    margin-bottom: 8px;
 }
-figure {
+figure,
+footer {
    margin-bottom: 12px;
 }
 #newer,
