@@ -1,6 +1,6 @@
 # Umber
 
-![hero](docs/image/umber.jpg)
+![hero](image/umber.jpg)
 
 > Like a soul without a mind\
 > In a body without a heart\
