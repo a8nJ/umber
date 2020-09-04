@@ -72,12 +72,12 @@ main {
 h1 {
    margin-bottom: 0;
 }
-header {
-   margin-bottom: 8px;
-}
-figure,
-footer {
+figure {
    margin-bottom: 12px;
+}
+footer,
+header {
+   margin-bottom: 1rem;
 }
 #newer,
 #older,
