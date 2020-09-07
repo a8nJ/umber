@@ -1,3 +1,6 @@
+:root {
+   --height: 240px;
+}
 @font-face {
    font-family: "Miller Display Italic";
    src: url("/umber/fonts/miller-display-italic.woff2");
@@ -29,7 +32,7 @@ main {
 }
 figure,
 img {
-   flex-basis: 426px;
+   flex-basis: calc(var(--height) * 16 / 9);
 }
 img {
    flex-shrink: 0;
@@ -60,7 +63,7 @@ footer {
    font-size: xx-large;
 }
 figure > a {
-   height: 240px;
+   height: var(--height);
 }
 figure > a,
 footer,
@@ -86,8 +89,7 @@ form,
 h1 {
    margin-left: 6%;
 }
-figure,
-header {
+figure {
    margin-left: 8px;
 }
 #newer,
@@ -97,8 +99,7 @@ form,
 h1 {
    margin-right: 6%;
 }
-figure,
-header {
+figure {
    margin-right: 8px;
 }
 .repo,
