@@ -5,7 +5,7 @@ function Radix64() {
    this.s_dig = s;
 }
 
-Radix64.prototype.decode = function(s_in) {
+Radix64.prototype.decode = function (s_in) {
    let n_out = 0;
    for (let s_chr of s_in) {
       n_out = n_out * 64 + this.s_dig.indexOf(s_chr);
