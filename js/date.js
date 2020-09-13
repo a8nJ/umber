@@ -16,9 +16,13 @@ Radix64.prototype.decode = function (s_in) {
 export function f_date(s_id) {
    const o_rad = new Radix64;
    const n_id = o_rad.decode(s_id);
-   const o_dat = new Date(n_id * 1000);
-   const s_day = o_dat.toLocaleString(0, {weekday: 'short'});
-   const s_mon = o_dat.toLocaleString(0, {month: 'short', day: 'numeric'});
-   const s_year = o_dat.toLocaleString(0, {year: 'numeric'});
-   return s_day + ' ' + s_mon + ' ' + s_year;
+   const o_date = new Date(n_id * 1000);
+   const o_fmt = new Intl.DateTimeFormat('en', {
+      day: 'numeric', month: 'short', weekday: 'short', year: 'numeric'
+   });
+   const f_parts = (m_acc, m_cur) => {
+      return {...m_acc, [m_cur.type]: m_cur.value};
+   };
+   const m = o_fmt.formatToParts(o_date).reduce(f_parts, {});
+   return [m.weekday, m.month, m.day, m.year].join(' ');
 }
