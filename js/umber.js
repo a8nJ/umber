@@ -15,8 +15,14 @@ function f2_data(a_table) {
    if (o_par.has('q')) {
       const s_query = o_par.get('q');
       function f_filter(a_row) {
-         const s_row = a_row.join();
-         return RegExp(s_query, 'i').test(s_row);
+         /* for now, we are going to match on just the artist and recording. if
+         we later decide to match other items, its tempting to just join the
+         array and match on that. however the year is a number, and some
+         languages dont allow arrays of different types. so if the time comes,
+         handle each element individually rather than trying to join the
+         array. */
+         const s_song = a_row[3];
+         return RegExp(s_query, 'i').test(s_song);
       }
       a_table = a_table.filter(f_filter);
    }
