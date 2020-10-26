@@ -38,6 +38,7 @@ function f2_data(a_table) {
       if (n_begin == -1) {
          n_begin = 0;
       }
+      document.title = 'Umber - ' + f_date(s_v);
    }
    const n_page = 30;
    const a_slice = a_table.slice(n_begin, n_begin + n_page);
