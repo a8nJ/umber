@@ -1,13 +1,5 @@
-:root {
+main {
    --height: 240px;
-}
-@font-face {
-   font-family: "Miller Display Italic";
-   src: url("/umber/fonts/miller-display-italic.woff2");
-}
-@font-face {
-   font-family: "Overpass";
-   src: url("/umber/fonts/overpass.woff2");
 }
 figure > a,
 header {
@@ -16,7 +8,7 @@ header {
 body {
    background: radial-gradient(#dee1ec 80%, #becbff);
 }
-h1 {
+h1 > a {
    color: #0d0cb5;
 }
 footer a {
@@ -39,6 +31,14 @@ footer,
 header,
 main {
    flex-wrap: wrap;
+}
+@font-face {
+   font-family: "Miller Display Italic";
+   src: url("/umber/fonts/miller-display-italic.woff2");
+}
+@font-face {
+   font-family: "Overpass";
+   src: url("/umber/fonts/overpass.woff2");
 }
 h1 {
    font-family: "Miller Display Italic";
