@@ -1,32 +1,32 @@
 'use strict';
-import {f_date} from '/umber/js/date.js';
+import {DateF} from '/umber/js/date.js';
 
-function f1_json(o_resp) {
-   return o_resp.json();
+function JsonF(RespO) {
+   return RespO.json();
 }
 
-function f2_listen(a_table) {
+function ListenF(TableA) {
    // part 1
-   const a_row = a_table.find(f3_track);
+   const RowA = TableA.find(TrackF);
    // part 2
-   const a_id = a_row[2].split('/');
-   const o_date = document.getElementById('date');
-   const o_vid = document.getElementById('vid');
-   const s_date = a_row[0];
-   const s_path = 'https://f002.backblazeb2.com/file/0Tl4aD';
-   const s_title = a_row[3];
-   const s_year = a_row[1].toString();
-   document.getElementById('track').textContent = s_title;
-   document.title = s_title + ' / Backblaze player';
-   o_date.textContent = 'released ' + s_year + ' - posted ' + f_date(s_date);
+   const IdA = RowA[2].split('/');
+   const DateO = document.getElementById('date');
+   const VidO = document.getElementById('vid');
+   const DateS = RowA[0];
+   const PathS = 'https://f002.backblazeb2.com/file/0Tl4aD';
+   const TitleS = RowA[3];
+   const YearS = RowA[1].toString();
+   document.getElementById('track').textContent = TitleS;
+   document.title = TitleS + ' / Backblaze player';
+   DateO.textContent = 'released ' + YearS + ' - posted ' + DateF(DateS);
    // need this for audio files
-   o_vid.poster = s_path + '/' + a_id[1] + '.jpg';
-   o_vid.src = s_path + '/' + s_date + '.' + a_id[0];
+   VidO.poster = PathS + '/' + IdA[1] + '.jpg';
+   VidO.src = PathS + '/' + DateS + '.' + IdA[0];
 }
 
-function f3_track(a_row) {
-   const s_v = new URLSearchParams(location.search);
-   return a_row[0] == s_v.get('v');
+function TrackF(RowA) {
+   const o = new URLSearchParams(location.search);
+   return RowA[0] == o.get('v');
 }
 
-fetch('/umber/umber.json').then(f1_json).then(f2_listen);
+fetch('/umber/umber.json').then(JsonF).then(ListenF);

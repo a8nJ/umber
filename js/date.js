@@ -1,14 +1,14 @@
 'use strict';
 
-export function f_date(s_id) {
-   const n_id = parseInt(s_id, 36);
-   const o_date = new Date(n_id * 1000);
-   const o_fmt = new Intl.DateTimeFormat('en', {
+export function DateF(IdS) {
+   const IdN = parseInt(IdS, 36);
+   const DateO = new Date(IdN * 1000);
+   const FmtO = new Intl.DateTimeFormat('en', {
       day: 'numeric', month: 'short', weekday: 'short', year: 'numeric'
    });
-   const f_parts = (m_acc, m_cur) => {
-      return {...m_acc, [m_cur.type]: m_cur.value};
+   const PartsF = (AccM, CurM) => {
+      return {...AccM, [CurM.type]: CurM.value};
    };
-   const m = o_fmt.formatToParts(o_date).reduce(f_parts, {});
+   const m = FmtO.formatToParts(DateO).reduce(PartsF, {});
    return [m.weekday, m.month, m.day, m.year].join(' ');
 }

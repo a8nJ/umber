@@ -1,20 +1,20 @@
 'use strict';
-import {f_backblaze} from '/umber/js/backblaze.js';
-import {f_bandcamp} from '/umber/js/bandcamp.js';
-import {f_date} from '/umber/js/date.js';
-import {f_soundcloud} from '/umber/js/soundcloud.js';
-import {f_youtube} from '/umber/js/youtube.js';
+import {BackblazeF} from '/umber/js/backblaze.js';
+import {BandcampF} from '/umber/js/bandcamp.js';
+import {DateF} from '/umber/js/date.js';
+import {SoundcloudF} from '/umber/js/soundcloud.js';
+import {YoutubeF} from '/umber/js/youtube.js';
 
-function f1_json(o_resp) {
+function JsonF(o_resp) {
    return o_resp.json();
 }
 
-function f2_data(a_table) {
+function DataF(a_table) {
    const o_par = new URLSearchParams(location.search);
    // 1. filter
    if (o_par.has('q')) {
       const s_query = o_par.get('q');
-      function f_filter(a_row) {
+      function FilterF(a_row) {
          /* for now, we are going to match on just the artist and recording. if
          we later decide to match other items, its tempting to just join the
          array and match on that. however the year is a number, and some
@@ -24,21 +24,21 @@ function f2_data(a_table) {
          const s_song = a_row[3];
          return RegExp(s_query, 'i').test(s_song);
       }
-      a_table = a_table.filter(f_filter);
+      a_table = a_table.filter(FilterF);
    }
    // 2. slice
    let n_begin = 0;
    if (o_par.has('v')) {
       const s_v = o_par.get('v');
-      function f_index(a_row) {
+      function IndexF(a_row) {
          // account for deleted entries
          return a_row[0] <= s_v;
       }
-      n_begin = a_table.findIndex(f_index);
+      n_begin = a_table.findIndex(IndexF);
       if (n_begin == -1) {
          n_begin = 0;
       }
-      document.title = 'Umber - ' + f_date(s_v);
+      document.title = 'Umber - ' + DateF(s_v);
    }
    const n_page = 30;
    const a_slice = a_table.slice(n_begin, n_begin + n_page);
@@ -85,18 +85,18 @@ function f3_figure(a_row) {
    let m;
    switch (s_site) {
    case 'b':
-      m = f_bandcamp(s_id_2, s_id_3);
+      m = BandcampF(s_id_2, s_id_3);
       break;
    case 'm4a':
    case 'mp3':
    case 'mp4':
-      m = f_backblaze(s_id_1, s_id_2);
+      m = BackblazeF(s_id_1, s_id_2);
       break;
    case 's':
-      m = f_soundcloud(s_id_2, s_id_3);
+      m = SoundcloudF(s_id_2, s_id_3);
       break;
    case 'y':
-      m = f_youtube(s_id_2, s_id_3);
+      m = YoutubeF(s_id_2, s_id_3);
    }
    // part 1
    const o_temp = document.querySelector('#temp');
@@ -113,8 +113,8 @@ function f3_figure(a_row) {
    o_img.src = m.src;
    o_img_a.href = m.href;
    o_img_a.target = '_blank';
-   o_time.textContent = 'released ' + s_year + ' - posted ' + f_date(s_id_1);
+   o_time.textContent = 'released ' + s_year + ' - posted ' + DateF(s_id_1);
    return o_fig;
 }
 
-fetch('/umber/umber.json').then(f1_json).then(f2_data);
+fetch('/umber/umber.json').then(JsonF).then(DataF);
