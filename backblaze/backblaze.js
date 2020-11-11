@@ -1,5 +1,5 @@
 'use strict';
-import {DateF} from '/umber/js/date.js';
+import {date_f} from '/umber/js/date.js';
 
 function JsonF(RespO) {
    return RespO.json();
@@ -18,7 +18,7 @@ function ListenF(TableA) {
    const YearS = RowA[1].toString();
    document.getElementById('track').textContent = TitleS;
    document.title = TitleS + ' / Backblaze player';
-   DateO.textContent = 'released ' + YearS + ' - posted ' + DateF(DateS);
+   DateO.textContent = 'released ' + YearS + ' - posted ' + date_f(DateS);
    // need this for audio files
    VidO.poster = PathS + '/' + IdA[1] + '.jpg';
    VidO.src = PathS + '/' + DateS + '.' + IdA[0];

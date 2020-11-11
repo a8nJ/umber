@@ -1,120 +1,120 @@
 'use strict';
-import {BackblazeF} from '/umber/js/backblaze.js';
-import {BandcampF} from '/umber/js/bandcamp.js';
-import {DateF} from '/umber/js/date.js';
-import {SoundcloudF} from '/umber/js/soundcloud.js';
-import {YoutubeF} from '/umber/js/youtube.js';
+import {backblaze_f} from '/umber/js/backblaze.js';
+import {bandcamp_f} from '/umber/js/bandcamp.js';
+import {date_f} from '/umber/js/date.js';
+import {soundcloud_f} from '/umber/js/soundcloud.js';
+import {youtube_f} from '/umber/js/youtube.js';
 
-function JsonF(RespO) {
-   return RespO.json();
+function json_f(resp_o) {
+   return resp_o.json();
 }
 
-function DataF(TableA) {
-   const ParO = new URLSearchParams(location.search);
+function data_f(table_a) {
+   const par_o = new URLSearchParams(location.search);
    // 1. filter
-   if (ParO.has('q')) {
-      const QueryS = ParO.get('q');
-      function FilterF(RowA) {
+   if (par_o.has('q')) {
+      const query_s = par_o.get('q');
+      function filter_f(row_a) {
          /* for now, we are going to match on just the artist and recording. if
          we later decide to match other items, its tempting to just join the
          array and match on that. however the year is a number, and some
          languages dont allow arrays of different types. so if the time comes,
          handle each element individually rather than trying to join the
          array. */
-         const SongS = RowA[3];
-         return RegExp(QueryS, 'i').test(SongS);
+         const song_s = row_a[3];
+         return RegExp(query_s, 'i').test(song_s);
       }
-      TableA = TableA.filter(FilterF);
+      table_a = table_a.filter(filter_f);
    }
    // 2. slice
-   let BeginN = 0;
-   if (ParO.has('v')) {
-      const IdS = ParO.get('v');
-      function IndexF(RowA) {
+   let begin_n = 0;
+   if (par_o.has('v')) {
+      const id_s = par_o.get('v');
+      function index_f(row_a) {
          // account for deleted entries
-         return RowA[0] <= IdS;
+         return row_a[0] <= id_s;
       }
-      BeginN = TableA.findIndex(IndexF);
-      if (BeginN == -1) {
-         BeginN = 0;
+      begin_n = table_a.findIndex(index_f);
+      if (begin_n == -1) {
+         begin_n = 0;
       }
-      document.title = 'Umber - ' + DateF(IdS);
+      document.title = 'Umber - ' + date_f(id_s);
    }
-   const PageN = 30;
-   const SliceA = TableA.slice(BeginN, BeginN + PageN);
-   const FigsO = document.getElementById('figures');
-   for (const RowA of SliceA) {
-      const FigO = FigureF(RowA);
-      FigsO.append(FigO);
+   const page_n = 30;
+   const slice_a = table_a.slice(begin_n, begin_n + page_n);
+   const figs_o = document.getElementById('figures');
+   for (const row_a of slice_a) {
+      const fig_o = figure_f(row_a);
+      figs_o.append(fig_o);
    }
-   const OldO = document.getElementById('older');
-   const OldN = BeginN + PageN;
-   if (OldN < TableA.length) {
-      const IdS = TableA[OldN][0];
-      ParO.set('v', IdS);
-      OldO.href = '?' + ParO.toString();
+   const old_o = document.getElementById('older');
+   const old_n = begin_n + page_n;
+   if (old_n < table_a.length) {
+      const id_s = table_a[old_n][0];
+      par_o.set('v', id_s);
+      old_o.href = '?' + par_o.toString();
    } else {
-      OldO.remove();
+      old_o.remove();
    }
-   const NewO = document.getElementById('newer');
-   const NewN = BeginN - PageN;
-   if (NewN >= 0) {
-      const IdS = TableA[NewN][0];
-      ParO.set('v', IdS);
-      NewO.href = '?' + ParO.toString();
+   const new_o = document.getElementById('newer');
+   const new_n = begin_n - page_n;
+   if (new_n >= 0) {
+      const id_s = table_a[new_n][0];
+      par_o.set('v', id_s);
+      new_o.href = '?' + par_o.toString();
    } else {
-      NewO.remove();
+      new_o.remove();
    }
 }
 
-function FigureF(RowA) {
+function figure_f(row_a) {
    // column 0
-   const DateS = RowA[0];
+   const date_s = row_a[0];
    // column 1
-   const YearS = RowA[1].toString();
+   const year_s = row_a[1].toString();
    // column 2
-   const HostA = RowA[2].split('/');
-   const SiteS = HostA[0];
-   const AudioS = HostA[1];
-   let VideoS = '';
-   if (HostA.length == 3) {
-      VideoS = HostA[2];
+   const host_a = row_a[2].split('/');
+   const site_s = host_a[0];
+   const audio_s = host_a[1];
+   let video_s = '';
+   if (host_a.length == 3) {
+      video_s = host_a[2];
    }
    // column 3
-   const TitleS = RowA[3];
+   const title_s = row_a[3];
    let m;
-   switch (SiteS) {
+   switch (site_s) {
    case 'b':
-      m = BandcampF(AudioS, VideoS);
+      m = bandcamp_f(audio_s, video_s);
       break;
    case 'm4a':
    case 'mp3':
    case 'mp4':
-      m = BackblazeF(DateS, AudioS);
+      m = backblaze_f(date_s, audio_s);
       break;
    case 's':
-      m = SoundcloudF(AudioS, VideoS);
+      m = soundcloud_f(audio_s, video_s);
       break;
    case 'y':
-      m = YoutubeF(AudioS, VideoS);
+      m = youtube_f(audio_s, video_s);
    }
    // part 1
-   const TempO = document.querySelector('#temp');
+   const temp_o = document.querySelector('#temp');
    // part 2
-   const FigO = TempO.content.cloneNode(true);
+   const fig_o = temp_o.content.cloneNode(true);
    // part 3
-   const CapAnO = FigO.querySelector('figcaption a');
-   const ImgO = FigO.querySelector('img');
-   const ImgAnO = FigO.querySelector('a');
-   const TimeO = FigO.querySelector('time');
-   CapAnO.href = m.href;
-   CapAnO.target = '_blank';
-   CapAnO.textContent = TitleS;
-   ImgO.src = m.src;
-   ImgAnO.href = m.href;
-   ImgAnO.target = '_blank';
-   TimeO.textContent = 'released ' + YearS + ' - posted ' + DateF(DateS);
-   return FigO;
+   const cap_a_o = fig_o.querySelector('figcaption a');
+   const img_o = fig_o.querySelector('img');
+   const img_a_o = fig_o.querySelector('a');
+   const time_o = fig_o.querySelector('time');
+   cap_a_o.href = m.href;
+   cap_a_o.target = '_blank';
+   cap_a_o.textContent = title_s;
+   img_o.src = m.src;
+   img_a_o.href = m.href;
+   img_a_o.target = '_blank';
+   time_o.textContent = 'released ' + year_s + ' - posted ' + date_f(date_s);
+   return fig_o;
 }
 
-fetch('/umber/umber.json').then(JsonF).then(DataF);
+fetch('/umber/umber.json').then(json_f).then(data_f);

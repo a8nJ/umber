@@ -1,6 +1,6 @@
 'use strict';
 
-export function BandcampF(AudioS, VideoS) {
+export function bandcamp_f(AudioS, VideoS) {
    const InM = {
       // optional
       artwork: 'small',

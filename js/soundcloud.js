@@ -1,6 +1,6 @@
 'use strict';
 
-export function SoundcloudF(AudioS, VideoS) {
+export function soundcloud_f(AudioS, VideoS) {
    const InM = {};
    // accepts "true" but not "1"
    InM.hide_related = true;
