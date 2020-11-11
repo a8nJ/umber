@@ -1,32 +1,32 @@
 'use strict';
 import {date_f} from '/umber/js/date.js';
 
-function JsonF(RespO) {
-   return RespO.json();
+function json_f(resp_o) {
+   return resp_o.json();
 }
 
-function ListenF(TableA) {
+function listen_f(table_a) {
    // part 1
-   const RowA = TableA.find(TrackF);
+   const row_a = table_a.find(track_f);
    // part 2
-   const IdA = RowA[2].split('/');
-   const DateO = document.getElementById('date');
-   const VidO = document.getElementById('vid');
-   const DateS = RowA[0];
-   const PathS = 'https://f002.backblazeb2.com/file/0Tl4aD';
-   const TitleS = RowA[3];
-   const YearS = RowA[1].toString();
-   document.getElementById('track').textContent = TitleS;
-   document.title = TitleS + ' / Backblaze player';
-   DateO.textContent = 'released ' + YearS + ' - posted ' + date_f(DateS);
+   const id_a = row_a[2].split('/');
+   const date_o = document.getElementById('date');
+   const vid_o = document.getElementById('vid');
+   const date_s = row_a[0];
+   const path_s = 'https://f002.backblazeb2.com/file/0Tl4aD';
+   const title_s = row_a[3];
+   const year_s = row_a[1].toString();
+   document.getElementById('track').textContent = title_s;
+   document.title = title_s + ' / Backblaze player';
+   date_o.textContent = 'released ' + year_s + ' - posted ' + date_f(date_s);
    // need this for audio files
-   VidO.poster = PathS + '/' + IdA[1] + '.jpg';
-   VidO.src = PathS + '/' + DateS + '.' + IdA[0];
+   vid_o.poster = path_s + '/' + id_a[1] + '.jpg';
+   vid_o.src = path_s + '/' + date_s + '.' + id_a[0];
 }
 
-function TrackF(RowA) {
+function track_f(row_a) {
    const o = new URLSearchParams(location.search);
-   return RowA[0] == o.get('v');
+   return row_a[0] == o.get('v');
 }
 
-fetch('/umber/umber.json').then(JsonF).then(ListenF);
+fetch('/umber/umber.json').then(json_f).then(listen_f);

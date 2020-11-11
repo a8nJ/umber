@@ -1,7 +1,7 @@
 'use strict';
 
-export function bandcamp_f(AudioS, VideoS) {
-   const InM = {
+export function bandcamp_f(audio_s, video_s) {
+   const in_m = {
       // optional
       artwork: 'small',
       // required when protocol is not "file:"
@@ -9,13 +9,13 @@ export function bandcamp_f(AudioS, VideoS) {
       // optional
       size: 'large',
       // required
-      track: AudioS
+      track: audio_s
    };
-   const o = new URLSearchParams(InM);
+   const o = new URLSearchParams(in_m);
    const s = o.toString();
    return {
       // case sensitive
       href: 'https://bandcamp.com/EmbeddedPlayer?' + s,
-      src: 'https://f4.bcbits.com/img/' + VideoS + '_5.jpg'
+      src: 'https://f4.bcbits.com/img/' + video_s + '_5.jpg'
    };
 }
