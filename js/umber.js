@@ -29,7 +29,7 @@ function data_f(table_a) {
    // 2. slice
    let begin_n = 0;
    if (par_o.has('v')) {
-      const id_s = par_o.get('v');
+      let id_s = par_o.get('v');
       function index_f(row_a) {
          // account for deleted entries
          return row_a[0] <= id_s;
@@ -38,6 +38,7 @@ function data_f(table_a) {
       if (begin_n == -1) {
          begin_n = 0;
       }
+      id_s = table_a[begin_n][0];
       document.title = 'Umber - ' + date_f(id_s);
    }
    const page_n = 30;
