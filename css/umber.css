@@ -20,8 +20,7 @@ header,
 main {
    display: flex;
 }
-figure,
-img {
+figure {
    flex-basis: calc(var(--height) * 16 / 9);
 }
 img {
@@ -112,4 +111,7 @@ a {
 }
 input {
    vertical-align: middle;
+}
+img {
+   width: calc(var(--height) * 16 / 9);
 }
