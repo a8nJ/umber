@@ -4,8 +4,8 @@ import {date_f} from '/umber/js/date.js';
 import {soundcloud_f} from '/umber/js/soundcloud.js';
 import {youtube_f} from '/umber/js/youtube.js';
 
-function json_f(resp_o) {
-   return resp_o.json();
+function json_f(resp) {
+   return resp.json();
 }
 
 function data_f(table_a) {
