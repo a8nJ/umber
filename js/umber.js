@@ -1,115 +1,101 @@
 'use strict';
 import {backblaze} from '/umber/js/backblaze.js';
 import {date} from '/umber/js/date.js';
-import {soundcloud_f} from '/umber/js/soundcloud.js';
-import {youtube_f} from '/umber/js/youtube.js';
+import {soundcloud} from '/umber/js/soundcloud.js';
+import {youtube} from '/umber/js/youtube.js';
 
-function json_f(resp) {
-   return resp.json();
-}
+const page = 30;
 
-function data_f(table_a) {
-   const par_o = new URLSearchParams(location.search);
+function data(table) {
+   const search = new URLSearchParams(location.search);
    // 1. filter
-   if (par_o.has('q')) {
-      const query_s = par_o.get('q');
-      function filter_f(row_a) {
-         /* for now, we are going to match on just the artist and recording. if
-         we later decide to match other items, its tempting to just join the
-         array and match on that. however the year is a number, and some
-         languages dont allow arrays of different types. so if the time comes,
-         handle each element individually rather than trying to join the
-         array. */
-         const song_s = row_a[3];
-         return RegExp(query_s, 'i').test(song_s);
-      }
-      table_a = table_a.filter(filter_f);
+   if (search.has('s')) {
+      table = table.filter(
+         // for now, just match one the artist, album and song.
+         row => RegExp(search.get('s'), 'i').test(row.s)
+      );
    }
    // 2. slice
-   let begin_n = 0;
-   if (par_o.has('v')) {
-      let id_s = par_o.get('v');
-      function index_f(row_a) {
-         // account for deleted entries
-         return row_a[0] <= id_s;
-      }
-      begin_n = table_a.findIndex(index_f);
-      if (begin_n == -1) {
-         begin_n = 0;
-      }
-      id_s = table_a[begin_n][0];
-      document.title = 'Umber - ' + date(id_s);
+   const begin = getBegin(search, table);
+   const slice = table.slice(begin, begin + page);
+   const figures = document.getElementById('figures');
+   for (const row of slice) {
+      figures.append(figure(row));
    }
-   const page_n = 30;
-   const slice_a = table_a.slice(begin_n, begin_n + page_n);
-   const figs_o = document.getElementById('figures');
-   for (const row_a of slice_a) {
-      const fig_o = figure_f(row_a);
-      figs_o.append(fig_o);
-   }
-   const old_o = document.getElementById('older');
-   const old_n = begin_n + page_n;
-   if (old_n < table_a.length) {
-      const id_s = table_a[old_n][0];
-      par_o.set('v', id_s);
-      old_o.href = '?' + par_o.toString();
+   const older = document.getElementById('older');
+   const oldIndex = begin + page;
+   if (oldIndex < table.length) {
+      const param = new URLSearchParams(table[oldIndex].q);
+      search.set('a', param.get('a'));
+      older.href = '?' + search.toString();
    } else {
-      old_o.remove();
+      older.remove();
    }
-   const new_o = document.getElementById('newer');
-   const new_n = begin_n - page_n;
-   if (new_n >= 0) {
-      const id_s = table_a[new_n][0];
-      par_o.set('v', id_s);
-      new_o.href = '?' + par_o.toString();
+   const newer = document.getElementById('newer');
+   const newIndex = begin - page;
+   if (newIndex >= 0) {
+      const param = new URLSearchParams(table[newIndex].q);
+      search.set('a', param.get('q'));
+      newer.href = '?' + search.toString();
    } else {
-      new_o.remove();
+      newer.remove();
    }
 }
 
-function href_src(site_s, date_s, audio_s, video_s) {
-   switch (site_s) {
+function figure(row) {
+   // part 1
+   const param = new URLSearchParams(row.q);
+   const temp = document.querySelector('#temp');
+   // part 2
+   const alfa = param.get('a');
+   const figure = temp.content.cloneNode(true);
+   const time = figure.querySelector('time');
+   time.textContent = 'released ' + param.get('y') + ' - posted ' + date(alfa);
+   // part 3
+   const attr = hrefSrc(param);
+   const figA = figure.querySelector('a');
+   const figcapA = figure.querySelector('figcaption a');
+   const img = figure.querySelector('img');
+   figA.href = attr.href;
+   figA.target = '_blank';
+   figcapA.href = attr.href;
+   figcapA.target = '_blank';
+   figcapA.textContent = row.s;
+   img.src = attr.src;
+   return figure;
+}
+
+function getBegin(search, table) {
+   if (! search.has('a')) {
+      return 0;
+   }
+   for (const [n, row] of table.entries()) {
+      const param = new URLSearchParams(row.q);
+      const alfa = param.get('a');
+      // account for deleted entries
+      if (alfa <= search.get('a')) {
+         document.title = 'Umber - ' + date(alfa);
+         return n;
+      }
+   }
+   return 0;
+}
+
+function hrefSrc(param) {
+   switch (param.get('p')) {
    case 'm4a':
    case 'mp3':
    case 'mp4':
-      return backblaze(date_s, audio_s);
+      return backblaze(param);
    case 's':
-      return soundcloud_f(audio_s, video_s);
+      return soundcloud(param);
    default:
-      return youtube_f(audio_s, video_s);
+      return youtube(param);
    }
 }
 
-function figure_f(row_a) {
-   // column 0
-   const date_s = row_a[0];
-   // column 1
-   const year_s = row_a[1].toString();
-   // column 2
-   const host_a = row_a[2].split('/');
-   const site_s = host_a[0];
-   const audio_s = host_a[1];
-   let video_s = '';
-   if (host_a.length == 3) {
-      video_s = host_a[2];
-   }
-   // column 3
-   const title_s = row_a[3];
-   const attr_m = href_src(site_s, date_s, audio_s, video_s);
-   const temp_o = document.querySelector('#temp');
-   const fig_o = temp_o.content.cloneNode(true);
-   const cap_a_o = fig_o.querySelector('figcaption a');
-   const img_o = fig_o.querySelector('img');
-   const img_a_o = fig_o.querySelector('a');
-   const time_o = fig_o.querySelector('time');
-   cap_a_o.href = attr_m.href;
-   cap_a_o.target = '_blank';
-   cap_a_o.textContent = title_s;
-   img_o.src = attr_m.src;
-   img_a_o.href = attr_m.href;
-   img_a_o.target = '_blank';
-   time_o.textContent = 'released ' + year_s + ' - posted ' + date(date_s);
-   return fig_o;
+function json(resp) {
+   return resp.json();
 }
 
-fetch('/umber/umber.json').then(json_f).then(data_f);
+fetch('/umber/umber.json').then(json).then(data);

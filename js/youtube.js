@@ -1,11 +1,13 @@
 'use strict';
 
-export function youtube_f(audio_s, video_s) {
-   const m = {href: 'https://www.youtube.com/watch?v=' + audio_s};
-   if (video_s != '') {
-      m.src = 'https://i.ytimg.com/vi/' + audio_s + '/' + video_s + '.jpg';
+export function youtube(param) {
+   const m = {};
+   m.href = 'https://www.youtube.com/watch?v=' + param.get('b');
+   m.src = 'https://i.ytimg.com/vi/' + param.get('b') + '/';
+   if (param.has('c')) {
+      m.src += param.get('c') + '.jpg';
    } else {
-      m.src = 'https://i.ytimg.com/vi/' + audio_s + '/sddefault.jpg';
+      m.src += 'sddefault.jpg';
    }
    return m;
 }
