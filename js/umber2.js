@@ -4,64 +4,56 @@ import {date} from '/umber/js/date.js';
 import {soundcloud_f} from '/umber/js/soundcloud.js';
 import {youtube_f} from '/umber/js/youtube.js';
 
-function json_f(resp) {
+function json(resp) {
    return resp.json();
 }
 
-function data_f(table_a) {
-   const par_o = new URLSearchParams(location.search);
+function data(table) {
+   const param = new URLSearchParams(location.search);
    // 1. filter
-   if (par_o.has('q')) {
-      const query_s = par_o.get('q');
-      function filter_f(row_a) {
-         /* for now, we are going to match on just the artist and recording. if
-         we later decide to match other items, its tempting to just join the
-         array and match on that. however the year is a number, and some
-         languages dont allow arrays of different types. so if the time comes,
-         handle each element individually rather than trying to join the
-         array. */
-         const song_s = row_a[3];
-         return RegExp(query_s, 'i').test(song_s);
-      }
-      table_a = table_a.filter(filter_f);
+   if (param.has('q')) {
+      // for now, just match one the artist, album and song.
+      table = table.filter(
+         row => RegExp(param.get('q'), 'i').test(row.s)
+      );
    }
    // 2. slice
-   let begin_n = 0;
-   if (par_o.has('v')) {
-      let id_s = par_o.get('v');
-      function index_f(row_a) {
+   let begin = 0;
+   if (param.has('v')) {
+      let id = param.get('v');
+      begin = table.findIndex(row => {
+         const param = new URLSearchParams(row.q);
          // account for deleted entries
-         return row_a[0] <= id_s;
+         return param.get('a') <= id;
+      });
+      if (begin == -1) {
+         begin = 0;
       }
-      begin_n = table_a.findIndex(index_f);
-      if (begin_n == -1) {
-         begin_n = 0;
-      }
-      id_s = table_a[begin_n][0];
-      document.title = 'Umber - ' + date(id_s);
+      id = table[begin][0];
+      document.title = 'Umber - ' + date(id);
    }
    const page_n = 30;
-   const slice_a = table_a.slice(begin_n, begin_n + page_n);
+   const slice_a = table.slice(begin, begin + page_n);
    const figs_o = document.getElementById('figures');
    for (const row_a of slice_a) {
       const fig_o = figure_f(row_a);
       figs_o.append(fig_o);
    }
    const old_o = document.getElementById('older');
-   const old_n = begin_n + page_n;
-   if (old_n < table_a.length) {
-      const id_s = table_a[old_n][0];
-      par_o.set('v', id_s);
-      old_o.href = '?' + par_o.toString();
+   const old_n = begin + page_n;
+   if (old_n < table.length) {
+      const id = table[old_n][0];
+      param.set('v', id);
+      old_o.href = '?' + param.toString();
    } else {
       old_o.remove();
    }
    const new_o = document.getElementById('newer');
-   const new_n = begin_n - page_n;
+   const new_n = begin - page_n;
    if (new_n >= 0) {
-      const id_s = table_a[new_n][0];
-      par_o.set('v', id_s);
-      new_o.href = '?' + par_o.toString();
+      const id = table[new_n][0];
+      param.set('v', id);
+      new_o.href = '?' + param.toString();
    } else {
       new_o.remove();
    }
@@ -112,4 +104,4 @@ function figure_f(row_a) {
    return fig_o;
 }
 
-fetch('/umber/umber.json').then(json_f).then(data_f);
+fetch('/umber/umber.json').then(json).then(data);

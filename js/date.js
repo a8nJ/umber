@@ -1,6 +1,6 @@
 'use strict';
 
-export function date_f(id_s) {
+export function date(id_s) {
    const id_n = parseInt(id_s, 36);
    const date_o = new Date(id_n * 1000);
    const fmt_o = new Intl.DateTimeFormat('en', {
