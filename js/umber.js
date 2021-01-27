@@ -1,5 +1,5 @@
 'use strict';
-import {backblaze_f} from '/umber/js/backblaze.js';
+import {backblaze} from '/umber/js/backblaze.js';
 import {date_f} from '/umber/js/date.js';
 import {soundcloud_f} from '/umber/js/soundcloud.js';
 import {youtube_f} from '/umber/js/youtube.js';
@@ -72,7 +72,7 @@ function href_src(site_s, date_s, audio_s, video_s) {
    case 'm4a':
    case 'mp3':
    case 'mp4':
-      return backblaze_f(date_s, audio_s);
+      return backblaze(date_s, audio_s);
    case 's':
       return soundcloud_f(audio_s, video_s);
    default:
