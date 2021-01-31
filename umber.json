@@ -349,7 +349,7 @@
  },
  {
   "q": "a=qlro5w&b=5nn8lyC0Nc0&p=y&y=2017",
-  "s": "Bonobo : Ontario"
+  "s": "Bonobo, Ontario"
  },
  {
   "q": "a=qlqx5l&b=qlqx5k&p=m4a&y=2006",
@@ -1701,7 +1701,7 @@
  },
  {
   "q": "a=qfmry0&b=326955395&c=artworks-4CwDlPJLP6aa-0&p=s&y=2017",
-  "s": "Quaeschning & Schnauss - Thirst"
+  "s": "Ulrich Schnauss, Quaeschning - Thirst"
  },
  {
   "q": "a=qfi7ex&b=318418506&c=artworks-000218459303-4efwpg&p=s&y=2017",
@@ -1721,7 +1721,7 @@
  },
  {
   "q": "a=qf8i3q&b=326955254&c=artworks-uH5ihgjbxCs5-0&p=s&y=2017",
-  "s": "Quaeschning & Schnauss - Slow Life"
+  "s": "Ulrich Schnauss, Quaeschning - Slow Life"
  },
  {
   "q": "a=qewnkg&b=uB-IwYVLVDA&p=y&y=1984",
@@ -2492,10 +2492,6 @@
   "s": "Mandalay - This Life"
  },
  {
-  "q": "a=q7zllx&b=ui-TR4U9WOs&p=y&y=2001",
-  "s": "Puddle of Mudd - Blurry"
- },
- {
   "q": "a=q7yqbs&b=LYb_nqU_43w&p=y&y=1978",
   "s": "The Who - Who Are You"
  },
@@ -2548,16 +2544,12 @@
   "s": "Matthieu Faubourg - Please, Stay"
  },
  {
-  "q": "a=q6szjd&b=EkduUC7iHvM&p=y&y=2019",
-  "s": "Gavinco - Vanilla"
- },
- {
   "q": "a=q6g367&b=bpiuqMkuWL4&p=y&y=2013",
   "s": "M83 - Oblivion - I’m Sending You Away"
  },
  {
   "q": "a=q6g334&b=wf5RdLDxrUk&p=y&y=2013",
-  "s": "M83 ft. Susanne Sundfør - Oblivion"
+  "s": "M83, Susanne Sundfør - Oblivion"
  },
  {
   "q": "a=q6cc45&b=HnX970qs7xE&p=y&y=2006",
@@ -2901,7 +2893,7 @@
  },
  {
   "q": "a=q0yn9g&b=bJNxmMk8zvA&p=y&y=1990",
-  "s": "Suzanne Vega & DNA - Tom's Diner"
+  "s": "Suzanne Vega, DNA - Tom's Diner"
  },
  {
   "q": "a=q0rk6d&b=FFugwcilV6E&p=y&y=2015",
@@ -2925,7 +2917,7 @@
  },
  {
   "q": "a=pz6z8p&b=Cs1fGpm8Ahg&p=y&y=2001",
-  "s": "Hope Sandoval and the Warm Inventions - Butterfly Mornings"
+  "s": "Hope Sandoval & the Warm Inventions - Butterfly Mornings"
  },
  {
   "q": "a=pz5qgt&b=6OV8f16MlKI&p=y&y=2018",
@@ -2986,10 +2978,6 @@
  {
   "q": "a=pxxz0j&b=McvrkKnZji8&p=y&y=2008",
   "s": "Fleet Foxes - Your Protector"
- },
- {
-  "q": "a=pxwhvj&b=BG-_ZDrypec&p=y&y=2016",
-  "s": "Election Week Cold Open - SNL"
  },
  {
   "q": "a=pxvsnq&b=-Xmc-LRCigc&p=y&y=2017",
@@ -3297,7 +3285,7 @@
  },
  {
   "q": "a=pqqvdo&b=2GQiPzlG13s&p=y&y=2015",
-  "s": "Jabberwocky & Ana Zimmer - Fog"
+  "s": "Jabberwocky, Ana Zimmer - Fog"
  },
  {
   "q": "a=pqpe4k&b=Q8awrTZodGk&p=y&y=2019",
@@ -3514,10 +3502,6 @@
  {
   "q": "a=ppvljc&b=GezwQfggBJ0&p=y&y=1997",
   "s": "David Holmes - Rodney Yates"
- },
- {
-  "q": "a=ppvlgz&b=h86eMPyuEMo&p=y&y=1989",
-  "s": "Bobby Brown - On Our Own"
  },
  {
   "q": "a=ppvinb&b=F98lMA1p_IE&p=y&y=2010",
@@ -3853,7 +3837,7 @@
  },
  {
   "q": "a=pn1ue5&b=WxtmwyTykxA&p=y&y=2006",
-  "s": "Falkon & Nebula ft. Sasja - So Lost (Stalkers Found U remix)"
+  "s": "Falkon & Nebula, Sasja - So Lost (Stalkers Found U remix)"
  },
  {
   "q": "a=pn1kba&b=Obi_coDkCTc&p=y&y=1994",
@@ -3865,7 +3849,7 @@
  },
  {
   "q": "a=pmy4jb&b=tOxEmkQlENE&p=y&y=2010",
-  "s": "Bonobo ft. Andreya Triana - Eyesdown"
+  "s": "Bonobo, Andreya Triana - Eyesdown"
  },
  {
   "q": "a=pmx2r1&b=xBlWt1HDV-Y&p=y&y=2009",
@@ -3930,10 +3914,6 @@
  {
   "q": "a=pm493r&b=WdoTU6AEmWA&p=y&y=2010",
   "s": "Oneohtrix Point Never - Returnal"
- },
- {
-  "q": "a=pm2gax&b=fsnrVUpEX5E&p=y&y=2006",
-  "s": "Uffie - Pop the Glock"
  },
  {
   "q": "a=plwwxe&b=Zp-LBD_q0sQ&p=y&y=1979",
@@ -4024,10 +4004,6 @@
   "s": "Adam Clayton & Larry Mullen Jr. - Mission: Impossible theme"
  },
  {
-  "q": "a=pjudey&b=7jj9Xs2uJqY&p=y&y=2008",
-  "s": "Savages - You’re My Chocolate"
- },
- {
   "q": "a=pjucvm&b=fUehur9Fm00&p=y&y=1993",
   "s": "D*Note - D*Votion"
  },
@@ -4073,7 +4049,7 @@
  },
  {
   "q": "a=pirlxo&b=t1c2WNwElac&p=y&y=1962",
-  "s": "Duke Ellington & Count Basie - To You"
+  "s": "Duke Ellington, Count Basie - To You"
  },
  {
   "q": "a=pirdd6&b=YPTk8uxuzJg&p=y&y=2006",
@@ -4153,7 +4129,7 @@
  },
  {
   "q": "a=peteja&b=T6aLBgPtIYQ&p=y&y=2006",
-  "s": "CJ Stone ft. Tamara Rhodes - City Lights (Tatana remix)"
+  "s": "CJ Stone, Tamara Rhodes - City Lights (Tatana remix)"
  },
  {
   "q": "a=pe15wd&b=h-R8RLFDo9M&p=y&y=1985",
@@ -4185,11 +4161,7 @@
  },
  {
   "q": "a=pc8cgt&b=aG2FdZTYBr0&p=y&y=2004",
-  "s": "Angel City ft. Lara McAllen - Love Me Right (Smith & Pledger remix)"
- },
- {
-  "q": "a=pc1cco&b=EhMPFqGImCs&p=y&y=1995",
-  "s": "Mstislav Rostropovich - Cello Suite No. 1 in G Major: Prélude"
+  "s": "Angel City, Lara McAllen - Love Me Right (Smith & Pledger remix)"
  },
  {
   "q": "a=pbvl0p&b=220721042&c=artworks-000127382791-r1bx2x&p=s&y=2015",
@@ -4201,7 +4173,7 @@
  },
  {
   "q": "a=pbsahq&b=2GZdCI5SMhU&p=y&y=2006",
-  "s": "Zero 7 ft. Sia - Throw It All Away"
+  "s": "Zero 7, Sia - Throw It All Away"
  },
  {
   "q": "a=pbs6fx&b=XfZDsI3GXvw&p=y&y=2005",
@@ -4297,7 +4269,7 @@
  },
  {
   "q": "a=pae0ts&b=dq67Un8Z2Cw&p=y&y=2006",
-  "s": "Bonobo ft. Bajka - Days to Come"
+  "s": "Bonobo, Bajka - Days to Come"
  },
  {
   "q": "a=pachh7&b=WhgaY4fuUvo&p=y&y=2007",
@@ -4356,10 +4328,6 @@
   "s": "Delerium - Angelicus (Redanka remix)"
  },
  {
-  "q": "a=pa2ke4&b=181049659&c=artworks-000099926111-e28nox&p=s&y=2014",
-  "s": "Ouravenue/OZZIE - Forever in My Mind"
- },
- {
   "q": "a=pa17yi&b=nrBPb3UAtAY&p=y&y=2009",
   "s": "The Mars Volta - With Twilight As My Guide"
  },
@@ -4398,10 +4366,6 @@
  {
   "q": "a=p9xk1e&b=xFf809oDLdE&p=y&y=1995",
   "s": "Björk - It’s Oh So Quiet"
- },
- {
-  "q": "a=p9xfpg&b=4PV-zfgTsJc&p=y&y=2002",
-  "s": "Edvika - Sometimes (Fire & Ice Remix)"
  },
  {
   "q": "a=p9vpgk&b=20ETYA2-o40&p=y&y=2010",
@@ -4473,7 +4437,7 @@
  },
  {
   "q": "a=p9roh0&b=bQS57nDormQ&c=sd1&p=y&y=2008",
-  "s": "Oceanlab ft. Justine Suissa - Sirens of the Sea (Kyau vs. Albert vocal mix)"
+  "s": "Oceanlab, Justine Suissa - Sirens of the Sea (Kyau vs. Albert vocal mix)"
  },
  {
   "q": "a=p9rl1g&b=JiFzB1DxOvo&p=y&y=2013",
@@ -4490,10 +4454,6 @@
  {
   "q": "a=p9r6fm&b=oP4zBOX1xOQ&p=y&y=2008",
   "s": "The Black Dog - Ghost Vexations"
- },
- {
-  "q": "a=p9r2t9&b=jGxApJg7Tm4&p=y&y=2015",
-  "s": "Gacha Bakradze - Bliss"
  },
  {
   "q": "a=p9pt8c&b=G_2TKQV7CjU&p=y&y=1999",
@@ -4637,7 +4597,7 @@
  },
  {
   "q": "a=p8zxka&b=jrCxzHFhGTA&p=y&y=2001",
-  "s": "Jan Johnston - Unafraid (Paul Oakenfold mix)"
+  "s": "Paul Oakenfold, Jan Johnston - Unafraid"
  },
  {
   "q": "a=p8zx7w&b=DMOd8pjaqFo&p=y&y=2001",
@@ -5262,10 +5222,6 @@
  {
   "q": "a=oyav8j&b=JtfZarN-bdE&p=y&y=2014",
   "s": "Aleksi Perälä - Fluorescence"
- },
- {
-  "q": "a=oy7yg7&b=kTDJv63PRl4&p=y&y=2017",
-  "s": "Roger Plexico - Chateau de Noisy"
  },
  {
   "q": "a=oy3i2d&b=e0JOSjzuX5g&p=y&y=1998",
@@ -6022,10 +5978,6 @@
  {
   "q": "a=ogb1t7&b=nlnhE3Cv7K0&p=y&y=2011",
   "s": "Matt Lange - Rift (original mix)"
- },
- {
-  "q": "a=ogaxb7&b=xdsCh-34tJ0&p=y&y=2014",
-  "s": "Daniel Rossen - Golden Mile (Live on KEXP)"
  },
  {
   "q": "a=ogafl6&b=kpcvN7dvZ4A&p=y&y=2009",
