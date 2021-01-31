@@ -1,7 +1,15 @@
 [
 {
+ "q": "a=qntgz7&b=sAaOn9Ew7bc&p=y&y=1999",
+ "s": "Nightmares on Wax - Morse"
+},
+{
+ "q": "a=qntf59&b=tkEPEKSmlYI&p=y&y=2006",
+ "s": "Nightmares on Wax - You Wish"
+},
+{
  "q": "a=qnr3bf&b=vQ8_c3tOmTo&p=y&y=1998",
- "s": "Title / Intro Theme - Zelda Ocarina of Time"
+ "s": "Koji Kondo - Zelda Ocarina of Time - Title / Intro Theme"
 },
 {
  "q": "a=qnmhmg&b=Sj2Pky0cooU&p=y&y=2006",
@@ -85,7 +93,7 @@
  },
  {
   "q": "a=qn8v71&b=6ywIjjj3YuA&p=y&y=2011",
-  "s": "Smashing Pumpkins - Cherub Rock"
+  "s": "The Smashing Pumpkins - Cherub Rock"
  },
  {
   "q": "a=qn7v38&b=2rYQg0QmhX8&p=y&y=2010",
@@ -193,7 +201,7 @@
  },
  {
   "q": "a=qn1lva&b=yvHO5NRugJw&p=y&y=2004",
-  "s": "Bjork - Desired Constellation"
+  "s": "Björk - Desired Constellation"
  },
  {
   "q": "a=qn16gi&b=LmYp0heTzuM&p=y&y=2007",
@@ -241,7 +249,7 @@
  },
  {
   "q": "a=qm212x&b=FzZP3IWmTv0&p=y&y=2002",
-  "s": "Elder Srolls III: Morrowind - Blessing of Vivec"
+  "s": "Jeremy Soule - Elder Srolls Morrowind - Blessing of Vivec"
  },
  {
   "q": "a=qm18uj&b=6Yeim83y1Aw&p=y&y=2010",
@@ -589,7 +597,7 @@
  },
  {
   "q": "a=ql6pjo&b=5kHH6LJpEbQ&c=sd1&p=y&y=2009",
-  "s": "Somewhere in my memory - John Williams (Home alone soundtrack)"
+  "s": "John Williams - Home alone soundtrack - Somewhere in my memory"
  },
  {
   "q": "a=ql5t5y&b=VG4Pf7Ad_LY&p=y&y=1989",
@@ -617,7 +625,7 @@
  },
  {
   "q": "a=ql3tu8&b=qzg2XNDKVQo&p=y&y=1998",
-  "s": "Gerudo Valley - Zelda Ocarina of Time"
+  "s": "Koji Kondo - Zelda Ocarina of Time - Gerudo Valley"
  },
  {
   "q": "a=ql3tsc&b=3HZ4iyVXvdo&p=y&y=1998",
@@ -633,7 +641,7 @@
  },
  {
   "q": "a=ql21x9&b=2ZIcLMN2uzw&p=y&y=2004",
-  "s": "Bourne Supremacy - Nach Deutschland"
+  "s": "John Powell - Bourne Supremacy - Nach Deutschland"
  },
  {
   "q": "a=ql1glh&b=Z9TCn-SBNOI&p=y&y=2019",
@@ -665,7 +673,7 @@
  },
  {
   "q": "a=qktpjr&b=LXZFtJceQC4&p=y&y=1989",
-  "s": "The B-52's - Love Shack"
+  "s": "The B-52s - Love Shack"
  },
  {
   "q": "a=qktoy9&b=76v58drqRgY&p=y&y=2019",
@@ -684,12 +692,8 @@
   "s": "Sade - Why Can't We Live Together"
  },
  {
-  "q": "a=qkq6qt&b=200910035&c=artworks-000129838607-iu3d65&p=s&y=2015",
-  "s": "eekkoo - Jamie xx - Loud Places (feat. Romy) [Eekkoo Edit]"
- },
- {
   "q": "a=qkomj0&b=ArWQWAUoiSU&p=y&y=2017",
-  "s": "Bonobo: Bambro Koyo Ganda (feat. Innov Gnawa)"
+  "s": "Bonobo - Bambro Koyo Ganda (feat. Innov Gnawa)"
  },
  {
   "q": "a=qkol1p&b=jIkZTCwBVgY&p=y&y=1989",
@@ -849,7 +853,7 @@
  },
  {
   "q": "a=qkijjm&b=cEiIN3e_QW0&p=y&y=2020",
-  "s": "Foo Fighters: Times Like These (Live) - SNL"
+  "s": "Foo Fighters - Times Like These (Live) - SNL"
  },
  {
   "q": "a=qkhrn0&b=Q29iibXXiOs&p=y&y=2000",
@@ -984,16 +988,8 @@
   "s": "The Cinematic Orchestra - To Build A Home"
  },
  {
-  "q": "a=qkdo7i&b=CSE_S8WXQrI&p=y&y=2012",
-  "s": "Jennifer Hudson ft. Ne-Yo - Think Like A Man"
- },
- {
   "q": "a=qkdi8c&b=RX7iHsAIw9o&p=y&y=1973",
   "s": "The Doobie Brothers - China Grove"
- },
- {
-  "q": "a=qkd23u&b=mjOJW1CG_UQ&p=y&y=1999",
-  "s": "Nightmares on wax- Morse"
  },
  {
   "q": "a=qkd237&b=ekPt4VlzORU&p=y&y=2006",
@@ -1014,10 +1010,6 @@
  {
   "q": "a=qkd1y9&b=uHen-3rxLmg&p=y&y=2020",
   "s": "Nightmares on Wax - Stars"
- },
- {
-  "q": "a=qkd1sm&b=Z8adDZRDjJs&p=y&y=2006",
-  "s": "Nightmare On Wax - You Wish"
  },
  {
   "q": "a=qkd1ov&b=bpmMGUeStwQ&p=y&y=2008",
@@ -1248,10 +1240,6 @@
   "s": "Gotan Project - Notas"
  },
  {
-  "q": "a=qk8b7k&b=fqfHLsT1b0o&p=y&y=2020",
-  "s": "(Dire Straits) Sultans of Swing - Gabriella Quevedo"
- },
- {
   "q": "a=qk7ggt&b=wwKwoU9cQ_o&p=y&y=1975",
   "s": "Aerosmith - Sweet Emotion"
  },
@@ -1318,14 +1306,6 @@
  {
   "q": "a=qjgmn4&b=k5QYZ1nuxQs&p=y&y=2009",
   "s": "The xx - Shelter"
- },
- {
-  "q": "a=qjej2z&b=221GwE00Ank&p=y&y=2014",
-  "s": "Fwdslxsh, Adeyinka Bankole-Ojo - Yellow"
- },
- {
-  "q": "a=qjdnsw&b=nCEuT91UAcg&p=y&y=1988",
-  "s": "The Beach Boys - Kokomo"
  },
  {
   "q": "a=qjay3k&b=NA48_XQcuwc&p=y&y=2018",
@@ -1452,10 +1432,6 @@
   "s": "Biosphere - Birds Fly by Flapping Their Wings"
  },
  {
-  "q": "a=qiozn0&b=rquygdjf0d8&p=y&y=1977",
-  "s": "The Brothers Johnson - Strawberry Letter 23"
- },
- {
   "q": "a=qioxj5&b=NQI_lRWWaTE&p=y&y=2002",
   "s": "Bonobo - The Shark"
  },
@@ -1481,7 +1457,7 @@
  },
  {
   "q": "a=qik5ad&b=5b6QsZ3Y5ls&p=y&y=2006",
-  "s": "Luminary 'Dark Eyes' (Funabashi Presents Tom Porcell Remix)"
+  "s": "Tom Porcell, Funabashi, Luminary - Dark Eyes (remix)"
  },
  {
   "q": "a=qij986&b=kxlkoepWbPs&p=y&y=2015",
@@ -1498,10 +1474,6 @@
  {
   "q": "a=qidsq9&b=bQTGhqEHFdY&p=y&y=2002",
   "s": "Bonobo - Scuba"
- },
- {
-  "q": "a=qibk3g&b=uSmdG8SjHpo&p=y&y=1998",
-  "s": "Garbage - Push It"
  },
  {
   "q": "a=qi936q&b=B0R14OCTuUc&p=y&y=2001",
@@ -1549,7 +1521,7 @@
  },
  {
   "q": "a=qhoy9h&b=8x0KuyITekw&p=y&y=2011",
-  "s": "Audiofly feat. Fiora - 6 Degrees (Tale Of Us Remix)"
+  "s": "Audiofly, Fiora - 6 Degrees (Tale Of Us Remix)"
  },
  {
   "q": "a=qhnveb&b=uPSkBwXDP9Q&p=y&y=2007",
@@ -1652,14 +1624,6 @@
   "s": "Yello - Oh Yeah"
  },
  {
-  "q": "a=qgavxo&b=RKhKt8VSzK0&p=y&y=2011",
-  "s": "Elaquent, Marv Won - Ready To Go"
- },
- {
-  "q": "a=qgavvm&b=kK5xIvwtw2Q&p=y&y=2011",
-  "s": "Elaquent - Raspberry Smootie"
- },
- {
   "q": "a=qgaqo2&b=PqW6tWDNU1I&p=y&y=2005",
   "s": "The Crystal Method - Vice"
  },
@@ -1681,7 +1645,7 @@
  },
  {
   "q": "a=qg5w7y&b=FuJDNYT3n0w&p=y&y=1989",
-  "s": "The B-52's - Roam"
+  "s": "The B-52s - Roam"
  },
  {
   "q": "a=qg5rni&b=ub0uFRLM8VY&p=y&y=2011",
@@ -2189,7 +2153,7 @@
  },
  {
   "q": "a=qai0vv&b=N6fFlS3gFGc&p=y&y=2006",
-  "s": "Mark Norman ft. Celine - Colour My Eyes"
+  "s": "Mark Norman, Celine - Colour My Eyes"
  },
  {
   "q": "a=qahwfs&b=RpFT1G1H-p4&p=y&y=2016",
@@ -2205,7 +2169,7 @@
  },
  {
   "q": "a=qag7uu&b=uRxVV9b7_8I&p=y&y=2001",
-  "s": "Bjork - Aurora"
+  "s": "Björk - Aurora"
  },
  {
   "q": "a=qae7p5&b=NdZOLkSiZTs&p=y&y=2001",
@@ -2538,10 +2502,6 @@
  {
   "q": "a=q6t46c&b=qSHjsZIsQoI&p=y&y=2017",
   "s": "Harrison BDP - Decompression"
- },
- {
-  "q": "a=q6t1gm&b=f-uuWx-X3Xg&p=y&y=2018",
-  "s": "Matthieu Faubourg - Please, Stay"
  },
  {
   "q": "a=q6g367&b=bpiuqMkuWL4&p=y&y=2013",
@@ -3014,10 +2974,6 @@
  {
   "q": "a=pxcx7j&b=WtKxEmuSxBc&p=y&y=1985",
   "s": "Level 42 - Something About You"
- },
- {
-  "q": "a=pxb1j7&b=UrGw_cOgwa8&p=y&y=1988",
-  "s": "Robert Palmer - Simply Irresistible"
  },
  {
   "q": "a=px975u&b=8MUg8mpnhvQ&p=y&y=1989",
