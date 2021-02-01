@@ -1,5 +1,17 @@
 [
 {
+ "q": "a=qntrms&b=qjfDChTRCOk&p=y&y=1999",
+ "s": "Matt Darey presents Lost Tribe - Gamemaster (Original Mix)"
+},
+{
+ "q": "a=qntpvg&b=LEmXqugZKA0&p=y&y=2014",
+ "s": "Koda & Bijou - Waking"
+},
+{
+ "q": "a=qntjgs&b=B6iLj4_SUZs&p=y&y=2006",
+ "s": "Frontera, Sophie Barker - A Baia"
+},
+{
  "q": "a=qntgz7&b=sAaOn9Ew7bc&p=y&y=1999",
  "s": "Nightmares on Wax - Morse"
 },
@@ -609,19 +621,19 @@
  },
  {
   "q": "a=ql3vj9&b=2TOZwZIgPtI&p=y&y=2002",
-  "s": "The Legendary Hero - The Legend of Zelda: The Wind Waker"
+  "s": "Koji Kondo - Legend of Zelda Wind Waker - The Legendary Hero"
  },
  {
   "q": "a=ql3u5u&b=uS7T01gAsB0&p=y&y=1998",
-  "s": "Zora's Domain - Zelda Ocarina of Time"
+  "s": "Koji Kondo - Zelda Ocarina of Time - Zora's Domain"
  },
  {
   "q": "a=ql3u46&b=VDdLouyhvNA&p=y&y=1998",
-  "s": "Inside the Deku Tree - Zelda Ocarina of Time"
+  "s": "Koji Kondo - Zelda Ocarina of Time - Inside the Deku Tree"
  },
  {
   "q": "a=ql3tw3&b=1Qf4OJdBR_4&p=y&y=1998",
-  "s": "Windmill Hut Song of Storms - Zelda Ocarina of Time"
+  "s": "Koji Kondo - Zelda Ocarina of Time - Windmill Hut Song of Storms"
  },
  {
   "q": "a=ql3tu8&b=qzg2XNDKVQo&p=y&y=1998",
@@ -629,11 +641,11 @@
  },
  {
   "q": "a=ql3tsc&b=3HZ4iyVXvdo&p=y&y=1998",
-  "s": "Kakariko Village - Zelda Ocarina of Time"
+  "s": "Koji Kondo - Zelda Ocarina of Time - Kakariko Village"
  },
  {
   "q": "a=ql3tq6&b=mBkwIcpyXzE&p=y&y=1998",
-  "s": "Great Fairy Fountain - Zelda Ocarina of Time"
+  "s": "Koji Kondo - Zelda Ocarina of Time - Great Fairy Fountain"
  },
  {
   "q": "a=ql32dr&b=9uWwvQKGjLI&p=y&y=1998",
@@ -1361,7 +1373,7 @@
  },
  {
   "q": "a=qj1up7&b=VVutHzGMTmM&p=y&y=2016",
-  "s": "Luca Musto feat. Louve - Situations"
+  "s": "Luca Musto, Louve - Situations"
  },
  {
   "q": "a=qj1u3k&b=ZJlmDdMDLnE&p=y&y=2004",
@@ -1370,10 +1382,6 @@
  {
   "q": "a=qj1tec&b=chaMieRaNEw&p=y&y=2004",
   "s": "Aya - Looking for the Sun"
- },
- {
-  "q": "a=qj1s0y&b=LxK5Ocehj10&p=y&y=2008",
-  "s": "Frontera, Sophie Barker - A Baia"
  },
  {
   "q": "a=qj1oxl&b=6_lMeEMMbyY&p=y&y=2012",
@@ -1505,7 +1513,7 @@
  },
  {
   "q": "a=qhui6f&b=KbqzJYml520&c=hqdefault&p=y&y=2006",
-  "s": "0=2 - Omar Rodriguez Lopez & John Frusciante"
+  "s": "John Frusciante, Omar Rodriguez Lopez - 0=2"
  },
  {
   "q": "a=qhu3n3&b=nmLJgh6yyoE&p=y&y=1984",
@@ -1569,7 +1577,7 @@
  },
  {
   "q": "a=qhaevy&b=awHWColYQ90&p=y&y=2010",
-  "s": "Arcade Fire presents Sprawl II (Mountains Beyond Mountains)"
+  "s": "Arcade Fire - Sprawl II (Mountains Beyond Mountains)"
  },
  {
   "q": "a=qh9sw8&b=m0wVqkt7ND8&p=y&y=1986",
@@ -1620,10 +1628,6 @@
   "s": "Whitney Houston - All The Man That I Need"
  },
  {
-  "q": "a=qgbly8&b=6jJkdRaa04g&p=y&y=1987",
-  "s": "Yello - Oh Yeah"
- },
- {
   "q": "a=qgaqo2&b=PqW6tWDNU1I&p=y&y=2005",
   "s": "The Crystal Method - Vice"
  },
@@ -1660,16 +1664,12 @@
   "s": "Above & Beyond, Gemma Hayes - Counting Down The Days (Yotto Remix)"
  },
  {
-  "q": "a=qftxb3&b=rl4IaDOxKD8&p=y&y=2014",
-  "s": "Wave Racer - Streamers"
- },
- {
   "q": "a=qfmry0&b=326955395&c=artworks-4CwDlPJLP6aa-0&p=s&y=2017",
   "s": "Ulrich Schnauss, Quaeschning - Thirst"
  },
  {
   "q": "a=qfi7ex&b=318418506&c=artworks-000218459303-4efwpg&p=s&y=2017",
-  "s": "Ulrich Schnauss & Jonas Munk - Anywhere But Here"
+  "s": "Ulrich Schnauss, Jonas Munk - Anywhere But Here"
  },
  {
   "q": "a=qffa7p&b=2zPxY5WGG1E&p=y&y=2019",
@@ -1677,7 +1677,7 @@
  },
  {
   "q": "a=qfb9s4&b=303635800&c=artworks-000203801911-913min&p=s&y=2017",
-  "s": "Ulrich Schnauss & Jonas Munk - Ao Hinode"
+  "s": "Ulrich Schnauss, Jonas Munk - Ao Hinode"
  },
  {
   "q": "a=qf8ok5&b=373749662&c=artworks-000274452884-0autyr&p=s&y=2017",
@@ -1713,7 +1713,7 @@
  },
  {
   "q": "a=qdvjz3&b=GyjPTu538rk&p=y&y=2017",
-  "s": "ULRICH SCHNAUSS/JONAS MUNK - COASTAL PATH"
+  "s": "ULRICH SCHNAUSS, JONAS MUNK - COASTAL PATH"
  },
  {
   "q": "a=qdqwjj&b=wlc7cikBpg4&p=y&y=1998",
@@ -1737,7 +1737,7 @@
  },
  {
   "q": "a=qdbira&b=oB3WrodLKCg&c=sd1&p=y&y=1999",
-  "s": "Emiliana Torrini - Summerbreeze"
+  "s": "Emilíana Torrini - Summerbreeze"
  },
  {
   "q": "a=qdbibp&b=mYMr7OPTUDs&p=y&y=2009",
@@ -1917,7 +1917,7 @@
  },
  {
   "q": "a=qcchr4&b=PfCOfDgcLPs&p=y&y=1999",
-  "s": "Emiliana Torrini - Easy"
+  "s": "Emilíana Torrini - Easy"
  },
  {
   "q": "a=qcchfz&b=OtqTfy26tG0&p=y&y=2002",
@@ -1957,7 +1957,7 @@
  },
  {
   "q": "a=qc79a5&b=Dvp3Syr9YaM&p=y&y=1995",
-  "s": "Lisa Loeb & Nine Stories - It's Over"
+  "s": "Lisa Loeb, Nine Stories - It's Over"
  },
  {
   "q": "a=qc711q&b=QQlSYlL--_Q&p=y&y=2007",
@@ -2009,7 +2009,7 @@
  },
  {
   "q": "a=qbx397&b=x5GG_fr8WyM&p=y&y=1993",
-  "s": "Smashing Pumpkins - Disarm"
+  "s": "The Smashing Pumpkins - Disarm"
  },
  {
   "q": "a=qbx2dq&b=wFOro1X-Krc&p=y&y=2019",
@@ -2061,7 +2061,7 @@
  },
  {
   "q": "a=qbn3xs&b=OodNAJCOaos&p=y&y=2018",
-  "s": "Brandi Carlile Covers Crosby, Stills, & Nash’s “Helplessly Hoping” Live on the Stern Show"
+  "s": "Brandi Carlile - Helplessly Hoping Live on the Stern Show"
  },
  {
   "q": "a=qbmozy&b=z0tZqG_WaUc&p=y&y=1986",
@@ -2209,7 +2209,7 @@
  },
  {
   "q": "a=qa3ihy&b=zmJVMxMuVeo&p=y&y=2015",
-  "s": "Boom Jinx & Meredith Call - Bring Me Back Around (Original Mix)"
+  "s": "Boom Jinx, Meredith Call - Bring Me Back Around (Original Mix)"
  },
  {
   "q": "a=qa32xx&b=QczMmINFYqY&p=y&y=2017",
@@ -2693,7 +2693,7 @@
  },
  {
   "q": "a=q4oopp&b=mKjLxwOhIGg&p=y&y=2007",
-  "s": "Cinematic Orchestra - Music Box"
+  "s": "The Cinematic Orchestra - Music Box"
  },
  {
   "q": "a=q4oomz&b=tVCUAXOBF7w&p=y&y=1989",
@@ -4033,7 +4033,7 @@
  },
  {
   "q": "a=phorpm&b=hFCB3O17xyU&p=y&y=2018",
-  "s": "Dee Montero feat. Meliha - Headspace"
+  "s": "Dee Montero, Meliha - Headspace"
  },
  {
   "q": "a=phoofh&b=DvdeE6KzrTc&p=y&y=1996",
@@ -4064,10 +4064,6 @@
   "s": "Amy Grant - Baby, Baby"
  },
  {
-  "q": "a=pggmrl&b=WY1spB1J0vw&p=y&y=1995",
-  "s": "Bruce Springsteen - Secret Garden"
- },
- {
   "q": "a=pg08am&b=61PK3wPvBg0&p=y&y=2016",
   "s": "Roosevelt - Night Moves"
  },
@@ -4076,16 +4072,12 @@
   "s": "Natalie Imbruglia - Wrong Impression"
  },
  {
-  "q": "a=pf794d&b=llzys4Z_7K4&p=y&y=2003",
-  "s": "Husky Rescue - New Light of Tomorrow (Evil 9 Remix)"
- },
- {
   "q": "a=petjsv&b=511eYMXvP-s&p=y&y=2002",
   "s": "Howard Shore - Edoras"
  },
  {
   "q": "a=peteja&b=T6aLBgPtIYQ&p=y&y=2006",
-  "s": "CJ Stone, Tamara Rhodes - City Lights (Tatana remix)"
+  "s": "DJ Tatana, CJ Stone, Tamara Rhodes - City Lights (remix)"
  },
  {
   "q": "a=pe15wd&b=h-R8RLFDo9M&p=y&y=1985",
@@ -4117,11 +4109,7 @@
  },
  {
   "q": "a=pc8cgt&b=aG2FdZTYBr0&p=y&y=2004",
-  "s": "Angel City, Lara McAllen - Love Me Right (Smith & Pledger remix)"
- },
- {
-  "q": "a=pbvl0p&b=220721042&c=artworks-000127382791-r1bx2x&p=s&y=2015",
-  "s": "Daniel John Jones - Windows 95 Startup Sound (slowed 4000%)"
+  "s": "Smith & Pledger, Angel City, Lara McAllen - Love Me Right (remix)"
  },
  {
   "q": "a=pbvh7j&b=djxapPHGrGc&p=y&y=2018",
@@ -4412,10 +4400,6 @@
   "s": "The Black Dog - Ghost Vexations"
  },
  {
-  "q": "a=p9pt8c&b=G_2TKQV7CjU&p=y&y=1999",
-  "s": "Lost Tribe - Gamemaster"
- },
- {
   "q": "a=p9pszt&b=tArdmbr_znI&p=y&y=2006",
   "s": "Ratatat - Wildcat"
  },
@@ -4449,7 +4433,7 @@
  },
  {
   "q": "a=p9el7c&b=SyI6aABVOt4&p=y&y=2003",
-  "s": "Motorcycle - As the Rush Comes (Gabriel & Dresden Chillout mix)"
+  "s": "Gabriel & Dresden, Motorcycle - As the Rush Comes (chillout mix)"
  },
  {
   "q": "a=p9ecul&b=7mciS2U_MwY&p=y&y=2003",
@@ -4912,10 +4896,6 @@
   "s": "Pearl Jam - Daughter"
  },
  {
-  "q": "a=p38e8i&b=gsJitFDs1ZQ&p=y&y=1991",
-  "s": "My Bloody Valentine - Soon"
- },
- {
   "q": "a=p385qp&b=1hA07IJnWhY&p=y&y=2002",
   "s": "Paul Oakenfold, Asher D - Ready Steady Go"
  },
@@ -5138,10 +5118,6 @@
  {
   "q": "a=ozfmpm&b=kptfX4C-isM&p=y&y=2016",
   "s": "Flamingosis - Getting Close to You"
- },
- {
-  "q": "a=oze45m&b=iSidMlqiLJo&p=y&y=2017",
-  "s": "Lost Desert - Yume"
  },
  {
   "q": "a=oze3p5&b=cLrI_uyyORQ&p=y&y=2015",
@@ -5386,10 +5362,6 @@
  {
   "q": "a=ordxi4&b=pacUC1YK8Ac&p=y&y=1996",
   "s": "OutKast - Elevators (Me & You)"
- },
- {
-  "q": "a=orc1vl&b=IuoNj7rOeeo&p=y&y=1989",
-  "s": "Stevie Ray Vaughan, Double Trouble - Crossfire"
  },
  {
   "q": "a=oqdsmn&b=l1pXILI-_Xw&p=y&y=2001",
@@ -5638,10 +5610,6 @@
  {
   "q": "a=omgxzk&b=ROTM6bsip3s&p=y&y=2007",
   "s": "Groove Armada - From the Rooftops"
- },
- {
-  "q": "a=om7u6o&b=6PqzKYAnOwo&p=y&y=2013",
-  "s": "Koda, Bijou - Waking"
  },
  {
   "q": "a=olusf2&b=_aYBcRvEexY&p=y&y=2006",
