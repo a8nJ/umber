@@ -1,6 +1,6 @@
 'use strict';
 import {backblaze} from '/umber/js/backblaze.js';
-import {date} from '/umber/js/date.js';
+import {getDate} from '/umber/js/date.js';
 import {soundcloud} from '/umber/js/soundcloud.js';
 import {youtube} from '/umber/js/youtube.js';
 
@@ -25,8 +25,8 @@ function data(table) {
    const older = document.getElementById('older');
    const oldIndex = begin + page;
    if (oldIndex < table.length) {
-      const param = new URLSearchParams(table[oldIndex].q);
-      search.set('a', param.get('a'));
+      const par = new URLSearchParams(table[oldIndex].q);
+      search.set('a', par.get('a'));
       older.href = '?' + search.toString();
    } else {
       older.remove();
@@ -34,8 +34,8 @@ function data(table) {
    const newer = document.getElementById('newer');
    const newIndex = begin - page;
    if (newIndex >= 0) {
-      const param = new URLSearchParams(table[newIndex].q);
-      search.set('a', param.get('q'));
+      const par = new URLSearchParams(table[newIndex].q);
+      search.set('a', par.get('q'));
       newer.href = '?' + search.toString();
    } else {
       newer.remove();
@@ -44,15 +44,15 @@ function data(table) {
 
 function figure(row) {
    // part 1
-   const param = new URLSearchParams(row.q);
+   const par = new URLSearchParams(row.q);
    const temp = document.querySelector('#temp');
    // part 2
-   const alfa = param.get('a');
+   const alfa = par.get('a');
    const figure = temp.content.cloneNode(true);
    const time = figure.querySelector('time');
-   time.textContent = 'released ' + param.get('y') + ' - posted ' + date(alfa);
+   time.textContent = 'released ' + par.get('y') + ' - posted ' + getDate(alfa);
    // part 3
-   const attr = hrefSrc(param);
+   const attr = hrefSrc(par);
    const figA = figure.querySelector('a');
    const figcapA = figure.querySelector('figcaption a');
    const img = figure.querySelector('img');
@@ -70,27 +70,27 @@ function getBegin(search, table) {
       return 0;
    }
    for (const [n, row] of table.entries()) {
-      const param = new URLSearchParams(row.q);
-      const alfa = param.get('a');
+      const par = new URLSearchParams(row.q);
+      const alfa = par.get('a');
       // account for deleted entries
       if (alfa <= search.get('a')) {
-         document.title = 'Umber - ' + date(alfa);
+         document.title = 'Umber - ' + getDate(alfa);
          return n;
       }
    }
    return 0;
 }
 
-function hrefSrc(param) {
-   switch (param.get('p')) {
+function hrefSrc(par) {
+   switch (par.get('p')) {
    case 'm4a':
    case 'mp3':
    case 'mp4':
-      return backblaze(param);
+      return backblaze(par);
    case 's':
-      return soundcloud(param);
+      return soundcloud(par);
    default:
-      return youtube(param);
+      return youtube(par);
    }
 }
 
