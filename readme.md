@@ -16,9 +16,10 @@ Steven Penny
 
 **Links**:
 
-- <https://ampl.fi>
-- <https://gorillavsbear.net>
-- <https://internet4000.com>
-- <https://jellyfin.org>
-- <https://pitchfork.com>
-- <https://remixrotation.com>
+- https://ampl.fi
+- https://developers.cloudflare.com/distributed-web/ipfs-gateway/connecting-website
+- https://gorillavsbear.net
+- https://jellyfin.org
+- https://pitchfork.com
+- https://radio4000.com
+- https://remixrotation.com

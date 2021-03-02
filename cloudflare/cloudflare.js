@@ -1,5 +1,6 @@
 'use strict';
 import {getDate} from '/umber/js/date.js';
+import {hash} from '/umber/js/cloudflare.js';
 
 function json(resp) {
    return resp.json();
@@ -20,9 +21,9 @@ function listen(table) {
    const src = row.q.get('a');
    const vid = document.getElementById('vid');
    const date = document.getElementById('date');
-   const path = 'https://f002.backblazeb2.com/file/ql8mlh';
+   const path = '//cloudflare-ipfs.com/ipfs/' + hash;
    document.getElementById('track').textContent = row.s;
-   document.title = row.s + ' / Backblaze player';
+   document.title = row.s + ' / Cloudflare player';
    date.textContent = 'released ' + row.q.get('y') + ' - posted ' + getDate(src);
    // need this for audio files
    vid.src = path + '/' + src + '.' + row.q.get('p');

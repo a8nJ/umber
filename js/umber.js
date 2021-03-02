@@ -1,5 +1,5 @@
 'use strict';
-import {backblaze} from '/umber/js/backblaze.js';
+import {cloudflare} from '/umber/js/cloudflare.js';
 import {getDate} from '/umber/js/date.js';
 import {soundcloud} from '/umber/js/soundcloud.js';
 import {youtube} from '/umber/js/youtube.js';
@@ -83,14 +83,12 @@ function getBegin(search, table) {
 
 function hrefSrc(par) {
    switch (par.get('p')) {
-   case 'm4a':
-   case 'mp3':
-   case 'mp4':
-      return backblaze(par);
+   case 'y':
+      return youtube(par);
    case 's':
       return soundcloud(par);
    default:
-      return youtube(par);
+      return cloudflare(par);
    }
 }
 
