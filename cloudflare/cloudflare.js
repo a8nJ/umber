@@ -16,7 +16,7 @@ function getRow(table) {
    }
 }
 
-function listen(table) {
+function player(table) {
    const row = getRow(table);
    const src = row.q.get('a');
    const vid = document.getElementById('vid');
@@ -30,4 +30,4 @@ function listen(table) {
    vid.poster = path + '/' + row.q.get('b') + '.jpg';
 }
 
-fetch('/umber/umber.json').then(json).then(listen);
+fetch('/umber/umber.json').then(json).then(player);
