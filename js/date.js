@@ -1,14 +1,19 @@
 'use strict';
 
+const fmt = [
+   {weekday: 'short'}, {month: 'short'}, {day: 'numeric'}, {year: 'numeric'}
+];
+
 export function getDate(id) {
    const parse = parseInt(id, 36);
    const date = new Date(parse * 1000);
-   const fmt = new Intl.DateTimeFormat('en', {
-      day: 'numeric', month: 'short', weekday: 'short', year: 'numeric'
-   });
-   const parts = (acc, cur) => {
-      return {...acc, [cur.type]: cur.value};
-   };
-   const m = fmt.formatToParts(date).reduce(parts, {});
-   return [m.weekday, m.month, m.day, m.year].join(' ');
+   return join(date, fmt, ' ');
+}
+
+function join(t, a, s) {
+   function format(m) {
+      let f = new Intl.DateTimeFormat('en', m);
+      return f.format(t);
+   }
+   return a.map(format).join(s);
 }

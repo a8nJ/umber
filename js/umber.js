@@ -10,10 +10,11 @@ function data(table) {
    const search = new URLSearchParams(location.search);
    // 1. filter
    if (search.has('s')) {
-      table = table.filter(
+      function filter(row) {
          // for now, just match one the artist, album and song.
-         row => RegExp(search.get('s'), 'i').test(row.s)
-      );
+         return RegExp(search.get('s'), 'i').test(row.s);
+      }
+      table = table.filter(filter);
    }
    // 2. slice
    const begin = getBegin(search, table);
