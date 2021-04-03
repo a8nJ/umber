@@ -36,7 +36,7 @@ function data(table) {
    const newIndex = begin - page;
    if (newIndex >= 0) {
       const par = new URLSearchParams(table[newIndex].q);
-      search.set('a', par.get('q'));
+      search.set('a', par.get('a'));
       newer.href = '?' + search.toString();
    } else {
       newer.remove();
@@ -49,21 +49,28 @@ function figure(row) {
    const temp = document.querySelector('#temp');
    // part 2
    const alfa = par.get('a');
-   const figure = temp.content.cloneNode(true);
-   const time = figure.querySelector('time');
+   const clone = temp.content.cloneNode(true);
+   const time = clone.querySelector('time');
    time.textContent = 'released ' + par.get('y') + ' - posted ' + getDate(alfa);
    // part 3
    const attr = hrefSrc(par);
-   const figA = figure.querySelector('a');
-   const figcapA = figure.querySelector('figcaption a');
-   const img = figure.querySelector('img');
+   const img = clone.querySelector('img');
+   img.src = attr.src;
+   const figcap = clone.querySelector('figcaption');
+   figcap.textContent = row.s;
+   const figA = clone.querySelector('a');
    figA.href = attr.href;
    figA.target = '_blank';
-   figcapA.href = attr.href;
-   figcapA.target = '_blank';
-   figcapA.textContent = row.s;
-   img.src = attr.src;
-   return figure;
+   if (localStorage.getItem(attr.href) === null) {
+      // cover click on desktop and long press on mobile
+      figA.onclick = figA.oncontextmenu = function () {
+         localStorage.setItem(this.href, '');
+         this.parentNode.style.color = 'hsl(270, 100%, 50%)';
+      };
+   } else {
+      figA.parentNode.style.color = 'hsl(270, 100%, 50%)';
+   }
+   return clone;
 }
 
 function getBegin(search, table) {

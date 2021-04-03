@@ -17,7 +17,6 @@ Steven Penny
 **Links**:
 
 - https://ampl.fi
-- https://developers.cloudflare.com/distributed-web/ipfs-gateway/connecting-website
 - https://gorillavsbear.net
 - https://jellyfin.org
 - https://pitchfork.com
