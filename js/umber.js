@@ -12,7 +12,7 @@ function data(table) {
    if (search.has('s')) {
       function filter(row) {
          // for now, just match one the artist, album and song.
-         return RegExp(search.get('s'), 'i').test(row.s);
+         return RegExp(search.get('s'), 'i').test(row.S);
       }
       table = table.filter(filter);
    }
@@ -26,7 +26,7 @@ function data(table) {
    const older = document.getElementById('older');
    const oldIndex = begin + page;
    if (oldIndex < table.length) {
-      const par = new URLSearchParams(table[oldIndex].q);
+      const par = new URLSearchParams(table[oldIndex].Q);
       search.set('a', par.get('a'));
       older.href = '?' + search.toString();
    } else {
@@ -35,7 +35,7 @@ function data(table) {
    const newer = document.getElementById('newer');
    const newIndex = begin - page;
    if (newIndex >= 0) {
-      const par = new URLSearchParams(table[newIndex].q);
+      const par = new URLSearchParams(table[newIndex].Q);
       search.set('a', par.get('a'));
       newer.href = '?' + search.toString();
    } else {
@@ -45,7 +45,7 @@ function data(table) {
 
 function figure(row) {
    // part 1
-   const par = new URLSearchParams(row.q);
+   const par = new URLSearchParams(row.Q);
    const temp = document.querySelector('#temp');
    // part 2
    const alfa = par.get('a');
@@ -57,7 +57,7 @@ function figure(row) {
    const img = clone.querySelector('img');
    img.src = attr.src;
    const figcap = clone.querySelector('figcaption');
-   figcap.textContent = row.s;
+   figcap.textContent = row.S;
    const figA = clone.querySelector('a');
    figA.href = attr.href;
    figA.target = '_blank';
@@ -78,7 +78,7 @@ function getBegin(search, table) {
       return 0;
    }
    for (const [n, row] of table.entries()) {
-      const par = new URLSearchParams(row.q);
+      const par = new URLSearchParams(row.Q);
       const alfa = par.get('a');
       // account for deleted entries
       if (alfa <= search.get('a')) {
