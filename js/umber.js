@@ -1,5 +1,5 @@
 'use strict';
-import {cloudflare} from '/umber/js/cloudflare.js';
+import {backblaze} from '/umber/js/backblaze.js';
 import {getDate} from '/umber/js/date.js';
 import {soundcloud} from '/umber/js/soundcloud.js';
 import {youtube} from '/umber/js/youtube.js';
@@ -96,7 +96,7 @@ function hrefSrc(par) {
    case 's':
       return soundcloud(par);
    default:
-      return cloudflare(par);
+      return backblaze(par);
    }
 }
 
