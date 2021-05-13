@@ -53,7 +53,7 @@ function figure(row) {
    const time = clone.querySelector('time');
    time.textContent = 'released ' + par.get('y') + ' - posted ' + getDate(alfa);
    // part 3
-   const attr = hrefSrc(par);
+   const attr = hrefSrc(par, row.S);
    const img = clone.querySelector('img');
    img.src = attr.src;
    const figcap = clone.querySelector('figcaption');
@@ -89,14 +89,14 @@ function getBegin(search, table) {
    return 0;
 }
 
-function hrefSrc(par) {
-   switch (par.get('p')) {
+function hrefSrc(q, s) {
+   switch (q.get('p')) {
    case 'y':
-      return youtube(par);
+      return youtube(q);
    case 's':
-      return soundcloud(par);
+      return soundcloud(q);
    default:
-      return backblaze(par);
+      return backblaze(q, s);
    }
 }
 
