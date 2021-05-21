@@ -1,5 +1,6 @@
 'use strict';
-const bucket = 'https://f002.backblazeb2.com/file/ql8mlh/';
+// Friendly URL does not cache
+const bucket = 'https://ql8mlh.s3.us-west-002.backblazeb2.com/';
 
 export function backblaze(q, s) {
    return {
