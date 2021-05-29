@@ -49,9 +49,6 @@ main {
 h1 {
    font-size: 3rem;
 }
-main {
-   font-size: large;
-}
 footer {
    font-size: xx-large;
 }
@@ -106,11 +103,20 @@ figure > a {
 input {
    text-align: center;
 }
+th {
+   text-align: start;
+}
 a {
    text-decoration: none;
 }
 input {
    vertical-align: middle;
+}
+td.view {
+   width: 30%;
+}
+table {
+   width: 100%;
 }
 img {
    width: calc(var(--height) * 16 / 9);

@@ -26,8 +26,8 @@ function data(table) {
    const older = document.getElementById('older');
    const oldIndex = begin + page;
    if (oldIndex < table.length) {
-      const par = new URLSearchParams(table[oldIndex].Q);
-      search.set('a', par.get('a'));
+      const sp = new URLSearchParams(table[oldIndex].Q);
+      search.set('a', sp.get('a'));
       older.href = '?' + search.toString();
    } else {
       older.remove();
@@ -35,8 +35,8 @@ function data(table) {
    const newer = document.getElementById('newer');
    const newIndex = begin - page;
    if (newIndex >= 0) {
-      const par = new URLSearchParams(table[newIndex].Q);
-      search.set('a', par.get('a'));
+      const sp = new URLSearchParams(table[newIndex].Q);
+      search.set('a', sp.get('a'));
       newer.href = '?' + search.toString();
    } else {
       newer.remove();
@@ -44,32 +44,45 @@ function data(table) {
 }
 
 function figure(row) {
-   // part 1
-   const par = new URLSearchParams(row.Q);
-   const temp = document.querySelector('#temp');
-   // part 2
-   const alfa = par.get('a');
+   // search params
+   const sp = new URLSearchParams(row.Q);
+   const temp = document.querySelector('template');
+   // a ID
+   const aID = sp.get('a');
    const clone = temp.content.cloneNode(true);
-   const time = clone.querySelector('time');
-   time.textContent = 'released ' + par.get('y') + ' - posted ' + getDate(alfa);
-   // part 3
-   const attr = hrefSrc(par, row.S);
+   const attr = hrefSrc(sp, row.S);
+   // a
+   const anc = clone.querySelector('a');
+   anc.target = '_blank';
+   anc.href = attr.href;
+   // img
    const img = clone.querySelector('img');
    img.src = attr.src;
-   const figcap = clone.querySelector('figcaption');
-   figcap.textContent = row.S;
-   const figA = clone.querySelector('a');
-   figA.href = attr.href;
-   figA.target = '_blank';
-   if (localStorage.getItem(attr.href) === null) {
-      // cover click on desktop and long press on mobile
-      figA.onclick = figA.oncontextmenu = function () {
-         localStorage.setItem(this.href, '');
-         this.parentNode.style.color = 'hsl(270, 100%, 50%)';
-      };
+   // thead
+   const thead = clone.querySelector('thead td');
+   thead.textContent = row.S;
+   // tbody .release
+   const rel = clone.querySelector('.release');
+   rel.textContent = sp.get('y');
+   // tbody .post
+   const post = clone.querySelector('.post');
+   post.textContent = getDate(aID);
+   // views
+   const tdView = clone.querySelector('td.view');
+   const thView = clone.querySelector('th.view');
+   const view = localStorage.getItem(anc.href);
+   if (view !== null) {
+      tdView.textContent = view;
    } else {
-      figA.parentNode.style.color = 'hsl(270, 100%, 50%)';
+      thView.style.display = tdView.style.display = 'none';
    }
+   // desktop and mobile
+   anc.onclick = anc.oncontextmenu = function() {
+      let val = localStorage.getItem(this.href);
+      localStorage.setItem(this.href, Number(val) + 1);
+      thView.style.display = tdView.style.display = '';
+      tdView.textContent = Number(val) + 1;
+   };
    return clone;
 }
 
@@ -78,11 +91,11 @@ function getBegin(search, table) {
       return 0;
    }
    for (const [n, row] of table.entries()) {
-      const par = new URLSearchParams(row.Q);
-      const alfa = par.get('a');
+      const sp = new URLSearchParams(row.Q);
+      const aID = sp.get('a');
       // account for deleted entries
-      if (alfa <= search.get('a')) {
-         document.title = 'Umber - ' + getDate(alfa);
+      if (aID <= search.get('a')) {
+         document.title = 'Umber - ' + getDate(aID);
          return n;
       }
    }
