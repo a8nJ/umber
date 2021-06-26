@@ -1,5 +1,9 @@
 [
  {
+  "Q": "a=qvbnyl&b=5SUcLAH5ngM&p=y&y=2002",
+  "S": "Moby - Extreme Ways"
+ },
+ {
   "Q": "a=qv7q0b&b=k0W_ybghFzg&p=y&y=1988",
   "S": "U2 - All I Want Is You"
  },
@@ -56,7 +60,7 @@
   "S": "Bonobo - Dismantling Frank"
  },
  {
-  "Q": "a=qse0ll&b=_ETl-hlOCBk&p=y&y=2011",
+  "Q": "a=qse0ll&b=_ETl-hlOCBk&c=sddefault.jpg&p=y&y=2011",
   "S": "Jeremy Soule - Elder Srolls III Morrowind - Shed Your Travails"
  },
  {
@@ -184,7 +188,7 @@
   "S": "The Sundays - She"
  },
  {
-  "Q": "a=qp7owe&b=i9HGwRbMiVY&c=sd1&p=y&y=1994",
+  "Q": "a=qp7owe&b=i9HGwRbMiVY&c=sd1.webp&p=y&y=1994",
   "S": "Lisa Loeb - Stay (I Missed You)"
  },
  {
@@ -256,7 +260,7 @@
   "S": "Tom Waits - Blue Valentines"
  },
  {
-  "Q": "a=qo3brx&b=3x6Ersk_Q98&p=y&y=1994",
+  "Q": "a=qo3brx&b=3x6Ersk_Q98&c=sddefault.jpg&p=y&y=1994",
   "S": "Harold Budd, Andy Partridge - Great Valley of Gongs"
  },
  {
@@ -352,7 +356,7 @@
   "S": "U2 - Bad"
  },
  {
-  "Q": "a=qn9k9a&b=bEeaS6fuUoA&p=y&y=1977",
+  "Q": "a=qn9k9a&b=bEeaS6fuUoA&c=sddefault.jpg&p=y&y=1977",
   "S": "Bill Withers - Lovely Day"
  },
  {
@@ -392,7 +396,7 @@
   "S": "The xx - Stars"
  },
  {
-  "Q": "a=qn7spm&b=83nQz4JCk1s&p=y&y=2002",
+  "Q": "a=qn7spm&b=83nQz4JCk1s&c=sddefault.jpg&p=y&y=2002",
   "S": "Jeremy Soule - Elder Srolls Morrowind - Silt Sunrise"
  },
  {
@@ -460,7 +464,7 @@
   "S": "Cocteau Twins - Sultitan Itan"
  },
  {
-  "Q": "a=qn208h&b=vRI2u1v4uCM&p=y&y=2009",
+  "Q": "a=qn208h&b=vRI2u1v4uCM&c=sddefault.jpg&p=y&y=2009",
   "S": "Bibio - lovers' carvings"
  },
  {
@@ -528,7 +532,7 @@
   "S": "Massive Attack - Pray For Rain"
  },
  {
-  "Q": "a=qm212x&b=FzZP3IWmTv0&p=y&y=2002",
+  "Q": "a=qm212x&b=FzZP3IWmTv0&c=sddefault.jpg&p=y&y=2002",
   "S": "Jeremy Soule - Elder Srolls Morrowind - Blessing of Vivec"
  },
  {
@@ -540,7 +544,7 @@
   "S": "Dave Matthews Band - Typical Situation"
  },
  {
-  "Q": "a=qlyydm&b=jd-qI62gNJM&p=y&y=1989",
+  "Q": "a=qlyydm&b=jd-qI62gNJM&c=sddefault.jpg&p=y&y=1989",
   "S": "Chris Isaak - Wicked Game"
  },
  {
@@ -580,7 +584,7 @@
   "S": "Fleetwood Mac - Sara"
  },
  {
-  "Q": "a=qlwf18&b=mqRo2tqXza8&p=y&y=1995",
+  "Q": "a=qlwf18&b=mqRo2tqXza8&c=sddefault.jpg&p=y&y=1995",
   "S": "The Black Dog - Shadehead"
  },
  {
@@ -604,7 +608,7 @@
   "S": "Led Zeppelin - Nobody's Fault but Mine"
  },
  {
-  "Q": "a=qluznh&b=3dW2FFkXIdM&c=sd2&p=y&y=2011",
+  "Q": "a=qluznh&b=3dW2FFkXIdM&c=sd2.webp&p=y&y=2011",
   "S": "Imogen Heap - Neglected Space"
  },
  {
@@ -760,7 +764,7 @@
   "S": "Everything But The Girl - Get Back Together"
  },
  {
-  "Q": "a=qlgcdh&b=HR432XFDUQQ&p=y&y=2011",
+  "Q": "a=qlgcdh&b=HR432XFDUQQ&c=sddefault.jpg&p=y&y=2011",
   "S": "Jeremy Soule - Elder Srolls Morrowind - Road Most Travelled"
  },
  {
@@ -952,7 +956,7 @@
   "S": "Cocteau Twins - Millimillenary"
  },
  {
-  "Q": "a=qkqblv&b=eFl32g-Ro3U&p=y&y=1984",
+  "Q": "a=qkqblv&b=eFl32g-Ro3U&c=sddefault.jpg&p=y&y=1984",
   "S": "Sade - Why Can't We Live Together"
  },
  {
@@ -1540,7 +1544,7 @@
   "S": "Four Tet - Misnomer"
  },
  {
-  "Q": "a=qjpie6&b=Dvg8oVOig6A&c=sd1&p=y&y=2009",
+  "Q": "a=qjpie6&b=Dvg8oVOig6A&c=sd1.webp&p=y&y=2009",
   "S": "Dennis de Laat - Sound Of Violence (Main Mix)"
  },
  {
@@ -1600,7 +1604,7 @@
   "S": "Incubus - Warning"
  },
  {
-  "Q": "a=qj4kq7&b=JIrm0dHbCDU&c=sd1&p=y&y=1987",
+  "Q": "a=qj4kq7&b=JIrm0dHbCDU&c=sd1.webp&p=y&y=1987",
   "S": "Depeche Mode - Strangelove"
  },
  {
@@ -1752,7 +1756,7 @@
   "S": "Jamie xx - Girl"
  },
  {
-  "Q": "a=qhui6f&b=KbqzJYml520&c=hqdefault&p=y&y=2006",
+  "Q": "a=qhui6f&b=KbqzJYml520&c=0.webp&p=y&y=2006",
   "S": "John Frusciante, Omar Rodriguez Lopez - 0=2"
  },
  {
@@ -1844,7 +1848,7 @@
   "S": "Vince Guaraldi, Bola Sete - Ginza Samba"
  },
  {
-  "Q": "a=qguxax&b=HFWKJ2FUiAQ&c=sd2&p=y&y=1984",
+  "Q": "a=qguxax&b=HFWKJ2FUiAQ&c=sd2.webp&p=y&y=1984",
   "S": "This Mortal Coil - Song To The Siren"
  },
  {
@@ -1872,7 +1876,7 @@
   "S": "The Crystal Method - Vice"
  },
  {
-  "Q": "a=qg9so1&b=15UffN8eilI&p=y&y=2014",
+  "Q": "a=qg9so1&b=15UffN8eilI&c=sddefault.jpg&p=y&y=2014",
   "S": "Ini Kamoze - Here Comes The Hotstepper"
  },
  {
@@ -2056,7 +2060,7 @@
   "S": "Massive Attack - Man Next Door"
  },
  {
-  "Q": "a=qd42n4&b=EK6R6WfKo0M&p=y&y=2016",
+  "Q": "a=qd42n4&b=EK6R6WfKo0M&c=sddefault.jpg&p=y&y=2016",
   "S": "Blood Orange - I Know"
  },
  {
@@ -2156,11 +2160,11 @@
   "S": "The Cinematic Orchestra - Burn Out"
  },
  {
-  "Q": "a=qcaj70&b=llINJR3X31A&p=y&y=2002",
+  "Q": "a=qcaj70&b=llINJR3X31A&c=sddefault.jpg&p=y&y=2002",
   "S": "Jeremy Soule - Elder Srolls Morrowind - Over the Next Hill"
  },
  {
-  "Q": "a=qcaixn&b=PIlh-wEDYTQ&p=y&y=2002",
+  "Q": "a=qcaixn&b=PIlh-wEDYTQ&c=sddefault.jpg&p=y&y=2002",
   "S": "Jeremy Soule - Elder Scrolls Morrowind - Peaceful Waters"
  },
  {
@@ -2200,7 +2204,7 @@
   "S": "Bat For Lashes - Horse And I"
  },
  {
-  "Q": "a=qc5q29&b=-5rAjOjTGtc&c=sd1&p=y&y=1994",
+  "Q": "a=qc5q29&b=-5rAjOjTGtc&c=sd1.webp&p=y&y=1994",
   "S": "Donkey Kong Country - Aquatic Ambience"
  },
  {
@@ -2232,7 +2236,7 @@
   "S": "Underworld - Crocodile"
  },
  {
-  "Q": "a=qbxezh&b=IzzpkDPetZU&p=y&y=2013",
+  "Q": "a=qbxezh&b=IzzpkDPetZU&c=sddefault.jpg&p=y&y=2013",
   "S": "Julia Holter - This Is A True Heart"
  },
  {
@@ -2632,7 +2636,7 @@
   "S": "Pearl Jam - Better Man"
  },
  {
-  "Q": "a=q8ahh6&b=Sort2m3H3dc&p=y&y=1993",
+  "Q": "a=q8ahh6&b=Sort2m3H3dc&c=sddefault.jpg&p=y&y=1993",
   "S": "AFX - .000890569"
  },
  {
@@ -2684,7 +2688,7 @@
   "S": "Miles Davis - Nuit sur les Champs-Élysées"
  },
  {
-  "Q": "a=q7d19w&b=DcY5i0W7AW8&p=y&y=2006",
+  "Q": "a=q7d19w&b=DcY5i0W7AW8&c=sddefault.jpg&p=y&y=2006",
   "S": "Leama & Moor - Waiting (Gift Silent Storm mix)"
  },
  {
@@ -2836,7 +2840,7 @@
   "S": "Radiohead - The Gloaming"
  },
  {
-  "Q": "a=q4p749&b=P0AOPRbXNjY&p=y&y=1988",
+  "Q": "a=q4p749&b=P0AOPRbXNjY&c=sddefault.jpg&p=y&y=1988",
   "S": "Pizzicato Five - Temptation Talk"
  },
  {
@@ -2872,7 +2876,7 @@
   "S": "Taeko Onuki - 4:00A.M."
  },
  {
-  "Q": "a=q4p2xq&b=r4ULXlMuJwQ&c=sd1&p=y&y=1995",
+  "Q": "a=q4p2xq&b=r4ULXlMuJwQ&c=sd1.webp&p=y&y=1995",
   "S": "Pizzicato Five - Triste"
  },
  {
@@ -3076,7 +3080,7 @@
   "S": "Marc Rebillet - DAY 29: HOME"
  },
  {
-  "Q": "a=py6aqq&b=s7fqllhtdHI&c=sd1&p=y&y=2002",
+  "Q": "a=py6aqq&b=s7fqllhtdHI&c=sd1.webp&p=y&y=2002",
   "S": "Koji Kondo - Legend of Zelda Wind Waker - Dragon Roost Island"
  },
  {
@@ -3312,7 +3316,7 @@
   "S": "Peter Gabriel - Solsbury Hill"
  },
  {
-  "Q": "a=psh2pc&b=_whk65LYHtU&p=y&y=1996",
+  "Q": "a=psh2pc&b=_whk65LYHtU&c=sddefault.jpg&p=y&y=1996",
   "S": "Sneaker Pimps - 6 Underground"
  },
  {
@@ -3320,7 +3324,7 @@
   "S": "Marc Rebillet - SORRY TO BOTHER YOU"
  },
  {
-  "Q": "a=ps542b&b=pT7pVK5q8tk&p=y&y=2007",
+  "Q": "a=ps542b&b=pT7pVK5q8tk&c=sddefault.jpg&p=y&y=2007",
   "S": "Kelly Bailey - Portal 2 - Self Esteem Fund"
  },
  {
@@ -3356,7 +3360,7 @@
   "S": "Leon Vynehall - Envelopes (chapter VI)"
  },
  {
-  "Q": "a=pqsy04&b=UzWHE32IxUc&c=sd2&p=y&y=1999",
+  "Q": "a=pqsy04&b=UzWHE32IxUc&c=sd2.webp&p=y&y=1999",
   "S": "Lenny Kravitz - American Woman"
  },
  {
@@ -3552,7 +3556,7 @@
   "S": "Beastie Boys - Ch-Check It Out"
  },
  {
-  "Q": "a=ppwl65&b=7OyytKqYjkE&c=sd1&p=y&y=2001",
+  "Q": "a=ppwl65&b=7OyytKqYjkE&c=sd1.webp&p=y&y=2001",
   "S": "The White Stripes - Dead Leaves and the Dirty Ground"
  },
  {
@@ -3760,7 +3764,7 @@
   "S": "Yes - Roundabout"
  },
  {
-  "Q": "a=ppgmav&b=KsE9iXoXB6s&c=sd1&p=y&y=2002",
+  "Q": "a=ppgmav&b=KsE9iXoXB6s&c=sd1.webp&p=y&y=2002",
   "S": "Underworld - Two Months Off"
  },
  {
@@ -3792,7 +3796,7 @@
   "S": "Massive Attack - Everywhen"
  },
  {
-  "Q": "a=pp5hum&b=0O2aH4XLbto&c=sd1&p=y&y=2009",
+  "Q": "a=pp5hum&b=0O2aH4XLbto&c=sd1.webp&p=y&y=2009",
   "S": "Ronald Jenkees - Throwing Fire"
  },
  {
@@ -3888,7 +3892,7 @@
   "S": "You Say Party - Dark Days"
  },
  {
-  "Q": "a=pmsf0w&b=C0QTaULDRXI&c=sd1&p=y&y=2016",
+  "Q": "a=pmsf0w&b=C0QTaULDRXI&c=sd1.webp&p=y&y=2016",
   "S": "Bat for Lashes - Joe’s Dream"
  },
  {
@@ -3920,7 +3924,7 @@
   "S": "Goldfrapp - Lee"
  },
  {
-  "Q": "a=pmbu4i&b=Z_BpEL1IDr4&c=sd1&p=y&y=2013",
+  "Q": "a=pmbu4i&b=Z_BpEL1IDr4&c=sd1.webp&p=y&y=2013",
   "S": "Goldfrapp - Jo"
  },
  {
@@ -3960,7 +3964,7 @@
   "S": "The Dave Brubeck Quartet - Far More Blue"
  },
  {
-  "Q": "a=plolva&b=OZbwTrrJkhc&p=y&y=2016",
+  "Q": "a=plolva&b=OZbwTrrJkhc&c=sddefault.jpg&p=y&y=2016",
   "S": "Empress Of - Woman Is a Word"
  },
  {
@@ -4016,7 +4020,7 @@
   "S": "Floating Points - For Marmish Pt. 2"
  },
  {
-  "Q": "a=pjuot4&b=eStUeLdLM6k&p=y&y=1996",
+  "Q": "a=pjuot4&b=eStUeLdLM6k&c=sddefault.jpg&p=y&y=1996",
   "S": "Adam Clayton & Larry Mullen Jr. - Mission: Impossible theme"
  },
  {
@@ -4292,7 +4296,7 @@
   "S": "Emilíana Torrini - At Least It Was"
  },
  {
-  "Q": "a=pa8i3x&b=XQ_CSrKTNn4&c=sd1&p=y&y=1994",
+  "Q": "a=pa8i3x&b=XQ_CSrKTNn4&c=sd1.webp&p=y&y=1994",
   "S": "Harold Budd, Andy Partridge - Through the Hill"
  },
  {
@@ -4428,7 +4432,7 @@
   "S": "Robin Guthrie, Harold Budd - A Minute, a Day, No More"
  },
  {
-  "Q": "a=p9roh0&b=bQS57nDormQ&c=sd1&p=y&y=2008",
+  "Q": "a=p9roh0&b=bQS57nDormQ&c=sd1.webp&p=y&y=2008",
   "S": "Oceanlab, Justine Suissa - Sirens of the Sea (Kyau vs. Albert vocal mix)"
  },
  {
@@ -4452,7 +4456,7 @@
   "S": "Ratatat - Wildcat"
  },
  {
-  "Q": "a=p9lea6&b=Aw90St_8ek0&p=y&y=2014",
+  "Q": "a=p9lea6&b=Aw90St_8ek0&c=sddefault.jpg&p=y&y=2014",
   "S": "Interpol - Everything Is Wrong"
  },
  {
@@ -4644,7 +4648,7 @@
   "S": "Björk - All Is Full of Love"
  },
  {
-  "Q": "a=p8leif&b=4OEDut3dUi0&p=y&y=2002",
+  "Q": "a=p8leif&b=4OEDut3dUi0&c=sddefault.jpg&p=y&y=2002",
   "S": "Tycho - Systems"
  },
  {
@@ -4744,7 +4748,7 @@
   "S": "Sade - Soldier of Love"
  },
  {
-  "Q": "a=p7vlpq&b=_oVI0GW-Xd4&p=y&y=1988",
+  "Q": "a=p7vlpq&b=_oVI0GW-Xd4&c=sddefault.jpg&p=y&y=1988",
   "S": "Sade - Nothing Can Come Between Us"
  },
  {
@@ -4788,7 +4792,7 @@
   "S": "Four Tet - Ribbons"
  },
  {
-  "Q": "a=p7hlp6&b=BxodZ5ODzMw&c=sd1&p=y&y=1987",
+  "Q": "a=p7hlp6&b=BxodZ5ODzMw&c=sd1.webp&p=y&y=1987",
   "S": "Pizzicato Five - They All Laughed"
  },
  {
@@ -4820,7 +4824,7 @@
   "S": "Beirut - Venice"
  },
  {
-  "Q": "a=p6xkly&b=UOxo4B3we8I&p=y&y=1993",
+  "Q": "a=p6xkly&b=UOxo4B3we8I&c=sddefault.jpg&p=y&y=1993",
   "S": "Aphex Twin - On [µ-Ziq mix]"
  },
  {
@@ -4840,7 +4844,7 @@
   "S": "Massive Attack - Live With Me"
  },
  {
-  "Q": "a=p5v3an&b=yXgRm0A4XjE&p=y&y=2016",
+  "Q": "a=p5v3an&b=yXgRm0A4XjE&c=sddefault.jpg&p=y&y=2016",
   "S": "Roosevelt - Hold On"
  },
  {
@@ -5004,7 +5008,7 @@
   "S": "Toro y Moi - So Many Details"
  },
  {
-  "Q": "a=p26xdh&b=Np_Y740aReI&c=sd1&p=y&y=1990",
+  "Q": "a=p26xdh&b=Np_Y740aReI&c=sd1.webp&p=y&y=1990",
   "S": "Madonna - Justify My Love"
  },
  {
@@ -5196,7 +5200,7 @@
   "S": "Massive Attack - Lately"
  },
  {
-  "Q": "a=oxxtqh&b=iTHO6IX3Tp8&c=sd1&p=y&y=2012",
+  "Q": "a=oxxtqh&b=iTHO6IX3Tp8&c=sd1.webp&p=y&y=2012",
   "S": "Tori Kelly - PYT by Michael Jackson (Acoustic Cover)"
  },
  {
@@ -5262,10 +5266,6 @@
  {
   "Q": "a=ovqf1g&b=B6V5ihnfSrY&p=y&y=2004",
   "S": "Above & Beyond, Tranquility Base - Surrender (Filterheadz mix)"
- },
- {
-  "Q": "a=ovq3h3&b=5hLEgEXIpik&p=y&y=2002",
-  "S": "Moby - Extreme Ways"
  },
  {
   "Q": "a=ovq307&b=9bVz6R5e8fA&p=y&y=1993",
@@ -5456,15 +5456,15 @@
   "S": "Hudson Mohawke - Star Crackout"
  },
  {
-  "Q": "a=omtb7l&b=bUetfxp8DFQ&p=y&y=2000",
+  "Q": "a=omtb7l&b=bUetfxp8DFQ&c=sddefault.jpg&p=y&y=2000",
   "S": "Savath & Savalas - F Ride + Blues"
  },
  {
-  "Q": "a=omtb6m&b=natLkJq2qc0&p=y&y=2000",
+  "Q": "a=omtb6m&b=natLkJq2qc0&c=sddefault.jpg&p=y&y=2000",
   "S": "Savath & Savalas - Conditioning"
  },
  {
-  "Q": "a=omtaxx&b=sVw0kVw4vOw&p=y&y=2000",
+  "Q": "a=omtaxx&b=sVw0kVw4vOw&c=sddefault.jpg&p=y&y=2000",
   "S": "Savath & Savalas - Binoculars"
  },
  {
@@ -5500,7 +5500,7 @@
   "S": "Robin Guthrie, Harold Budd - L’Aventure"
  },
  {
-  "Q": "a=omofvs&b=BOQX4v5c6u4&c=sd1&p=y&y=1993",
+  "Q": "a=omofvs&b=BOQX4v5c6u4&c=sd1.webp&p=y&y=1993",
   "S": "Curve - Men Are From Mars, Women Are From Venus"
  },
  {
@@ -5788,7 +5788,7 @@
   "S": "Eli & Fur - Feel the Fire (original mix)"
  },
  {
-  "Q": "a=oiwkwd&b=gvM1a72Dcqw&p=y&y=2014",
+  "Q": "a=oiwkwd&b=gvM1a72Dcqw&c=sddefault.jpg&p=y&y=2014",
   "S": "Ekkah - Last Chance to Dance"
  },
  {
@@ -5888,15 +5888,15 @@
   "S": "Matt Lange - Rift (original mix)"
  },
  {
-  "Q": "a=ogafl6&b=kpcvN7dvZ4A&p=y&y=2009",
+  "Q": "a=ogafl6&b=kpcvN7dvZ4A&c=sddefault.jpg&p=y&y=2009",
   "S": "Grizzly Bear - I Live With You - Cemetery Gates"
  },
  {
-  "Q": "a=ofgz40&b=7qlwbRkYSV0&p=y&y=2009",
+  "Q": "a=ofgz40&b=7qlwbRkYSV0&c=sddefault.jpg&p=y&y=2009",
   "S": "Burial, Four Tet - Wolf Cub"
  },
  {
-  "Q": "a=ofgyfl&b=B_D3ciMWqEQ&p=y&y=2009",
+  "Q": "a=ofgyfl&b=B_D3ciMWqEQ&c=sddefault.jpg&p=y&y=2009",
   "S": "Burial, Four Tet - Moth"
  },
  {
@@ -5904,7 +5904,7 @@
   "S": "Air - Alone in Kyoto"
  },
  {
-  "Q": "a=ofgxk3&b=Qj8z4cngKO0&p=y&y=1995",
+  "Q": "a=ofgxk3&b=Qj8z4cngKO0&c=sddefault.jpg&p=y&y=1995",
   "S": "Air - Modular Mix"
  },
  {
@@ -6036,7 +6036,7 @@
   "S": "Joni, Kate Smith - Undivided (JPL Club mix)"
  },
  {
-  "Q": "a=odd57r&b=uw8xwvKfRFE&p=y&y=1978",
+  "Q": "a=odd57r&b=uw8xwvKfRFE&c=sddefault.jpg&p=y&y=1978",
   "S": "The Rolling Stones - Miss You (Full 12″ Version)"
  },
  {
@@ -6080,7 +6080,7 @@
   "S": "Fatboy Slim - The Rockafeller Skank"
  },
  {
-  "Q": "a=oc6sck&b=FjFt9ZFo4Gc&p=y&y=1994",
+  "Q": "a=oc6sck&b=FjFt9ZFo4Gc&c=sddefault.jpg&p=y&y=1994",
   "S": "Luke Slater’s 7th Plain - Surface Bound"
  },
  {
@@ -6176,11 +6176,11 @@
   "S": "Nathaniel Méchaly - Destiny"
  },
  {
-  "Q": "a=o9fym2&b=1kLInOKlbVM&p=y&y=2000",
+  "Q": "a=o9fym2&b=1kLInOKlbVM&c=sddefault.jpg&p=y&y=2000",
   "S": "Savath & Savalas - Journey’s Homes"
  },
  {
-  "Q": "a=o9fv9n&b=-43RNMmRMzo&p=y&y=2000",
+  "Q": "a=o9fv9n&b=-43RNMmRMzo&c=sddefault.jpg&p=y&y=2000",
   "S": "Savath & Savalas - Transportation Theme"
  },
  {
@@ -6192,7 +6192,7 @@
   "S": "Blood Orange - Uncle ACE (a/jus/ted remix)"
  },
  {
-  "Q": "a=o8ejvk&b=YudaJb8KbKE&p=y&y=2008",
+  "Q": "a=o8ejvk&b=YudaJb8KbKE&c=sddefault.jpg&p=y&y=2008",
   "S": "My Brightest Diamond - From the Top of the World"
  },
  {
@@ -6252,7 +6252,7 @@
   "S": "My Morning Jacket - It Beats for You"
  },
  {
-  "Q": "a=o4tgxi&b=-MLTYeThwRs&p=y&y=2014",
+  "Q": "a=o4tgxi&b=-MLTYeThwRs&c=sddefault.jpg&p=y&y=2014",
   "S": "stardust - music sounds better with you (eat more cake remix 2014 edit)"
  },
  {
@@ -6316,7 +6316,7 @@
   "S": "The Mars Volta - Since We’ve Been Wrong"
  },
  {
-  "Q": "a=o38j05&b=GVmpVhlr6AM&p=y&y=2009",
+  "Q": "a=o38j05&b=GVmpVhlr6AM&c=sddefault.jpg&p=y&y=2009",
   "S": "Grizzly Bear - Foreground - Cemetery Gates"
  },
  {
@@ -6356,15 +6356,15 @@
   "S": "Dirty Projectors - Cannibal Resource"
  },
  {
-  "Q": "a=o28y9x&b=9kfXxCTOb1U&p=y&y=2008",
+  "Q": "a=o28y9x&b=9kfXxCTOb1U&c=sddefault.jpg&p=y&y=2008",
   "S": "My Brightest Diamond - Black & Costaud"
  },
  {
-  "Q": "a=o28xvc&b=C0Hc0lFsVNU&p=y&y=2013",
+  "Q": "a=o28xvc&b=C0Hc0lFsVNU&c=sddefault.jpg&p=y&y=2013",
   "S": "My Brightest Diamond - Golden Star"
  },
  {
-  "Q": "a=o26vw6&b=m_Lr5hhlICA&c=sd1&p=y&y=2003",
+  "Q": "a=o26vw6&b=m_Lr5hhlICA&c=sd1.webp&p=y&y=2003",
   "S": "Kammerflimmer Kollektief - Über Die Wasserscheide"
  },
  {
@@ -6448,15 +6448,15 @@
   "S": "Amon Tobin - Mighty Micro People"
  },
  {
-  "Q": "a=nun5wq&b=4HIwkE1gtzc&p=y&y=2015",
+  "Q": "a=nun5wq&b=4HIwkE1gtzc&c=sddefault.jpg&p=y&y=2015",
   "S": "Henrik Schwarz - Leave My Head Alone Brain Seven"
  },
  {
-  "Q": "a=nujg8r&b=B1RP--kJQdw&p=y&y=2012",
+  "Q": "a=nujg8r&b=B1RP--kJQdw&c=sddefault.jpg&p=y&y=2012",
   "S": "Gnarls Barkley - Who’s Gonna Save My Soul - From the Basement"
  },
  {
-  "Q": "a=nubmpo&b=WBkeK2Wol88&c=sd1&p=y&y=2010",
+  "Q": "a=nubmpo&b=WBkeK2Wol88&c=sd1.webp&p=y&y=2010",
   "S": "Stardust - Music Sounds Better With You (Eat More Cake remix)"
  },
  {
@@ -6468,7 +6468,7 @@
   "S": "Joss Stone - It’s a Man’s World"
  },
  {
-  "Q": "a=nu0yir&b=7XuJOaW11OA&p=y&y=2000",
+  "Q": "a=nu0yir&b=7XuJOaW11OA&c=sddefault.jpg&p=y&y=2000",
   "S": "Savath & Savalas - Slabulas"
  },
  {
@@ -6492,11 +6492,11 @@
   "S": "JEKKA, Yura Makarychev (On-The-Go) - City of Night"
  },
  {
-  "Q": "a=nqbyok&b=M_465aeVByM&c=sd1&p=y&y=2008",
+  "Q": "a=nqbyok&b=M_465aeVByM&c=sddefault.jpg&p=y&y=2008",
   "S": "Four Tet - Swimmer"
  },
  {
-  "Q": "a=nmjele&b=I4Uy3Zjg50o&p=y&y=2013",
+  "Q": "a=nmjele&b=I4Uy3Zjg50o&c=sddefault.jpg&p=y&y=2013",
   "S": "Camera Obscura - Desire Lines (4AD Session)"
  },
  {
@@ -6504,7 +6504,7 @@
   "S": "Doe Paoro - Traveling (live)"
  },
  {
-  "Q": "a=nmjcxl&b=2jTg-q6Drt0&p=y&y=2013",
+  "Q": "a=nmjcxl&b=2jTg-q6Drt0&c=sddefault.jpg&p=y&y=2013",
   "S": "Boards of Canada - Reach for the Dead"
  }
 ]
