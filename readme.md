@@ -14,15 +14,19 @@ Music website
 
 Steven Penny
 
-## Help
+## Links
 
-- https://backblaze.com/b2/docs/content-types.html
-- https://ulozto.net
+Album downloads:
 
-## Listen
+https://ulozto.net
+
+File extensions:
+
+https://backblaze.com/b2/docs/content-types.html
+
+New music:
 
 - https://gorillavsbear.net
-- https://jellyfin.org
 - https://pitchfork.com
 - https://radio4000.com
 - https://remixrotation.com
